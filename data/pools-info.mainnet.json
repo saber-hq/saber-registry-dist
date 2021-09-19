@@ -1,8 +1,7 @@
 {
   "addresses": {
     "landlord": "B38L5x5EszUK4iqcNMAZRyaJx8ie8cgGvxxbYmkWkjZe",
-    "landlordBase": "GHxgjDJgpUkugb2cPvaKQSbkdoHYHCHo2ZZsRFiFt4YL",
-    "market": "7hBimzLoWkyLGvSJaQVfcdpiZryt4Vovp4HvFyH3DF3D"
+    "landlordBase": "GHxgjDJgpUkugb2cPvaKQSbkdoHYHCHo2ZZsRFiFt4YL"
   },
   "pools": [
     {
