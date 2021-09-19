@@ -83,7 +83,7 @@
       "description": "Token which trades against other representations of SOL."
     }
   },
-  "timestamp": "2021-09-19T22:11:50.569Z",
+  "timestamp": "2021-09-19T22:14:27.797Z",
   "tokens": [
     {
       "chainId": 101,
@@ -685,7 +685,7 @@
       "decimals": 9,
       "address": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
       "extensions": { "website": "https://app.saber.so/#/pools/ust" }
     },
     {
