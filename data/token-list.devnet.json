@@ -83,7 +83,7 @@
       "description": "Token which trades against other representations of SOL."
     }
   },
-  "timestamp": "2021-09-19T21:38:51.000Z",
+  "timestamp": "2021-09-19T22:08:51.480Z",
   "tokens": [
     {
       "symbol": "USDC",
@@ -158,7 +158,8 @@
       "decimals": 6,
       "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
       "chainId": 103,
-      "tags": ["saber-stableswap-lp"]
+      "tags": ["saber-stableswap-lp"],
+      "extensions": { "website": "https://app.saber.so/#/pools/usdc_usdt" }
     },
     {
       "symbol": "SLP",
@@ -167,7 +168,8 @@
       "decimals": 6,
       "address": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J",
       "chainId": 103,
-      "tags": ["saber-stableswap-lp"]
+      "tags": ["saber-stableswap-lp"],
+      "extensions": { "website": "https://app.saber.so/#/pools/usdc_pai" }
     },
     {
       "symbol": "SLP",
@@ -176,7 +178,8 @@
       "decimals": 8,
       "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
       "chainId": 103,
-      "tags": ["saber-stableswap-lp"]
+      "tags": ["saber-stableswap-lp"],
+      "extensions": { "website": "https://app.saber.so/#/pools/btc" }
     }
   ]
 }

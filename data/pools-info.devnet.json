@@ -75,7 +75,8 @@
         "decimals": 6,
         "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
         "chainId": 103,
-        "tags": ["saber-stableswap-lp"]
+        "tags": ["saber-stableswap-lp"],
+        "extensions": { "website": "https://app.saber.so/#/pools/usdc_usdt" }
       },
       "plotKey": "99CaY6yjPLJzAJU3y2qhuLMFcfoCof4tnbR21FrtiGJd",
       "swap": {
@@ -198,7 +199,8 @@
         "decimals": 6,
         "address": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J",
         "chainId": 103,
-        "tags": ["saber-stableswap-lp"]
+        "tags": ["saber-stableswap-lp"],
+        "extensions": { "website": "https://app.saber.so/#/pools/usdc_pai" }
       },
       "plotKey": "ByDbnkzqj3QmaTmjAfgDgK4YofpQZ7cNSgkLUm8i26TS",
       "swap": {
@@ -327,7 +329,8 @@
         "decimals": 8,
         "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
         "chainId": 103,
-        "tags": ["saber-stableswap-lp"]
+        "tags": ["saber-stableswap-lp"],
+        "extensions": { "website": "https://app.saber.so/#/pools/btc" }
       },
       "plotKey": "8c6AgGFMUT6cuU23FJuyfBtug98axAwPNXaHp6pbrqG2",
       "swap": {
