@@ -58,6 +58,10 @@
       "name": "wormhole-v1",
       "description": "Wormhole V1 asset."
     },
+    "wormhole-v2": {
+      "name": "wormhole-v2",
+      "description": "Wormhole V2 asset."
+    },
     "saber-market-usd": {
       "name": "saber-market-usd",
       "description": "Token which trades against other representations of USD."
@@ -83,7 +87,7 @@
       "description": "Token which trades against other representations of SOL."
     }
   },
-  "timestamp": "2021-09-19T22:14:27.800Z",
+  "timestamp": "2021-09-19T22:57:45.841Z",
   "tokens": [
     {
       "symbol": "USDC",
