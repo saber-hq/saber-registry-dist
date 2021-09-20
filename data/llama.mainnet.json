@@ -170,26 +170,6 @@
     "tokenBCoingecko": "usd-coin"
   },
   {
-    "id": "weusdk",
-    "authority": "2pVd6wjKqvNbv5RdLoqaBGRxTMTsCKDV8jvgpYDL3AJX",
-    "tokenA": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
-    "tokenB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-    "reserveA": "CMR2J7CwfW98RpvnJmFBgRFTLAd3x8CJ1SWs8Bt3uunG",
-    "reserveB": "FmRb5jHfSNj1YWP3b45d9vvYuhwjp4om8bALmtqZpr1v",
-    "tokenACoingecko": "usdk",
-    "tokenBCoingecko": "usd-coin"
-  },
-  {
-    "id": "wehusd",
-    "authority": "Ah5zHaE8fA8GJCopa9jaCmxG8AVUtf7ae7V8znSFURAd",
-    "tokenA": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
-    "tokenB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-    "reserveA": "E7L8CZxreEeNwM1V8DLxa8AZQKu6oday6RvXxRo27CHi",
-    "reserveB": "48UJw19Ra8y5Kv989DsXPrfUHeUWUbHvXZmdPBbGuHdz",
-    "tokenACoingecko": "husd",
-    "tokenBCoingecko": "usd-coin"
-  },
-  {
     "id": "weusdc",
     "authority": "7XFMgfxhDURuaPwhUkXAy6uQJCoC3HPpjiZBqcot57Ge",
     "tokenA": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
@@ -210,7 +190,27 @@
     "tokenBCoingecko": "tether"
   },
   {
-    "id": "wedai",
+    "id": "wusdk",
+    "authority": "2pVd6wjKqvNbv5RdLoqaBGRxTMTsCKDV8jvgpYDL3AJX",
+    "tokenA": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
+    "tokenB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+    "reserveA": "CMR2J7CwfW98RpvnJmFBgRFTLAd3x8CJ1SWs8Bt3uunG",
+    "reserveB": "FmRb5jHfSNj1YWP3b45d9vvYuhwjp4om8bALmtqZpr1v",
+    "tokenACoingecko": "usdk",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
+    "id": "whusd",
+    "authority": "Ah5zHaE8fA8GJCopa9jaCmxG8AVUtf7ae7V8znSFURAd",
+    "tokenA": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+    "tokenB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+    "reserveA": "E7L8CZxreEeNwM1V8DLxa8AZQKu6oday6RvXxRo27CHi",
+    "reserveB": "48UJw19Ra8y5Kv989DsXPrfUHeUWUbHvXZmdPBbGuHdz",
+    "tokenACoingecko": "husd",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
+    "id": "wdai",
     "authority": "7mupg3bhALz9TBNz8yWRroVpVqJMKDaJG1u1JasCebe8",
     "tokenA": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
     "tokenB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
@@ -220,7 +220,7 @@
     "tokenBCoingecko": "usd-coin"
   },
   {
-    "id": "wefrax",
+    "id": "wfrax",
     "authority": "4DEzAUzQCmvd4LsxcQ8X2tjNH89wGby8g9UXqZB55Mwp",
     "tokenA": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
     "tokenB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
