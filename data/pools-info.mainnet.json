@@ -1,7 +1,12 @@
 {
   "addresses": {
     "landlord": "B38L5x5EszUK4iqcNMAZRyaJx8ie8cgGvxxbYmkWkjZe",
-    "landlordBase": "GHxgjDJgpUkugb2cPvaKQSbkdoHYHCHo2ZZsRFiFt4YL"
+    "landlordBase": "GHxgjDJgpUkugb2cPvaKQSbkdoHYHCHo2ZZsRFiFt4YL",
+    "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+    "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
+    "iouMint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+    "redeemer": "CL9wkGFT3SZRRNa9dgaovuRV7jrVVigBUZ6DjcgySsCU",
+    "sbr": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
   },
   "pools": [
     {
@@ -967,7 +972,8 @@
             }
           }
         }
-      }
+      },
+      "newPoolID": "wedai"
     },
     {
       "id": "busd",
@@ -1122,7 +1128,8 @@
             }
           }
         }
-      }
+      },
+      "newPoolID": "webusd"
     },
     {
       "id": "luna",
@@ -1429,7 +1436,8 @@
             }
           }
         }
-      }
+      },
+      "newPoolID": "wefrax"
     },
     {
       "id": "hbtc",
@@ -1742,7 +1750,8 @@
             }
           }
         }
-      }
+      },
+      "newPoolID": "wehusd"
     },
     {
       "id": "usdk",
@@ -1882,7 +1891,8 @@
             }
           }
         }
-      }
+      },
+      "newPoolID": "weusdk"
     },
     {
       "id": "ftt",
@@ -2349,7 +2359,8 @@
             }
           }
         }
-      }
+      },
+      "newPoolID": "ibbtc_ren"
     },
     {
       "id": "ibbtc_ren",
