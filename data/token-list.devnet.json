@@ -87,7 +87,7 @@
       "description": "Token which trades against other representations of SOL."
     }
   },
-  "timestamp": "2021-09-19T22:57:45.841Z",
+  "timestamp": "2021-09-20T00:22:29.468Z",
   "tokens": [
     {
       "symbol": "USDC",
@@ -177,7 +177,7 @@
     },
     {
       "symbol": "SLP",
-      "name": "renBTC-sWBTC-8 Saber LP",
+      "name": "renBTC-WBTC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 8,
       "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",

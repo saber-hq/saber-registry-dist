@@ -658,7 +658,7 @@
     },
     {
       "id": "ust",
-      "name": "UST-USDC",
+      "name": "wUST_V1-USDC",
       "tokens": [
         {
           "name": "Saber Wrapped USD Coin (9 decimals)",
@@ -676,8 +676,8 @@
         {
           "chainId": 101,
           "address": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
-          "symbol": "wUST",
-          "name": "Wrapped UST (Wormhole)",
+          "symbol": "wUST_V1",
+          "name": "Wrapped UST (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -694,8 +694,8 @@
         {
           "chainId": 101,
           "address": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
-          "symbol": "wUST",
-          "name": "Wrapped UST (Wormhole)",
+          "symbol": "wUST_V1",
+          "name": "Wrapped UST (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -725,8 +725,8 @@
         {
           "chainId": 101,
           "address": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
-          "symbol": "wUST",
-          "name": "Wrapped UST (Wormhole)",
+          "symbol": "wUST_V1",
+          "name": "Wrapped UST (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -756,7 +756,7 @@
       "currency": "USD",
       "lpToken": {
         "symbol": "SLP",
-        "name": "UST-USDC Saber LP",
+        "name": "wUST_V1-USDC Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 9,
         "address": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
@@ -816,13 +816,13 @@
     },
     {
       "id": "dai",
-      "name": "wDAI-USDC",
+      "name": "wDAI_V1-USDC",
       "tokens": [
         {
           "chainId": 101,
           "address": "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
-          "symbol": "wDAI",
-          "name": "Dai Stablecoin (Wormhole)",
+          "symbol": "wDAI_V1",
+          "name": "Dai Stablecoin (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -851,8 +851,8 @@
         {
           "chainId": 101,
           "address": "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
-          "symbol": "wDAI",
-          "name": "Dai Stablecoin (Wormhole)",
+          "symbol": "wDAI_V1",
+          "name": "Dai Stablecoin (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -881,8 +881,8 @@
         {
           "chainId": 101,
           "address": "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
-          "symbol": "wDAI",
-          "name": "Dai Stablecoin (Wormhole)",
+          "symbol": "wDAI_V1",
+          "name": "Dai Stablecoin (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -911,7 +911,7 @@
       "currency": "USD",
       "lpToken": {
         "symbol": "SLP",
-        "name": "wDAI-USDC Saber LP",
+        "name": "wDAI_V1-USDC Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 9,
         "address": "Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh",
@@ -971,13 +971,13 @@
     },
     {
       "id": "busd",
-      "name": "wBUSD-USDC",
+      "name": "wBUSD_V1-USDC",
       "tokens": [
         {
           "chainId": 101,
           "address": "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
-          "symbol": "wBUSD",
-          "name": "Binance USD (Wormhole)",
+          "symbol": "wBUSD_V1",
+          "name": "Binance USD (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -1006,8 +1006,8 @@
         {
           "chainId": 101,
           "address": "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
-          "symbol": "wBUSD",
-          "name": "Binance USD (Wormhole)",
+          "symbol": "wBUSD_V1",
+          "name": "Binance USD (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -1036,8 +1036,8 @@
         {
           "chainId": 101,
           "address": "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
-          "symbol": "wBUSD",
-          "name": "Binance USD (Wormhole)",
+          "symbol": "wBUSD_V1",
+          "name": "Binance USD (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -1066,7 +1066,7 @@
       "currency": "USD",
       "lpToken": {
         "symbol": "SLP",
-        "name": "wBUSD-USDC Saber LP",
+        "name": "wBUSD_V1-USDC Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 9,
         "address": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
@@ -1126,13 +1126,13 @@
     },
     {
       "id": "luna",
-      "name": "wLUNA-renLUNA",
+      "name": "wLUNA_V1-renLUNA",
       "tokens": [
         {
           "chainId": 101,
           "address": "2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV",
-          "symbol": "wLUNA",
-          "name": "Wrapped LUNA Token (Wormhole)",
+          "symbol": "wLUNA_V1",
+          "name": "Wrapped LUNA Token (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV.png",
           "tags": ["wrapped", "wormhole", "saber-market-luna", "wormhole-v1"],
@@ -1160,8 +1160,8 @@
         {
           "chainId": 101,
           "address": "2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV",
-          "symbol": "wLUNA",
-          "name": "Wrapped LUNA Token (Wormhole)",
+          "symbol": "wLUNA_V1",
+          "name": "Wrapped LUNA Token (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV.png",
           "tags": ["wrapped", "wormhole", "saber-market-luna", "wormhole-v1"],
@@ -1189,8 +1189,8 @@
         {
           "chainId": 101,
           "address": "2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV",
-          "symbol": "wLUNA",
-          "name": "Wrapped LUNA Token (Wormhole)",
+          "symbol": "wLUNA_V1",
+          "name": "Wrapped LUNA Token (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV.png",
           "tags": ["wrapped", "wormhole", "saber-market-luna", "wormhole-v1"],
@@ -1218,7 +1218,7 @@
       "currency": "LUNA",
       "lpToken": {
         "symbol": "SLP",
-        "name": "wLUNA-renLUNA Saber LP",
+        "name": "wLUNA_V1-renLUNA Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 9,
         "address": "LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE",
@@ -1278,13 +1278,13 @@
     },
     {
       "id": "frax",
-      "name": "wFRAX-USDC",
+      "name": "wFRAX_V1-USDC",
       "tokens": [
         {
           "chainId": 101,
           "address": "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
-          "symbol": "wFRAX",
-          "name": "Frax (Wormhole)",
+          "symbol": "wFRAX_V1",
+          "name": "Frax (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -1313,8 +1313,8 @@
         {
           "chainId": 101,
           "address": "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
-          "symbol": "wFRAX",
-          "name": "Frax (Wormhole)",
+          "symbol": "wFRAX_V1",
+          "name": "Frax (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -1343,8 +1343,8 @@
         {
           "chainId": 101,
           "address": "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
-          "symbol": "wFRAX",
-          "name": "Frax (Wormhole)",
+          "symbol": "wFRAX_V1",
+          "name": "Frax (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -1373,7 +1373,7 @@
       "currency": "USD",
       "lpToken": {
         "symbol": "SLP",
-        "name": "wFRAX-USDC Saber LP",
+        "name": "wFRAX_V1-USDC Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 9,
         "address": "FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK",
@@ -1433,13 +1433,13 @@
     },
     {
       "id": "hbtc",
-      "name": "HBTC-renBTC",
+      "name": "wHBTC_V1-renBTC",
       "tokens": [
         {
           "chainId": 101,
           "address": "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
-          "symbol": "wHBTC",
-          "name": "HBTC (Wormhole)",
+          "symbol": "wHBTC_V1",
+          "name": "HBTC (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref.png",
           "tags": ["wrapped", "wormhole", "saber-market-btc", "wormhole-v1"],
@@ -1468,8 +1468,8 @@
         {
           "chainId": 101,
           "address": "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
-          "symbol": "wHBTC",
-          "name": "HBTC (Wormhole)",
+          "symbol": "wHBTC_V1",
+          "name": "HBTC (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref.png",
           "tags": ["wrapped", "wormhole", "saber-market-btc", "wormhole-v1"],
@@ -1498,8 +1498,8 @@
         {
           "chainId": 101,
           "address": "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
-          "symbol": "wHBTC",
-          "name": "HBTC (Wormhole)",
+          "symbol": "wHBTC_V1",
+          "name": "HBTC (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref.png",
           "tags": ["wrapped", "wormhole", "saber-market-btc", "wormhole-v1"],
@@ -1528,7 +1528,7 @@
       "currency": "BTC",
       "lpToken": {
         "symbol": "SLP",
-        "name": "HBTC-renBTC Saber LP",
+        "name": "wHBTC_V1-renBTC Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 9,
         "address": "HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo",
@@ -1588,13 +1588,13 @@
     },
     {
       "id": "husd",
-      "name": "HUSD-USDC",
+      "name": "wHUSD_V1-USDC",
       "tokens": [
         {
           "chainId": 101,
           "address": "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
-          "symbol": "wHUSD",
-          "name": "HUSD Stablecoin (Wormhole)",
+          "symbol": "wHUSD_V1",
+          "name": "HUSD Stablecoin (Wormhole V1)",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -1624,8 +1624,8 @@
         {
           "chainId": 101,
           "address": "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
-          "symbol": "wHUSD",
-          "name": "HUSD Stablecoin (Wormhole)",
+          "symbol": "wHUSD_V1",
+          "name": "HUSD Stablecoin (Wormhole V1)",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -1655,8 +1655,8 @@
         {
           "chainId": 101,
           "address": "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
-          "symbol": "wHUSD",
-          "name": "HUSD Stablecoin (Wormhole)",
+          "symbol": "wHUSD_V1",
+          "name": "HUSD Stablecoin (Wormhole V1)",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
@@ -1686,7 +1686,7 @@
       "currency": "USD",
       "lpToken": {
         "symbol": "SLP",
-        "name": "HUSD-USDC Saber LP",
+        "name": "wHUSD_V1-USDC Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 8,
         "address": "HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS",
@@ -1746,7 +1746,7 @@
     },
     {
       "id": "usdk",
-      "name": "USDK-USDC",
+      "name": "wUSDK_V1-USDC",
       "tokens": [
         {
           "symbol": "wUSDK_V1",
@@ -1826,7 +1826,7 @@
       "currency": "USD",
       "lpToken": {
         "symbol": "SLP",
-        "name": "USDK-USDC Saber LP",
+        "name": "wUSDK_V1-USDC Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 9,
         "address": "uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW",
@@ -1886,13 +1886,13 @@
     },
     {
       "id": "ftt",
-      "name": "wFTT-FTT",
+      "name": "wFTT_V1-FTT",
       "tokens": [
         {
           "chainId": 101,
           "address": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
-          "symbol": "wFTT",
-          "name": "Wrapped FTT (Wormhole)",
+          "symbol": "wFTT_V1",
+          "name": "Wrapped FTT (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi.png",
           "tags": ["wrapped", "wormhole", "saber-market-ftt", "wormhole-v1"],
@@ -1926,8 +1926,8 @@
         {
           "chainId": 101,
           "address": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
-          "symbol": "wFTT",
-          "name": "Wrapped FTT (Wormhole)",
+          "symbol": "wFTT_V1",
+          "name": "Wrapped FTT (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi.png",
           "tags": ["wrapped", "wormhole", "saber-market-ftt", "wormhole-v1"],
@@ -1961,8 +1961,8 @@
         {
           "chainId": 101,
           "address": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
-          "symbol": "wFTT",
-          "name": "Wrapped FTT (Wormhole)",
+          "symbol": "wFTT_V1",
+          "name": "Wrapped FTT (Wormhole V1)",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi.png",
           "tags": ["wrapped", "wormhole", "saber-market-ftt", "wormhole-v1"],
@@ -1994,7 +1994,7 @@
       "currency": "FTT",
       "lpToken": {
         "symbol": "SLP",
-        "name": "wFTT-FTT Saber LP",
+        "name": "wFTT_V1-FTT Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 9,
         "address": "FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7",
@@ -2202,10 +2202,10 @@
     },
     {
       "id": "ibbtc",
-      "name": "ibBTC-BTC",
+      "name": "wibBTC_V1-BTC",
       "tokens": [
         {
-          "symbol": "wibBTC_v1",
+          "symbol": "wibBTC_V1",
           "name": "ibBTC (Wormhole V1)",
           "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
           "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
@@ -2235,7 +2235,7 @@
       ],
       "tokenIcons": [
         {
-          "symbol": "wibBTC_v1",
+          "symbol": "wibBTC_V1",
           "name": "ibBTC (Wormhole V1)",
           "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
           "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
@@ -2265,7 +2265,7 @@
       ],
       "underlyingIcons": [
         {
-          "symbol": "wibBTC_v1",
+          "symbol": "wibBTC_V1",
           "name": "ibBTC (Wormhole V1)",
           "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
           "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
@@ -2293,7 +2293,7 @@
       "currency": "BTC",
       "lpToken": {
         "symbol": "SLP",
-        "name": "ibBTC-BTC Saber LP",
+        "name": "wibBTC_V1-BTC Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 9,
         "address": "BADGsQo6rTxKZuqkY1kSoqhriQwZW3ZVgyPjgDk9mvyo",
@@ -2353,10 +2353,10 @@
     },
     {
       "id": "ibbtc_ren",
-      "name": "ibBTC-renBTC",
+      "name": "wibBTC_V1-renBTC",
       "tokens": [
         {
-          "symbol": "wibBTC_v1",
+          "symbol": "wibBTC_V1",
           "name": "ibBTC (Wormhole V1)",
           "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
           "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
@@ -2381,7 +2381,7 @@
       ],
       "tokenIcons": [
         {
-          "symbol": "wibBTC_v1",
+          "symbol": "wibBTC_V1",
           "name": "ibBTC (Wormhole V1)",
           "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
           "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
@@ -2406,7 +2406,7 @@
       ],
       "underlyingIcons": [
         {
-          "symbol": "wibBTC_v1",
+          "symbol": "wibBTC_V1",
           "name": "ibBTC (Wormhole V1)",
           "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
           "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
@@ -2433,7 +2433,7 @@
       "currency": "BTC",
       "lpToken": {
         "symbol": "SLP",
-        "name": "ibBTC-renBTC Saber LP",
+        "name": "wibBTC_V1-renBTC Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 9,
         "address": "BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT",
@@ -2462,6 +2462,990 @@
             "mint": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
           },
           "poolTokenMint": "BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "webusd",
+      "name": "weBUSD-USDC",
+      "tokens": [
+        {
+          "symbol": "weBUSD",
+          "name": "BUSD (ETH Wormhole)",
+          "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+          "decimals": 8,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX.png",
+          "extensions": { "coingeckoId": "binance-usd" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "weBUSD",
+          "name": "BUSD (ETH Wormhole)",
+          "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+          "decimals": 8,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX.png",
+          "extensions": { "coingeckoId": "binance-usd" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "weBUSD",
+          "name": "BUSD (ETH Wormhole)",
+          "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+          "decimals": 8,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX.png",
+          "extensions": { "coingeckoId": "binance-usd" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "SLP",
+        "name": "weBUSD-USDC Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 8,
+        "address": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": { "website": "https://app.saber.so/#/pools/webusd" }
+      },
+      "plotKey": "4RDTPgZiytiiP7orSnfrSpjjyLbKU1ogxir1Bb37233N",
+      "swap": {
+        "config": {
+          "swapAccount": "CZgvH45CRmoaNJ7395Ao5CQZXkGznvqU7cErD6n7FaRg",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "H73Bq4wPdkMyM1o1RCgFTrmCCTzkK7W9FrfyWWLZ8QCj"
+        },
+        "state": {
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "CfBhqWEx8uY79EQQWoQCnqCHJ6Uk6E2UR8UMekiJ8Pd3",
+            "reserve": "4ZjU6MKvtqVQKCiowhvZ5yUsPxXX5SCzd5eFsPeXyey5",
+            "mint": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX"
+          },
+          "tokenB": {
+            "adminFeeAccount": "5McQhgfC2v4AJhMdn5eRQWCXGufYYJDvwq43bhVQE2qY",
+            "reserve": "BsyWeshjDbCvjDojry3vKDCesmFRM37WtwcR4Kfgzqr",
+            "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          },
+          "poolTokenMint": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "weusdk",
+      "name": "weUSDK-USDC",
+      "tokens": [
+        {
+          "symbol": "weUSDK",
+          "name": "USDK (ETH Wormhole)",
+          "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
+          "decimals": 8,
+          "logoURI": "https://registry.saber.so/token-icons/usdk.png",
+          "extensions": { "coingeckoId": "usdk" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "weUSDK",
+          "name": "USDK (ETH Wormhole)",
+          "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
+          "decimals": 8,
+          "logoURI": "https://registry.saber.so/token-icons/usdk.png",
+          "extensions": { "coingeckoId": "usdk" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "weUSDK",
+          "name": "USDK (ETH Wormhole)",
+          "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
+          "decimals": 8,
+          "logoURI": "https://registry.saber.so/token-icons/usdk.png",
+          "extensions": { "coingeckoId": "usdk" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "SLP",
+        "name": "weUSDK-USDC Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 8,
+        "address": "USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": { "website": "https://app.saber.so/#/pools/weusdk" }
+      },
+      "plotKey": "2SEWtGYG9oAPh2f51S9kW6CpXgZrVZPSbz58zske1ztU",
+      "swap": {
+        "config": {
+          "swapAccount": "oKQqupM9E7SSLAFDLxr7mdsXP7znck9qRbVWc6Yyj7Q",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "2pVd6wjKqvNbv5RdLoqaBGRxTMTsCKDV8jvgpYDL3AJX"
+        },
+        "state": {
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "ALK28jM7pXqm25iYNB6CWxXvm3caykezYRqed8FQASdL",
+            "reserve": "CMR2J7CwfW98RpvnJmFBgRFTLAd3x8CJ1SWs8Bt3uunG",
+            "mint": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F"
+          },
+          "tokenB": {
+            "adminFeeAccount": "3QXDu6FGcXu8S2P1LKqW2BsMzzBQQDysXi5ftZ9RkG88",
+            "reserve": "FmRb5jHfSNj1YWP3b45d9vvYuhwjp4om8bALmtqZpr1v",
+            "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          },
+          "poolTokenMint": "USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "wehusd",
+      "name": "weHUSD-USDC",
+      "tokens": [
+        {
+          "symbol": "weHUSD",
+          "name": "HUSD (ETH Wormhole)",
+          "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+          "decimals": 8,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
+          "extensions": { "coingeckoId": "husd" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "weHUSD",
+          "name": "HUSD (ETH Wormhole)",
+          "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+          "decimals": 8,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
+          "extensions": { "coingeckoId": "husd" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "weHUSD",
+          "name": "HUSD (ETH Wormhole)",
+          "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+          "decimals": 8,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
+          "extensions": { "coingeckoId": "husd" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "SLP",
+        "name": "weHUSD-USDC Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 8,
+        "address": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": { "website": "https://app.saber.so/#/pools/wehusd" }
+      },
+      "plotKey": "BAeacYdQ9NDWqu4KbzYzTELZSEChg8J7FVVhtC7tSAaS",
+      "swap": {
+        "config": {
+          "swapAccount": "HuonfMR5ivyhX5BZBw2Lr3XuNPSTVrSmZMWgBZrMQJU2",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "Ah5zHaE8fA8GJCopa9jaCmxG8AVUtf7ae7V8znSFURAd"
+        },
+        "state": {
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "FBRf9fnrYjMQPoowt5ihWh8jdpNwU9sF1u2ANe8UYzC7",
+            "reserve": "E7L8CZxreEeNwM1V8DLxa8AZQKu6oday6RvXxRo27CHi",
+            "mint": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw"
+          },
+          "tokenB": {
+            "adminFeeAccount": "HgSVcTucDZr1WxeUQuqtGWhvwbphygisNkr86ikV4dju",
+            "reserve": "48UJw19Ra8y5Kv989DsXPrfUHeUWUbHvXZmdPBbGuHdz",
+            "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          },
+          "poolTokenMint": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "weusdc",
+      "name": "weUSDC-USDC",
+      "tokens": [
+        {
+          "symbol": "weUSDC",
+          "name": "USDC (ETH Wormhole)",
+          "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+          "decimals": 6,
+          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "extensions": { "coingeckoId": "usd-coin" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "weUSDC",
+          "name": "USDC (ETH Wormhole)",
+          "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+          "decimals": 6,
+          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "extensions": { "coingeckoId": "usd-coin" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "weUSDC",
+          "name": "USDC (ETH Wormhole)",
+          "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+          "decimals": 6,
+          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "extensions": { "coingeckoId": "usd-coin" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "SLP",
+        "name": "weUSDC-USDC Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": { "website": "https://app.saber.so/#/pools/weusdc" }
+      },
+      "plotKey": "5HtgDfdZwTgFrEZBZh5R1NHFn2ZNeA7StBsUvFpaXF6Z",
+      "swap": {
+        "config": {
+          "swapAccount": "GokA1R67GqSavkd15zR62QD68Tuc5AEfvjssntVDEbM8",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "7XFMgfxhDURuaPwhUkXAy6uQJCoC3HPpjiZBqcot57Ge"
+        },
+        "state": {
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "5WemKHzh1RjGjQGtp79yqP4yCEvmkNRcyN8qt9q6h46r",
+            "reserve": "3YB7hfpBdbQEuZqLGWVDpRPmeZWCUsrrWyqGXegnQ6Cg",
+            "mint": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM"
+          },
+          "tokenB": {
+            "adminFeeAccount": "AmextuVSihZJ2WzFxW9tzxYihaz54QLci7AxH5y3vNKr",
+            "reserve": "4DPCj6Z1DsG6HUtwSogBGqXEUxdEV5a8YVrrFtcnz7UW",
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          },
+          "poolTokenMint": "USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c",
+          "initialAmpFactor": "03e8",
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "weusdt",
+      "name": "weUSDT-USDT",
+      "tokens": [
+        {
+          "symbol": "weUSDT",
+          "name": "USDT (ETH Wormhole)",
+          "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "extensions": { "coingeckoId": "tether" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "symbol": "USDT",
+          "name": "USDT",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://tether.to/",
+            "coingeckoId": "tether",
+            "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "weUSDT",
+          "name": "USDT (ETH Wormhole)",
+          "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "extensions": { "coingeckoId": "tether" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "symbol": "USDT",
+          "name": "USDT",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://tether.to/",
+            "coingeckoId": "tether",
+            "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "weUSDT",
+          "name": "USDT (ETH Wormhole)",
+          "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "extensions": { "coingeckoId": "tether" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "symbol": "USDT",
+          "name": "USDT",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://tether.to/",
+            "coingeckoId": "tether",
+            "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "SLP",
+        "name": "weUSDT-USDT Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": { "website": "https://app.saber.so/#/pools/weusdt" }
+      },
+      "plotKey": "7rM3yGbfGcfTpmyRwebwJd7s4qQ1H5MdVZj2RwkFqZnX",
+      "swap": {
+        "config": {
+          "swapAccount": "vEnkoSUkpnbRrPgBz9DfcVxNz67zjwMYBZraAvDDNSf",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "2kHUshxGYQLo7RQYdLTM6MXZq118w3TA4oak9dCwsF6B"
+        },
+        "state": {
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "2VTaCqHxVokTWfAkvaU6mYzYwbHpU1xog9mtEFYjL6Vv",
+            "reserve": "DtfyjjsZ5yCjWKLKHvwsfXs5QVsmm1QkK6Sh9JZHoq1g",
+            "mint": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1"
+          },
+          "tokenB": {
+            "adminFeeAccount": "Evjog1kmUo2xAS7RhZHoHrMbU1UNSy9gX9CwUpxo2TZJ",
+            "reserve": "e5wrKCRv4GhHvEf1VD5Pq2KGaZDXP77nTL612Jyrxwy",
+            "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+          },
+          "poolTokenMint": "USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue",
+          "initialAmpFactor": "03e8",
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "wedai",
+      "name": "weDAI-USDC",
+      "tokens": [
+        {
+          "symbol": "weDAI",
+          "name": "DAI (ETH Wormhole)",
+          "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
+          "decimals": 8,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1.png",
+          "extensions": { "coingeckoId": "dai" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "weDAI",
+          "name": "DAI (ETH Wormhole)",
+          "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
+          "decimals": 8,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1.png",
+          "extensions": { "coingeckoId": "dai" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "weDAI",
+          "name": "DAI (ETH Wormhole)",
+          "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
+          "decimals": 8,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1.png",
+          "extensions": { "coingeckoId": "dai" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "SLP",
+        "name": "weDAI-USDC Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 8,
+        "address": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": { "website": "https://app.saber.so/#/pools/wedai" }
+      },
+      "plotKey": "jsDhpC6hBGrUqj7wMfrG1XwESTiZAsTskXcXHgwda3w",
+      "swap": {
+        "config": {
+          "swapAccount": "RajgMbScQbqqrdJfR2rxfHJiTiY5b6bJ2tTXiF4aPxy",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "7mupg3bhALz9TBNz8yWRroVpVqJMKDaJG1u1JasCebe8"
+        },
+        "state": {
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "B3u2djbwCbCn7jddeGWrwVKCF4hkuAnbvVNPaEJMtxDK",
+            "reserve": "725ZA3fhyBAKb5iopNRrcbSuQa3LXA1656Q3mBvYPxeg",
+            "mint": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o"
+          },
+          "tokenB": {
+            "adminFeeAccount": "Hmd4AoqtDg4bNyQJ11HUVvvM6bktdu84CPgVndrA7CbM",
+            "reserve": "GLA6i1dSZpUfk2f9Nj8uiG7xyDdAR2reff8oEiZH3617",
+            "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          },
+          "poolTokenMint": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
+          "initialAmpFactor": "02ee",
+          "targetAmpFactor": "02ee",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "wefrax",
+      "name": "weFRAX-USDC",
+      "tokens": [
+        {
+          "symbol": "weFRAX",
+          "name": "FRAX (ETH Wormhole)",
+          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+          "decimals": 8,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
+          "extensions": { "coingeckoId": "frax" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "weFRAX",
+          "name": "FRAX (ETH Wormhole)",
+          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+          "decimals": 8,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
+          "extensions": { "coingeckoId": "frax" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "weFRAX",
+          "name": "FRAX (ETH Wormhole)",
+          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+          "decimals": 8,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
+          "extensions": { "coingeckoId": "frax" },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "SLP",
+        "name": "weFRAX-USDC Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 8,
+        "address": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": { "website": "https://app.saber.so/#/pools/wefrax" }
+      },
+      "plotKey": "BRsZ18RRzAejVEgHRzponHQKZ6sc5kPEJpZxLL2xTYTx",
+      "swap": {
+        "config": {
+          "swapAccount": "KZMu9QBEdL97EFgamLbN5DE1AoKBG4HdrKKJo4Vuon3",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "4DEzAUzQCmvd4LsxcQ8X2tjNH89wGby8g9UXqZB55Mwp"
+        },
+        "state": {
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "BeZRrf1CFujZ1ARG7ejQNmbv6cTDRAGAnuFf53DsSaPB",
+            "reserve": "DD4ACBWyVqdaKWh7v5btsgqQCCMwbKnuL2xd9pv7Gyuw",
+            "mint": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp"
+          },
+          "tokenB": {
+            "adminFeeAccount": "3ArtibkBij4tFNsziDYxn5qNrMxeBH6tVowbkKuUdh2q",
+            "reserve": "GcYqiJ1MAuYbNTNYXm1F1gQYTfTgkErACAhNU5dpVj9T",
+            "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          },
+          "poolTokenMint": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
           "initialAmpFactor": "32",
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,

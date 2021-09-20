@@ -254,7 +254,7 @@
     },
     {
       "id": "btc",
-      "name": "renBTC-sWBTC-8",
+      "name": "renBTC-WBTC",
       "tokens": [
         {
           "name": "Test RenBTC",
@@ -324,7 +324,7 @@
       "currency": "BTC",
       "lpToken": {
         "symbol": "SLP",
-        "name": "renBTC-sWBTC-8 Saber LP",
+        "name": "renBTC-WBTC Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 8,
         "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
