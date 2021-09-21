@@ -87,7 +87,7 @@
       "description": "Token which trades against other representations of SOL."
     }
   },
-  "timestamp": "2021-09-21T16:55:52.467Z",
+  "timestamp": "2021-09-21T18:58:27.145Z",
   "tokens": [
     {
       "chainId": 101,
@@ -521,7 +521,7 @@
       "logoURI": "https://registry.saber.so/token-icons/cusd.svg",
       "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
       "decimals": 9,
-      "tags": ["stablecoin"],
+      "tags": ["stablecoin", "saber-market-usd", "saber-swappable"],
       "extensions": { "coingeckoId": "celo-dollar" },
       "chainId": 101
     },
@@ -1013,13 +1013,13 @@
     },
     {
       "symbol": "SLP",
-      "name": "mSOL-SOL Saber LP",
+      "name": "acUSD-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
-      "address": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
+      "address": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp"],
-      "extensions": { "website": "https://app.saber.so/#/pools/msol_sol" }
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+      "extensions": { "website": "https://app.saber.so/#/pools/acusd" }
     },
     {
       "symbol": "SLP",
@@ -1028,7 +1028,7 @@
       "decimals": 6,
       "address": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": { "website": "https://app.saber.so/#/pools/apusdt" }
     },
     {
@@ -1038,7 +1038,7 @@
       "decimals": 6,
       "address": "APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": { "website": "https://app.saber.so/#/pools/apusdc" }
     },
     {
@@ -1048,8 +1048,28 @@
       "decimals": 9,
       "address": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": { "website": "https://app.saber.so/#/pools/mai" }
+    },
+    {
+      "symbol": "SLP",
+      "name": "abBUSD-USDC Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+      "extensions": { "website": "https://app.saber.so/#/pools/abbusd" }
+    },
+    {
+      "symbol": "SLP",
+      "name": "mSOL-SOL Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp"],
+      "extensions": { "website": "https://app.saber.so/#/pools/msol_sol" }
     },
     {
       "symbol": "SLP",
@@ -1080,16 +1100,6 @@
       "chainId": 101,
       "tags": ["saber-stableswap-lp"],
       "extensions": { "website": "https://app.saber.so/#/pools/stsol" }
-    },
-    {
-      "symbol": "SLP",
-      "name": "abBUSD-USDC Saber LP",
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
-      "decimals": 9,
-      "address": "BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp",
-      "chainId": 101,
-      "tags": ["saber-stableswap-lp"],
-      "extensions": { "website": "https://app.saber.so/#/pools/abbusd" }
     },
     {
       "symbol": "SLP",
