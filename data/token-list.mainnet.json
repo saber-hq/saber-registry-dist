@@ -87,7 +87,7 @@
       "description": "Token which trades against other representations of SOL."
     }
   },
-  "timestamp": "2021-09-20T01:07:00.288Z",
+  "timestamp": "2021-09-21T16:55:52.467Z",
   "tokens": [
     {
       "chainId": 101,
@@ -513,6 +513,16 @@
       "decimals": 9,
       "tags": ["stablecoin", "saber-market-usd", "saber-swappable"],
       "extensions": { "coingeckoId": "binance-usd" },
+      "chainId": 101
+    },
+    {
+      "symbol": "acUSD",
+      "name": "Wrapped cUSD (Allbridge from Celo)",
+      "logoURI": "https://registry.saber.so/token-icons/cusd.svg",
+      "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
+      "decimals": 9,
+      "tags": ["stablecoin"],
+      "extensions": { "coingeckoId": "celo-dollar" },
       "chainId": 101
     },
     {
