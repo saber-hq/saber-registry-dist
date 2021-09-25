@@ -85,9 +85,13 @@
     "saber-market-sol": {
       "name": "saber-market-sol",
       "description": "Token which trades against other representations of SOL."
+    },
+    "saber-market-eth": {
+      "name": "saber-market-eth",
+      "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-09-21T18:58:27.149Z",
+  "timestamp": "2021-09-25T22:18:31.589Z",
   "tokens": [
     {
       "symbol": "USDC",
