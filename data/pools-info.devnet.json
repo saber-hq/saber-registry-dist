@@ -131,7 +131,8 @@
             }
           }
         }
-      }
+      },
+      "quarry": "8QfbpS8fBNcqee9qHjYG5pgBWTKyM193E7zjwzxeUZ3X"
     },
     {
       "id": "usdc_pai",
@@ -255,7 +256,8 @@
             }
           }
         }
-      }
+      },
+      "quarry": "Cae9hW42nD1G89LCheaSczN6CzngYYWQ6KbZMQXhMwyq"
     },
     {
       "id": "btc",
@@ -385,7 +387,8 @@
             }
           }
         }
-      }
+      },
+      "quarry": "CeE8rNxCFx2RAgpS7trsmcTz7ydyun33wbNY7r2nEvPi"
     }
   ]
 }
