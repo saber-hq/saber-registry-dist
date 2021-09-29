@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-09-29T21:59:44.668Z",
+  "timestamp": "2021-09-29T23:49:53.368Z",
   "tokens": [
     {
       "symbol": "USDC",
@@ -100,7 +100,8 @@
       "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
       "decimals": 6,
       "chainId": 103,
-      "tags": ["saber-market-usd", "saber-swappable"]
+      "tags": ["saber-market-usd", "saber-swappable"],
+      "extensions": {}
     },
     {
       "symbol": "USDT",
@@ -109,7 +110,8 @@
       "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
       "decimals": 6,
       "chainId": 103,
-      "tags": ["saber-market-usd", "saber-swappable"]
+      "tags": ["saber-market-usd", "saber-swappable"],
+      "extensions": {}
     },
     {
       "symbol": "PAI",
@@ -118,7 +120,8 @@
       "address": "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL",
       "decimals": 6,
       "chainId": 103,
-      "tags": ["saber-market-usd", "saber-swappable"]
+      "tags": ["saber-market-usd", "saber-swappable"],
+      "extensions": {}
     },
     {
       "name": "Test WBTC",
@@ -127,7 +130,8 @@
       "chainId": 103,
       "symbol": "WBTC",
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
-      "tags": ["saber-market-btc"]
+      "tags": ["saber-market-btc"],
+      "extensions": {}
     },
     {
       "name": "Test RenBTC",
@@ -136,7 +140,8 @@
       "chainId": 103,
       "symbol": "renBTC",
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png",
-      "tags": ["saber-market-btc", "saber-swappable"]
+      "tags": ["saber-market-btc", "saber-swappable"],
+      "extensions": {}
     },
     {
       "symbol": "sWBTC-8",
@@ -157,7 +162,8 @@
       "logoURI": "/tokens/sbr.svg",
       "decimals": 6,
       "chainId": 103,
-      "tags": []
+      "tags": [],
+      "extensions": {}
     },
     {
       "symbol": "SLP",
@@ -167,7 +173,14 @@
       "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
       "chainId": 103,
       "tags": ["saber-stableswap-lp"],
-      "extensions": { "website": "https://app.saber.so/#/pools/usdc_usdt" }
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/usdc_usdt",
+        "underlyingTokens": [
+          "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+          "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+        ],
+        "source": "saber"
+      }
     },
     {
       "symbol": "SLP",
@@ -177,7 +190,14 @@
       "address": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J",
       "chainId": 103,
       "tags": ["saber-stableswap-lp"],
-      "extensions": { "website": "https://app.saber.so/#/pools/usdc_pai" }
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/usdc_pai",
+        "underlyingTokens": [
+          "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+          "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL"
+        ],
+        "source": "saber"
+      }
     },
     {
       "symbol": "SLP",
@@ -187,7 +207,14 @@
       "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
       "chainId": 103,
       "tags": ["saber-stableswap-lp"],
-      "extensions": { "website": "https://app.saber.so/#/pools/btc" }
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/btc",
+        "underlyingTokens": [
+          "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
+          "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs"
+        ],
+        "source": "saber"
+      }
     }
   ]
 }
