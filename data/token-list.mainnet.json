@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-09-26T00:50:36.553Z",
+  "timestamp": "2021-09-29T03:28:30.311Z",
   "tokens": [
     {
       "chainId": 101,
@@ -462,6 +462,26 @@
         "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
         "coingeckoId": "ethereum"
       }
+    },
+    {
+      "symbol": "wSRM",
+      "name": "Serum (Wormhole)",
+      "address": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
+      "extensions": { "coingeckoId": "serum" },
+      "chainId": 101,
+      "tags": ["saber-market-srm", "wormhole-v2"]
+    },
+    {
+      "symbol": "wFTT",
+      "name": "FTT (Wormhole)",
+      "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3.png",
+      "extensions": { "coingeckoId": "ftx-token" },
+      "chainId": 101,
+      "tags": ["saber-market-ftt", "wormhole-v2"]
     },
     {
       "chainId": 101,
