@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-10-01T01:21:10.691Z",
+  "timestamp": "2021-10-01T23:10:05.064Z",
   "tokens": [
     {
       "chainId": 101,
@@ -613,6 +613,36 @@
       "extensions": { "coingeckoId": "mimatic", "currency": "USD" },
       "chainId": 101,
       "tags": ["saber-market-usd", "saber-swappable"]
+    },
+    {
+      "chainId": 101,
+      "address": "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
+      "symbol": "aeUSDC",
+      "name": "Wrapped USDC (Allbridge from Ethereum)",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9.png",
+      "tags": ["stablecoin", "saber-market-usd"],
+      "extensions": { "coingeckoId": "usd-coin", "currency": "USD" }
+    },
+    {
+      "chainId": 101,
+      "address": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
+      "symbol": "aeUSDT",
+      "name": "Wrapped USDT (Allbridge from Ethereum)",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn.svg",
+      "tags": ["stablecoin", "saber-market-usd"],
+      "extensions": { "coingeckoId": "tether", "currency": "USD" }
+    },
+    {
+      "chainId": 101,
+      "address": "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
+      "symbol": "aeDAI",
+      "name": "Wrapped DAI (Allbridge from Ethereum)",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs.png",
+      "tags": ["stablecoin", "saber-market-usd"],
+      "extensions": { "coingeckoId": "multi-collateral-dai", "currency": "USD" }
     },
     {
       "symbol": "pUSDC",
