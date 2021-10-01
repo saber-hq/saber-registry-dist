@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-10-01T00:06:53.242Z",
+  "timestamp": "2021-10-01T01:21:10.691Z",
   "tokens": [
     {
       "chainId": 101,
@@ -627,11 +627,11 @@
         "currency": "USD"
       },
       "chainId": 101,
-      "tags": ["saber-market-usd"]
+      "tags": ["saber-market-usd", "saber-swappable"]
     },
     {
       "symbol": "pUSDT",
-      "name": "Port USDC",
+      "name": "Port USDT",
       "logoURI": "https://registry.saber.so/token-icons/usdt.svg",
       "address": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
       "decimals": 6,
@@ -642,7 +642,7 @@
         "currency": "USD"
       },
       "chainId": 101,
-      "tags": ["saber-market-usd"]
+      "tags": ["saber-market-usd", "saber-swappable"]
     },
     {
       "symbol": "portSOL",
@@ -1541,6 +1541,23 @@
         "underlyingTokens": [
           "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
           "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "SLP",
+      "name": "pUSDT-pUSDC Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 6,
+      "address": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-port"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/port_2pool",
+        "underlyingTokens": [
+          "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
+          "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58"
         ],
         "source": "saber"
       }

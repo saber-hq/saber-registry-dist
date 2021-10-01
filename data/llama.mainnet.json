@@ -330,6 +330,17 @@
     "tokenBCoingecko": "weth"
   },
   {
+    "id": "port_2pool",
+    "lpMint": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
+    "tokenA": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
+    "tokenB": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
+    "authority": "H9zLktv9iSJz7fMopV4HXKfx4Bi2UDhR7QJ9MjQ6Hej8",
+    "reserveA": "2tBpLvzYBCs7e4DrRocEnssoJANB8rDh2jt5FbeCAeK1",
+    "reserveB": "DLkWGoaeXw4oeGPnr2ecJze541HVKFhrhaW4iVSFEwET",
+    "tokenACoingecko": "tether",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
     "id": "msol_sol",
     "lpMint": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
     "tokenA": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
