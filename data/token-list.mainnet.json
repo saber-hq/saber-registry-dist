@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-10-01T23:10:05.064Z",
+  "timestamp": "2021-10-01T23:18:19.871Z",
   "tokens": [
     {
       "chainId": 101,
@@ -621,7 +621,7 @@
       "name": "Wrapped USDC (Allbridge from Ethereum)",
       "decimals": 9,
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9.png",
-      "tags": ["stablecoin", "saber-market-usd"],
+      "tags": ["stablecoin", "saber-market-usd", "saber-swappable"],
       "extensions": { "coingeckoId": "usd-coin", "currency": "USD" }
     },
     {
@@ -1571,6 +1571,23 @@
         "underlyingTokens": [
           "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
           "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "SLP",
+      "name": "aeUSDC-USDC Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/aeusdc",
+        "underlyingTokens": [
+          "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
         "source": "saber"
       }
