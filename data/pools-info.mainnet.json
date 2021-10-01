@@ -1965,7 +1965,11 @@
           "logoURI": "https://registry.saber.so/token-icons/usdk.png",
           "address": "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
           "decimals": 9,
-          "extensions": { "coingeckoId": "usdk", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "usdk",
+            "source": "wormhole-v1",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v1"]
         },
@@ -1994,7 +1998,11 @@
           "logoURI": "https://registry.saber.so/token-icons/usdk.png",
           "address": "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
           "decimals": 9,
-          "extensions": { "coingeckoId": "usdk", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "usdk",
+            "source": "wormhole-v1",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v1"]
         },
@@ -2023,7 +2031,11 @@
           "logoURI": "https://registry.saber.so/token-icons/usdk.png",
           "address": "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
           "decimals": 9,
-          "extensions": { "coingeckoId": "usdk", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "usdk",
+            "source": "wormhole-v1",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v1"]
         },
@@ -2311,7 +2323,11 @@
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
           "address": "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
           "decimals": 6,
-          "extensions": { "coingeckoId": "serum", "currency": "SRM" },
+          "extensions": {
+            "coingeckoId": "serum",
+            "source": "wormhole-v1",
+            "currency": "SRM"
+          },
           "chainId": 101,
           "tags": ["saber-market-srm", "wormhole-v1"]
         },
@@ -2340,7 +2356,11 @@
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
           "address": "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
           "decimals": 6,
-          "extensions": { "coingeckoId": "serum", "currency": "SRM" },
+          "extensions": {
+            "coingeckoId": "serum",
+            "source": "wormhole-v1",
+            "currency": "SRM"
+          },
           "chainId": 101,
           "tags": ["saber-market-srm", "wormhole-v1"]
         },
@@ -2369,7 +2389,11 @@
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
           "address": "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
           "decimals": 6,
-          "extensions": { "coingeckoId": "serum", "currency": "SRM" },
+          "extensions": {
+            "coingeckoId": "serum",
+            "source": "wormhole-v1",
+            "currency": "SRM"
+          },
           "chainId": 101,
           "tags": ["saber-market-srm", "wormhole-v1"]
         },
@@ -2470,7 +2494,11 @@
           "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
           "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
           "decimals": 9,
-          "extensions": { "coingeckoId": "bitcoin", "currency": "BTC" },
+          "extensions": {
+            "coingeckoId": "bitcoin",
+            "source": "wormhole-v1",
+            "currency": "BTC"
+          },
           "chainId": 101,
           "tags": ["saber-market-btc", "wormhole-v1"]
         },
@@ -2504,7 +2532,11 @@
           "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
           "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
           "decimals": 9,
-          "extensions": { "coingeckoId": "bitcoin", "currency": "BTC" },
+          "extensions": {
+            "coingeckoId": "bitcoin",
+            "source": "wormhole-v1",
+            "currency": "BTC"
+          },
           "chainId": 101,
           "tags": ["saber-market-btc", "wormhole-v1"]
         },
@@ -2538,7 +2570,11 @@
           "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
           "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
           "decimals": 9,
-          "extensions": { "coingeckoId": "bitcoin", "currency": "BTC" },
+          "extensions": {
+            "coingeckoId": "bitcoin",
+            "source": "wormhole-v1",
+            "currency": "BTC"
+          },
           "chainId": 101,
           "tags": ["saber-market-btc", "wormhole-v1"]
         },
@@ -2639,7 +2675,11 @@
           "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
           "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
           "decimals": 9,
-          "extensions": { "coingeckoId": "bitcoin", "currency": "BTC" },
+          "extensions": {
+            "coingeckoId": "bitcoin",
+            "source": "wormhole-v1",
+            "currency": "BTC"
+          },
           "chainId": 101,
           "tags": ["saber-market-btc", "wormhole-v1"]
         },
@@ -2668,7 +2708,11 @@
           "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
           "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
           "decimals": 9,
-          "extensions": { "coingeckoId": "bitcoin", "currency": "BTC" },
+          "extensions": {
+            "coingeckoId": "bitcoin",
+            "source": "wormhole-v1",
+            "currency": "BTC"
+          },
           "chainId": 101,
           "tags": ["saber-market-btc", "wormhole-v1"]
         },
@@ -2697,7 +2741,11 @@
           "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
           "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
           "decimals": 9,
-          "extensions": { "coingeckoId": "bitcoin", "currency": "BTC" },
+          "extensions": {
+            "coingeckoId": "bitcoin",
+            "source": "wormhole-v1",
+            "currency": "BTC"
+          },
           "chainId": 101,
           "tags": ["saber-market-btc", "wormhole-v1"]
         },
@@ -2796,7 +2844,11 @@
           "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX.png",
-          "extensions": { "coingeckoId": "binance-usd", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "binance-usd",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -2825,7 +2877,11 @@
           "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX.png",
-          "extensions": { "coingeckoId": "binance-usd", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "binance-usd",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -2854,7 +2910,11 @@
           "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX.png",
-          "extensions": { "coingeckoId": "binance-usd", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "binance-usd",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -2953,7 +3013,11 @@
           "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
           "decimals": 6,
           "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
-          "extensions": { "coingeckoId": "usd-coin", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -2980,7 +3044,11 @@
           "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
           "decimals": 6,
           "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
-          "extensions": { "coingeckoId": "usd-coin", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3007,7 +3075,11 @@
           "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
           "decimals": 6,
           "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
-          "extensions": { "coingeckoId": "usd-coin", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3106,7 +3178,11 @@
           "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "decimals": 6,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
-          "extensions": { "coingeckoId": "tether", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "tether",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3133,7 +3209,11 @@
           "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "decimals": 6,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
-          "extensions": { "coingeckoId": "tether", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "tether",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3160,7 +3240,11 @@
           "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "decimals": 6,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
-          "extensions": { "coingeckoId": "tether", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "tether",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3259,7 +3343,11 @@
           "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
           "decimals": 8,
           "logoURI": "https://registry.saber.so/token-icons/usdk.png",
-          "extensions": { "coingeckoId": "usdk", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "usdk",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3288,7 +3376,11 @@
           "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
           "decimals": 8,
           "logoURI": "https://registry.saber.so/token-icons/usdk.png",
-          "extensions": { "coingeckoId": "usdk", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "usdk",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3317,7 +3409,11 @@
           "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
           "decimals": 8,
           "logoURI": "https://registry.saber.so/token-icons/usdk.png",
-          "extensions": { "coingeckoId": "usdk", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "usdk",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3416,7 +3512,11 @@
           "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
-          "extensions": { "coingeckoId": "husd", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "husd",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3445,7 +3545,11 @@
           "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
-          "extensions": { "coingeckoId": "husd", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "husd",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3474,7 +3578,11 @@
           "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
-          "extensions": { "coingeckoId": "husd", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "husd",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3573,7 +3681,11 @@
           "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1.png",
-          "extensions": { "coingeckoId": "dai", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "dai",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3602,7 +3714,11 @@
           "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1.png",
-          "extensions": { "coingeckoId": "dai", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "dai",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3631,7 +3747,11 @@
           "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1.png",
-          "extensions": { "coingeckoId": "dai", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "dai",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3730,7 +3850,11 @@
           "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
-          "extensions": { "coingeckoId": "frax", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "frax",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3759,7 +3883,11 @@
           "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
-          "extensions": { "coingeckoId": "frax", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "frax",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3788,7 +3916,11 @@
           "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
-          "extensions": { "coingeckoId": "frax", "currency": "USD" },
+          "extensions": {
+            "coingeckoId": "frax",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
           "chainId": 101,
           "tags": ["saber-market-usd", "wormhole-v2"]
         },
@@ -3909,7 +4041,11 @@
           "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk.png",
-          "extensions": { "coingeckoId": "ethereum", "currency": "ETH" },
+          "extensions": {
+            "coingeckoId": "ethereum",
+            "source": "wormhole-v2",
+            "currency": "ETH"
+          },
           "chainId": 101,
           "tags": ["saber-market-eth", "wormhole-v2"]
         }
@@ -3943,7 +4079,11 @@
           "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk.png",
-          "extensions": { "coingeckoId": "ethereum", "currency": "ETH" },
+          "extensions": {
+            "coingeckoId": "ethereum",
+            "source": "wormhole-v2",
+            "currency": "ETH"
+          },
           "chainId": 101,
           "tags": ["saber-market-eth", "wormhole-v2"]
         }
@@ -3971,7 +4111,11 @@
           "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk.png",
-          "extensions": { "coingeckoId": "ethereum", "currency": "ETH" },
+          "extensions": {
+            "coingeckoId": "ethereum",
+            "source": "wormhole-v2",
+            "currency": "ETH"
+          },
           "chainId": 101,
           "tags": ["saber-market-eth", "wormhole-v2"]
         }
@@ -4890,7 +5034,11 @@
           "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "decimals": 8,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk.png",
-          "extensions": { "coingeckoId": "ethereum", "currency": "ETH" },
+          "extensions": {
+            "coingeckoId": "ethereum",
+            "source": "wormhole-v2",
+            "currency": "ETH"
+          },
           "chainId": 101,
           "tags": ["saber-market-eth", "wormhole-v2"]
         },
