@@ -5280,6 +5280,163 @@
       "quarry": "HvHCpbooc8xtvAhW5gfByfhJgNbS2G265ecQT1VBBGGw"
     },
     {
+      "id": "aeusdt",
+      "name": "aeUSDT-USDT",
+      "tokens": [
+        {
+          "chainId": 101,
+          "address": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
+          "symbol": "aeUSDT",
+          "name": "Wrapped USDT (Allbridge from Ethereum)",
+          "decimals": 9,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn.svg",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": { "coingeckoId": "tether", "currency": "USD" }
+        },
+        {
+          "name": "Saber Wrapped USDT (9 decimals)",
+          "address": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
+          "decimals": 9,
+          "symbol": "sUSDT-9",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "coingeckoId": "tether",
+            "underlyingTokens": [
+              "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+            ],
+            "currency": "USD"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "chainId": 101,
+          "address": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
+          "symbol": "aeUSDT",
+          "name": "Wrapped USDT (Allbridge from Ethereum)",
+          "decimals": 9,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn.svg",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": { "coingeckoId": "tether", "currency": "USD" }
+        },
+        {
+          "name": "Saber Wrapped USDT (9 decimals)",
+          "address": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
+          "decimals": 9,
+          "symbol": "sUSDT-9",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "coingeckoId": "tether",
+            "underlyingTokens": [
+              "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+            ],
+            "currency": "USD"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
+          "symbol": "aeUSDT",
+          "name": "Wrapped USDT (Allbridge from Ethereum)",
+          "decimals": 9,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn.svg",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": { "coingeckoId": "tether", "currency": "USD" }
+        },
+        {
+          "chainId": 101,
+          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "symbol": "USDT",
+          "name": "USDT",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://tether.to/",
+            "coingeckoId": "tether",
+            "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "SLP",
+        "name": "aeUSDT-USDT Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/aeusdt",
+          "underlyingTokens": [
+            "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
+            "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "EXqaPwXQMvzuVLEK3NvMqyuaSWQ6PvDvFGmCmZKGun9y",
+      "swap": {
+        "config": {
+          "swapAccount": "TETFuZgEmET6d9vYmz9iMFCxK1jKdKYxf3oPz8hSzJK",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "3LKrJtagDoUGTCzHA6JC18uWwAoMWDbDDKGrz3q46wZV"
+        },
+        "state": {
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "BWZUe1ghLSFWXtPkBdErat13uxVZvqG5eB8Up7aDQYUv",
+            "reserve": "Eu1Ze6Z84LWNkq7SNoAHBJbXx5t1P95EwyqYohrfCRFV",
+            "mint": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn"
+          },
+          "tokenB": {
+            "adminFeeAccount": "57sLf9VC946nXgTw5g2NikKJSfeTpAdsucVstVgcGmAp",
+            "reserve": "ASMbv7WNu3qe4pkhREmvyEdwFNDZQ6B6iSrjkj4u8bdC",
+            "mint": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
+          },
+          "poolTokenMint": "aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7",
+          "initialAmpFactor": "03e8",
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "CVjYK5fk69mj2k8ma1yCnvFzzDFGL6fziwEaxberD7n1"
+    },
+    {
       "id": "port_2pool",
       "name": "pUSDT-pUSDC",
       "tokens": [
