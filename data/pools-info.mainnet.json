@@ -4190,6 +4190,162 @@
       "quarry": "4acW2PzwAxoZLSxj6w33Wvn2Af79bwCdJLdJGPY6HD3x"
     },
     {
+      "id": "wftt",
+      "name": "aeFTT-wFTT",
+      "tokens": [
+        {
+          "chainId": 101,
+          "address": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
+          "symbol": "aeFTT",
+          "name": "Wrapped FTT (Allbridge from Ethereum)",
+          "decimals": 9,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
+          "tags": [],
+          "extensions": { "coingeckoId": "ftx-token" }
+        },
+        {
+          "name": "Saber Wrapped FTT (Wormhole) (9 decimals)",
+          "address": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
+          "decimals": 9,
+          "symbol": "swFTT-9",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3.png",
+          "tags": ["saber-market-ftt", "wormhole-v2", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+            "coingeckoId": "ftx-token",
+            "underlyingTokens": [
+              "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
+            ],
+            "currency": "FTT"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "chainId": 101,
+          "address": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
+          "symbol": "aeFTT",
+          "name": "Wrapped FTT (Allbridge from Ethereum)",
+          "decimals": 9,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
+          "tags": [],
+          "extensions": { "coingeckoId": "ftx-token" }
+        },
+        {
+          "name": "Saber Wrapped FTT (Wormhole) (9 decimals)",
+          "address": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
+          "decimals": 9,
+          "symbol": "swFTT-9",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3.png",
+          "tags": ["saber-market-ftt", "wormhole-v2", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+            "coingeckoId": "ftx-token",
+            "underlyingTokens": [
+              "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
+            ],
+            "currency": "FTT"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
+          "symbol": "aeFTT",
+          "name": "Wrapped FTT (Allbridge from Ethereum)",
+          "decimals": 9,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
+          "tags": [],
+          "extensions": { "coingeckoId": "ftx-token" }
+        },
+        {
+          "symbol": "wFTT",
+          "name": "FTT (Wormhole)",
+          "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+          "decimals": 8,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3.png",
+          "extensions": {
+            "coingeckoId": "ftx-token",
+            "source": "wormhole-v2",
+            "currency": "FTT"
+          },
+          "chainId": 101,
+          "tags": ["saber-market-ftt", "wormhole-v2"]
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "SLP",
+        "name": "aeFTT-wFTT Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/wftt",
+          "underlyingTokens": [
+            "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
+            "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "5EvyWjr7gd89AA5TfzMzZ7bxyhVcY21nwrewFu1CefXJ",
+      "swap": {
+        "config": {
+          "swapAccount": "TSMUBiuZXEpnqd6X21JRskACqA6oad7MsYddvLbxwDH",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "EUVmhYUvcyv4kzRE5heLtsPQWVX47RqGPeX2VMNwVSua"
+        },
+        "state": {
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "2uVQ3f2k6oC8X2o5T7mkmQy3DqAYzLUct7wv54WuY5NE",
+            "reserve": "CyFL8noR6CKMFBjZPziSmChCKJE1Jtg4hQyMhgWPgH84",
+            "mint": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf"
+          },
+          "tokenB": {
+            "adminFeeAccount": "7oDdgg2z36LL5vt5rpLm72vnvqJMTu4EA9s5WHk5NKBR",
+            "reserve": "5PfKQpBWUayFWSSkwjp1PLr8LiHBrvVB81qfnSP5Dvkb",
+            "mint": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx"
+          },
+          "poolTokenMint": "FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK",
+          "initialAmpFactor": "03e8",
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "2o1fDM9y6BbrwfaTxE7MaXxescKm5QeAeknrWscHprNG"
+    },
+    {
       "id": "acusd",
       "name": "acUSD-USDC",
       "tokens": [

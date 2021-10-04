@@ -264,6 +264,17 @@
     "tokenBCoingecko": "ethereum"
   },
   {
+    "id": "wftt",
+    "lpMint": "FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK",
+    "tokenA": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
+    "tokenB": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
+    "authority": "EUVmhYUvcyv4kzRE5heLtsPQWVX47RqGPeX2VMNwVSua",
+    "reserveA": "CyFL8noR6CKMFBjZPziSmChCKJE1Jtg4hQyMhgWPgH84",
+    "reserveB": "5PfKQpBWUayFWSSkwjp1PLr8LiHBrvVB81qfnSP5Dvkb",
+    "tokenACoingecko": "ftx-token",
+    "tokenBCoingecko": "ftx-token"
+  },
+  {
     "id": "acusd",
     "lpMint": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",
     "tokenA": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",

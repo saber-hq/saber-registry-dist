@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-10-03T23:33:16.814Z",
+  "timestamp": "2021-10-04T22:36:33.593Z",
   "tokens": [
     {
       "chainId": 101,
@@ -575,6 +575,26 @@
       "tags": ["saber-market-ftt", "wormhole-v2"]
     },
     {
+      "name": "Saber Wrapped FTT (Wormhole) (9 decimals)",
+      "address": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
+      "decimals": 9,
+      "symbol": "swFTT-9",
+      "chainId": 101,
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3.png",
+      "tags": [
+        "saber-market-ftt",
+        "wormhole-v2",
+        "saber-decimal-wrapped",
+        "saber-swappable"
+      ],
+      "extensions": {
+        "assetContract": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+        "coingeckoId": "ftx-token",
+        "underlyingTokens": ["EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"],
+        "currency": "FTT"
+      }
+    },
+    {
       "chainId": 101,
       "address": "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
       "symbol": "apUSDT",
@@ -671,7 +691,7 @@
       "name": "Wrapped FTT (Allbridge from Ethereum)",
       "decimals": 9,
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
-      "tags": [],
+      "tags": ["saber-swappable"],
       "extensions": { "coingeckoId": "ftx-token" }
     },
     {
@@ -1499,6 +1519,23 @@
         "underlyingTokens": [
           "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
           "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "SLP",
+      "name": "aeFTT-wFTT Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/wftt",
+        "underlyingTokens": [
+          "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
+          "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx"
         ],
         "source": "saber"
       }
