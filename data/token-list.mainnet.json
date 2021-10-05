@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-10-04T22:36:33.593Z",
+  "timestamp": "2021-10-05T22:02:04.243Z",
   "tokens": [
     {
       "chainId": 101,
@@ -681,7 +681,7 @@
       "name": "Wrapped DAI (Allbridge from Ethereum)",
       "decimals": 9,
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs.png",
-      "tags": ["stablecoin", "saber-market-usd"],
+      "tags": ["stablecoin", "saber-market-usd", "saber-swappable"],
       "extensions": { "coingeckoId": "multi-collateral-dai", "currency": "USD" }
     },
     {
@@ -691,8 +691,8 @@
       "name": "Wrapped FTT (Allbridge from Ethereum)",
       "decimals": 9,
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
-      "tags": ["saber-swappable"],
-      "extensions": { "coingeckoId": "ftx-token" }
+      "tags": ["saber-market-ftt", "saber-swappable"],
+      "extensions": { "coingeckoId": "ftx-token", "currency": "FTT" }
     },
     {
       "symbol": "pUSDC",
@@ -1672,6 +1672,23 @@
         "underlyingTokens": [
           "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
           "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "SLP",
+      "name": "aeDAI-USDC Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/aedai",
+        "underlyingTokens": [
+          "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
         "source": "saber"
       }

@@ -363,6 +363,17 @@
     "tokenBCoingecko": "tether"
   },
   {
+    "id": "aedai",
+    "lpMint": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
+    "tokenA": "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
+    "tokenB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+    "authority": "99Y7Y3DwALuxnbe9YkHJNK5ReLswTq1dwaEs4yRPv7ad",
+    "reserveA": "B4UtLRZND3D83CitRCBUyeiNr7H8m7YFRqBmiPmXjhW4",
+    "reserveB": "AAmpYbuixWiSqDaJBCqYEs1pb5SrbdPr9mgXrB58Q2e",
+    "tokenACoingecko": "multi-collateral-dai",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
     "id": "port_2pool",
     "lpMint": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
     "tokenA": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
