@@ -374,6 +374,50 @@
     "tokenBCoingecko": "usd-coin"
   },
   {
+    "id": "aausdc",
+    "lpMint": "AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv",
+    "tokenA": "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
+    "tokenB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+    "authority": "BHKzitonCpp1LBEZ2eqs3TZXB1wJxLbisS18LbE3aJos",
+    "reserveA": "2bPenuBYfqzD8p5dFjCcggwkHDsc2RQDnx9AoyYGUBjA",
+    "reserveB": "AE6n6iLuX8oYu61vt5hoDYkjswpnxFxrhSehxrnQTnbx",
+    "tokenACoingecko": "usd-coin",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
+    "id": "aausdt",
+    "lpMint": "AVTrxHq5P57fYZTYjMuCRWFqsrLmom2gGThNtgEgK1ip",
+    "tokenA": "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
+    "tokenB": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
+    "authority": "EPtXq2vDbFdpxVUuS4qzh5dhnWHQeriNyz7Tvyott2DB",
+    "reserveA": "3dFMPj4r9mMmPHF32mz1gNDX7f8ftidWof7S8YiYTs1j",
+    "reserveB": "Fc1ED3YPeQfXQosHbd8DTaBd2AV5gHQtwiSAL5C5pUhi",
+    "tokenACoingecko": "tether",
+    "tokenBCoingecko": "tether"
+  },
+  {
+    "id": "aadai",
+    "lpMint": "AVDuGckLavyLr5YifViaxnoveY6rwqDezHw5kiKiRQEC",
+    "tokenA": "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
+    "tokenB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+    "authority": "J5DTF99jm9xjWwcDcMgYxRcsPT6ydE936Qry76oLKSXe",
+    "reserveA": "GiehZ4X2uQjhEKuxSm3ACmEFrabxh3RTvjbLfLjw1xGX",
+    "reserveB": "rxDQYV77NKRKYxCjq4cECX3QQsiSyLv1T1FT2X3zNA2",
+    "tokenACoingecko": "multi-collateral-dai",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
+    "id": "aawbtc",
+    "lpMint": "AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39",
+    "tokenA": "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
+    "tokenB": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
+    "authority": "BQsXo2y2KFdPpF9v9ckb1BaxSQxqgx12WevS8BYnkYhY",
+    "reserveA": "bDVSLHopvEo45R3rR7JXoRRAcnUXKD7r14ijj1apALb",
+    "reserveB": "33QrhvkyroiTxp21hbXPRowPhsgVHmrgEQbY7eHPp1h4",
+    "tokenACoingecko": "wrapped-bitcoin",
+    "tokenBCoingecko": "renbtc"
+  },
+  {
     "id": "port_2pool",
     "lpMint": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
     "tokenA": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
