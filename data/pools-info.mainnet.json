@@ -188,13 +188,14 @@
           "name": "PAI (Parrot USD)",
           "decimals": 6,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
-          "tags": ["utility-token", "saber-market-usd"],
+          "tags": ["utility-token", "stablecoin", "saber-market-usd"],
           "extensions": {
             "website": "https://parrot.fi",
             "twitter": "https://twitter.com/gopartyparrot",
             "telegram": "https://t.me/gopartyparrot",
             "medium": "https://gopartyparrot.medium.com/",
             "discord": "https://discord.gg/gopartyparrot",
+            "coingeckoId": "parrot-usd",
             "currency": "USD"
           }
         },
@@ -222,13 +223,14 @@
           "name": "PAI (Parrot USD)",
           "decimals": 6,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
-          "tags": ["utility-token", "saber-market-usd"],
+          "tags": ["utility-token", "stablecoin", "saber-market-usd"],
           "extensions": {
             "website": "https://parrot.fi",
             "twitter": "https://twitter.com/gopartyparrot",
             "telegram": "https://t.me/gopartyparrot",
             "medium": "https://gopartyparrot.medium.com/",
             "discord": "https://discord.gg/gopartyparrot",
+            "coingeckoId": "parrot-usd",
             "currency": "USD"
           }
         },
@@ -256,13 +258,14 @@
           "name": "PAI (Parrot USD)",
           "decimals": 6,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
-          "tags": ["utility-token", "saber-market-usd"],
+          "tags": ["utility-token", "stablecoin", "saber-market-usd"],
           "extensions": {
             "website": "https://parrot.fi",
             "twitter": "https://twitter.com/gopartyparrot",
             "telegram": "https://t.me/gopartyparrot",
             "medium": "https://gopartyparrot.medium.com/",
             "discord": "https://discord.gg/gopartyparrot",
+            "coingeckoId": "parrot-usd",
             "currency": "USD"
           }
         },
@@ -4346,6 +4349,171 @@
       "quarry": "2o1fDM9y6BbrwfaTxE7MaXxescKm5QeAeknrWscHprNG"
     },
     {
+      "id": "wust",
+      "name": "wUST-USDC",
+      "tokens": [
+        {
+          "symbol": "wUST",
+          "name": "UST (Wormhole)",
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "decimals": 6,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm/logo.png",
+          "extensions": {
+            "coingeckoId": "terrausd",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "currency": "USD"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "wUST",
+          "name": "UST (Wormhole)",
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "decimals": 6,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm/logo.png",
+          "extensions": {
+            "coingeckoId": "terrausd",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "currency": "USD"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "wUST",
+          "name": "UST (Wormhole)",
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "decimals": 6,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm/logo.png",
+          "extensions": {
+            "coingeckoId": "terrausd",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "SLP",
+        "name": "wUST-USDC Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/wust",
+          "underlyingTokens": [
+            "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "8sNgWmTK6SZwiZ294Hiy8feFtbtRMfj2KeJzrZBcKGM4",
+      "swap": {
+        "config": {
+          "swapAccount": "KwnjUuZhTMTSGAaavkLEmSyfobY16JNH4poL9oeeEvE",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "9osV5a7FXEjuMujxZJGBRXVAyQ5fJfBFNkyAf6fSz9kw"
+        },
+        "state": {
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "35rkTKhWZ7s7mMFafKikzLFAwWqyczJ4Wh9KpKg1kVuR",
+            "reserve": "J63v6qEZmQpDqCD8bd4PXu2Pq5ZbyXrFcSa3Xt1HdAPQ",
+            "mint": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+          },
+          "tokenB": {
+            "adminFeeAccount": "EX1XJauoedrAzhj1sC66U1h44SEipBWbmyoEuRwTfYsW",
+            "reserve": "BnKQtTdLw9qPCDgZkWX3sURkBAoKCUYL1yahh6Mw7mRK",
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          },
+          "poolTokenMint": "USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "BYEUtsLjYAVHRiRR3Avjqnd2RQLRL8n933N52p9kSX2y"
+    },
+    {
       "id": "acusd",
       "name": "acUSD-USDC",
       "tokens": [
@@ -5803,7 +5971,7 @@
           "symbol": "aaUSDC",
           "name": "Wrapped USDC (Allbridge from Avalanche)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "usd-coin",
@@ -5836,7 +6004,7 @@
           "symbol": "aaUSDC",
           "name": "Wrapped USDC (Allbridge from Avalanche)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "usd-coin",
@@ -5869,7 +6037,7 @@
           "symbol": "aaUSDC",
           "name": "Wrapped USDC (Allbridge from Avalanche)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "usd-coin",
@@ -5972,7 +6140,7 @@
           "symbol": "aaUSDT",
           "name": "Wrapped USDT (Allbridge from Avalanche)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "tether",
@@ -6005,7 +6173,7 @@
           "symbol": "aaUSDT",
           "name": "Wrapped USDT (Allbridge from Avalanche)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "tether",
@@ -6038,7 +6206,7 @@
           "symbol": "aaUSDT",
           "name": "Wrapped USDT (Allbridge from Avalanche)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "tether",
@@ -6141,7 +6309,7 @@
           "symbol": "aaDAI",
           "name": "Wrapped DAI (Allbridge from Avalanche)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "multi-collateral-dai",
@@ -6174,7 +6342,7 @@
           "symbol": "aaDAI",
           "name": "Wrapped DAI (Allbridge from Avalanche)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "multi-collateral-dai",
@@ -6207,7 +6375,7 @@
           "symbol": "aaDAI",
           "name": "Wrapped DAI (Allbridge from Avalanche)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "multi-collateral-dai",
@@ -6310,7 +6478,7 @@
           "symbol": "aaWBTC",
           "name": "Wrapped BTC (Allbridge from Avalanche)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw.png",
           "extensions": {
             "coingeckoId": "wrapped-bitcoin",
             "source": "allbridge",
@@ -6343,7 +6511,7 @@
           "symbol": "aaWBTC",
           "name": "Wrapped BTC (Allbridge from Avalanche)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw.png",
           "extensions": {
             "coingeckoId": "wrapped-bitcoin",
             "source": "allbridge",
@@ -6376,7 +6544,7 @@
           "symbol": "aaWBTC",
           "name": "Wrapped BTC (Allbridge from Avalanche)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw.png",
           "extensions": {
             "coingeckoId": "wrapped-bitcoin",
             "source": "allbridge",
@@ -6663,11 +6831,13 @@
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
           "tags": ["saber-market-sol"],
           "extensions": {
+            "coingeckoId": "msol",
             "website": "https://marinade.finance",
             "twitter": "https://twitter.com/MarinadeFinance",
             "discord": "https://discord.gg/mGqZA5pjRN",
             "medium": "https://medium.com/marinade-finance",
             "github": "https://github.com/marinade-finance",
+            "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
             "currency": "SOL"
           }
         },
@@ -6698,11 +6868,13 @@
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
           "tags": ["saber-market-sol"],
           "extensions": {
+            "coingeckoId": "msol",
             "website": "https://marinade.finance",
             "twitter": "https://twitter.com/MarinadeFinance",
             "discord": "https://discord.gg/mGqZA5pjRN",
             "medium": "https://medium.com/marinade-finance",
             "github": "https://github.com/marinade-finance",
+            "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
             "currency": "SOL"
           }
         },
@@ -6733,11 +6905,13 @@
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
           "tags": ["saber-market-sol"],
           "extensions": {
+            "coingeckoId": "msol",
             "website": "https://marinade.finance",
             "twitter": "https://twitter.com/MarinadeFinance",
             "discord": "https://discord.gg/mGqZA5pjRN",
             "medium": "https://medium.com/marinade-finance",
             "github": "https://github.com/marinade-finance",
+            "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
             "currency": "SOL"
           }
         },
@@ -7312,13 +7486,13 @@
     },
     {
       "id": "socean",
-      "name": "SOCN-SOL",
+      "name": "scnSOL-SOL",
       "tokens": [
         {
           "chainId": 101,
           "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
-          "symbol": "SOCN",
-          "name": "Socean",
+          "symbol": "scnSOL",
+          "name": "Socean staked SOL",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
           "tags": ["stake-pool", "saber-market-sol"],
@@ -7327,6 +7501,7 @@
             "medium": "https://medium.com/@soceanfinance/",
             "twitter": "https://twitter.com/soceanfinance/",
             "website": "https://socean.fi/",
+            "coingeckoId": "socean-staked-sol",
             "currency": "SOL"
           }
         },
@@ -7351,8 +7526,8 @@
         {
           "chainId": 101,
           "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
-          "symbol": "SOCN",
-          "name": "Socean",
+          "symbol": "scnSOL",
+          "name": "Socean staked SOL",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
           "tags": ["stake-pool", "saber-market-sol"],
@@ -7361,6 +7536,7 @@
             "medium": "https://medium.com/@soceanfinance/",
             "twitter": "https://twitter.com/soceanfinance/",
             "website": "https://socean.fi/",
+            "coingeckoId": "socean-staked-sol",
             "currency": "SOL"
           }
         },
@@ -7385,8 +7561,8 @@
         {
           "chainId": 101,
           "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
-          "symbol": "SOCN",
-          "name": "Socean",
+          "symbol": "scnSOL",
+          "name": "Socean staked SOL",
           "decimals": 9,
           "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
           "tags": ["stake-pool", "saber-market-sol"],
@@ -7395,6 +7571,7 @@
             "medium": "https://medium.com/@soceanfinance/",
             "twitter": "https://twitter.com/soceanfinance/",
             "website": "https://socean.fi/",
+            "coingeckoId": "socean-staked-sol",
             "currency": "SOL"
           }
         },
@@ -7418,7 +7595,7 @@
       "currency": "SOL",
       "lpToken": {
         "symbol": "SLP",
-        "name": "SOCN-SOL Saber LP",
+        "name": "scnSOL-SOL Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 9,
         "address": "SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj",

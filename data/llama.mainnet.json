@@ -18,7 +18,7 @@
     "authority": "7W9KMACQT6UmjRPEUQKXyVf4NjZ9Ux4PHs1e1P5PxDtA",
     "reserveA": "4DYwgJtxwuJdAjkj5RJSNH4e7U329V5cNp7d3a1nLrZv",
     "reserveB": "EXNW64GEf1ACC6xY9BtKRiunrs6GoJSXBdxWN2eTPmrF",
-    "tokenACoingecko": "usdp",
+    "tokenACoingecko": "parrot-usd",
     "tokenBCoingecko": "usd-coin"
   },
   {
@@ -275,6 +275,17 @@
     "tokenBCoingecko": "ftx-token"
   },
   {
+    "id": "wust",
+    "lpMint": "USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi",
+    "tokenA": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+    "tokenB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "authority": "9osV5a7FXEjuMujxZJGBRXVAyQ5fJfBFNkyAf6fSz9kw",
+    "reserveA": "J63v6qEZmQpDqCD8bd4PXu2Pq5ZbyXrFcSa3Xt1HdAPQ",
+    "reserveB": "BnKQtTdLw9qPCDgZkWX3sURkBAoKCUYL1yahh6Mw7mRK",
+    "tokenACoingecko": "terrausd",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
     "id": "acusd",
     "lpMint": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",
     "tokenA": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
@@ -436,7 +447,7 @@
     "authority": "2Sj4MZvmLhud4uRmGHJvDxq612nmF4JJsU1R4ZjNNGMS",
     "reserveA": "9DgFSWkPDGijNKcLGbr3p5xoJbHsPgXUTr6QvGBJ5vGN",
     "reserveB": "2hNHZg7XBhuhHVZ3JDEi4buq2fPQwuWBdQ9xkH7t1GQX",
-    "tokenACoingecko": "solana",
+    "tokenACoingecko": "msol",
     "tokenBCoingecko": "solana"
   },
   {
@@ -480,7 +491,7 @@
     "authority": "3roMZdhjqzKF5HaZxF8a3G8bavz8EggQXFMNiPsBnMQz",
     "reserveA": "DjvZuMZ46fxKBoBpGMPcRcos4xdTtHFxwMh69DpA2ZFY",
     "reserveB": "9rvDPJLAng4uVVqnnSoEXgNDFhBZQTny9AoQioYDZbQX",
-    "tokenACoingecko": "solana",
+    "tokenACoingecko": "socean-staked-sol",
     "tokenBCoingecko": "solana"
   }
 ]
