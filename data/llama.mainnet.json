@@ -44,6 +44,17 @@
     "tokenBCoingecko": "ptokens-btc"
   },
   {
+    "id": "xusd",
+    "lpMint": "XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n",
+    "tokenA": "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
+    "tokenB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "authority": "4MKU6kajSHK6YGt39fAjvW5bPV1uwUdAP5VVEcS7JLRr",
+    "reserveA": "34M8pFVqgbV7aqHxvRT5tCv3vu2P1JJYT8J3VaxBK2oG",
+    "reserveB": "3AZWBSze3ucsY3xSeuLne3b2pauVqiaJ1SZSV5T9WGWw",
+    "tokenACoingecko": "usd-coin",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
     "id": "ust",
     "lpMint": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
     "tokenA": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
@@ -284,6 +295,17 @@
     "reserveB": "BnKQtTdLw9qPCDgZkWX3sURkBAoKCUYL1yahh6Mw7mRK",
     "tokenACoingecko": "terrausd",
     "tokenBCoingecko": "usd-coin"
+  },
+  {
+    "id": "wluna",
+    "lpMint": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
+    "tokenA": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
+    "tokenB": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
+    "authority": "ubiHGBrW6aYpYdAM4f1WVJjmiC8SAKFcG4hZe1Cksa6",
+    "reserveA": "GgRnQyCm22UkHQME96CqJFpsqV93QJQsWMURdsQSSAdk",
+    "reserveB": "GrWSq33By3uf7Vqqfrscy7oJMuqGgZojd2KSzsxioxQL",
+    "tokenACoingecko": "terra-luna",
+    "tokenBCoingecko": "terra-luna"
   },
   {
     "id": "acusd",
