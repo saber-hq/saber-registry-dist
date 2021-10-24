@@ -55,6 +55,50 @@
     "tokenBCoingecko": "usd-coin"
   },
   {
+    "id": "xsol",
+    "lpMint": "xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi",
+    "tokenA": "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
+    "tokenB": "So11111111111111111111111111111111111111112",
+    "authority": "5j93Lq7Txj9nEr9fUw3YJ2C4Pezm6eUJfGsUi6eYXcy",
+    "reserveA": "GSt31U8nF6WJBRG7j2EALfNTMd3J8jmotGX9szVTrzvN",
+    "reserveB": "7WEqRDS5Dk6kVXFZHrsW5EtdPhy4v6jWK9P5jHhi9oz",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana"
+  },
+  {
+    "id": "xftt",
+    "lpMint": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
+    "tokenA": "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
+    "tokenB": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+    "authority": "EqG6R7n6dZeRU1fDeCh5RrCAVNERHbwHz5QWjXwMfzoy",
+    "reserveA": "HHnpxMvDcXaeHXTSnWw9y8gMeUMnnCzxWfACgx839nCt",
+    "reserveB": "Hk8UFqdvVdvJRZjKJV59PkrDrpLnbCCBMgDjVwx53cwi",
+    "tokenACoingecko": "ftx-token",
+    "tokenBCoingecko": "ftx-token"
+  },
+  {
+    "id": "xeth",
+    "lpMint": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
+    "tokenA": "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
+    "tokenB": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
+    "authority": "Gdnw9zSTsNjvFcYdtpA5efcGbNCeNAqMev4gGEKbvnJ2",
+    "reserveA": "3gkSjY95an9xNFSjCfsay6JZez7uv7yfW3Ad4ubc4fMK",
+    "reserveB": "9wXqANaSuEqkKL9yHzCPEDGHwbkStVAqV5rB3QDs3Jr6",
+    "tokenACoingecko": "ethereum",
+    "tokenBCoingecko": "ethereum"
+  },
+  {
+    "id": "xbtc",
+    "lpMint": "xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK",
+    "tokenA": "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
+    "tokenB": "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi",
+    "authority": "2AdWk8VKBkThFohdpA1RYekfvwGbUe1t12p7hv1YdQT6",
+    "reserveA": "C82XDu1d1UjtuUwnkSTwVuWyH3AqpJ3ftb9W7en8rEUu",
+    "reserveB": "F7cZoYpWQSFuYJzW2UUFw6sVbTtaihyD5upeeHRUPABk",
+    "tokenACoingecko": "bitcoin",
+    "tokenBCoingecko": "renbtc"
+  },
+  {
     "id": "ust",
     "lpMint": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
     "tokenA": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",

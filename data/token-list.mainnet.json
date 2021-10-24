@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-10-24T01:54:14.806Z",
+  "timestamp": "2021-10-24T02:44:45.190Z",
   "tokens": [
     {
       "chainId": 101,
@@ -586,7 +586,7 @@
         "currency": "FTT"
       },
       "chainId": 101,
-      "tags": ["saber-market-ftt", "wormhole-v2"]
+      "tags": ["saber-market-ftt", "wormhole-v2", "saber-swappable"]
     },
     {
       "name": "Saber Wrapped FTT (Wormhole) (9 decimals)",
@@ -925,7 +925,7 @@
       "name": "Synthetic SOL",
       "decimals": 9,
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov.svg",
-      "tags": ["saber-market-sol"],
+      "tags": ["saber-market-sol", "saber-swappable"],
       "extensions": {
         "website": "https://synthetify.io/",
         "twitter": "https://twitter.com/synthetify",
@@ -941,7 +941,7 @@
       "name": "Synthetic ETH",
       "decimals": 9,
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK.svg",
-      "tags": ["saber-market-eth"],
+      "tags": ["saber-market-eth", "saber-swappable"],
       "extensions": {
         "website": "https://synthetify.io/",
         "twitter": "https://twitter.com/synthetify",
@@ -957,7 +957,7 @@
       "name": "Synthetic BTC",
       "decimals": 10,
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D.svg",
-      "tags": ["saber-market-btc"],
+      "tags": ["saber-market-btc", "saber-swappable"],
       "extensions": {
         "website": "https://synthetify.io/",
         "twitter": "https://twitter.com/synthetify",
@@ -973,7 +973,7 @@
       "name": "Synthetic FTT",
       "decimals": 8,
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9.svg",
-      "tags": ["saber-market-ftt"],
+      "tags": ["saber-market-ftt", "saber-swappable"],
       "extensions": {
         "website": "https://synthetify.io/",
         "twitter": "https://twitter.com/synthetify",
@@ -1115,6 +1115,21 @@
       "address": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
       "decimals": 9,
       "symbol": "srenBTC-9",
+      "chainId": 101,
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+      "tags": ["saber-market-btc", "saber-decimal-wrapped", "saber-swappable"],
+      "extensions": {
+        "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+        "coingeckoId": "renbtc",
+        "underlyingTokens": ["CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"],
+        "currency": "BTC"
+      }
+    },
+    {
+      "name": "Saber Wrapped renBTC (10 decimals)",
+      "address": "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi",
+      "decimals": 10,
+      "symbol": "srenBTC-10",
       "chainId": 101,
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
       "tags": ["saber-market-btc", "saber-decimal-wrapped", "saber-swappable"],
@@ -1421,12 +1436,80 @@
       "decimals": 6,
       "address": "XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/xusd",
         "underlyingTokens": [
           "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "SLP",
+      "name": "xSOL-SOL Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/xsol",
+        "underlyingTokens": [
+          "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
+          "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "SLP",
+      "name": "xFTT-wFTT Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 8,
+      "address": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/xftt",
+        "underlyingTokens": [
+          "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
+          "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "SLP",
+      "name": "xETH-whETH Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/xeth",
+        "underlyingTokens": [
+          "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
+          "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "SLP",
+      "name": "xBTC-renBTC Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 10,
+      "address": "xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/xbtc",
+        "underlyingTokens": [
+          "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
+          "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi"
         ],
         "source": "saber"
       }
