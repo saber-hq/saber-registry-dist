@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-10-24T02:44:45.193Z",
+  "timestamp": "2021-10-26T08:41:13.164Z",
   "tokens": [
     {
       "symbol": "USDC",
@@ -166,7 +166,7 @@
       "extensions": {}
     },
     {
-      "symbol": "SLP",
+      "symbol": "sbrUSDCUSDT",
       "name": "USDC-USDT Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
@@ -183,7 +183,7 @@
       }
     },
     {
-      "symbol": "SLP",
+      "symbol": "sbrUSDCPAI",
       "name": "USDC-PAI Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
@@ -200,7 +200,7 @@
       }
     },
     {
-      "symbol": "SLP",
+      "symbol": "sbrrenBTCsWBTC-8",
       "name": "renBTC-WBTC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 8,
