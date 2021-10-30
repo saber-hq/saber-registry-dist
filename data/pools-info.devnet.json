@@ -105,6 +105,11 @@
           "authority": "72E8LfHqoxQCxnxmBbDG6WSHnDx1rWPUHNKwYvoL5qDm"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "GSmjrpT8zNtp6Ke8y2xS5P1kREEjqZCjwxF8VbxDJAV8",
           "tokenA": {
             "adminFeeAccount": "6RPzht581g8QLdKaT8CSuCnj9yBhR2u6mxKFFK6Dbhgx",
@@ -118,7 +123,6 @@
           },
           "poolTokenMint": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
           "initialAmpFactor": "64",
-          "isPaused": 0,
           "targetAmpFactor": "64",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -244,6 +248,11 @@
           "authority": "8BC6eAF59beKMctxpH7jkx8faR6jdyKc5doHB7Tiffig"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "7uBM28mn7tfussHxAUeAiuUP2K1aSF2P2npzxRXhP8uS",
@@ -257,7 +266,6 @@
           },
           "poolTokenMint": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J",
           "initialAmpFactor": "64",
-          "isPaused": 0,
           "targetAmpFactor": "64",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -387,6 +395,11 @@
           "authority": "ChFJZQK4gNpmcrbF71e5Wo2HzF8qePYGnqsgZ6u7anFA"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "HcedJ6dU7sYBkXPqZteZcuroZmnbaKRkjZnzzfbGgba9",
@@ -400,7 +413,6 @@
           },
           "poolTokenMint": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,

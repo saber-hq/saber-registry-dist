@@ -135,6 +135,11 @@
           "authority": "5C1k9yV7y4CjMnKv8eGYDgWND8P89Pdfj79Trk2qmfGo"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "GLztedC76MeBXjAmVXMezcHQzdmQaVLiXCZr9KEBSR6Y",
@@ -148,7 +153,6 @@
           },
           "poolTokenMint": "2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf",
           "initialAmpFactor": "03e8",
-          "isPaused": 0,
           "targetAmpFactor": "03e8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -313,6 +317,11 @@
           "authority": "7W9KMACQT6UmjRPEUQKXyVf4NjZ9Ux4PHs1e1P5PxDtA"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "5ERUKXf8w8aa9asB4EDGVQQYb3Awj9mFvgW6WuHmZqjf",
@@ -326,7 +335,6 @@
           },
           "poolTokenMint": "PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -497,6 +505,11 @@
           "authority": "Fekck54VF2MdesR74trJteZbiKj1TD5AVQisXr8E7fjG"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 248,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "3TFH39YLZgnAyp3ehDAYckzYCAyFoAXACZCtZeBVvS6J",
@@ -510,7 +523,6 @@
           },
           "poolTokenMint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -687,6 +699,11 @@
           "authority": "2wszCpUdVDFrJcP79wpV3FdBmU38UC1YKuoSUBA5mhWu"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "3YPinq9u33R6PfQzxKdLkpwm5VH4ETnv2A5oVkomqXtq",
@@ -700,7 +717,6 @@
           },
           "poolTokenMint": "pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -859,6 +875,11 @@
           "authority": "4MKU6kajSHK6YGt39fAjvW5bPV1uwUdAP5VVEcS7JLRr"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "E6bf5cADDiv8JqYLxNSEbhmc4oEWbo3jKZqqdMmamANP",
@@ -872,7 +893,6 @@
           },
           "poolTokenMint": "XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -1034,6 +1054,11 @@
           "authority": "5j93Lq7Txj9nEr9fUw3YJ2C4Pezm6eUJfGsUi6eYXcy"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 248,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "8GcLEUyVAeoj3EeY5VxmWN73bdNWf6AGpBHF1WJf8uSs",
@@ -1047,7 +1072,6 @@
           },
           "poolTokenMint": "xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -1203,6 +1227,11 @@
           "authority": "EqG6R7n6dZeRU1fDeCh5RrCAVNERHbwHz5QWjXwMfzoy"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "BYH9fc4FGHVVRSJdWDoX94x5d4GR4nRHAGiM98HF7ZHP",
@@ -1216,7 +1245,6 @@
           },
           "poolTokenMint": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -1378,6 +1406,11 @@
           "authority": "Gdnw9zSTsNjvFcYdtpA5efcGbNCeNAqMev4gGEKbvnJ2"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "ES5HG99aBAgngaePAZPQMxCpsCpPSxBHVwt5cWzfzEj6",
@@ -1391,7 +1424,6 @@
           },
           "poolTokenMint": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -1554,6 +1586,11 @@
           "authority": "2AdWk8VKBkThFohdpA1RYekfvwGbUe1t12p7hv1YdQT6"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "7yK5mGAxTh8DVvherfc8kQohRWefP9JgH4P7WsAZge5g",
@@ -1567,7 +1604,6 @@
           },
           "poolTokenMint": "xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -1736,6 +1772,11 @@
           "authority": "ASpJBf8HtyrNxaMqFNpjYCqi8SsJC5h56hd3HQUNk6M7"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "H8sa4bG8oWg89vHQeZnwzumqTk2gnRWKb19LzZgge3W6",
@@ -1749,7 +1790,6 @@
           },
           "poolTokenMint": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -1916,6 +1956,11 @@
           "authority": "2hAy2ubWi3PWrgxSoamzonLy1bUL3BfoqW7u7791Qpj9"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "DtM3gSPFCS9EjkjKSsgeoXimvdowveDjHDgYSEp8Vg5m",
@@ -1929,7 +1974,6 @@
           },
           "poolTokenMint": "Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -2096,6 +2140,11 @@
           "authority": "FDndRkBVpFoNBHY6Jhx7PgNpysvZjt3P2MZ95vmkSfWa"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "DLhk52w7tDsdDvHf3SHnQr7hDhkTkTQ3mrjqqFc7KHbX",
@@ -2109,7 +2158,6 @@
           },
           "poolTokenMint": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -2273,6 +2321,11 @@
           "authority": "4HP9xSxLcEK64zALBCP36GdfDLrMXorVk4X6DyLrBjbp"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "8473xzuHPocWB6uo8Ww38JFH9Kg4fFWtLRjP2qhZ39eW",
@@ -2286,7 +2339,6 @@
           },
           "poolTokenMint": "LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -2453,6 +2505,11 @@
           "authority": "GUotxHmyJVsJYWYoL8Vo6SKQweNRUZMRQcoqDe5PswHt"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "5jYdGvmEtatq2ojR2hvxPdxEaFm5hoARSEBVj51pWNKw",
@@ -2466,7 +2523,6 @@
           },
           "poolTokenMint": "FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK",
           "initialAmpFactor": "64",
-          "isPaused": 0,
           "targetAmpFactor": "64",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -2633,6 +2689,11 @@
           "authority": "G4cRef4AxEjaSV32xqQzDmHqi3iz8112LQwx8oPbZhYb"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "9KJ3osjhcYiQkUkg6oCVCZ36BGpkHuJG8t12ax5d6ssZ",
@@ -2646,7 +2707,6 @@
           },
           "poolTokenMint": "HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -2815,6 +2875,11 @@
           "authority": "ELnY6YAb1oSPGuARAV8rBJq44AXgT69GJhvWNfuabq9B"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "BouyhtZfbhfX7zJYhQpTDEjLYf9TtUbF15zRLyCziriY",
@@ -2828,7 +2893,6 @@
           },
           "poolTokenMint": "HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -2986,6 +3050,11 @@
           "authority": "5iGwpfXgTX2zqQuagzwLtMWEg1e8Rju7tkjYUbbHXvgj"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "EsPTcNLF5ceh3S2jybKqGNkCitmSKqat5DKkmeoNLZkY",
@@ -2999,7 +3068,6 @@
           },
           "poolTokenMint": "uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -3179,6 +3247,11 @@
           "authority": "DGPFLHMzcfLeANN5m6gVoMFpo38KuU85tAGFHpLfn3gM"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "8cxvuwMt5rhCAUyTMjUEvqtCaMdMrvm8BnXGxDPj4Wid",
@@ -3192,7 +3265,6 @@
           },
           "poolTokenMint": "FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -3352,6 +3424,11 @@
           "authority": "BdvYL4rH3CqJ6eX6d7iC4snNZZvJQXR67T8dHNTUeSmz"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "5mzVc2No73PtnXTdvMg7Q8iqy43dbHP5pCPbtev4X7sb",
@@ -3365,7 +3442,6 @@
           },
           "poolTokenMint": "SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -3533,6 +3609,11 @@
           "authority": "4PHvSwhw8Gz26UZfgSjDLx8JLpJnh2kpNCtssgGUKQFe"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 253,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "AyBzqBeuqbLUQeaVT5wv79FDJVNrYeembnq8QquaN1DT",
@@ -3546,7 +3627,6 @@
           },
           "poolTokenMint": "BADGsQo6rTxKZuqkY1kSoqhriQwZW3ZVgyPjgDk9mvyo",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -3704,6 +3784,11 @@
           "authority": "3rjYaVP4fkv4BVQsA7aaC7DZUdogkna7ACGaAhiuNYfi"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "2kRjLTbrnDASTtKhw1Yg1iv387PdmVSxDW5RsjE5wEuk",
@@ -3717,7 +3802,6 @@
           },
           "poolTokenMint": "BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -3875,6 +3959,11 @@
           "authority": "H73Bq4wPdkMyM1o1RCgFTrmCCTzkK7W9FrfyWWLZ8QCj"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "CfBhqWEx8uY79EQQWoQCnqCHJ6Uk6E2UR8UMekiJ8Pd3",
@@ -3888,7 +3977,6 @@
           },
           "poolTokenMint": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -4041,6 +4129,11 @@
           "authority": "7XFMgfxhDURuaPwhUkXAy6uQJCoC3HPpjiZBqcot57Ge"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "5WemKHzh1RjGjQGtp79yqP4yCEvmkNRcyN8qt9q6h46r",
@@ -4054,7 +4147,6 @@
           },
           "poolTokenMint": "USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c",
           "initialAmpFactor": "03e8",
-          "isPaused": 0,
           "targetAmpFactor": "03e8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -4207,6 +4299,11 @@
           "authority": "2kHUshxGYQLo7RQYdLTM6MXZq118w3TA4oak9dCwsF6B"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "2VTaCqHxVokTWfAkvaU6mYzYwbHpU1xog9mtEFYjL6Vv",
@@ -4220,7 +4317,6 @@
           },
           "poolTokenMint": "USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue",
           "initialAmpFactor": "03e8",
-          "isPaused": 0,
           "targetAmpFactor": "03e8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -4377,6 +4473,11 @@
           "authority": "2pVd6wjKqvNbv5RdLoqaBGRxTMTsCKDV8jvgpYDL3AJX"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 252,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "ALK28jM7pXqm25iYNB6CWxXvm3caykezYRqed8FQASdL",
@@ -4390,7 +4491,6 @@
           },
           "poolTokenMint": "USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -4547,6 +4647,11 @@
           "authority": "Ah5zHaE8fA8GJCopa9jaCmxG8AVUtf7ae7V8znSFURAd"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "FBRf9fnrYjMQPoowt5ihWh8jdpNwU9sF1u2ANe8UYzC7",
@@ -4560,7 +4665,6 @@
           },
           "poolTokenMint": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -4717,6 +4821,11 @@
           "authority": "7mupg3bhALz9TBNz8yWRroVpVqJMKDaJG1u1JasCebe8"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "B3u2djbwCbCn7jddeGWrwVKCF4hkuAnbvVNPaEJMtxDK",
@@ -4730,7 +4839,6 @@
           },
           "poolTokenMint": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
           "initialAmpFactor": "02ee",
-          "isPaused": 0,
           "targetAmpFactor": "02ee",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -4887,6 +4995,11 @@
           "authority": "4DEzAUzQCmvd4LsxcQ8X2tjNH89wGby8g9UXqZB55Mwp"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "BeZRrf1CFujZ1ARG7ejQNmbv6cTDRAGAnuFf53DsSaPB",
@@ -4900,7 +5013,6 @@
           },
           "poolTokenMint": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -5068,6 +5180,11 @@
           "authority": "2ctAWUAM4FUWp3iaHC5kEGktx4ThtC4tfnUEXQzxjFKm"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "DgFmPGKTHjZPiPQQVpKrJWXia3S2uZ9zxRAiPqg8YPNy",
@@ -5081,7 +5198,6 @@
           },
           "poolTokenMint": "WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA",
           "initialAmpFactor": "03e8",
-          "isPaused": 0,
           "targetAmpFactor": "03e8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -5237,6 +5353,11 @@
           "authority": "EUVmhYUvcyv4kzRE5heLtsPQWVX47RqGPeX2VMNwVSua"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "2uVQ3f2k6oC8X2o5T7mkmQy3DqAYzLUct7wv54WuY5NE",
@@ -5250,7 +5371,6 @@
           },
           "poolTokenMint": "FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK",
           "initialAmpFactor": "03e8",
-          "isPaused": 0,
           "targetAmpFactor": "03e8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -5403,6 +5523,11 @@
           "authority": "9osV5a7FXEjuMujxZJGBRXVAyQ5fJfBFNkyAf6fSz9kw"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 251,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "35rkTKhWZ7s7mMFafKikzLFAwWqyczJ4Wh9KpKg1kVuR",
@@ -5416,7 +5541,6 @@
           },
           "poolTokenMint": "USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -5566,6 +5690,11 @@
           "authority": "ubiHGBrW6aYpYdAM4f1WVJjmiC8SAKFcG4hZe1Cksa6"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "F3jxvxorHa6rpykj2vnMdvx8PW8aTdufw6obyni9WGvh",
@@ -5579,7 +5708,6 @@
           },
           "poolTokenMint": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
           "initialAmpFactor": "03e8",
-          "isPaused": 0,
           "targetAmpFactor": "03e8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -5736,6 +5864,11 @@
           "authority": "4RcgjJHEndsDpSniNaU392dnfjFZFGhwUT3Fd9rSEcMv"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 253,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "EPd5EG4BbwGYSqa4weWGpmEY8ShD9SFLcmQ8D13Vhe55",
@@ -5749,7 +5882,6 @@
           },
           "poolTokenMint": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",
           "initialAmpFactor": "c8",
-          "isPaused": 0,
           "targetAmpFactor": "c8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -5902,6 +6034,11 @@
           "authority": "4S8xo3PeKfs3kY7ecS2amiffJZ4WXCAceDhUseE11q5E"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "BKBj63Q8xReKi8Mhde1dPpyCNxHEuFjnFs27isrQPxUT",
@@ -5915,7 +6052,6 @@
           },
           "poolTokenMint": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -6068,6 +6204,11 @@
           "authority": "8puxJXzTyPXRsQ9PH9niMeje9M83a2bzatTzHxBWjGoP"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "FvLrRpaBWenMvAR2v8NcxBdYV1W6a69VP2Zh3nVLrzZA",
@@ -6081,7 +6222,6 @@
           },
           "poolTokenMint": "APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -6238,6 +6378,11 @@
           "authority": "41gN5ZP7inB3rgqQikVxWcfofyYsxH4zWQBRWyJrdZCy"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 253,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "EjhrU14XgkHBmJpKLnZjy3QDM8bYu4pAoau2rvnm7axN",
@@ -6251,7 +6396,6 @@
           },
           "poolTokenMint": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -6408,6 +6552,11 @@
           "authority": "ASniuTkvzrbk5gpV4mkibbFvyzL62ACdDBmLqeHxpvaB"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "2SRUBK2GjsJcpgLP1F5xaiPWPRGnREjVVs9WsuH797TS",
@@ -6421,7 +6570,6 @@
           },
           "poolTokenMint": "BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp",
           "initialAmpFactor": "96",
-          "isPaused": 0,
           "targetAmpFactor": "96",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -6577,6 +6725,11 @@
           "authority": "4vKg9TxAmbmBQYvsv9StJYMwyDeWNyfVSumMzmemrXbZ"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "7K7c6yYjywBtCJ6VMwJYrEefgTSsLNhtQP8rbAQcfSed",
@@ -6590,7 +6743,6 @@
           },
           "poolTokenMint": "AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR",
           "initialAmpFactor": "0320",
-          "isPaused": 0,
           "targetAmpFactor": "0320",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -6747,6 +6899,11 @@
           "authority": "7SYgkmnr9nFhDw9BUxFc2x2ZwY98NYfvMtMLcK67vknQ"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "AcHQUvVEGsXnWk8KmcupRbchxccyPHBN6pm4gA4qNPws",
@@ -6760,7 +6917,6 @@
           },
           "poolTokenMint": "AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz",
           "initialAmpFactor": "03e8",
-          "isPaused": 0,
           "targetAmpFactor": "03e8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -6917,6 +7073,11 @@
           "authority": "3LKrJtagDoUGTCzHA6JC18uWwAoMWDbDDKGrz3q46wZV"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "BWZUe1ghLSFWXtPkBdErat13uxVZvqG5eB8Up7aDQYUv",
@@ -6930,7 +7091,6 @@
           },
           "poolTokenMint": "aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7",
           "initialAmpFactor": "03e8",
-          "isPaused": 0,
           "targetAmpFactor": "03e8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -7087,6 +7247,11 @@
           "authority": "99Y7Y3DwALuxnbe9YkHJNK5ReLswTq1dwaEs4yRPv7ad"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "3tknZfydUcTyRjD62R6PS6bSKWRBAYT8HdgPXShio7kW",
@@ -7100,7 +7265,6 @@
           },
           "poolTokenMint": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
           "initialAmpFactor": "c8",
-          "isPaused": 0,
           "targetAmpFactor": "c8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -7257,6 +7421,11 @@
           "authority": "BHKzitonCpp1LBEZ2eqs3TZXB1wJxLbisS18LbE3aJos"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "6otgawUjCsDyFsjMto1Ky2Yb897B49Rzu4teniz2Kade",
@@ -7270,7 +7439,6 @@
           },
           "poolTokenMint": "AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv",
           "initialAmpFactor": "03e8",
-          "isPaused": 0,
           "targetAmpFactor": "03e8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -7427,6 +7595,11 @@
           "authority": "EPtXq2vDbFdpxVUuS4qzh5dhnWHQeriNyz7Tvyott2DB"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "CQN3BwxS27NQMcQg6RmvcAm73QgZpBoEw3P7HyWrURwm",
@@ -7440,7 +7613,6 @@
           },
           "poolTokenMint": "AVTrxHq5P57fYZTYjMuCRWFqsrLmom2gGThNtgEgK1ip",
           "initialAmpFactor": "03e8",
-          "isPaused": 0,
           "targetAmpFactor": "03e8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -7597,6 +7769,11 @@
           "authority": "J5DTF99jm9xjWwcDcMgYxRcsPT6ydE936Qry76oLKSXe"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "9AZg8dZxNZLLXMEokWnvzq7F6N7hNFQWMjNEBLXrRwVH",
@@ -7610,7 +7787,6 @@
           },
           "poolTokenMint": "AVDuGckLavyLr5YifViaxnoveY6rwqDezHw5kiKiRQEC",
           "initialAmpFactor": "c8",
-          "isPaused": 0,
           "targetAmpFactor": "c8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -7767,6 +7943,11 @@
           "authority": "BQsXo2y2KFdPpF9v9ckb1BaxSQxqgx12WevS8BYnkYhY"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 253,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "2RcddGUJPE5bH7Ju98XWtQSwB7idmcoKqriY6aseQqVV",
@@ -7780,7 +7961,6 @@
           },
           "poolTokenMint": "AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39",
           "initialAmpFactor": "c8",
-          "isPaused": 0,
           "targetAmpFactor": "c8",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -7948,6 +8128,11 @@
           "authority": "H9zLktv9iSJz7fMopV4HXKfx4Bi2UDhR7QJ9MjQ6Hej8"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 252,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "HJgm8StULdtdGyKPoecFdDxtWWSVBiBjk88XPmqdpuNa",
@@ -7961,7 +8146,6 @@
           },
           "poolTokenMint": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -8132,6 +8316,11 @@
           "authority": "2Sj4MZvmLhud4uRmGHJvDxq612nmF4JJsU1R4ZjNNGMS"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 251,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "FVqXHUrVCWDVG6z4YFRaSDvVx29MZSMUG3QikEoHgg8r",
@@ -8145,7 +8334,6 @@
           },
           "poolTokenMint": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -8292,6 +8480,11 @@
           "authority": "6rxqyX1fD27oepCCnv2uy9uJWmXHjPTeQ5PaP99JZrKx"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "A3Muu6G6A3hyjbrPyop9QCc8cE4gWVnZdKe1VGL3PASK",
@@ -8305,7 +8498,6 @@
           },
           "poolTokenMint": "PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -8449,6 +8641,11 @@
           "authority": "EKwQt98muCQJq4ghRFausCbMvyLhExS5g8CxvAFHike1"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 253,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "AX91QezedSBhh48ajj4rzc2KrYMomv1Djn1sbJ6Qz5Es",
@@ -8462,7 +8659,6 @@
           },
           "poolTokenMint": "PrsVdKtXDDf6kJQu5Ff6YqmjfE4TZXtBgHM4bjuvRnR",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -8618,6 +8814,11 @@
           "authority": "8eyi347MTDeH5F6eVv2qjPxVnU685FFZLDGcj5QWHZ6y"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 252,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "H1tJ1y5CpVv6vxQ3C3jzLixYK6TqjvzaneLhUE2kaapu",
@@ -8631,7 +8832,6 @@
           },
           "poolTokenMint": "stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
@@ -8796,6 +8996,11 @@
           "authority": "3roMZdhjqzKF5HaZxF8a3G8bavz8EggQXFMNiPsBnMQz"
         },
         "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 253,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
           "tokenA": {
             "adminFeeAccount": "QXpeCNTZvRJi3dWB2TifiRb45LCKzjNHeRV6MuzmbxA",
@@ -8809,7 +9014,6 @@
           },
           "poolTokenMint": "SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj",
           "initialAmpFactor": "32",
-          "isPaused": 0,
           "targetAmpFactor": "32",
           "startRampTimestamp": 0,
           "stopRampTimestamp": 0,
