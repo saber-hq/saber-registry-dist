@@ -91,8 +91,18 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-10-30T19:10:34.266Z",
+  "timestamp": "2021-10-30T19:12:00.278Z",
   "tokens": [
+    {
+      "symbol": "TEST",
+      "name": "Test USD",
+      "logoURI": "https://registry.saber.so/token-icons/candy-usd.png",
+      "address": "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
+      "decimals": 6,
+      "chainId": 103,
+      "tags": ["saber-market-usd"],
+      "extensions": {}
+    },
     {
       "symbol": "USDC",
       "name": "USD Coin",
