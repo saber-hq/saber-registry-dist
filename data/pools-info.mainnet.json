@@ -8373,7 +8373,6 @@
           "name": "pSOL (Parrot SOL)",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
-          "tags": ["stablecoin", "saber-market-sol"],
           "extensions": {
             "website": "https://parrot.fi",
             "twitter": "https://twitter.com/gopartyparrot",
@@ -8382,7 +8381,8 @@
             "discord": "https://discord.gg/gopartyparrot",
             "currency": "SOL"
           },
-          "chainId": 101
+          "chainId": 101,
+          "tags": ["saber-market-sol"]
         },
         {
           "symbol": "prtSOL",
@@ -8402,7 +8402,6 @@
           "name": "pSOL (Parrot SOL)",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
-          "tags": ["stablecoin", "saber-market-sol"],
           "extensions": {
             "website": "https://parrot.fi",
             "twitter": "https://twitter.com/gopartyparrot",
@@ -8411,7 +8410,8 @@
             "discord": "https://discord.gg/gopartyparrot",
             "currency": "SOL"
           },
-          "chainId": 101
+          "chainId": 101,
+          "tags": ["saber-market-sol"]
         },
         {
           "symbol": "prtSOL",
@@ -8431,7 +8431,6 @@
           "name": "pSOL (Parrot SOL)",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
-          "tags": ["stablecoin", "saber-market-sol"],
           "extensions": {
             "website": "https://parrot.fi",
             "twitter": "https://twitter.com/gopartyparrot",
@@ -8440,7 +8439,8 @@
             "discord": "https://discord.gg/gopartyparrot",
             "currency": "SOL"
           },
-          "chainId": 101
+          "chainId": 101,
+          "tags": ["saber-market-sol"]
         },
         {
           "symbol": "prtSOL",

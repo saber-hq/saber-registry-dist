@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-10-30T20:53:43.667Z",
+  "timestamp": "2021-10-30T21:02:12.493Z",
   "tokens": [
     {
       "chainId": 101,
@@ -1250,6 +1250,20 @@
       }
     },
     {
+      "address": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
+      "symbol": "aSOL",
+      "name": "aSOL",
+      "decimals": 9,
+      "logoURI": "https://registry.saber.so/token-icons/asol.svg",
+      "extensions": {
+        "website": "https://asol.so",
+        "coingeckoId": "solana",
+        "currency": "SOL"
+      },
+      "chainId": 101,
+      "tags": ["saber-market-sol"]
+    },
+    {
       "chainId": 101,
       "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
       "symbol": "mSOL",
@@ -1300,7 +1314,6 @@
       "name": "pSOL (Parrot SOL)",
       "decimals": 9,
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
-      "tags": ["stablecoin", "saber-market-sol", "saber-swappable"],
       "extensions": {
         "website": "https://parrot.fi",
         "twitter": "https://twitter.com/gopartyparrot",
@@ -1309,7 +1322,8 @@
         "discord": "https://discord.gg/gopartyparrot",
         "currency": "SOL"
       },
-      "chainId": 101
+      "chainId": 101,
+      "tags": ["saber-market-sol", "saber-swappable"]
     },
     {
       "chainId": 101,
