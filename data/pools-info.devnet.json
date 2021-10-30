@@ -80,7 +80,7 @@
       ],
       "currency": "USD",
       "lpToken": {
-        "symbol": "sbrUSDCUSDT",
+        "symbol": "USDC-USDT",
         "name": "USDC-USDT Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 6,
@@ -219,7 +219,7 @@
       ],
       "currency": "USD",
       "lpToken": {
-        "symbol": "sbrUSDCPAI",
+        "symbol": "USDC-PAI",
         "name": "USDC-PAI Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 6,
@@ -362,7 +362,7 @@
       ],
       "currency": "BTC",
       "lpToken": {
-        "symbol": "sbrrenBTCsWBTC-8",
+        "symbol": "renBTC-WBTC",
         "name": "renBTC-WBTC Saber LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
         "decimals": 8,

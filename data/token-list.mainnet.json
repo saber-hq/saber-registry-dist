@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-10-30T19:19:16.156Z",
+  "timestamp": "2021-10-30T19:23:33.186Z",
   "tokens": [
     {
       "chainId": 101,
@@ -1362,7 +1362,7 @@
       }
     },
     {
-      "symbol": "sbrUSDCUSDT",
+      "symbol": "USDT-USDC",
       "name": "USDT-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
@@ -1379,7 +1379,7 @@
       }
     },
     {
-      "symbol": "sbrPAIUSDC",
+      "symbol": "PAI-USDC",
       "name": "PAI-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
@@ -1396,7 +1396,7 @@
       }
     },
     {
-      "symbol": "sbrrenBTCsBTC-8",
+      "symbol": "BTC-renBTC",
       "name": "BTC-renBTC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 8,
@@ -1413,7 +1413,7 @@
       }
     },
     {
-      "symbol": "sbrrenBTCpBTC",
+      "symbol": "pBTC-renBTC",
       "name": "pBTC-renBTC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 8,
@@ -1430,7 +1430,7 @@
       }
     },
     {
-      "symbol": "sbrxUSDUSDC",
+      "symbol": "xUSD-USDC",
       "name": "xUSD-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
@@ -1447,7 +1447,7 @@
       }
     },
     {
-      "symbol": "sbrxSOLSOL",
+      "symbol": "xSOL-SOL",
       "name": "xSOL-SOL Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1464,7 +1464,7 @@
       }
     },
     {
-      "symbol": "sbrxFTTwFTT",
+      "symbol": "xFTT-wFTT",
       "name": "xFTT-wFTT Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 8,
@@ -1481,7 +1481,7 @@
       }
     },
     {
-      "symbol": "sbrxETHswhETH-9",
+      "symbol": "xETH-whETH",
       "name": "xETH-whETH Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1498,7 +1498,7 @@
       }
     },
     {
-      "symbol": "sbrxBTCsrenBTC-10",
+      "symbol": "xBTC-renBTC",
       "name": "xBTC-renBTC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 10,
@@ -1515,7 +1515,7 @@
       }
     },
     {
-      "symbol": "sbrsUSDC-9wUST_V1",
+      "symbol": "wUST_V1-USDC",
       "name": "wUST_V1-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1532,7 +1532,7 @@
       }
     },
     {
-      "symbol": "sbrwDAI_V1sUSDC-9",
+      "symbol": "wDAI_V1-USDC",
       "name": "wDAI_V1-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1549,7 +1549,7 @@
       }
     },
     {
-      "symbol": "sbrwBUSD_V1sUSDC-9",
+      "symbol": "wBUSD_V1-USDC",
       "name": "wBUSD_V1-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1566,7 +1566,7 @@
       }
     },
     {
-      "symbol": "sbrwLUNA_V1srenLUNA-9",
+      "symbol": "wLUNA_V1-renLUNA",
       "name": "wLUNA_V1-renLUNA Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1583,7 +1583,7 @@
       }
     },
     {
-      "symbol": "sbrwFRAX_V1sUSDC-9",
+      "symbol": "wFRAX_V1-USDC",
       "name": "wFRAX_V1-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1600,7 +1600,7 @@
       }
     },
     {
-      "symbol": "sbrwHBTC_V1srenBTC-9",
+      "symbol": "wHBTC_V1-renBTC",
       "name": "wHBTC_V1-renBTC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1617,7 +1617,7 @@
       }
     },
     {
-      "symbol": "sbrwHUSD_V1sUSDC-8",
+      "symbol": "wHUSD_V1-USDC",
       "name": "wHUSD_V1-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 8,
@@ -1634,7 +1634,7 @@
       }
     },
     {
-      "symbol": "sbrwUSDK_V1sUSDC-9",
+      "symbol": "wUSDK_V1-USDC",
       "name": "wUSDK_V1-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1651,7 +1651,7 @@
       }
     },
     {
-      "symbol": "sbrwFTT_V1sFTT-9",
+      "symbol": "wFTT_V1-FTT",
       "name": "wFTT_V1-FTT Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1668,7 +1668,7 @@
       }
     },
     {
-      "symbol": "sbrwSRM_V1SRM",
+      "symbol": "wSRM_V1-SRM",
       "name": "wSRM_V1-SRM Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
@@ -1685,7 +1685,7 @@
       }
     },
     {
-      "symbol": "sbrwibBTC_V1sBTC-9",
+      "symbol": "wibBTC_V1-BTC",
       "name": "wibBTC_V1-BTC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1702,7 +1702,7 @@
       }
     },
     {
-      "symbol": "sbrwibBTC_V1srenBTC-9",
+      "symbol": "wibBTC_V1-renBTC",
       "name": "wibBTC_V1-renBTC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1719,7 +1719,7 @@
       }
     },
     {
-      "symbol": "sbrweBUSDsUSDC-8",
+      "symbol": "weBUSD-USDC",
       "name": "weBUSD-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 8,
@@ -1736,7 +1736,7 @@
       }
     },
     {
-      "symbol": "sbrweUSDCUSDC",
+      "symbol": "weUSDC-USDC",
       "name": "weUSDC-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
@@ -1753,7 +1753,7 @@
       }
     },
     {
-      "symbol": "sbrweUSDTUSDT",
+      "symbol": "weUSDT-USDT",
       "name": "weUSDT-USDT Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
@@ -1770,7 +1770,7 @@
       }
     },
     {
-      "symbol": "sbrwUSDKsUSDC-8",
+      "symbol": "wUSDK-USDC",
       "name": "wUSDK-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 8,
@@ -1787,7 +1787,7 @@
       }
     },
     {
-      "symbol": "sbrwHUSDsUSDC-8",
+      "symbol": "wHUSD-USDC",
       "name": "wHUSD-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 8,
@@ -1804,7 +1804,7 @@
       }
     },
     {
-      "symbol": "sbrwDAIsUSDC-8",
+      "symbol": "wDAI-USDC",
       "name": "wDAI-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 8,
@@ -1821,7 +1821,7 @@
       }
     },
     {
-      "symbol": "sbrwFRAXsUSDC-8",
+      "symbol": "wFRAX-USDC",
       "name": "wFRAX-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 8,
@@ -1838,7 +1838,7 @@
       }
     },
     {
-      "symbol": "sbrsETH-8whETH",
+      "symbol": "ETH-whETH",
       "name": "ETH-whETH Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 8,
@@ -1855,7 +1855,7 @@
       }
     },
     {
-      "symbol": "sbraeFTTswFTT-9",
+      "symbol": "aeFTT-wFTT",
       "name": "aeFTT-wFTT Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1872,7 +1872,7 @@
       }
     },
     {
-      "symbol": "sbrwUSTUSDC",
+      "symbol": "wUST-USDC",
       "name": "wUST-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
@@ -1889,7 +1889,7 @@
       }
     },
     {
-      "symbol": "sbrwLUNArenLUNA",
+      "symbol": "wLUNA-renLUNA",
       "name": "wLUNA-renLUNA Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
@@ -1906,7 +1906,7 @@
       }
     },
     {
-      "symbol": "sbracUSDsUSDC-9",
+      "symbol": "acUSD-USDC",
       "name": "acUSD-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1923,7 +1923,7 @@
       }
     },
     {
-      "symbol": "sbrapUSDTUSDT",
+      "symbol": "apUSDT-USDT",
       "name": "apUSDT-USDT Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
@@ -1940,7 +1940,7 @@
       }
     },
     {
-      "symbol": "sbrapUSDCUSDC",
+      "symbol": "apUSDC-USDC",
       "name": "apUSDC-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
@@ -1957,7 +1957,7 @@
       }
     },
     {
-      "symbol": "sbrMAIsUSDC-9",
+      "symbol": "MAI-USDC",
       "name": "MAI-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1974,7 +1974,7 @@
       }
     },
     {
-      "symbol": "sbrabBUSDsUSDC-9",
+      "symbol": "abBUSD-USDC",
       "name": "abBUSD-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -1991,7 +1991,7 @@
       }
     },
     {
-      "symbol": "sbrswhETH-9aeWETH",
+      "symbol": "whETH-aeWETH",
       "name": "whETH-aeWETH Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -2008,7 +2008,7 @@
       }
     },
     {
-      "symbol": "sbraeUSDCsUSDC-9",
+      "symbol": "aeUSDC-USDC",
       "name": "aeUSDC-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -2025,7 +2025,7 @@
       }
     },
     {
-      "symbol": "sbraeUSDTsUSDT-9",
+      "symbol": "aeUSDT-USDT",
       "name": "aeUSDT-USDT Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -2042,7 +2042,7 @@
       }
     },
     {
-      "symbol": "sbraeDAIsUSDC-9",
+      "symbol": "aeDAI-USDC",
       "name": "aeDAI-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -2059,7 +2059,7 @@
       }
     },
     {
-      "symbol": "sbraaUSDCsUSDC-9",
+      "symbol": "aaUSDC-USDC",
       "name": "aaUSDC-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -2076,7 +2076,7 @@
       }
     },
     {
-      "symbol": "sbraaUSDTsUSDT-9",
+      "symbol": "aaUSDT-USDT",
       "name": "aaUSDT-USDT Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -2093,7 +2093,7 @@
       }
     },
     {
-      "symbol": "sbraaDAIsUSDC-9",
+      "symbol": "aaDAI-USDC",
       "name": "aaDAI-USDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -2110,7 +2110,7 @@
       }
     },
     {
-      "symbol": "sbraaWBTCsrenBTC-9",
+      "symbol": "aaWBTC-renBTC",
       "name": "aaWBTC-renBTC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -2127,7 +2127,7 @@
       }
     },
     {
-      "symbol": "sbrpUSDTpUSDC",
+      "symbol": "pUSDT-pUSDC",
       "name": "pUSDT-pUSDC Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
@@ -2144,7 +2144,7 @@
       }
     },
     {
-      "symbol": "sbrmSOLSOL",
+      "symbol": "mSOL-SOL",
       "name": "mSOL-SOL Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -2161,7 +2161,7 @@
       }
     },
     {
-      "symbol": "sbrpSOLprtSOL",
+      "symbol": "pSOL-prtSOL",
       "name": "pSOL-prtSOL Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -2178,7 +2178,7 @@
       }
     },
     {
-      "symbol": "sbrprtSOLSOL",
+      "symbol": "prtSOL-SOL",
       "name": "prtSOL-SOL Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -2195,7 +2195,7 @@
       }
     },
     {
-      "symbol": "sbrstSOLSOL",
+      "symbol": "stSOL-SOL",
       "name": "stSOL-SOL Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
@@ -2212,7 +2212,7 @@
       }
     },
     {
-      "symbol": "sbrscnSOLSOL",
+      "symbol": "scnSOL-SOL",
       "name": "scnSOL-SOL Saber LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 9,
