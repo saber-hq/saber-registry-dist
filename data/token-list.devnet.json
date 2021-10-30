@@ -91,12 +91,12 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-10-30T19:08:15.206Z",
+  "timestamp": "2021-10-30T19:10:34.266Z",
   "tokens": [
     {
       "symbol": "USDC",
       "name": "USD Coin",
-      "logoURI": "/tokens/usdc.svg",
+      "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
       "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
       "decimals": 6,
       "chainId": 103,
@@ -106,7 +106,7 @@
     {
       "symbol": "USDT",
       "name": "Tether USD",
-      "logoURI": "/tokens/usdt.svg",
+      "logoURI": "https://registry.saber.so/token-icons/usdt.svg",
       "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
       "decimals": 6,
       "chainId": 103,
@@ -116,7 +116,7 @@
     {
       "symbol": "PAI",
       "name": "PAI",
-      "logoURI": "/tokens/pai.svg",
+      "logoURI": "https://registry.saber.so/token-icons/pai.svg",
       "address": "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL",
       "decimals": 6,
       "chainId": 103,
