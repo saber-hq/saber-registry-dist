@@ -517,6 +517,17 @@
     "tokenBCoingecko": "solana"
   },
   {
+    "id": "asol",
+    "lpMint": "ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV",
+    "tokenA": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
+    "tokenB": "So11111111111111111111111111111111111111112",
+    "authority": "GzGGc1xo457qnjmTbjMx1J7mabMSJs3VQyGnb51Yho1U",
+    "reserveA": "BKWm4TRnTeKwfWXRyuzjRHU7iZDkPuXBX5b5V5jSVfGJ",
+    "reserveB": "A5Ww74HVrkj9nPeC7pHKLfgeDMEhBCpW1efQdz3TGLEg",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana"
+  },
+  {
     "id": "psol",
     "lpMint": "PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy",
     "tokenA": "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",

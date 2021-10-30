@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-10-30T21:02:12.493Z",
+  "timestamp": "2021-10-30T21:18:30.279Z",
   "tokens": [
     {
       "chainId": 101,
@@ -1261,7 +1261,7 @@
         "currency": "SOL"
       },
       "chainId": 101,
-      "tags": ["saber-market-sol"]
+      "tags": ["saber-market-sol", "saber-swappable"]
     },
     {
       "chainId": 101,
@@ -2169,6 +2169,23 @@
         "website": "https://app.saber.so/#/pools/msol_sol",
         "underlyingTokens": [
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "aSOL-SOL",
+      "name": "aSOL-SOL Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/asol",
+        "underlyingTokens": [
+          "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
           "So11111111111111111111111111111111111111112"
         ],
         "source": "saber"

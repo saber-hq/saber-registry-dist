@@ -8364,6 +8364,179 @@
       "quarry": "7193EeecxsPPv9TMoQATTN8i1eTqEUSNU8aDLuFCQy68"
     },
     {
+      "id": "asol",
+      "name": "aSOL-SOL",
+      "tokens": [
+        {
+          "address": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
+          "symbol": "aSOL",
+          "name": "aSOL",
+          "decimals": 9,
+          "logoURI": "https://registry.saber.so/token-icons/asol.svg",
+          "extensions": {
+            "website": "https://asol.so",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          },
+          "chainId": 101,
+          "tags": ["saber-market-sol"]
+        },
+        {
+          "chainId": 101,
+          "address": "So11111111111111111111111111111111111111112",
+          "symbol": "SOL",
+          "name": "Wrapped SOL",
+          "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+          "tags": ["saber-market-sol"],
+          "extensions": {
+            "website": "https://solana.com/",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
+          "symbol": "aSOL",
+          "name": "aSOL",
+          "decimals": 9,
+          "logoURI": "https://registry.saber.so/token-icons/asol.svg",
+          "extensions": {
+            "website": "https://asol.so",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          },
+          "chainId": 101,
+          "tags": ["saber-market-sol"]
+        },
+        {
+          "chainId": 101,
+          "address": "So11111111111111111111111111111111111111112",
+          "symbol": "SOL",
+          "name": "Wrapped SOL",
+          "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+          "tags": ["saber-market-sol"],
+          "extensions": {
+            "website": "https://solana.com/",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
+          "symbol": "aSOL",
+          "name": "aSOL",
+          "decimals": 9,
+          "logoURI": "https://registry.saber.so/token-icons/asol.svg",
+          "extensions": {
+            "website": "https://asol.so",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          },
+          "chainId": 101,
+          "tags": ["saber-market-sol"]
+        },
+        {
+          "chainId": 101,
+          "address": "So11111111111111111111111111111111111111112",
+          "symbol": "SOL",
+          "name": "Wrapped SOL",
+          "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+          "tags": ["saber-market-sol"],
+          "extensions": {
+            "website": "https://solana.com/",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          }
+        }
+      ],
+      "currency": "SOL",
+      "lpToken": {
+        "symbol": "aSOL-SOL",
+        "name": "aSOL-SOL Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/asol",
+          "underlyingTokens": [
+            "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "DzXvdLMtr3MVSVwxuR7pxwKQASrVWw1TUu1EBEvpU7U3",
+      "swap": {
+        "config": {
+          "swapAccount": "AURHmCnNwiW4uA2Qj1XvEh4iKgRUZYXtiY7FKAapUV5Y",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "GzGGc1xo457qnjmTbjMx1J7mabMSJs3VQyGnb51Yho1U"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 253,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "4dk6FVQWPMCpcsVbY8F8vjeeqKTeA2Gu95nW5zu8rMXp",
+            "reserve": "BKWm4TRnTeKwfWXRyuzjRHU7iZDkPuXBX5b5V5jSVfGJ",
+            "mint": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond"
+          },
+          "tokenB": {
+            "adminFeeAccount": "FHQqnz7YsTv9ERANDSoH3odT6LAnRJNgwNNzhpbLzdWR",
+            "reserve": "A5Ww74HVrkj9nPeC7pHKLfgeDMEhBCpW1efQdz3TGLEg",
+            "mint": "So11111111111111111111111111111111111111112"
+          },
+          "poolTokenMint": "ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "8RyD4nFiZ56nVNtHM3wBfn2kr889XBrxv8Y1swJq91md"
+    },
+    {
       "id": "psol",
       "name": "pSOL-prtSOL",
       "tokens": [
