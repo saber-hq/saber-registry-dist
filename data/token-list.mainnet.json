@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-11-04T03:01:59.822Z",
+  "timestamp": "2021-11-06T02:56:10.414Z",
   "tokens": [
     {
       "chainId": 101,
@@ -687,6 +687,20 @@
       "tags": ["stablecoin", "saber-market-usd", "saber-swappable"],
       "extensions": {
         "coingeckoId": "celo-dollar",
+        "source": "allbridge",
+        "currency": "USD"
+      },
+      "chainId": 101
+    },
+    {
+      "symbol": "acUSDC",
+      "name": "Wrapped cUSDC (Allbridge from Celo)",
+      "logoURL": "https://registry.saber.so/token-icons/usdc.svg",
+      "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
+      "decimals": 9,
+      "tags": ["stablecoin", "saber-market-usd"],
+      "extensions": {
+        "coingeckoId": "usd-coin",
         "source": "allbridge",
         "currency": "USD"
       },
