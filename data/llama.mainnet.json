@@ -363,6 +363,17 @@
     "tokenBCoingecko": "usd-coin"
   },
   {
+    "id": "acusdc",
+    "lpMint": "GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC",
+    "tokenA": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+    "tokenB": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
+    "authority": "FMGXRh8AYYy2SiPor8yzZPECNVkjwKtwYTWPsqAJrM8W",
+    "reserveA": "AhFPQdu8GKBsxuhiH46UmCu1YpaLgNpoP325HnYtsgas",
+    "reserveB": "A8wxWpT3aFEr2XqZp1kDmbxbFfcBE95UUmdsNTDBJYbT",
+    "tokenACoingecko": "usd-coin",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
     "id": "apusdt",
     "lpMint": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
     "tokenA": "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",

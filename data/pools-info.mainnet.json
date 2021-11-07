@@ -5912,6 +5912,180 @@
       "quarry": "64Jh71Av4M5QaEyduDJigNsa4HUBwvT2cQyi5YBSp1e4"
     },
     {
+      "id": "acusdc",
+      "name": "USDC-acUSDC",
+      "tokens": [
+        {
+          "name": "Saber Wrapped USD Coin (9 decimals)",
+          "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "decimals": 9,
+          "symbol": "sUSDC-9",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin",
+            "underlyingTokens": [
+              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ],
+            "currency": "USD"
+          }
+        },
+        {
+          "symbol": "acUSDC",
+          "name": "Wrapped cUSDC (Allbridge from Celo)",
+          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
+          "decimals": 9,
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "source": "allbridge",
+            "currency": "USD"
+          },
+          "chainId": 101
+        }
+      ],
+      "tokenIcons": [
+        {
+          "name": "Saber Wrapped USD Coin (9 decimals)",
+          "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "decimals": 9,
+          "symbol": "sUSDC-9",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin",
+            "underlyingTokens": [
+              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ],
+            "currency": "USD"
+          }
+        },
+        {
+          "symbol": "acUSDC",
+          "name": "Wrapped cUSDC (Allbridge from Celo)",
+          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
+          "decimals": 9,
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "source": "allbridge",
+            "currency": "USD"
+          },
+          "chainId": 101
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "currency": "USD"
+          }
+        },
+        {
+          "symbol": "acUSDC",
+          "name": "Wrapped cUSDC (Allbridge from Celo)",
+          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
+          "decimals": 9,
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "source": "allbridge",
+            "currency": "USD"
+          },
+          "chainId": 101
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "USDC-acUSDC",
+        "name": "USDC-acUSDC Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/acusdc",
+          "underlyingTokens": [
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+            "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "3dQTmwVt45BvnLSbRbnEt38Wn1WDexCBSGtsHHZdeKGH",
+      "swap": {
+        "config": {
+          "swapAccount": "ACUSESXyNnwRLAg1dpSGMLSzUDdLjUMybY8rkXiAKhCP",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "FMGXRh8AYYy2SiPor8yzZPECNVkjwKtwYTWPsqAJrM8W"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "Aq6GAVz42cxgupDWiADi7h3aGm7J7tc4s8LipXTWrCmF",
+            "reserve": "AhFPQdu8GKBsxuhiH46UmCu1YpaLgNpoP325HnYtsgas",
+            "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          },
+          "tokenB": {
+            "adminFeeAccount": "Fgm2R4iuSvtr9UqBTcA2YYbhFMVMiZWeigVTmyCRiQte",
+            "reserve": "A8wxWpT3aFEr2XqZp1kDmbxbFfcBE95UUmdsNTDBJYbT",
+            "mint": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui"
+          },
+          "poolTokenMint": "GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "GkiBc6Vzqhdm9jeQUDpkXfAtZdfpbfaaiwVTMqM3uMc3"
+    },
+    {
       "id": "apusdt",
       "name": "apUSDT-USDT",
       "tokens": [
