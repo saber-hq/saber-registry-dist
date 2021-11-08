@@ -44,6 +44,17 @@
     "tokenBCoingecko": "ptokens-btc"
   },
   {
+    "id": "cash",
+    "lpMint": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
+    "tokenA": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+    "tokenB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "authority": "4ofEvMGQ87LFQ9aNw6pCDocFytWBH8BYqL7MwDKfQt1U",
+    "reserveA": "7EifTDGz2nEU7DiE2UuuBX9Efkbdfad47mgr7Bqrqo8Y",
+    "reserveB": "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr",
+    "tokenACoingecko": "usd-coin",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
     "id": "xusd",
     "lpMint": "XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n",
     "tokenA": "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",

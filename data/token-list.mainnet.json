@@ -91,8 +91,23 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-11-07T16:34:18.089Z",
+  "timestamp": "2021-11-08T17:26:04.209Z",
   "tokens": [
+    {
+      "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "symbol": "CASH",
+      "name": "CASH",
+      "decimals": 6,
+      "logoURI": "https://cashio.app/images/icon.png",
+      "tags": ["stablecoin", "saber-market-usd", "saber-swappable"],
+      "extensions": {
+        "website": "https://cashio.app",
+        "twitter": "https://twitter.com/CashioApp",
+        "coingeckoId": "usd-coin",
+        "currency": "USD"
+      },
+      "chainId": 101
+    },
     {
       "chainId": 101,
       "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -1453,6 +1468,23 @@
         "underlyingTokens": [
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
           "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "CASH-USDC",
+      "name": "CASH-USDC Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 6,
+      "address": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/cash",
+        "underlyingTokens": [
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
         "source": "saber"
       }

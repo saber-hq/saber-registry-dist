@@ -747,6 +747,179 @@
       "quarry": "8hnBtfEumuBh8Vd19qZ16re6wWgMZypZQoFLum7vx1bf"
     },
     {
+      "id": "cash",
+      "name": "CASH-USDC",
+      "tokens": [
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "symbol": "CASH",
+          "name": "CASH",
+          "decimals": 6,
+          "logoURI": "https://cashio.app/images/icon.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://cashio.app",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          },
+          "chainId": 101
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "currency": "USD"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "symbol": "CASH",
+          "name": "CASH",
+          "decimals": 6,
+          "logoURI": "https://cashio.app/images/icon.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://cashio.app",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          },
+          "chainId": 101
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "currency": "USD"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "symbol": "CASH",
+          "name": "CASH",
+          "decimals": 6,
+          "logoURI": "https://cashio.app/images/icon.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://cashio.app",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          },
+          "chainId": 101
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "CASH-USDC",
+        "name": "CASH-USDC Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/cash",
+          "underlyingTokens": [
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "9tXeRPuyJeQyfVSRAryxzWju4feBE8zwDg6N8D5zwSGj",
+      "swap": {
+        "config": {
+          "swapAccount": "CASNrsSdASV1eyEca4mnEwhMqjANkyRLnF5kEGoorBX2",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "4ofEvMGQ87LFQ9aNw6pCDocFytWBH8BYqL7MwDKfQt1U"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "9niyW9wWe5nHeD1fdVJqRq8xQbEXt6wmsfYGdBPC2wjQ",
+            "reserve": "7EifTDGz2nEU7DiE2UuuBX9Efkbdfad47mgr7Bqrqo8Y",
+            "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          },
+          "tokenB": {
+            "adminFeeAccount": "24Q5Q4bFJH8i3kxFP9Etnsvw15McNy8XY9MrRAGWhjW7",
+            "reserve": "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr",
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          },
+          "poolTokenMint": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
+          "initialAmpFactor": "01f4",
+          "targetAmpFactor": "01f4",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "3esh4Uq1WMpdYSgBmK92C9eLVRU5MzcNPm2PJyG72Fqo"
+    },
+    {
       "id": "xusd",
       "name": "xUSD-USDC",
       "tokens": [
