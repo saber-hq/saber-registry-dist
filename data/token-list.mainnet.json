@@ -91,23 +91,8 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-11-08T17:26:04.209Z",
+  "timestamp": "2021-11-08T17:49:51.651Z",
   "tokens": [
-    {
-      "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-      "symbol": "CASH",
-      "name": "CASH",
-      "decimals": 6,
-      "logoURI": "https://cashio.app/images/icon.png",
-      "tags": ["stablecoin", "saber-market-usd", "saber-swappable"],
-      "extensions": {
-        "website": "https://cashio.app",
-        "twitter": "https://twitter.com/CashioApp",
-        "coingeckoId": "usd-coin",
-        "currency": "USD"
-      },
-      "chainId": 101
-    },
     {
       "chainId": 101,
       "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -137,6 +122,21 @@
         "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
         "currency": "USD"
       }
+    },
+    {
+      "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "symbol": "CASH",
+      "name": "CASH",
+      "decimals": 6,
+      "logoURI": "https://cashio.app/images/icon.png",
+      "tags": ["stablecoin", "saber-market-usd", "saber-swappable"],
+      "extensions": {
+        "website": "https://cashio.app",
+        "twitter": "https://twitter.com/CashioApp",
+        "coingeckoId": "usd-coin",
+        "currency": "USD"
+      },
+      "chainId": 101
     },
     {
       "chainId": 101,
