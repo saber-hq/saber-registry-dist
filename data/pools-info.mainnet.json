@@ -6107,8 +6107,8 @@
         },
         {
           "symbol": "acUSDC",
-          "name": "Wrapped cUSDC (Allbridge from Celo)",
-          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "name": "Wrapped USDC (Allbridge from Celo)",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
           "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
           "decimals": 9,
           "tags": ["stablecoin", "saber-market-usd"],
@@ -6140,8 +6140,8 @@
         },
         {
           "symbol": "acUSDC",
-          "name": "Wrapped cUSDC (Allbridge from Celo)",
-          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "name": "Wrapped USDC (Allbridge from Celo)",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
           "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
           "decimals": 9,
           "tags": ["stablecoin", "saber-market-usd"],
@@ -6171,8 +6171,8 @@
         },
         {
           "symbol": "acUSDC",
-          "name": "Wrapped cUSDC (Allbridge from Celo)",
-          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "name": "Wrapped USDC (Allbridge from Celo)",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
           "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
           "decimals": 9,
           "tags": ["stablecoin", "saber-market-usd"],
