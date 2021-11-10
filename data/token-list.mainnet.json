@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-11-08T17:49:51.651Z",
+  "timestamp": "2021-11-10T18:40:44.054Z",
   "tokens": [
     {
       "chainId": 101,
@@ -870,6 +870,34 @@
       "extensions": { "coingeckoId": "avalanche", "source": "allbridge" },
       "chainId": 101,
       "tags": []
+    },
+    {
+      "address": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
+      "symbol": "ahUSDT",
+      "name": "Wrapped USDT (Allbridge from HECO)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj/logo.png",
+      "tags": ["stablecoin", "saber-market-usd", "saber-swappable"],
+      "extensions": {
+        "coingeckoId": "tether",
+        "source": "allbridge",
+        "currency": "USD"
+      },
+      "chainId": 101
+    },
+    {
+      "address": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
+      "symbol": "ahBTC",
+      "name": "Wrapped BTC (Allbridge from HECO)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH/logo.png",
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "source": "allbridge",
+        "currency": "BTC"
+      },
+      "chainId": 101,
+      "tags": ["saber-market-btc", "saber-swappable"]
     },
     {
       "symbol": "pUSDC",
@@ -2198,6 +2226,40 @@
         "website": "https://app.saber.so/#/pools/aawbtc",
         "underlyingTokens": [
           "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
+          "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "ahUSDT-USDC",
+      "name": "ahUSDT-USDC Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/ahusdt",
+        "underlyingTokens": [
+          "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "ahBTC-renBTC",
+      "name": "ahBTC-renBTC Saber LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/ahwbtc",
+        "underlyingTokens": [
+          "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
           "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
         ],
         "source": "saber"

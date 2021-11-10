@@ -8338,6 +8338,354 @@
       "quarry": "6r6zEtUZghQmWsPpLFRwMvnoRja3SNDUaS72NUuQsFia"
     },
     {
+      "id": "ahusdt",
+      "name": "ahUSDT-USDC",
+      "tokens": [
+        {
+          "address": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
+          "symbol": "ahUSDT",
+          "name": "Wrapped USDT (Allbridge from HECO)",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj/logo.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "tether",
+            "source": "allbridge",
+            "currency": "USD"
+          },
+          "chainId": 101
+        },
+        {
+          "name": "Saber Wrapped USD Coin (9 decimals)",
+          "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "decimals": 9,
+          "symbol": "sUSDC-9",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin",
+            "underlyingTokens": [
+              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ],
+            "currency": "USD"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
+          "symbol": "ahUSDT",
+          "name": "Wrapped USDT (Allbridge from HECO)",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj/logo.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "tether",
+            "source": "allbridge",
+            "currency": "USD"
+          },
+          "chainId": 101
+        },
+        {
+          "name": "Saber Wrapped USD Coin (9 decimals)",
+          "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "decimals": 9,
+          "symbol": "sUSDC-9",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin",
+            "underlyingTokens": [
+              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ],
+            "currency": "USD"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
+          "symbol": "ahUSDT",
+          "name": "Wrapped USDT (Allbridge from HECO)",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj/logo.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "tether",
+            "source": "allbridge",
+            "currency": "USD"
+          },
+          "chainId": 101
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "ahUSDT-USDC",
+        "name": "ahUSDT-USDC Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/ahusdt",
+          "underlyingTokens": [
+            "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "G1gV1vQLPdio32EaB2oh4LfnktdT32x4EtDyhFctGsLT",
+      "swap": {
+        "config": {
+          "swapAccount": "AUS3TCHxzec2Sf1jUhvmTGWo3oLXW1zxrDPYBBvjKtEq",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "4d9QyKXngdKVwi3PM9r9PTHTk4dVyHm3b2EF9EFUfeZD"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "PjcrTSBEw1Ejeko9RtaQb7C687zkYfZBidj12ZUeHaF",
+            "reserve": "DyBGrZkGJHrgbxQXo3sh5KKz7YTzYK9gN8fhRSXN2whK",
+            "mint": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj"
+          },
+          "tokenB": {
+            "adminFeeAccount": "i44MVbo9HZWjdDSHpsVfSG6ZXmSADv3un9pPHScn3hX",
+            "reserve": "DRr3h3DF9wupahxh6vHMFCm6WGfmJWMrrBHoBvWAweAQ",
+            "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          },
+          "poolTokenMint": "HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR",
+          "initialAmpFactor": "7d",
+          "targetAmpFactor": "7d",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "8T7Few94jmgsPNtG1e3Q16Bm4nQZVDjt9sUbzPaN23w4"
+    },
+    {
+      "id": "ahwbtc",
+      "name": "ahBTC-renBTC",
+      "tokens": [
+        {
+          "address": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
+          "symbol": "ahBTC",
+          "name": "Wrapped BTC (Allbridge from HECO)",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH/logo.png",
+          "extensions": {
+            "coingeckoId": "wrapped-bitcoin",
+            "source": "allbridge",
+            "currency": "BTC"
+          },
+          "chainId": 101,
+          "tags": ["saber-market-btc"]
+        },
+        {
+          "name": "Saber Wrapped renBTC (9 decimals)",
+          "address": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
+          "decimals": 9,
+          "symbol": "srenBTC-9",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+            "coingeckoId": "renbtc",
+            "underlyingTokens": [
+              "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+            ],
+            "currency": "BTC"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
+          "symbol": "ahBTC",
+          "name": "Wrapped BTC (Allbridge from HECO)",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH/logo.png",
+          "extensions": {
+            "coingeckoId": "wrapped-bitcoin",
+            "source": "allbridge",
+            "currency": "BTC"
+          },
+          "chainId": 101,
+          "tags": ["saber-market-btc"]
+        },
+        {
+          "name": "Saber Wrapped renBTC (9 decimals)",
+          "address": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
+          "decimals": 9,
+          "symbol": "srenBTC-9",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+            "coingeckoId": "renbtc",
+            "underlyingTokens": [
+              "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+            ],
+            "currency": "BTC"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
+          "symbol": "ahBTC",
+          "name": "Wrapped BTC (Allbridge from HECO)",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH/logo.png",
+          "extensions": {
+            "coingeckoId": "wrapped-bitcoin",
+            "source": "allbridge",
+            "currency": "BTC"
+          },
+          "chainId": 101,
+          "tags": ["saber-market-btc"]
+        },
+        {
+          "chainId": 101,
+          "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+          "symbol": "renBTC",
+          "name": "renBTC",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+          "tags": ["saber-market-btc"],
+          "extensions": {
+            "coingeckoId": "renbtc",
+            "website": "https://renproject.io/",
+            "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "currency": "BTC"
+          }
+        }
+      ],
+      "currency": "BTC",
+      "lpToken": {
+        "symbol": "ahBTC-renBTC",
+        "name": "ahBTC-renBTC Saber LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/ahwbtc",
+          "underlyingTokens": [
+            "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
+            "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "6MLbjtWpBSFgveumcG8e67nuZ6epuUmqUoutD9VF4dad",
+      "swap": {
+        "config": {
+          "swapAccount": "HBTCrEkrCftRrXHZgSHQxRJTxG7TZ1DkC3Lq6UZiVg8E",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "EAR8LJq5ZzY5arxPBome3GeU2G9wSBiWp74u3zWaDpDQ"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "4vHeHJkcdmRLSF3YnnFGq5rB4nBiuEsw38zYDXCGwoi6",
+            "reserve": "56TsbS21JcCVgD8x7HDivK371QPWhNWPvH5QPA6oqmTX",
+            "mint": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH"
+          },
+          "tokenB": {
+            "adminFeeAccount": "CEZqDMX6dGLHi9dNoTHTsmwmBsJJa6suhfSjnBjik4DQ",
+            "reserve": "LRiFt5Sa2dCx2njaRMTVtkxKbiH2EJV2KN1b7FjMube",
+            "mint": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+          },
+          "poolTokenMint": "HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J",
+          "initialAmpFactor": "96",
+          "targetAmpFactor": "96",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "8mqVcEHKdGgYtnDTaK8MFDFGSrZoRddJeG46Ju9sET1G"
+    },
+    {
       "id": "port_2pool",
       "name": "pUSDT-pUSDC",
       "tokens": [

@@ -517,6 +517,28 @@
     "tokenBCoingecko": "renbtc"
   },
   {
+    "id": "ahusdt",
+    "lpMint": "HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR",
+    "tokenA": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
+    "tokenB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+    "authority": "4d9QyKXngdKVwi3PM9r9PTHTk4dVyHm3b2EF9EFUfeZD",
+    "reserveA": "DyBGrZkGJHrgbxQXo3sh5KKz7YTzYK9gN8fhRSXN2whK",
+    "reserveB": "DRr3h3DF9wupahxh6vHMFCm6WGfmJWMrrBHoBvWAweAQ",
+    "tokenACoingecko": "tether",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
+    "id": "ahwbtc",
+    "lpMint": "HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J",
+    "tokenA": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
+    "tokenB": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
+    "authority": "EAR8LJq5ZzY5arxPBome3GeU2G9wSBiWp74u3zWaDpDQ",
+    "reserveA": "56TsbS21JcCVgD8x7HDivK371QPWhNWPvH5QPA6oqmTX",
+    "reserveB": "LRiFt5Sa2dCx2njaRMTVtkxKbiH2EJV2KN1b7FjMube",
+    "tokenACoingecko": "wrapped-bitcoin",
+    "tokenBCoingecko": "renbtc"
+  },
+  {
     "id": "port_2pool",
     "lpMint": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
     "tokenA": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
