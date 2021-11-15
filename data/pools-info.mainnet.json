@@ -6108,7 +6108,7 @@
         {
           "symbol": "acUSDC",
           "name": "Wrapped USDC (Allbridge from Celo)",
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui.png",
           "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
           "decimals": 9,
           "tags": ["stablecoin", "saber-market-usd"],
@@ -6141,7 +6141,7 @@
         {
           "symbol": "acUSDC",
           "name": "Wrapped USDC (Allbridge from Celo)",
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui.png",
           "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
           "decimals": 9,
           "tags": ["stablecoin", "saber-market-usd"],
@@ -6172,7 +6172,7 @@
         {
           "symbol": "acUSDC",
           "name": "Wrapped USDC (Allbridge from Celo)",
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui.png",
           "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
           "decimals": 9,
           "tags": ["stablecoin", "saber-market-usd"],
@@ -8346,7 +8346,7 @@
           "symbol": "ahUSDT",
           "name": "Wrapped USDT (Allbridge from HECO)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "tether",
@@ -8379,7 +8379,7 @@
           "symbol": "ahUSDT",
           "name": "Wrapped USDT (Allbridge from HECO)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "tether",
@@ -8412,7 +8412,7 @@
           "symbol": "ahUSDT",
           "name": "Wrapped USDT (Allbridge from HECO)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "tether",
@@ -8520,7 +8520,7 @@
           "symbol": "ahBTC",
           "name": "Wrapped BTC (Allbridge from HECO)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH.png",
           "extensions": {
             "coingeckoId": "wrapped-bitcoin",
             "source": "allbridge",
@@ -8553,7 +8553,7 @@
           "symbol": "ahBTC",
           "name": "Wrapped BTC (Allbridge from HECO)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH.png",
           "extensions": {
             "coingeckoId": "wrapped-bitcoin",
             "source": "allbridge",
@@ -8586,7 +8586,7 @@
           "symbol": "ahBTC",
           "name": "Wrapped BTC (Allbridge from HECO)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH.png",
           "extensions": {
             "coingeckoId": "wrapped-bitcoin",
             "source": "allbridge",
@@ -9067,7 +9067,7 @@
           "symbol": "aSOL",
           "name": "aSOL",
           "decimals": 9,
-          "logoURI": "https://registry.saber.so/token-icons/asol.svg",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond.svg",
           "extensions": {
             "website": "https://asol.so",
             "coingeckoId": "solana",
@@ -9099,7 +9099,7 @@
           "symbol": "aSOL",
           "name": "aSOL",
           "decimals": 9,
-          "logoURI": "https://registry.saber.so/token-icons/asol.svg",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond.svg",
           "extensions": {
             "website": "https://asol.so",
             "coingeckoId": "solana",
@@ -9131,7 +9131,7 @@
           "symbol": "aSOL",
           "name": "aSOL",
           "decimals": 9,
-          "logoURI": "https://registry.saber.so/token-icons/asol.svg",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond.svg",
           "extensions": {
             "website": "https://asol.so",
             "coingeckoId": "solana",
