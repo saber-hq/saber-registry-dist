@@ -275,6 +275,28 @@
     "tokenBCoingecko": "tether"
   },
   {
+    "id": "wpusdc",
+    "lpMint": "WLPyXq7WRfdWLiP4fvRfSisrfDzLiPmCeVTE6okKQWE",
+    "tokenA": "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
+    "tokenB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "authority": "F6JFfyWaKTZY94rRzR5ftrtEKBS7aNLu1vYQiKuYhTZ6",
+    "reserveA": "y8dALFo1bJrSzPYjMX14HJX448pXqYmrfXHD1K8MXih",
+    "reserveB": "GN7Yuet3UyiWS5YVkEHv6oQKi4HGBJc3XDPt9zQhAqZz",
+    "tokenACoingecko": "usd-coin",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
+    "id": "wpusdt",
+    "lpMint": "WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj",
+    "tokenA": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
+    "tokenB": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "authority": "24nNLHx6HJutEJ27qQ6X4cKfXiDUpQPaKYEkfAYtEkW5",
+    "reserveA": "631WX9JizSHJm4w6VanZeJAst9T8DeUUnPLesdGkCVtK",
+    "reserveB": "211maUSfpnXbPuW1iBu8b4dtJv5EbN1j7JJiEX5TZKEP",
+    "tokenACoingecko": "tether",
+    "tokenBCoingecko": "tether"
+  },
+  {
     "id": "wusdk",
     "lpMint": "USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz",
     "tokenA": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",

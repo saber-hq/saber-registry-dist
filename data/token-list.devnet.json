@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-11-15T22:06:00.156Z",
+  "timestamp": "2021-11-17T02:30:41.779Z",
   "tokens": [
     {
       "symbol": "TEST",
@@ -177,7 +177,7 @@
     },
     {
       "symbol": "USDC-USDT",
-      "name": "USDC-USDT Saber LP",
+      "name": "Saber USDC-USDT LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
       "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
@@ -194,7 +194,7 @@
     },
     {
       "symbol": "TEST-USDC",
-      "name": "TEST-USDC Saber LP",
+      "name": "Saber TEST-USDC LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
       "address": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo",
@@ -211,7 +211,7 @@
     },
     {
       "symbol": "USDC-PAI",
-      "name": "USDC-PAI Saber LP",
+      "name": "Saber USDC-PAI LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 6,
       "address": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J",
@@ -228,7 +228,7 @@
     },
     {
       "symbol": "renBTC-WBTC",
-      "name": "renBTC-WBTC Saber LP",
+      "name": "Saber renBTC-WBTC LP",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "decimals": 8,
       "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
