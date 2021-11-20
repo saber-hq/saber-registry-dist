@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-11-17T03:03:57.033Z",
+  "timestamp": "2021-11-20T20:19:43.013Z",
   "tokens": [
     {
       "symbol": "TEST",
@@ -154,15 +154,16 @@
       "extensions": {}
     },
     {
-      "symbol": "sWBTC-8",
-      "name": "Saber Test WBTC (8 decimals)",
+      "name": "Saber Wrapped Test WBTC (8 decimals)",
       "address": "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
+      "symbol": "sWBTC-8",
       "chainId": 103,
-      "tags": ["saber-decimal-wrapped", "saber-market-btc", "saber-swappable"],
+      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
+      "tags": ["saber-market-btc", "saber-decimal-wrapped", "saber-swappable"],
       "extensions": {
-        "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"
+        "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
+        "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"]
       }
     },
     {

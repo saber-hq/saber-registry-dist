@@ -22,9 +22,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         },
@@ -37,9 +37,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         }
@@ -54,9 +54,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         },
@@ -69,9 +69,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -86,9 +86,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         },
@@ -101,9 +101,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -116,7 +116,7 @@
         "decimals": 6,
         "address": "2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp"],
+        "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
         "extensions": {
           "website": "https://app.saber.so/#/pools/usdc_usdt",
           "underlyingTokens": [
@@ -195,12 +195,12 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
           "tags": ["utility-token", "stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://parrot.fi",
-            "twitter": "https://twitter.com/gopartyparrot",
-            "telegram": "https://t.me/gopartyparrot",
-            "medium": "https://gopartyparrot.medium.com/",
-            "discord": "https://discord.gg/gopartyparrot",
             "coingeckoId": "parrot-usd",
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
             "currency": "USD"
           }
         },
@@ -213,9 +213,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -230,12 +230,12 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
           "tags": ["utility-token", "stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://parrot.fi",
-            "twitter": "https://twitter.com/gopartyparrot",
-            "telegram": "https://t.me/gopartyparrot",
-            "medium": "https://gopartyparrot.medium.com/",
-            "discord": "https://discord.gg/gopartyparrot",
             "coingeckoId": "parrot-usd",
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
             "currency": "USD"
           }
         },
@@ -248,9 +248,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -265,12 +265,12 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
           "tags": ["utility-token", "stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://parrot.fi",
-            "twitter": "https://twitter.com/gopartyparrot",
-            "telegram": "https://t.me/gopartyparrot",
-            "medium": "https://gopartyparrot.medium.com/",
-            "discord": "https://discord.gg/gopartyparrot",
             "coingeckoId": "parrot-usd",
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
             "currency": "USD"
           }
         },
@@ -283,9 +283,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -298,7 +298,7 @@
         "decimals": 6,
         "address": "PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp"],
+        "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
         "extensions": {
           "website": "https://app.saber.so/#/pools/usdc_pai",
           "underlyingTokens": [
@@ -375,13 +375,13 @@
           "name": "renBTC",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-          "tags": ["saber-market-btc"],
           "extensions": {
             "coingeckoId": "renbtc",
-            "website": "https://renproject.io/",
             "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
             "currency": "BTC"
-          }
+          },
+          "tags": ["saber-market-btc"]
         },
         {
           "name": "Saber Wrapped Wrapped Bitcoin (Sollet) (8 decimals)",
@@ -436,13 +436,13 @@
           "name": "renBTC",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-          "tags": ["saber-market-btc"],
           "extensions": {
             "coingeckoId": "renbtc",
-            "website": "https://renproject.io/",
             "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
             "currency": "BTC"
-          }
+          },
+          "tags": ["saber-market-btc"]
         }
       ],
       "underlyingIcons": [
@@ -456,9 +456,9 @@
           "tags": ["wrapped-sollet", "ethereum", "saber-market-btc"],
           "extensions": {
             "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+            "coingeckoId": "bitcoin",
             "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
             "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
-            "coingeckoId": "bitcoin",
             "currency": "BTC"
           }
         },
@@ -469,13 +469,13 @@
           "name": "renBTC",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-          "tags": ["saber-market-btc"],
           "extensions": {
             "coingeckoId": "renbtc",
-            "website": "https://renproject.io/",
             "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
             "currency": "BTC"
-          }
+          },
+          "tags": ["saber-market-btc"]
         }
       ],
       "currency": "BTC",
@@ -486,7 +486,7 @@
         "decimals": 8,
         "address": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp"],
+        "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
         "extensions": {
           "website": "https://app.saber.so/#/pools/btc",
           "underlyingTokens": [
@@ -563,13 +563,13 @@
           "name": "renBTC",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-          "tags": ["saber-market-btc"],
           "extensions": {
             "coingeckoId": "renbtc",
-            "website": "https://renproject.io/",
             "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
             "currency": "BTC"
-          }
+          },
+          "tags": ["saber-market-btc"]
         },
         {
           "address": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
@@ -624,13 +624,13 @@
           "name": "renBTC",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-          "tags": ["saber-market-btc"],
           "extensions": {
             "coingeckoId": "renbtc",
-            "website": "https://renproject.io/",
             "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
             "currency": "BTC"
-          }
+          },
+          "tags": ["saber-market-btc"]
         }
       ],
       "underlyingIcons": [
@@ -663,13 +663,13 @@
           "name": "renBTC",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-          "tags": ["saber-market-btc"],
           "extensions": {
             "coingeckoId": "renbtc",
-            "website": "https://renproject.io/",
             "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
             "currency": "BTC"
-          }
+          },
+          "tags": ["saber-market-btc"]
         }
       ],
       "currency": "BTC",
@@ -680,7 +680,7 @@
         "decimals": 8,
         "address": "pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp"],
+        "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
         "extensions": {
           "website": "https://app.saber.so/#/pools/pbtc",
           "underlyingTokens": [
@@ -774,9 +774,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -806,9 +806,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -838,9 +838,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -853,7 +853,7 @@
         "decimals": 6,
         "address": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp"],
+        "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
         "extensions": {
           "website": "https://app.saber.so/#/pools/cash",
           "underlyingTokens": [
@@ -930,14 +930,14 @@
           "name": "Synthetic USD",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y.svg",
-          "tags": ["saber-market-usd"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "usd-coin",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "USD",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-usd"]
         },
         {
           "chainId": 101,
@@ -948,9 +948,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -963,14 +963,14 @@
           "name": "Synthetic USD",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y.svg",
-          "tags": ["saber-market-usd"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "usd-coin",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "USD",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-usd"]
         },
         {
           "chainId": 101,
@@ -981,9 +981,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -996,14 +996,14 @@
           "name": "Synthetic USD",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y.svg",
-          "tags": ["saber-market-usd"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "usd-coin",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "USD",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-usd"]
         },
         {
           "chainId": 101,
@@ -1014,9 +1014,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -1029,7 +1029,12 @@
         "decimals": 6,
         "address": "XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-synthetify",
+          "saber-stableswap-lp",
+          "saber-lp-synthetify"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/xusd",
           "underlyingTokens": [
@@ -1106,14 +1111,14 @@
           "name": "Synthetic SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov.svg",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "solana",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "SOL",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-sol"]
         },
         {
           "chainId": 101,
@@ -1122,14 +1127,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "tokenIcons": [
@@ -1140,14 +1145,14 @@
           "name": "Synthetic SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov.svg",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "solana",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "SOL",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-sol"]
         },
         {
           "chainId": 101,
@@ -1156,14 +1161,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "underlyingIcons": [
@@ -1174,14 +1179,14 @@
           "name": "Synthetic SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov.svg",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "solana",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "SOL",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-sol"]
         },
         {
           "chainId": 101,
@@ -1190,14 +1195,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "currency": "SOL",
@@ -1208,7 +1213,12 @@
         "decimals": 9,
         "address": "xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-synthetify",
+          "saber-stableswap-lp",
+          "saber-lp-synthetify"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/xsol",
           "underlyingTokens": [
@@ -1285,14 +1295,14 @@
           "name": "Synthetic FTT",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9.svg",
-          "tags": ["saber-market-ftt"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "ftx-token",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "FTT",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-ftt"]
         },
         {
           "symbol": "wFTT",
@@ -1317,14 +1327,14 @@
           "name": "Synthetic FTT",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9.svg",
-          "tags": ["saber-market-ftt"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "ftx-token",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "FTT",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-ftt"]
         },
         {
           "symbol": "wFTT",
@@ -1349,14 +1359,14 @@
           "name": "Synthetic FTT",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9.svg",
-          "tags": ["saber-market-ftt"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "ftx-token",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "FTT",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-ftt"]
         },
         {
           "symbol": "wFTT",
@@ -1381,7 +1391,12 @@
         "decimals": 8,
         "address": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-synthetify",
+          "saber-stableswap-lp",
+          "saber-lp-synthetify"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/xftt",
           "underlyingTokens": [
@@ -1458,14 +1473,14 @@
           "name": "Synthetic ETH",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK.svg",
-          "tags": ["saber-market-eth"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "ethereum",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "ETH",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-eth"]
         },
         {
           "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
@@ -1493,14 +1508,14 @@
           "name": "Synthetic ETH",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK.svg",
-          "tags": ["saber-market-eth"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "ethereum",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "ETH",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-eth"]
         },
         {
           "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
@@ -1528,14 +1543,14 @@
           "name": "Synthetic ETH",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK.svg",
-          "tags": ["saber-market-eth"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "ethereum",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "ETH",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-eth"]
         },
         {
           "symbol": "whETH",
@@ -1560,7 +1575,12 @@
         "decimals": 9,
         "address": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-synthetify",
+          "saber-stableswap-lp",
+          "saber-lp-synthetify"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/xeth",
           "underlyingTokens": [
@@ -1637,14 +1657,14 @@
           "name": "Synthetic BTC",
           "decimals": 10,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D.svg",
-          "tags": ["saber-market-btc"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "bitcoin",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "BTC",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-btc"]
         },
         {
           "name": "Saber Wrapped renBTC (10 decimals)",
@@ -1672,14 +1692,14 @@
           "name": "Synthetic BTC",
           "decimals": 10,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D.svg",
-          "tags": ["saber-market-btc"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "bitcoin",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "BTC",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-btc"]
         },
         {
           "name": "Saber Wrapped renBTC (10 decimals)",
@@ -1707,14 +1727,14 @@
           "name": "Synthetic BTC",
           "decimals": 10,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D.svg",
-          "tags": ["saber-market-btc"],
           "extensions": {
-            "website": "https://synthetify.io/",
-            "twitter": "https://twitter.com/synthetify",
             "coingeckoId": "bitcoin",
+            "twitter": "https://twitter.com/synthetify",
+            "website": "https://synthetify.io/",
             "currency": "BTC",
             "source": "synthetify"
-          }
+          },
+          "tags": ["saber-market-btc"]
         },
         {
           "chainId": 101,
@@ -1723,13 +1743,13 @@
           "name": "renBTC",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-          "tags": ["saber-market-btc"],
           "extensions": {
             "coingeckoId": "renbtc",
-            "website": "https://renproject.io/",
             "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
             "currency": "BTC"
-          }
+          },
+          "tags": ["saber-market-btc"]
         }
       ],
       "currency": "BTC",
@@ -1740,7 +1760,12 @@
         "decimals": 10,
         "address": "xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-synthetify",
+          "saber-stableswap-lp",
+          "saber-lp-synthetify"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/xbtc",
           "underlyingTokens": [
@@ -1836,11 +1861,11 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
-            "website": "https://terra.money",
             "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "terrausd",
+            "website": "https://terra.money",
             "currency": "USD",
             "source": "wormhole-v1"
           }
@@ -1856,11 +1881,11 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
-            "website": "https://terra.money",
             "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "terrausd",
+            "website": "https://terra.money",
             "currency": "USD",
             "source": "wormhole-v1"
           }
@@ -1893,11 +1918,11 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
-            "website": "https://terra.money",
             "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "terrausd",
+            "website": "https://terra.money",
             "currency": "USD",
             "source": "wormhole-v1"
           }
@@ -1911,9 +1936,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -1926,7 +1951,12 @@
         "decimals": 9,
         "address": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/ust",
           "underlyingTokens": [
@@ -2007,8 +2037,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
             "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "dai",
             "currency": "USD",
             "source": "wormhole-v1"
@@ -2043,8 +2073,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
             "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "dai",
             "currency": "USD",
             "source": "wormhole-v1"
@@ -2079,8 +2109,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
             "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "dai",
             "currency": "USD",
             "source": "wormhole-v1"
@@ -2095,9 +2125,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -2110,7 +2140,12 @@
         "decimals": 9,
         "address": "Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/dai",
           "underlyingTokens": [
@@ -2191,8 +2226,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
             "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "binance-usd",
             "currency": "USD",
             "source": "wormhole-v1"
@@ -2227,8 +2262,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
             "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "binance-usd",
             "currency": "USD",
             "source": "wormhole-v1"
@@ -2263,8 +2298,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
             "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "binance-usd",
             "currency": "USD",
             "source": "wormhole-v1"
@@ -2279,9 +2314,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -2294,7 +2329,12 @@
         "decimals": 9,
         "address": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/busd",
           "underlyingTokens": [
@@ -2375,8 +2415,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-luna", "wormhole-v1"],
           "extensions": {
             "address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "wrapped-terra",
             "currency": "LUNA",
             "source": "wormhole-v1"
@@ -2410,8 +2450,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-luna", "wormhole-v1"],
           "extensions": {
             "address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "wrapped-terra",
             "currency": "LUNA",
             "source": "wormhole-v1"
@@ -2445,8 +2485,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-luna", "wormhole-v1"],
           "extensions": {
             "address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "wrapped-terra",
             "currency": "LUNA",
             "source": "wormhole-v1"
@@ -2459,12 +2499,12 @@
           "name": "renLUNA",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE.png",
-          "tags": ["saber-market-luna"],
           "extensions": {
-            "website": "https://renproject.io/",
             "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
+            "website": "https://renproject.io/",
             "currency": "LUNA"
-          }
+          },
+          "tags": ["saber-market-luna"]
         }
       ],
       "currency": "LUNA",
@@ -2475,7 +2515,12 @@
         "decimals": 9,
         "address": "LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/luna",
           "underlyingTokens": [
@@ -2556,8 +2601,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
             "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x853d955aCEf822Db058eb8505911ED77F175b99e",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "frax",
             "currency": "USD",
             "source": "wormhole-v1"
@@ -2592,8 +2637,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
             "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x853d955aCEf822Db058eb8505911ED77F175b99e",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "frax",
             "currency": "USD",
             "source": "wormhole-v1"
@@ -2628,8 +2673,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
             "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x853d955aCEf822Db058eb8505911ED77F175b99e",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "frax",
             "currency": "USD",
             "source": "wormhole-v1"
@@ -2644,9 +2689,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -2659,7 +2704,12 @@
         "decimals": 9,
         "address": "FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/frax",
           "underlyingTokens": [
@@ -2740,8 +2790,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-btc", "wormhole-v1"],
           "extensions": {
             "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x0316EB71485b0Ab14103307bf65a021042c6d380",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "huobi-btc",
             "currency": "BTC",
             "source": "wormhole-v1"
@@ -2776,8 +2826,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-btc", "wormhole-v1"],
           "extensions": {
             "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x0316EB71485b0Ab14103307bf65a021042c6d380",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "huobi-btc",
             "currency": "BTC",
             "source": "wormhole-v1"
@@ -2812,8 +2862,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-btc", "wormhole-v1"],
           "extensions": {
             "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x0316EB71485b0Ab14103307bf65a021042c6d380",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "huobi-btc",
             "currency": "BTC",
             "source": "wormhole-v1"
@@ -2826,13 +2876,13 @@
           "name": "renBTC",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-          "tags": ["saber-market-btc"],
           "extensions": {
             "coingeckoId": "renbtc",
-            "website": "https://renproject.io/",
             "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
             "currency": "BTC"
-          }
+          },
+          "tags": ["saber-market-btc"]
         }
       ],
       "currency": "BTC",
@@ -2843,7 +2893,12 @@
         "decimals": 9,
         "address": "HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/hbtc",
           "underlyingTokens": [
@@ -2922,11 +2977,11 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
-            "website": "https://www.stcoins.com/",
             "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "husd",
+            "website": "https://www.stcoins.com/",
             "currency": "USD",
             "source": "wormhole-v1"
           }
@@ -2959,11 +3014,11 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
-            "website": "https://www.stcoins.com/",
             "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "husd",
+            "website": "https://www.stcoins.com/",
             "currency": "USD",
             "source": "wormhole-v1"
           }
@@ -2996,11 +3051,11 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
           "tags": ["wrapped", "wormhole", "saber-market-usd", "wormhole-v1"],
           "extensions": {
-            "website": "https://www.stcoins.com/",
             "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "husd",
+            "website": "https://www.stcoins.com/",
             "currency": "USD",
             "source": "wormhole-v1"
           }
@@ -3014,9 +3069,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -3029,7 +3084,12 @@
         "decimals": 8,
         "address": "HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/husd",
           "underlyingTokens": [
@@ -3189,9 +3249,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -3204,7 +3264,12 @@
         "decimals": 9,
         "address": "uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/usdk",
           "underlyingTokens": [
@@ -3285,8 +3350,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-ftt", "wormhole-v1"],
           "extensions": {
             "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "ftx-token",
             "currency": "FTT",
             "source": "wormhole-v1"
@@ -3326,8 +3391,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-ftt", "wormhole-v1"],
           "extensions": {
             "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "ftx-token",
             "currency": "FTT",
             "source": "wormhole-v1"
@@ -3367,8 +3432,8 @@
           "tags": ["wrapped", "wormhole", "saber-market-ftt", "wormhole-v1"],
           "extensions": {
             "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
-            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+            "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
             "coingeckoId": "ftx-token",
             "currency": "FTT",
             "source": "wormhole-v1"
@@ -3383,11 +3448,11 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3.png",
           "tags": ["wrapped-sollet", "ethereum", "saber-market-ftt"],
           "extensions": {
-            "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
             "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+            "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+            "coingeckoId": "ftx-token",
             "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
             "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE",
-            "coingeckoId": "ftx-token",
             "waterfallbot": "https://bit.ly/FTTwaterfall",
             "currency": "FTT"
           }
@@ -3401,7 +3466,12 @@
         "decimals": 9,
         "address": "FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/ftt",
           "underlyingTokens": [
@@ -3493,15 +3563,15 @@
           "name": "Serum",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
-          "tags": ["saber-market-srm"],
           "extensions": {
-            "website": "https://projectserum.com/",
+            "coingeckoId": "serum",
             "serumV3Usdc": "ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA",
             "serumV3Usdt": "AtNnsY1AyRERWJ8xCskfz38YdvruWVJQUVXgScC1iPb",
-            "coingeckoId": "serum",
             "waterfallbot": "https://bit.ly/SRMwaterfall",
+            "website": "https://projectserum.com/",
             "currency": "SRM"
-          }
+          },
+          "tags": ["saber-market-srm"]
         }
       ],
       "tokenIcons": [
@@ -3526,15 +3596,15 @@
           "name": "Serum",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
-          "tags": ["saber-market-srm"],
           "extensions": {
-            "website": "https://projectserum.com/",
+            "coingeckoId": "serum",
             "serumV3Usdc": "ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA",
             "serumV3Usdt": "AtNnsY1AyRERWJ8xCskfz38YdvruWVJQUVXgScC1iPb",
-            "coingeckoId": "serum",
             "waterfallbot": "https://bit.ly/SRMwaterfall",
+            "website": "https://projectserum.com/",
             "currency": "SRM"
-          }
+          },
+          "tags": ["saber-market-srm"]
         }
       ],
       "underlyingIcons": [
@@ -3559,15 +3629,15 @@
           "name": "Serum",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
-          "tags": ["saber-market-srm"],
           "extensions": {
-            "website": "https://projectserum.com/",
+            "coingeckoId": "serum",
             "serumV3Usdc": "ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA",
             "serumV3Usdt": "AtNnsY1AyRERWJ8xCskfz38YdvruWVJQUVXgScC1iPb",
-            "coingeckoId": "serum",
             "waterfallbot": "https://bit.ly/SRMwaterfall",
+            "website": "https://projectserum.com/",
             "currency": "SRM"
-          }
+          },
+          "tags": ["saber-market-srm"]
         }
       ],
       "currency": "SRM",
@@ -3578,7 +3648,12 @@
         "decimals": 6,
         "address": "SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/srm",
           "underlyingTokens": [
@@ -3748,9 +3823,9 @@
           "tags": ["wrapped-sollet", "ethereum", "saber-market-btc"],
           "extensions": {
             "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+            "coingeckoId": "bitcoin",
             "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
             "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
-            "coingeckoId": "bitcoin",
             "currency": "BTC"
           }
         }
@@ -3763,7 +3838,12 @@
         "decimals": 9,
         "address": "BADGsQo6rTxKZuqkY1kSoqhriQwZW3ZVgyPjgDk9mvyo",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/ibbtc",
           "underlyingTokens": [
@@ -3921,13 +4001,13 @@
           "name": "renBTC",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-          "tags": ["saber-market-btc"],
           "extensions": {
             "coingeckoId": "renbtc",
-            "website": "https://renproject.io/",
             "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
             "currency": "BTC"
-          }
+          },
+          "tags": ["saber-market-btc"]
         }
       ],
       "currency": "BTC",
@@ -3938,7 +4018,12 @@
         "decimals": 9,
         "address": "BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/ibbtc_ren",
           "underlyingTokens": [
@@ -4098,9 +4183,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -4113,7 +4198,12 @@
         "decimals": 8,
         "address": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/webusd",
           "underlyingTokens": [
@@ -4206,9 +4296,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -4237,9 +4327,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -4268,9 +4358,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -4283,7 +4373,12 @@
         "decimals": 6,
         "address": "USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/weusdc",
           "underlyingTokens": [
@@ -4376,9 +4471,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         }
@@ -4407,9 +4502,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         }
@@ -4438,9 +4533,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         }
@@ -4453,7 +4548,12 @@
         "decimals": 6,
         "address": "USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/weusdt",
           "underlyingTokens": [
@@ -4546,9 +4646,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -4577,9 +4677,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -4608,9 +4708,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -4623,7 +4723,12 @@
         "decimals": 6,
         "address": "WLPyXq7WRfdWLiP4fvRfSisrfDzLiPmCeVTE6okKQWE",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/wpusdc",
           "underlyingTokens": [
@@ -4716,9 +4821,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         }
@@ -4747,9 +4852,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         }
@@ -4778,9 +4883,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         }
@@ -4793,7 +4898,12 @@
         "decimals": 6,
         "address": "WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/wpusdt",
           "underlyingTokens": [
@@ -4952,9 +5062,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -4967,7 +5077,12 @@
         "decimals": 8,
         "address": "USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/wusdk",
           "underlyingTokens": [
@@ -5126,9 +5241,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -5141,7 +5256,12 @@
         "decimals": 8,
         "address": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/whusd",
           "underlyingTokens": [
@@ -5300,9 +5420,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -5315,7 +5435,12 @@
         "decimals": 8,
         "address": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/wdai",
           "underlyingTokens": [
@@ -5474,9 +5599,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -5489,7 +5614,12 @@
         "decimals": 8,
         "address": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/wfrax",
           "underlyingTokens": [
@@ -5645,9 +5775,9 @@
           "tags": ["wrapped-sollet", "ethereum", "saber-market-eth"],
           "extensions": {
             "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+            "coingeckoId": "ethereum",
             "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
             "serumV3Usdt": "7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF",
-            "coingeckoId": "ethereum",
             "currency": "ETH"
           }
         },
@@ -5674,7 +5804,12 @@
         "decimals": 8,
         "address": "WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/wheth",
           "underlyingTokens": [
@@ -5751,12 +5886,12 @@
           "name": "Wrapped FTT (Allbridge from Ethereum)",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
-          "tags": ["saber-market-ftt"],
           "extensions": {
             "coingeckoId": "ftx-token",
             "currency": "FTT",
             "source": "allbridge"
-          }
+          },
+          "tags": ["saber-market-ftt"]
         },
         {
           "name": "Saber Wrapped FTT (Wormhole) (9 decimals)",
@@ -5784,12 +5919,12 @@
           "name": "Wrapped FTT (Allbridge from Ethereum)",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
-          "tags": ["saber-market-ftt"],
           "extensions": {
             "coingeckoId": "ftx-token",
             "currency": "FTT",
             "source": "allbridge"
-          }
+          },
+          "tags": ["saber-market-ftt"]
         },
         {
           "name": "Saber Wrapped FTT (Wormhole) (9 decimals)",
@@ -5817,12 +5952,12 @@
           "name": "Wrapped FTT (Allbridge from Ethereum)",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
-          "tags": ["saber-market-ftt"],
           "extensions": {
             "coingeckoId": "ftx-token",
             "currency": "FTT",
             "source": "allbridge"
-          }
+          },
+          "tags": ["saber-market-ftt"]
         },
         {
           "symbol": "wFTT",
@@ -5847,7 +5982,12 @@
         "decimals": 9,
         "address": "FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/wftt",
           "underlyingTokens": [
@@ -5940,9 +6080,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -5971,9 +6111,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -6002,9 +6142,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -6017,7 +6157,12 @@
         "decimals": 6,
         "address": "USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/wust",
           "underlyingTokens": [
@@ -6108,12 +6253,12 @@
           "name": "renLUNA",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE.png",
-          "tags": ["saber-market-luna"],
           "extensions": {
-            "website": "https://renproject.io/",
             "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
+            "website": "https://renproject.io/",
             "currency": "LUNA"
-          }
+          },
+          "tags": ["saber-market-luna"]
         }
       ],
       "tokenIcons": [
@@ -6138,12 +6283,12 @@
           "name": "renLUNA",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE.png",
-          "tags": ["saber-market-luna"],
           "extensions": {
-            "website": "https://renproject.io/",
             "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
+            "website": "https://renproject.io/",
             "currency": "LUNA"
-          }
+          },
+          "tags": ["saber-market-luna"]
         }
       ],
       "underlyingIcons": [
@@ -6168,12 +6313,12 @@
           "name": "renLUNA",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE.png",
-          "tags": ["saber-market-luna"],
           "extensions": {
-            "website": "https://renproject.io/",
             "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
+            "website": "https://renproject.io/",
             "currency": "LUNA"
-          }
+          },
+          "tags": ["saber-market-luna"]
         }
       ],
       "currency": "LUNA",
@@ -6184,7 +6329,12 @@
         "decimals": 6,
         "address": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2",
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/wluna",
           "underlyingTokens": [
@@ -6343,9 +6493,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -6358,7 +6508,12 @@
         "decimals": 9,
         "address": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/acusd",
           "underlyingTokens": [
@@ -6503,9 +6658,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         },
@@ -6532,7 +6687,12 @@
         "decimals": 9,
         "address": "GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/acusdc",
           "underlyingTokens": [
@@ -6625,9 +6785,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         }
@@ -6656,9 +6816,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         }
@@ -6687,9 +6847,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         }
@@ -6702,7 +6862,12 @@
         "decimals": 6,
         "address": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/apusdt",
           "underlyingTokens": [
@@ -6795,9 +6960,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -6826,9 +6991,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -6857,9 +7022,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -6872,7 +7037,12 @@
         "decimals": 6,
         "address": "APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/apusdc",
           "underlyingTokens": [
@@ -7031,9 +7201,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -7046,7 +7216,12 @@
         "decimals": 9,
         "address": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/mai",
           "underlyingTokens": [
@@ -7205,9 +7380,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -7220,7 +7395,12 @@
         "decimals": 9,
         "address": "BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/abbusd",
           "underlyingTokens": [
@@ -7393,7 +7573,12 @@
         "decimals": 9,
         "address": "AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/aeeth",
           "underlyingTokens": [
@@ -7552,9 +7737,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -7567,7 +7752,12 @@
         "decimals": 9,
         "address": "AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/aeusdc",
           "underlyingTokens": [
@@ -7726,9 +7916,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         }
@@ -7741,7 +7931,12 @@
         "decimals": 9,
         "address": "aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/aeusdt",
           "underlyingTokens": [
@@ -7900,9 +8095,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -7915,7 +8110,12 @@
         "decimals": 9,
         "address": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/aedai",
           "underlyingTokens": [
@@ -8074,9 +8274,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -8089,7 +8289,12 @@
         "decimals": 9,
         "address": "AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/aausdc",
           "underlyingTokens": [
@@ -8248,9 +8453,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://tether.to/",
             "coingeckoId": "tether",
             "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         }
@@ -8263,7 +8468,12 @@
         "decimals": 9,
         "address": "AVTrxHq5P57fYZTYjMuCRWFqsrLmom2gGThNtgEgK1ip",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/aausdt",
           "underlyingTokens": [
@@ -8422,9 +8632,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -8437,7 +8647,12 @@
         "decimals": 9,
         "address": "AVDuGckLavyLr5YifViaxnoveY6rwqDezHw5kiKiRQEC",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/aadai",
           "underlyingTokens": [
@@ -8594,13 +8809,13 @@
           "name": "renBTC",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-          "tags": ["saber-market-btc"],
           "extensions": {
             "coingeckoId": "renbtc",
-            "website": "https://renproject.io/",
             "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
             "currency": "BTC"
-          }
+          },
+          "tags": ["saber-market-btc"]
         }
       ],
       "currency": "BTC",
@@ -8611,7 +8826,12 @@
         "decimals": 9,
         "address": "AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/aawbtc",
           "underlyingTokens": [
@@ -8770,9 +8990,9 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
-            "website": "https://www.centre.io/",
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
             "currency": "USD"
           }
         }
@@ -8785,7 +9005,12 @@
         "decimals": 9,
         "address": "HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/ahusdt",
           "underlyingTokens": [
@@ -8942,13 +9167,13 @@
           "name": "renBTC",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-          "tags": ["saber-market-btc"],
           "extensions": {
             "coingeckoId": "renbtc",
-            "website": "https://renproject.io/",
             "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
             "currency": "BTC"
-          }
+          },
+          "tags": ["saber-market-btc"]
         }
       ],
       "currency": "BTC",
@@ -8959,7 +9184,12 @@
         "decimals": 9,
         "address": "HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/ahwbtc",
           "underlyingTokens": [
@@ -9144,7 +9374,12 @@
         "decimals": 6,
         "address": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp", "saber-lp-port"],
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-port",
+          "saber-stableswap-lp",
+          "saber-lp-port"
+        ],
         "extensions": {
           "website": "https://app.saber.so/#/pools/port_2pool",
           "underlyingTokens": [
@@ -9221,17 +9456,17 @@
           "name": "Marinade staked SOL (mSOL)",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
             "coingeckoId": "msol",
-            "website": "https://marinade.finance",
-            "twitter": "https://twitter.com/MarinadeFinance",
             "discord": "https://discord.gg/mGqZA5pjRN",
-            "medium": "https://medium.com/marinade-finance",
             "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
             "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         },
         {
           "chainId": 101,
@@ -9240,14 +9475,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "tokenIcons": [
@@ -9258,17 +9493,17 @@
           "name": "Marinade staked SOL (mSOL)",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
             "coingeckoId": "msol",
-            "website": "https://marinade.finance",
-            "twitter": "https://twitter.com/MarinadeFinance",
             "discord": "https://discord.gg/mGqZA5pjRN",
-            "medium": "https://medium.com/marinade-finance",
             "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
             "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         },
         {
           "chainId": 101,
@@ -9277,14 +9512,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "underlyingIcons": [
@@ -9295,17 +9530,17 @@
           "name": "Marinade staked SOL (mSOL)",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
             "coingeckoId": "msol",
-            "website": "https://marinade.finance",
-            "twitter": "https://twitter.com/MarinadeFinance",
             "discord": "https://discord.gg/mGqZA5pjRN",
-            "medium": "https://medium.com/marinade-finance",
             "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
             "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         },
         {
           "chainId": 101,
@@ -9314,14 +9549,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "currency": "SOL",
@@ -9332,7 +9567,7 @@
         "decimals": 9,
         "address": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp"],
+        "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
         "extensions": {
           "website": "https://app.saber.so/#/pools/msol_sol",
           "underlyingTokens": [
@@ -9423,14 +9658,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "tokenIcons": [
@@ -9455,14 +9690,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "underlyingIcons": [
@@ -9487,14 +9722,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "currency": "SOL",
@@ -9505,7 +9740,7 @@
         "decimals": 9,
         "address": "ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp"],
+        "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
         "extensions": {
           "website": "https://app.saber.so/#/pools/asol",
           "underlyingTokens": [
@@ -9669,7 +9904,7 @@
         "decimals": 9,
         "address": "PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp"],
+        "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
         "extensions": {
           "website": "https://app.saber.so/#/pools/psol",
           "underlyingTokens": [
@@ -9756,14 +9991,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "tokenIcons": [
@@ -9784,14 +10019,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "underlyingIcons": [
@@ -9812,14 +10047,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "currency": "SOL",
@@ -9830,7 +10065,7 @@
         "decimals": 9,
         "address": "PrsVdKtXDDf6kJQu5Ff6YqmjfE4TZXtBgHM4bjuvRnR",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp"],
+        "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
         "extensions": {
           "website": "https://app.saber.so/#/pools/prtsol",
           "underlyingTokens": [
@@ -9907,12 +10142,12 @@
           "name": "Lido Staked SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
+            "twitter": "https://twitter.com/LidoFinance",
             "website": "https://solana.lido.fi/",
-            "twitter": "https://twitter.com/LidoFinance/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         },
         {
           "chainId": 101,
@@ -9921,14 +10156,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "tokenIcons": [
@@ -9939,12 +10174,12 @@
           "name": "Lido Staked SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
+            "twitter": "https://twitter.com/LidoFinance",
             "website": "https://solana.lido.fi/",
-            "twitter": "https://twitter.com/LidoFinance/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         },
         {
           "chainId": 101,
@@ -9953,14 +10188,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "underlyingIcons": [
@@ -9971,12 +10206,12 @@
           "name": "Lido Staked SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
+            "twitter": "https://twitter.com/LidoFinance",
             "website": "https://solana.lido.fi/",
-            "twitter": "https://twitter.com/LidoFinance/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         },
         {
           "chainId": 101,
@@ -9985,14 +10220,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "currency": "SOL",
@@ -10003,7 +10238,7 @@
         "decimals": 9,
         "address": "stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp"],
+        "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
         "extensions": {
           "website": "https://app.saber.so/#/pools/stsol",
           "underlyingTokens": [
@@ -10082,11 +10317,11 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
           "tags": ["stake-pool", "saber-market-sol"],
           "extensions": {
-            "discord": "https://discord.gg/k8ZcW27bq9/",
-            "medium": "https://medium.com/@soceanfinance/",
-            "twitter": "https://twitter.com/soceanfinance/",
-            "website": "https://socean.fi/",
             "coingeckoId": "socean-staked-sol",
+            "discord": "https://discord.gg/k8ZcW27bq9",
+            "medium": "https://medium.com/@soceanfinance",
+            "twitter": "https://twitter.com/soceanfinance",
+            "website": "https://socean.fi/",
             "currency": "SOL"
           }
         },
@@ -10097,14 +10332,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "tokenIcons": [
@@ -10117,11 +10352,11 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
           "tags": ["stake-pool", "saber-market-sol"],
           "extensions": {
-            "discord": "https://discord.gg/k8ZcW27bq9/",
-            "medium": "https://medium.com/@soceanfinance/",
-            "twitter": "https://twitter.com/soceanfinance/",
-            "website": "https://socean.fi/",
             "coingeckoId": "socean-staked-sol",
+            "discord": "https://discord.gg/k8ZcW27bq9",
+            "medium": "https://medium.com/@soceanfinance",
+            "twitter": "https://twitter.com/soceanfinance",
+            "website": "https://socean.fi/",
             "currency": "SOL"
           }
         },
@@ -10132,14 +10367,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "underlyingIcons": [
@@ -10152,11 +10387,11 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
           "tags": ["stake-pool", "saber-market-sol"],
           "extensions": {
-            "discord": "https://discord.gg/k8ZcW27bq9/",
-            "medium": "https://medium.com/@soceanfinance/",
-            "twitter": "https://twitter.com/soceanfinance/",
-            "website": "https://socean.fi/",
             "coingeckoId": "socean-staked-sol",
+            "discord": "https://discord.gg/k8ZcW27bq9",
+            "medium": "https://medium.com/@soceanfinance",
+            "twitter": "https://twitter.com/soceanfinance",
+            "website": "https://socean.fi/",
             "currency": "SOL"
           }
         },
@@ -10167,14 +10402,14 @@
           "name": "Wrapped SOL",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-          "tags": ["saber-market-sol"],
           "extensions": {
-            "website": "https://solana.com/",
+            "coingeckoId": "solana",
             "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
             "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-            "coingeckoId": "solana",
+            "website": "https://solana.com/",
             "currency": "SOL"
-          }
+          },
+          "tags": ["saber-market-sol"]
         }
       ],
       "currency": "SOL",
@@ -10185,7 +10420,7 @@
         "decimals": 9,
         "address": "SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj",
         "chainId": 101,
-        "tags": ["saber-stableswap-lp"],
+        "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
         "extensions": {
           "website": "https://app.saber.so/#/pools/socean",
           "underlyingTokens": [
