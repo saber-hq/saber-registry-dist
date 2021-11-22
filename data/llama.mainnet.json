@@ -110,6 +110,39 @@
     "tokenBCoingecko": "renbtc"
   },
   {
+    "id": "acusd_cash",
+    "lpMint": "CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7",
+    "tokenA": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
+    "tokenB": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
+    "authority": "hp26j5RH1Bx7TUThh3bkYQiSCyKnwEoyCW6mYZNvhmq",
+    "reserveA": "49EQuSDQNz7L4a22CcnWUxExSpYW4UXSKG985S2drLsR",
+    "reserveB": "7DH5gc5Hj1Kq4Y9z8ybEmAX1WPoHcunwiav1Za4A5J3J",
+    "tokenACoingecko": "celo-dollar",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
+    "id": "pai_cash",
+    "lpMint": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY",
+    "tokenA": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
+    "tokenB": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+    "authority": "8J8fqLWEMMSLgGFohRW5QC2Wv7Kkuw4TmHpiH4uqA43f",
+    "reserveA": "F36eiDG64zYoAA9vtTvV4EWcTqYNUku7hzhUyTYcQSin",
+    "reserveB": "FXJq5PZ8XshMvhcfX2y3khJyWK6S5W7ftLeMgbuFgwDG",
+    "tokenACoingecko": "parrot-usd",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
+    "id": "ust_cash",
+    "lpMint": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
+    "tokenA": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+    "tokenB": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+    "authority": "7K88AAbfSVHEZY87Ur3PrDhBYpwhKfTGxSWzMdh7XxUj",
+    "reserveA": "JAjt8kZkTsxKA3VKnmszKHQwzuNSAXXhN3Y4NZ2kEoLU",
+    "reserveB": "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu",
+    "tokenACoingecko": "terrausd",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
     "id": "ust",
     "lpMint": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
     "tokenA": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",

@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-11-20T20:19:42.786Z",
+  "timestamp": "2021-11-22T17:09:15.319Z",
   "tokens": [
     {
       "chainId": 101,
@@ -1442,6 +1442,26 @@
       }
     },
     {
+      "name": "Saber Wrapped CASH (9 decimals)",
+      "address": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
+      "decimals": 9,
+      "symbol": "sCASH-9",
+      "chainId": 101,
+      "logoURI": "https://cashio.app/images/icon.png",
+      "tags": [
+        "stablecoin",
+        "saber-market-usd",
+        "saber-decimal-wrapped",
+        "saber-swappable"
+      ],
+      "extensions": {
+        "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+        "coingeckoId": "usd-coin",
+        "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"],
+        "currency": "USD"
+      }
+    },
+    {
       "chainId": 101,
       "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
       "symbol": "SBR",
@@ -1651,6 +1671,57 @@
         "underlyingTokens": [
           "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
           "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "acUSD-CASH",
+      "name": "Saber acUSD-CASH LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/acusd_cash",
+        "underlyingTokens": [
+          "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
+          "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "PAI-CASH",
+      "name": "Saber PAI-CASH LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 6,
+      "address": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/pai_cash",
+        "underlyingTokens": [
+          "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "wUST-CASH",
+      "name": "Saber wUST-CASH LP",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 6,
+      "address": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
+      "chainId": 101,
+      "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/ust_cash",
+        "underlyingTokens": [
+          "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
         "source": "saber"
       }

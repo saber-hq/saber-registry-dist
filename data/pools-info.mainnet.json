@@ -1832,6 +1832,532 @@
       "quarry": "GWTy8S43vAUMCQpjNV9JBp5NPNSuCyCn34wz9Roz63YF"
     },
     {
+      "id": "acusd_cash",
+      "name": "acUSD-CASH",
+      "tokens": [
+        {
+          "symbol": "acUSD",
+          "name": "Wrapped cUSD (Allbridge from Celo)",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
+          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
+          "decimals": 9,
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "celo-dollar",
+            "source": "allbridge",
+            "currency": "USD"
+          },
+          "chainId": 101
+        },
+        {
+          "name": "Saber Wrapped CASH (9 decimals)",
+          "address": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
+          "decimals": 9,
+          "symbol": "sCASH-9",
+          "chainId": 101,
+          "logoURI": "https://cashio.app/images/icon.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+            "coingeckoId": "usd-coin",
+            "underlyingTokens": [
+              "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+            ],
+            "currency": "USD"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "acUSD",
+          "name": "Wrapped cUSD (Allbridge from Celo)",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
+          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
+          "decimals": 9,
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "celo-dollar",
+            "source": "allbridge",
+            "currency": "USD"
+          },
+          "chainId": 101
+        },
+        {
+          "name": "Saber Wrapped CASH (9 decimals)",
+          "address": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
+          "decimals": 9,
+          "symbol": "sCASH-9",
+          "chainId": 101,
+          "logoURI": "https://cashio.app/images/icon.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+            "coingeckoId": "usd-coin",
+            "underlyingTokens": [
+              "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+            ],
+            "currency": "USD"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "acUSD",
+          "name": "Wrapped cUSD (Allbridge from Celo)",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
+          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
+          "decimals": 9,
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "celo-dollar",
+            "source": "allbridge",
+            "currency": "USD"
+          },
+          "chainId": 101
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "symbol": "CASH",
+          "name": "CASH",
+          "decimals": 6,
+          "logoURI": "https://cashio.app/images/icon.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://cashio.app",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          },
+          "chainId": 101
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "acUSD-CASH",
+        "name": "Saber acUSD-CASH LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/acusd_cash",
+          "underlyingTokens": [
+            "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
+            "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "3cB2wT1h34BdL2gEcmztnPAuZtom91h6gMLBj4kbrpMs",
+      "swap": {
+        "config": {
+          "swapAccount": "CSPcADsTSETVpGAYFnb1oEc9z9qPjC987powM59bnSF3",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "hp26j5RH1Bx7TUThh3bkYQiSCyKnwEoyCW6mYZNvhmq"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 253,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "FiG1yavVUwfaVc5ti74DGLePhg2HEmo4xvGsUSQxPY9u",
+            "reserve": "49EQuSDQNz7L4a22CcnWUxExSpYW4UXSKG985S2drLsR",
+            "mint": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e"
+          },
+          "tokenB": {
+            "adminFeeAccount": "FuG5kda3TZky4tgdBfYPbdEJDHJGTnMThuD65LqmekB4",
+            "reserve": "7DH5gc5Hj1Kq4Y9z8ybEmAX1WPoHcunwiav1Za4A5J3J",
+            "mint": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
+          },
+          "poolTokenMint": "CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "F5VvER2JdGfbEtPJBr92qEPJhE3b8tAA3Gi9zyPx2toa"
+    },
+    {
+      "id": "pai_cash",
+      "name": "PAI-CASH",
+      "tokens": [
+        {
+          "chainId": 101,
+          "address": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
+          "symbol": "PAI",
+          "name": "PAI (Parrot USD)",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
+          "tags": ["utility-token", "stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "parrot-usd",
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
+            "currency": "USD"
+          }
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "symbol": "CASH",
+          "name": "CASH",
+          "decimals": 6,
+          "logoURI": "https://cashio.app/images/icon.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://cashio.app",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          },
+          "chainId": 101
+        }
+      ],
+      "tokenIcons": [
+        {
+          "chainId": 101,
+          "address": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
+          "symbol": "PAI",
+          "name": "PAI (Parrot USD)",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
+          "tags": ["utility-token", "stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "parrot-usd",
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
+            "currency": "USD"
+          }
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "symbol": "CASH",
+          "name": "CASH",
+          "decimals": 6,
+          "logoURI": "https://cashio.app/images/icon.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://cashio.app",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          },
+          "chainId": 101
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
+          "symbol": "PAI",
+          "name": "PAI (Parrot USD)",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
+          "tags": ["utility-token", "stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "parrot-usd",
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
+            "currency": "USD"
+          }
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "symbol": "CASH",
+          "name": "CASH",
+          "decimals": 6,
+          "logoURI": "https://cashio.app/images/icon.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://cashio.app",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          },
+          "chainId": 101
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "PAI-CASH",
+        "name": "Saber PAI-CASH LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/pai_cash",
+          "underlyingTokens": [
+            "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "GF7xQ7GdPqcquwY8HJnAuNgAiXx5pn93TR2kSBLqsQPc",
+      "swap": {
+        "config": {
+          "swapAccount": "CSPC23oTm5WqmJpAR8Eo6KyQhwq8YipgHSuDcABgoSv",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "8J8fqLWEMMSLgGFohRW5QC2Wv7Kkuw4TmHpiH4uqA43f"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "6qAzQztMkvL94nosYUGd49nKvZ4xh2HibhPMiXKLcc5a",
+            "reserve": "F36eiDG64zYoAA9vtTvV4EWcTqYNUku7hzhUyTYcQSin",
+            "mint": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS"
+          },
+          "tokenB": {
+            "adminFeeAccount": "6KVcGLvVpDuvc8dWptxDV4ctBjZ5qfAR8uuKk6YcTHs7",
+            "reserve": "FXJq5PZ8XshMvhcfX2y3khJyWK6S5W7ftLeMgbuFgwDG",
+            "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          },
+          "poolTokenMint": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "3id3soDcppeYRVvfN8ZPqaLbnB83wmfmsCJupwJVBwaL"
+    },
+    {
+      "id": "ust_cash",
+      "name": "wUST-CASH",
+      "tokens": [
+        {
+          "symbol": "wUST",
+          "name": "UST (Wormhole)",
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "extensions": {
+            "coingeckoId": "terrausd",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "symbol": "CASH",
+          "name": "CASH",
+          "decimals": 6,
+          "logoURI": "https://cashio.app/images/icon.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://cashio.app",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          },
+          "chainId": 101
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "wUST",
+          "name": "UST (Wormhole)",
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "extensions": {
+            "coingeckoId": "terrausd",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "symbol": "CASH",
+          "name": "CASH",
+          "decimals": 6,
+          "logoURI": "https://cashio.app/images/icon.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://cashio.app",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          },
+          "chainId": 101
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "wUST",
+          "name": "UST (Wormhole)",
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "extensions": {
+            "coingeckoId": "terrausd",
+            "source": "wormhole-v2",
+            "currency": "USD"
+          },
+          "chainId": 101,
+          "tags": ["saber-market-usd", "wormhole-v2"]
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "symbol": "CASH",
+          "name": "CASH",
+          "decimals": 6,
+          "logoURI": "https://cashio.app/images/icon.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "website": "https://cashio.app",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          },
+          "chainId": 101
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "wUST-CASH",
+        "name": "Saber wUST-CASH LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/ust_cash",
+          "underlyingTokens": [
+            "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "5kaicFEXXjFb8zZGnNqY6dHLFHqdvJyPFt4X4yKYfBGF",
+      "swap": {
+        "config": {
+          "swapAccount": "CSP7xvUx4mHXFHB7nGKRiGLkvkEcvo3HTTgVWJEwFTnQ",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "7K88AAbfSVHEZY87Ur3PrDhBYpwhKfTGxSWzMdh7XxUj"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "APN7muuGhoAqraSWsuK2MoDQvKtXbCrSXTXH8WY91hwQ",
+            "reserve": "JAjt8kZkTsxKA3VKnmszKHQwzuNSAXXhN3Y4NZ2kEoLU",
+            "mint": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+          },
+          "tokenB": {
+            "adminFeeAccount": "HwsC3zCoHMiMv8esNeaKr898uSt6Qw4L8nm4CqkC5bCN",
+            "reserve": "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu",
+            "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          },
+          "poolTokenMint": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "HEFCUdoJRcsjD1VPacn4oYsoPne2TfdYaQNczq7Aj3iX"
+    },
+    {
       "id": "ust",
       "name": "wUST_V1-USDC",
       "tokens": [
