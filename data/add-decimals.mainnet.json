@@ -66,6 +66,12 @@
     "decimals": 8
   },
   {
+    "wrapper": "GiLSv94Wwyd6suH57Fu6HjEKsMxhNGfEwKn9vT22me1p",
+    "underlying": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "mint": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw",
+    "decimals": 8
+  },
+  {
     "wrapper": "GpkFF2nPfjUcsavgDGscxaUEQ2hYJ563AXXtU8ohiZ7c",
     "underlying": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
     "mint": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
