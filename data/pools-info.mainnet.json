@@ -3119,6 +3119,23 @@
       "name": "BTC-renBTC",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+          "symbol": "renBTC",
+          "name": "renBTC",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+          "extensions": {
+            "coingeckoId": "renbtc",
+            "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
+          },
+          "tags": ["saber-market-btc"]
+        },
+        {
           "name": "Saber Wrapped Wrapped Bitcoin (Sollet) (8 decimals)",
           "address": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
           "decimals": 8,
@@ -3139,23 +3156,6 @@
             ],
             "currency": "BTC"
           }
-        },
-        {
-          "chainId": 101,
-          "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
-          "symbol": "renBTC",
-          "name": "renBTC",
-          "decimals": 8,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-          "extensions": {
-            "coingeckoId": "renbtc",
-            "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
-            "website": "https://renproject.io/",
-            "currency": "BTC",
-            "source": "renbridge",
-            "sourceUrl": "https://bridge.renproject.io/mint"
-          },
-          "tags": ["saber-market-btc"]
         }
       ],
       "tokenIcons": [
@@ -5818,6 +5818,23 @@
       "name": "pBTC-renBTC",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+          "symbol": "renBTC",
+          "name": "renBTC",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+          "extensions": {
+            "coingeckoId": "renbtc",
+            "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
+          },
+          "tags": ["saber-market-btc"]
+        },
+        {
           "address": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
           "symbol": "pBTC",
           "name": "pBTC (Parrot BTC)",
@@ -5840,23 +5857,6 @@
             "currency": "BTC"
           },
           "chainId": 101
-        },
-        {
-          "chainId": 101,
-          "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
-          "symbol": "renBTC",
-          "name": "renBTC",
-          "decimals": 8,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-          "extensions": {
-            "coingeckoId": "renbtc",
-            "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
-            "website": "https://renproject.io/",
-            "currency": "BTC",
-            "source": "renbridge",
-            "sourceUrl": "https://bridge.renproject.io/mint"
-          },
-          "tags": ["saber-market-btc"]
         }
       ],
       "tokenIcons": [
@@ -7321,21 +7321,6 @@
       "tokens": [
         {
           "chainId": 101,
-          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-          "symbol": "USDT",
-          "name": "USDT",
-          "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
-          "tags": ["stablecoin", "saber-market-usd"],
-          "extensions": {
-            "coingeckoId": "tether",
-            "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-            "website": "https://tether.to/",
-            "currency": "USD"
-          }
-        },
-        {
-          "chainId": 101,
           "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
           "symbol": "USDC",
           "name": "USD Coin",
@@ -7346,6 +7331,21 @@
             "coingeckoId": "usd-coin",
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
             "website": "https://www.centre.io/",
+            "currency": "USD"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "symbol": "USDT",
+          "name": "USDT",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "tether",
+            "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
             "currency": "USD"
           }
         }
@@ -7676,6 +7676,23 @@
       "name": "wUST_V1-USDC",
       "tokens": [
         {
+          "name": "Saber Wrapped USD Coin (9 decimals)",
+          "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "decimals": 9,
+          "symbol": "sUSDC-9",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin",
+            "underlyingTokens": [
+              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ],
+            "currency": "USD"
+          }
+        },
+        {
           "chainId": 101,
           "address": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
           "symbol": "wUST_V1",
@@ -7692,23 +7709,6 @@
             "currency": "USD",
             "source": "wormhole-v1",
             "sourceUrl": "https://v1.wormholebridge.com/#/move"
-          }
-        },
-        {
-          "name": "Saber Wrapped USD Coin (9 decimals)",
-          "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-          "decimals": 9,
-          "symbol": "sUSDC-9",
-          "chainId": 101,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
-          "extensions": {
-            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-            "coingeckoId": "usd-coin",
-            "underlyingTokens": [
-              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-            ],
-            "currency": "USD"
           }
         }
       ],
