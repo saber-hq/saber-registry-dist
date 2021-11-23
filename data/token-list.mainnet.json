@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-11-23T03:54:17.147Z",
+  "timestamp": "2021-11-23T03:58:39.607Z",
   "tokens": [
     {
       "chainId": 101,
@@ -1649,7 +1649,7 @@
       "decimals": 6,
       "address": "2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/usdc_usdt",
         "underlyingTokens": [
@@ -1666,7 +1666,7 @@
       "decimals": 6,
       "address": "PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/usdc_pai",
         "underlyingTokens": [
@@ -1683,7 +1683,7 @@
       "decimals": 8,
       "address": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/btc",
         "underlyingTokens": [
@@ -1700,7 +1700,7 @@
       "decimals": 8,
       "address": "pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/pbtc",
         "underlyingTokens": [
@@ -1717,7 +1717,7 @@
       "decimals": 6,
       "address": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/cash",
         "underlyingTokens": [
@@ -1734,12 +1734,7 @@
       "decimals": 6,
       "address": "XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-synthetify",
-        "saber-stableswap-lp",
-        "saber-lp-synthetify"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/xusd",
         "underlyingTokens": [
@@ -1756,12 +1751,7 @@
       "decimals": 9,
       "address": "xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-synthetify",
-        "saber-stableswap-lp",
-        "saber-lp-synthetify"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/xsol",
         "underlyingTokens": [
@@ -1778,12 +1768,7 @@
       "decimals": 8,
       "address": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-synthetify",
-        "saber-stableswap-lp",
-        "saber-lp-synthetify"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/xftt",
         "underlyingTokens": [
@@ -1800,12 +1785,7 @@
       "decimals": 9,
       "address": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-synthetify",
-        "saber-stableswap-lp",
-        "saber-lp-synthetify"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/xeth",
         "underlyingTokens": [
@@ -1822,12 +1802,7 @@
       "decimals": 10,
       "address": "xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-synthetify",
-        "saber-stableswap-lp",
-        "saber-lp-synthetify"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/xbtc",
         "underlyingTokens": [
@@ -1844,12 +1819,7 @@
       "decimals": 9,
       "address": "CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-cashio",
-        "saber-stableswap-lp",
-        "saber-lp-cashio"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/acusd_cash",
         "underlyingTokens": [
@@ -1866,12 +1836,7 @@
       "decimals": 6,
       "address": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-cashio",
-        "saber-stableswap-lp",
-        "saber-lp-cashio"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/pai_cash",
         "underlyingTokens": [
@@ -1888,12 +1853,7 @@
       "decimals": 6,
       "address": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-cashio",
-        "saber-stableswap-lp",
-        "saber-lp-cashio"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/ust_cash",
         "underlyingTokens": [
@@ -1910,12 +1870,7 @@
       "decimals": 9,
       "address": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/ust",
         "underlyingTokens": [
@@ -1932,12 +1887,7 @@
       "decimals": 9,
       "address": "Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/dai",
         "underlyingTokens": [
@@ -1954,12 +1904,7 @@
       "decimals": 9,
       "address": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/busd",
         "underlyingTokens": [
@@ -1976,12 +1921,7 @@
       "decimals": 9,
       "address": "LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/luna",
         "underlyingTokens": [
@@ -1998,12 +1938,7 @@
       "decimals": 9,
       "address": "FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/frax",
         "underlyingTokens": [
@@ -2020,12 +1955,7 @@
       "decimals": 9,
       "address": "HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/hbtc",
         "underlyingTokens": [
@@ -2042,12 +1972,7 @@
       "decimals": 8,
       "address": "HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/husd",
         "underlyingTokens": [
@@ -2064,12 +1989,7 @@
       "decimals": 9,
       "address": "uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/usdk",
         "underlyingTokens": [
@@ -2086,12 +2006,7 @@
       "decimals": 9,
       "address": "FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/ftt",
         "underlyingTokens": [
@@ -2108,12 +2023,7 @@
       "decimals": 6,
       "address": "SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/srm",
         "underlyingTokens": [
@@ -2130,12 +2040,7 @@
       "decimals": 9,
       "address": "BADGsQo6rTxKZuqkY1kSoqhriQwZW3ZVgyPjgDk9mvyo",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/ibbtc",
         "underlyingTokens": [
@@ -2152,12 +2057,7 @@
       "decimals": 9,
       "address": "BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v1"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/ibbtc_ren",
         "underlyingTokens": [
@@ -2174,12 +2074,7 @@
       "decimals": 8,
       "address": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/webusd",
         "underlyingTokens": [
@@ -2196,12 +2091,7 @@
       "decimals": 6,
       "address": "USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/weusdc",
         "underlyingTokens": [
@@ -2218,12 +2108,7 @@
       "decimals": 6,
       "address": "USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/weusdt",
         "underlyingTokens": [
@@ -2240,12 +2125,7 @@
       "decimals": 6,
       "address": "WLPyXq7WRfdWLiP4fvRfSisrfDzLiPmCeVTE6okKQWE",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/wpusdc",
         "underlyingTokens": [
@@ -2262,12 +2142,7 @@
       "decimals": 6,
       "address": "WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/wpusdt",
         "underlyingTokens": [
@@ -2335,12 +2210,7 @@
       "decimals": 8,
       "address": "USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/wusdk",
         "underlyingTokens": [
@@ -2357,12 +2227,7 @@
       "decimals": 8,
       "address": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/whusd",
         "underlyingTokens": [
@@ -2379,12 +2244,7 @@
       "decimals": 8,
       "address": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/wdai",
         "underlyingTokens": [
@@ -2401,12 +2261,7 @@
       "decimals": 8,
       "address": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/wfrax",
         "underlyingTokens": [
@@ -2423,12 +2278,7 @@
       "decimals": 8,
       "address": "WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/wheth",
         "underlyingTokens": [
@@ -2445,12 +2295,7 @@
       "decimals": 9,
       "address": "FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/wftt",
         "underlyingTokens": [
@@ -2467,12 +2312,7 @@
       "decimals": 6,
       "address": "USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/wust",
         "underlyingTokens": [
@@ -2489,12 +2329,7 @@
       "decimals": 6,
       "address": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2",
-        "saber-stableswap-lp",
-        "saber-lp-wormhole-v2"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/wluna",
         "underlyingTokens": [
@@ -2511,12 +2346,7 @@
       "decimals": 9,
       "address": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/acusd",
         "underlyingTokens": [
@@ -2533,12 +2363,7 @@
       "decimals": 9,
       "address": "GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/acusdc",
         "underlyingTokens": [
@@ -2555,12 +2380,7 @@
       "decimals": 6,
       "address": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/apusdt",
         "underlyingTokens": [
@@ -2577,12 +2397,7 @@
       "decimals": 6,
       "address": "APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/apusdc",
         "underlyingTokens": [
@@ -2599,12 +2414,7 @@
       "decimals": 9,
       "address": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/mai",
         "underlyingTokens": [
@@ -2621,12 +2431,7 @@
       "decimals": 9,
       "address": "BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/abbusd",
         "underlyingTokens": [
@@ -2643,12 +2448,7 @@
       "decimals": 9,
       "address": "AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/aeeth",
         "underlyingTokens": [
@@ -2665,12 +2465,7 @@
       "decimals": 9,
       "address": "AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/aeusdc",
         "underlyingTokens": [
@@ -2687,12 +2482,7 @@
       "decimals": 9,
       "address": "aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/aeusdt",
         "underlyingTokens": [
@@ -2709,12 +2499,7 @@
       "decimals": 9,
       "address": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/aedai",
         "underlyingTokens": [
@@ -2731,12 +2516,7 @@
       "decimals": 9,
       "address": "AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/aausdc",
         "underlyingTokens": [
@@ -2753,12 +2533,7 @@
       "decimals": 9,
       "address": "AVTrxHq5P57fYZTYjMuCRWFqsrLmom2gGThNtgEgK1ip",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/aausdt",
         "underlyingTokens": [
@@ -2775,12 +2550,7 @@
       "decimals": 9,
       "address": "AVDuGckLavyLr5YifViaxnoveY6rwqDezHw5kiKiRQEC",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/aadai",
         "underlyingTokens": [
@@ -2797,12 +2567,7 @@
       "decimals": 9,
       "address": "AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/aawbtc",
         "underlyingTokens": [
@@ -2819,12 +2584,7 @@
       "decimals": 9,
       "address": "HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/ahusdt",
         "underlyingTokens": [
@@ -2841,12 +2601,7 @@
       "decimals": 9,
       "address": "HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-allbridge",
-        "saber-stableswap-lp",
-        "saber-lp-allbridge"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/ahwbtc",
         "underlyingTokens": [
@@ -2863,12 +2618,7 @@
       "decimals": 6,
       "address": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
       "chainId": 101,
-      "tags": [
-        "saber-stableswap-lp",
-        "saber-lp-port",
-        "saber-stableswap-lp",
-        "saber-lp-port"
-      ],
+      "tags": ["saber-stableswap-lp", "saber-lp-port"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/port_2pool",
         "underlyingTokens": [
@@ -2885,7 +2635,7 @@
       "decimals": 9,
       "address": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/msol_sol",
         "underlyingTokens": [
@@ -2902,7 +2652,7 @@
       "decimals": 9,
       "address": "ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/asol",
         "underlyingTokens": [
@@ -2919,7 +2669,7 @@
       "decimals": 9,
       "address": "PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/psol",
         "underlyingTokens": [
@@ -2936,7 +2686,7 @@
       "decimals": 9,
       "address": "PrsVdKtXDDf6kJQu5Ff6YqmjfE4TZXtBgHM4bjuvRnR",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/prtsol",
         "underlyingTokens": [
@@ -2953,7 +2703,7 @@
       "decimals": 9,
       "address": "stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/stsol",
         "underlyingTokens": [
@@ -2970,7 +2720,7 @@
       "decimals": 9,
       "address": "SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj",
       "chainId": 101,
-      "tags": ["saber-stableswap-lp", "saber-stableswap-lp"],
+      "tags": ["saber-stableswap-lp"],
       "extensions": {
         "website": "https://app.saber.so/#/pools/socean",
         "underlyingTokens": [
