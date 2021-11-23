@@ -35,7 +35,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -69,7 +69,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -212,7 +212,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -246,7 +246,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -389,7 +389,7 @@
           "symbol": "sUSDT-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "coingeckoId": "tether",
@@ -423,7 +423,7 @@
           "symbol": "sUSDT-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "coingeckoId": "tether",
@@ -566,7 +566,7 @@
           "symbol": "srenBTC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "coingeckoId": "renbtc",
@@ -602,7 +602,7 @@
           "symbol": "srenBTC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "coingeckoId": "renbtc",
@@ -749,7 +749,7 @@
           "symbol": "srenBTC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "coingeckoId": "renbtc",
@@ -785,7 +785,7 @@
           "symbol": "srenBTC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "coingeckoId": "renbtc",
@@ -932,7 +932,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -966,7 +966,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -1109,7 +1109,7 @@
           "symbol": "swhETH-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma.png",
-          "tags": ["saber-market-eth", "wormhole-v2", "saber-decimal-wrapped"],
+          "tags": ["saber-market-eth", "wormhole-v2", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "coingeckoId": "ethereum",
@@ -1145,7 +1145,7 @@
           "symbol": "swhETH-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma.png",
-          "tags": ["saber-market-eth", "wormhole-v2", "saber-decimal-wrapped"],
+          "tags": ["saber-market-eth", "wormhole-v2", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "coingeckoId": "ethereum",
@@ -1290,7 +1290,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -1324,7 +1324,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -1467,7 +1467,7 @@
           "symbol": "sUSDT-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "coingeckoId": "tether",
@@ -1501,7 +1501,7 @@
           "symbol": "sUSDT-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "coingeckoId": "tether",
@@ -1644,7 +1644,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -1678,7 +1678,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -1821,7 +1821,7 @@
           "symbol": "sCASH-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "coingeckoId": "usd-coin",
@@ -1857,7 +1857,7 @@
           "symbol": "sCASH-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "coingeckoId": "usd-coin",
@@ -1989,7 +1989,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -2023,7 +2023,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -2181,7 +2181,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -2215,7 +2215,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -2343,7 +2343,7 @@
           "symbol": "swhETH-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma.png",
-          "tags": ["saber-market-eth", "wormhole-v2", "saber-decimal-wrapped"],
+          "tags": ["saber-market-eth", "wormhole-v2", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "coingeckoId": "ethereum",
@@ -2379,7 +2379,7 @@
           "symbol": "swhETH-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma.png",
-          "tags": ["saber-market-eth", "wormhole-v2", "saber-decimal-wrapped"],
+          "tags": ["saber-market-eth", "wormhole-v2", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "coingeckoId": "ethereum",
@@ -2539,7 +2539,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -2573,7 +2573,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -2716,7 +2716,7 @@
           "symbol": "sUSDT-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "coingeckoId": "tether",
@@ -2750,7 +2750,7 @@
           "symbol": "sUSDT-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "coingeckoId": "tether",
@@ -2893,7 +2893,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -2927,7 +2927,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -3070,7 +3070,7 @@
           "symbol": "srenBTC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "coingeckoId": "renbtc",
@@ -3106,7 +3106,7 @@
           "symbol": "srenBTC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "coingeckoId": "renbtc",
@@ -3784,7 +3784,7 @@
             "wrapped-sollet",
             "ethereum",
             "saber-market-btc",
-            "saber-decimal-wrapped"
+            "saber-dec-wrapped"
           ],
           "extensions": {
             "assetContract": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
@@ -3808,7 +3808,7 @@
             "wrapped-sollet",
             "ethereum",
             "saber-market-btc",
-            "saber-decimal-wrapped"
+            "saber-dec-wrapped"
           ],
           "extensions": {
             "assetContract": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
@@ -3975,7 +3975,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -4012,7 +4012,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -4341,7 +4341,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -4378,7 +4378,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -4528,7 +4528,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -4565,7 +4565,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -4719,7 +4719,7 @@
             "wrapped-sollet",
             "ethereum",
             "saber-market-ftt",
-            "saber-decimal-wrapped"
+            "saber-dec-wrapped"
           ],
           "extensions": {
             "assetContract": "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
@@ -4761,7 +4761,7 @@
             "wrapped-sollet",
             "ethereum",
             "saber-market-ftt",
-            "saber-decimal-wrapped"
+            "saber-dec-wrapped"
           ],
           "extensions": {
             "assetContract": "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
@@ -4915,7 +4915,7 @@
           "symbol": "srenBTC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "coingeckoId": "renbtc",
@@ -4954,7 +4954,7 @@
           "symbol": "srenBTC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "coingeckoId": "renbtc",
@@ -5108,7 +5108,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -5146,7 +5146,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -5298,7 +5298,7 @@
             "wrapped-sollet",
             "ethereum",
             "saber-market-btc",
-            "saber-decimal-wrapped"
+            "saber-dec-wrapped"
           ],
           "extensions": {
             "assetContract": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
@@ -5337,7 +5337,7 @@
             "wrapped-sollet",
             "ethereum",
             "saber-market-btc",
-            "saber-decimal-wrapped"
+            "saber-dec-wrapped"
           ],
           "extensions": {
             "assetContract": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
@@ -5483,7 +5483,7 @@
           "symbol": "srenBTC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "coingeckoId": "renbtc",
@@ -5519,7 +5519,7 @@
           "symbol": "srenBTC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "coingeckoId": "renbtc",
@@ -5670,7 +5670,7 @@
           "symbol": "srenLUNA-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT.png",
-          "tags": ["saber-market-luna", "saber-decimal-wrapped"],
+          "tags": ["saber-market-luna", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
             "underlyingTokens": [
@@ -5708,7 +5708,7 @@
           "symbol": "srenLUNA-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT.png",
-          "tags": ["saber-market-luna", "saber-decimal-wrapped"],
+          "tags": ["saber-market-luna", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
             "underlyingTokens": [
@@ -5857,7 +5857,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -5891,7 +5891,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -6423,12 +6423,7 @@
           "name": "pBTC (Parrot BTC)",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun.svg",
-          "tags": [
-            "stablecoin",
-            "saber-market-btc",
-            "saber-swappable",
-            "saber-market-btc"
-          ],
+          "tags": ["stablecoin", "saber-market-btc", "saber-swappable"],
           "extensions": {
             "website": "https://parrot.fi",
             "twitter": "https://twitter.com/gopartyparrot",
@@ -6449,12 +6444,7 @@
           "name": "pBTC (Parrot BTC)",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun.svg",
-          "tags": [
-            "stablecoin",
-            "saber-market-btc",
-            "saber-swappable",
-            "saber-market-btc"
-          ],
+          "tags": ["stablecoin", "saber-market-btc", "saber-swappable"],
           "extensions": {
             "website": "https://parrot.fi",
             "twitter": "https://twitter.com/gopartyparrot",
@@ -6492,12 +6482,7 @@
           "name": "pBTC (Parrot BTC)",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun.svg",
-          "tags": [
-            "stablecoin",
-            "saber-market-btc",
-            "saber-swappable",
-            "saber-market-btc"
-          ],
+          "tags": ["stablecoin", "saber-market-btc", "saber-swappable"],
           "extensions": {
             "website": "https://parrot.fi",
             "twitter": "https://twitter.com/gopartyparrot",
@@ -8087,7 +8072,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -8121,7 +8106,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -8250,7 +8235,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -8307,7 +8292,7 @@
           "symbol": "sUSDC-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -8637,7 +8622,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -8674,7 +8659,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -8822,7 +8807,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -8858,7 +8843,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -9005,7 +8990,7 @@
           "symbol": "sUSDT-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "coingeckoId": "tether",
@@ -9041,7 +9026,7 @@
           "symbol": "sUSDT-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "coingeckoId": "tether",
@@ -9186,7 +9171,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -9220,7 +9205,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -9363,7 +9348,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -9397,7 +9382,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -9886,7 +9871,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -9920,7 +9905,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -10063,7 +10048,7 @@
           "symbol": "swFTT-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx.png",
-          "tags": ["saber-market-ftt", "wormhole-v2", "saber-decimal-wrapped"],
+          "tags": ["saber-market-ftt", "wormhole-v2", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
             "coingeckoId": "ftx-token",
@@ -10099,7 +10084,7 @@
           "symbol": "swFTT-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx.png",
-          "tags": ["saber-market-ftt", "wormhole-v2", "saber-decimal-wrapped"],
+          "tags": ["saber-market-ftt", "wormhole-v2", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
             "coingeckoId": "ftx-token",
@@ -10233,7 +10218,7 @@
             "wrapped-sollet",
             "ethereum",
             "saber-market-eth",
-            "saber-decimal-wrapped"
+            "saber-dec-wrapped"
           ],
           "extensions": {
             "assetContract": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
@@ -10272,7 +10257,7 @@
             "wrapped-sollet",
             "ethereum",
             "saber-market-eth",
-            "saber-decimal-wrapped"
+            "saber-dec-wrapped"
           ],
           "extensions": {
             "assetContract": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
@@ -10432,7 +10417,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -10466,7 +10451,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -11131,7 +11116,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -11165,7 +11150,7 @@
           "symbol": "sUSDC-8",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
-          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "tags": ["stablecoin", "saber-market-usd", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "coingeckoId": "usd-coin",
@@ -11483,7 +11468,7 @@
           "symbol": "srenBTC-10",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "coingeckoId": "renbtc",
@@ -11521,7 +11506,7 @@
           "symbol": "srenBTC-10",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "coingeckoId": "renbtc",
@@ -11672,7 +11657,7 @@
           "symbol": "swhETH-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma.png",
-          "tags": ["saber-market-eth", "wormhole-v2", "saber-decimal-wrapped"],
+          "tags": ["saber-market-eth", "wormhole-v2", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "coingeckoId": "ethereum",
@@ -11710,7 +11695,7 @@
           "symbol": "swhETH-9",
           "chainId": 101,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma.png",
-          "tags": ["saber-market-eth", "wormhole-v2", "saber-decimal-wrapped"],
+          "tags": ["saber-market-eth", "wormhole-v2", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "coingeckoId": "ethereum",

@@ -42,8 +42,8 @@
       "name": "saber-hidden",
       "description": "Hidden from main Saber UI."
     },
-    "saber-decimal-wrapped": {
-      "name": "saber-decimal-wrapped",
+    "saber-dec-wrapped": {
+      "name": "saber-dec-wrapped",
       "description": "Decimal wrapper for a different token. See `assetContract` for the mint of the underlying."
     },
     "saber-stableswap-lp": {
@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-11-23T23:19:35.498Z",
+  "timestamp": "2021-11-23T23:51:23.818Z",
   "tokens": [
     {
       "symbol": "TEST",
@@ -160,7 +160,7 @@
       "symbol": "sWBTC-8",
       "chainId": 103,
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
-      "tags": ["saber-market-btc", "saber-decimal-wrapped", "saber-swappable"],
+      "tags": ["saber-market-btc", "saber-dec-wrapped", "saber-swappable"],
       "extensions": {
         "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
         "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"]

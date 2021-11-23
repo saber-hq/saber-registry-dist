@@ -30,7 +30,7 @@
           "symbol": "sWBTC-8",
           "chainId": 103,
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
             "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"]
@@ -55,7 +55,7 @@
           "symbol": "sWBTC-8",
           "chainId": 103,
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
-          "tags": ["saber-market-btc", "saber-decimal-wrapped"],
+          "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
             "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
             "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"]

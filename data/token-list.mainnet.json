@@ -42,8 +42,8 @@
       "name": "saber-hidden",
       "description": "Hidden from main Saber UI."
     },
-    "saber-decimal-wrapped": {
-      "name": "saber-decimal-wrapped",
+    "saber-dec-wrapped": {
+      "name": "saber-dec-wrapped",
       "description": "Decimal wrapper for a different token. See `assetContract` for the mint of the underlying."
     },
     "saber-stableswap-lp": {
@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-11-23T23:19:35.163Z",
+  "timestamp": "2021-11-23T23:51:23.618Z",
   "tokens": [
     {
       "chainId": 101,
@@ -175,7 +175,7 @@
       "tags": [
         "stablecoin",
         "saber-market-usd",
-        "saber-decimal-wrapped",
+        "saber-dec-wrapped",
         "saber-swappable"
       ],
       "extensions": {
@@ -195,7 +195,7 @@
       "tags": [
         "stablecoin",
         "saber-market-usd",
-        "saber-decimal-wrapped",
+        "saber-dec-wrapped",
         "saber-swappable"
       ],
       "extensions": {
@@ -679,7 +679,7 @@
       "tags": [
         "saber-market-eth",
         "wormhole-v2",
-        "saber-decimal-wrapped",
+        "saber-dec-wrapped",
         "saber-swappable"
       ],
       "extensions": {
@@ -731,7 +731,7 @@
       "tags": [
         "saber-market-ftt",
         "wormhole-v2",
-        "saber-decimal-wrapped",
+        "saber-dec-wrapped",
         "saber-swappable"
       ],
       "extensions": {
@@ -1271,7 +1271,7 @@
       "tags": [
         "stablecoin",
         "saber-market-usd",
-        "saber-decimal-wrapped",
+        "saber-dec-wrapped",
         "saber-swappable"
       ],
       "extensions": {
@@ -1310,7 +1310,7 @@
         "wrapped-sollet",
         "ethereum",
         "saber-market-ftt",
-        "saber-decimal-wrapped",
+        "saber-dec-wrapped",
         "saber-swappable"
       ],
       "extensions": {
@@ -1364,7 +1364,7 @@
         "wrapped-sollet",
         "ethereum",
         "saber-market-eth",
-        "saber-decimal-wrapped",
+        "saber-dec-wrapped",
         "saber-swappable"
       ],
       "extensions": {
@@ -1398,7 +1398,7 @@
       "symbol": "srenBTC-9",
       "chainId": 101,
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5.png",
-      "tags": ["saber-market-btc", "saber-decimal-wrapped", "saber-swappable"],
+      "tags": ["saber-market-btc", "saber-dec-wrapped", "saber-swappable"],
       "extensions": {
         "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
         "coingeckoId": "renbtc",
@@ -1415,7 +1415,7 @@
       "symbol": "srenBTC-10",
       "chainId": 101,
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi.png",
-      "tags": ["saber-market-btc", "saber-decimal-wrapped", "saber-swappable"],
+      "tags": ["saber-market-btc", "saber-dec-wrapped", "saber-swappable"],
       "extensions": {
         "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
         "coingeckoId": "renbtc",
@@ -1452,7 +1452,7 @@
         "wrapped-sollet",
         "ethereum",
         "saber-market-btc",
-        "saber-decimal-wrapped",
+        "saber-dec-wrapped",
         "saber-swappable"
       ],
       "extensions": {
@@ -1473,7 +1473,7 @@
         "wrapped-sollet",
         "ethereum",
         "saber-market-btc",
-        "saber-decimal-wrapped",
+        "saber-dec-wrapped",
         "saber-swappable"
       ],
       "extensions": {
@@ -1493,7 +1493,6 @@
         "stablecoin",
         "saber-market-btc",
         "saber-swappable",
-        "saber-market-btc",
         "saber-swappable"
       ],
       "extensions": {
@@ -1531,7 +1530,7 @@
       "symbol": "srenLUNA-9",
       "chainId": 101,
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT.png",
-      "tags": ["saber-market-luna", "saber-decimal-wrapped", "saber-swappable"],
+      "tags": ["saber-market-luna", "saber-dec-wrapped", "saber-swappable"],
       "extensions": {
         "assetContract": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
         "underlyingTokens": ["8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"],
@@ -1672,7 +1671,7 @@
       "tags": [
         "stablecoin",
         "saber-market-usd",
-        "saber-decimal-wrapped",
+        "saber-dec-wrapped",
         "saber-swappable"
       ],
       "extensions": {
@@ -1694,7 +1693,7 @@
       "tags": [
         "stablecoin",
         "saber-market-usd",
-        "saber-decimal-wrapped",
+        "saber-dec-wrapped",
         "saber-swappable"
       ],
       "extensions": {
