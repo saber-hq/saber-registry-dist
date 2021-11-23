@@ -44,6 +44,17 @@
     "tokenBCoingecko": "renbtc"
   },
   {
+    "id": "abbtcb",
+    "lpMint": "ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo",
+    "tokenA": "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
+    "tokenB": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
+    "authority": "J2HsPo8fNKNhSZcUn3EfPjekbwSwA3LUTS2Yj8wz8hL2",
+    "reserveA": "3aQn9HbPXwxCLEd71x81K1whfHvMe18bEwPtqPArA68d",
+    "reserveB": "5KMjfTVueu78hnEaUNKPTQmKkEnUrwTGD9r8YFKXXxy7",
+    "tokenACoingecko": "wrapped-bitcoin",
+    "tokenBCoingecko": "renbtc"
+  },
+  {
     "id": "abbusd",
     "lpMint": "BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp",
     "tokenA": "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
@@ -53,6 +64,39 @@
     "reserveB": "SscdxE99omdG9AiMVwmaEMQySQnCgeAh1sPj2Leutm2",
     "tokenACoingecko": "binance-usd",
     "tokenBCoingecko": "usd-coin"
+  },
+  {
+    "id": "abeth",
+    "lpMint": "ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP",
+    "tokenA": "EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC",
+    "tokenB": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
+    "authority": "FM2ki4WkVhAEeqbnbpeAK6iZfTbGSWxZJ7cjJmzmTA69",
+    "reserveA": "FfSySSbVJPvEo5a5AvrP3nySoXpRE2QPn1uUMpJJ1x7v",
+    "reserveB": "HL7Vcj6838ZmvBHDbQxXfjBNckNi83WvPiZQoMQLFeRM",
+    "tokenACoingecko": "weth",
+    "tokenBCoingecko": "ethereum"
+  },
+  {
+    "id": "abusdc",
+    "lpMint": "ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P",
+    "tokenA": "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
+    "tokenB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+    "authority": "GoGTHycKo5ti1Lwyk1ZVa2Y6yka2z6Q6cLNEUQ2e1g1w",
+    "reserveA": "AZjEH1zWVx1UJ6udMyRijGTzPteuLnaY18yNNmprJEsh",
+    "reserveB": "Caf8ypkSVR8xYnXNhjvfvdGCC7mrM3C11rz8Xi6NA6aK",
+    "tokenACoingecko": "usd-coin",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
+    "id": "abusdt",
+    "lpMint": "ALPaPPo6xmeGv3a63Pc4S8NJFAAuchhD7XnkkWJqzvXJ",
+    "tokenA": "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
+    "tokenB": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
+    "authority": "68VHM1QsAEQo2kCRh2Gu5ztN9fzLfuk9VpX76LCvpjxx",
+    "reserveA": "GnKpRj5kBVPMJfiwZtEuD9GYApLzPdW5JFuZTcyX4BTc",
+    "reserveB": "3dmwD9okkomV9nDwyuh4UMhKdUR13QpuKxRo89ycZB5t",
+    "tokenACoingecko": "tether",
+    "tokenBCoingecko": "tether"
   },
   {
     "id": "acusd",
