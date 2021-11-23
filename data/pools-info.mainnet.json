@@ -8051,6 +8051,549 @@
       "quarry": "HEFCUdoJRcsjD1VPacn4oYsoPne2TfdYaQNczq7Aj3iX"
     },
     {
+      "id": "wbusd",
+      "name": "wbBUSD-USDC",
+      "tokens": [
+        {
+          "chainId": 101,
+          "address": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
+          "symbol": "wbBUSD",
+          "name": "BUSD Token (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2.png",
+          "tags": ["wrapped", "wormhole", "wormhole-v2"],
+          "extensions": {
+            "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "assetContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "coingeckoId": "binance-usd",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin",
+            "underlyingTokens": [
+              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ],
+            "currency": "USD"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "chainId": 101,
+          "address": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
+          "symbol": "wbBUSD",
+          "name": "BUSD Token (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2.png",
+          "tags": ["wrapped", "wormhole", "wormhole-v2"],
+          "extensions": {
+            "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "assetContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "coingeckoId": "binance-usd",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin",
+            "underlyingTokens": [
+              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ],
+            "currency": "USD"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
+          "symbol": "wbBUSD",
+          "name": "BUSD Token (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2.png",
+          "tags": ["wrapped", "wormhole", "wormhole-v2"],
+          "extensions": {
+            "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "assetContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "coingeckoId": "binance-usd",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "wbBUSD-USDC",
+        "name": "Saber wbBUSD-USDC LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 8,
+        "address": "WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/wbusd",
+          "underlyingTokens": [
+            "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
+            "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "5VfcVdRGnNEzE3rx5ewqbo9UtDgbXtgXVoghaLtHFaH",
+      "swap": {
+        "config": {
+          "swapAccount": "BUSDgu5JdqP1rndBvXvanbEufS94FNh1w5FJcAj6vawb",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "AuGSuRwZ7qN9sG8eUdfFsW7xdxSZ8CvB4jM4RdkrU3FD"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "BmbRcAyVifHV2EhDnbwrw9KuoPLFDs77o6tREjdGboDr",
+            "reserve": "Bgzr8cWubt89JQFXndVjtdKmDbGzuPxNhvjH1EhWCwbo",
+            "mint": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2"
+          },
+          "tokenB": {
+            "adminFeeAccount": "cgGwK8bbfvRb3Z5Ggz6BuJ1rjuJ89KM1H6zQnhFEAXY",
+            "reserve": "Dxaf8xPBBQsasRKW5Aa4Sw2YrbfGofY9xZueyyF23FBW",
+            "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          },
+          "poolTokenMint": "WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS",
+          "initialAmpFactor": "96",
+          "targetAmpFactor": "96",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "7xxkhSdMVhfoekF92ojd8AM6qzyJnX5yui9Yu2fx85VP"
+    },
+    {
+      "id": "wbusdc",
+      "name": "wbUSDC-USDC",
+      "tokens": [
+        {
+          "chainId": 101,
+          "address": "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
+          "symbol": "wbUSDC",
+          "name": "USD Coin (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA.png",
+          "tags": ["wrapped", "wormhole", "wormhole-v2"],
+          "extensions": {
+            "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+            "assetContract": "https://bscscan.com/address/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+            "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin",
+            "underlyingTokens": [
+              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ],
+            "currency": "USD"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "chainId": 101,
+          "address": "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
+          "symbol": "wbUSDC",
+          "name": "USD Coin (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA.png",
+          "tags": ["wrapped", "wormhole", "wormhole-v2"],
+          "extensions": {
+            "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+            "assetContract": "https://bscscan.com/address/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+            "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "coingeckoId": "usd-coin",
+            "underlyingTokens": [
+              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ],
+            "currency": "USD"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
+          "symbol": "wbUSDC",
+          "name": "USD Coin (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA.png",
+          "tags": ["wrapped", "wormhole", "wormhole-v2"],
+          "extensions": {
+            "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+            "assetContract": "https://bscscan.com/address/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+            "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "wbUSDC-USDC",
+        "name": "Saber wbUSDC-USDC LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 8,
+        "address": "WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/wbusdc",
+          "underlyingTokens": [
+            "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
+            "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "9EHiJu3mcwjPBVENDs2mA1DnmjSZ7EdduvsMgmb5iPmV",
+      "swap": {
+        "config": {
+          "swapAccount": "BUSD5rCfUDpCxKGMvYU2yThChxgHoioK74PTPociGnv2",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "DZrJ1JztPXQtDT7X8bS8mFyQrDH2YdTsXAKnoBHv2txT"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "B9dHYepbJ6DR7UYGuBaunHx91cwZutSr24pubhsFqLsd",
+            "reserve": "CcFHbafgYDZ8yA8Me1PdtDiVb2eeaS61LbqyKKK5CsNZ",
+            "mint": "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA"
+          },
+          "tokenB": {
+            "adminFeeAccount": "BR3R4Mx5i4JPhK1ct4QFCFbfd4wGq2MQYne57HazWjn3",
+            "reserve": "26R9s4nmF3CFDTkiePDwRmtscn8i7r2eygbSijditJ58",
+            "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          },
+          "poolTokenMint": "WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs",
+          "initialAmpFactor": "96",
+          "targetAmpFactor": "96",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "GiZDN6QkWTGwULWwoyacaeRNEwnQHsn9ohojE2cZZ995"
+    },
+    {
+      "id": "wbusdt",
+      "name": "wbUSDT-USDT",
+      "tokens": [
+        {
+          "chainId": 101,
+          "address": "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
+          "symbol": "wbUSDT",
+          "name": "Tether USD (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv.png",
+          "tags": ["wrapped", "wormhole", "wormhole-v2"],
+          "extensions": {
+            "address": "0x55d398326f99059ff775485246999027b3197955",
+            "assetContract": "https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955",
+            "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "name": "Saber Wrapped USDT (8 decimals)",
+          "address": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw",
+          "decimals": 8,
+          "symbol": "sUSDT-8",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "coingeckoId": "tether",
+            "underlyingTokens": [
+              "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+            ],
+            "currency": "USD"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "chainId": 101,
+          "address": "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
+          "symbol": "wbUSDT",
+          "name": "Tether USD (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv.png",
+          "tags": ["wrapped", "wormhole", "wormhole-v2"],
+          "extensions": {
+            "address": "0x55d398326f99059ff775485246999027b3197955",
+            "assetContract": "https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955",
+            "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "name": "Saber Wrapped USDT (8 decimals)",
+          "address": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw",
+          "decimals": 8,
+          "symbol": "sUSDT-8",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
+          "extensions": {
+            "assetContract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "coingeckoId": "tether",
+            "underlyingTokens": [
+              "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+            ],
+            "currency": "USD"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
+          "symbol": "wbUSDT",
+          "name": "Tether USD (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv.png",
+          "tags": ["wrapped", "wormhole", "wormhole-v2"],
+          "extensions": {
+            "address": "0x55d398326f99059ff775485246999027b3197955",
+            "assetContract": "https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955",
+            "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "symbol": "USDT",
+          "name": "USDT",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "tags": ["stablecoin", "saber-market-usd"],
+          "extensions": {
+            "coingeckoId": "tether",
+            "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://tether.to/",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "wbUSDT-USDT",
+        "name": "Saber wbUSDT-USDT LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 8,
+        "address": "WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/wbusdt",
+          "underlyingTokens": [
+            "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
+            "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "EZyPr4moLCmSPn89dzhfksmTmT3646MYxE7pBuHr8mTG",
+      "swap": {
+        "config": {
+          "swapAccount": "BUSDTd9WiT6uBHJRgNvFXBsA7JrifsAtWzKfioN7ERcy",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "G2NKBFb4gXDPD3PPbUPdz4QA6VdAcGrhk1PeM7D6NyLm"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "6m8KuYX2HqyKvtp89RQy867eVFBFfw6VYiT5gHG9E3zs",
+            "reserve": "DyBxrn7gSc1EwnpWhDyhzvMHPtxpmBqRqotapLcKcfTM",
+            "mint": "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv"
+          },
+          "tokenB": {
+            "adminFeeAccount": "FUMFNXEvZZfEwDAzG5jprLHhiN15vL17mvKF95exPNuj",
+            "reserve": "Cds99GeBgoCpqBsoRWu1C6fF9LiUMd4pXQQD24s9LPff",
+            "mint": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw"
+          },
+          "poolTokenMint": "WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv",
+          "initialAmpFactor": "96",
+          "targetAmpFactor": "96",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "86tqayCSmxprknt6Lu6rpJx7B7HjaurHXUmzev7Hx8v6"
+    },
+    {
       "id": "wdai",
       "name": "wDAI-USDC",
       "tokens": [

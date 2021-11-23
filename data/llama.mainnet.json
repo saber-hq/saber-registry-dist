@@ -473,6 +473,39 @@
     "tokenBCoingecko": "usd-coin"
   },
   {
+    "id": "wbusd",
+    "lpMint": "WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS",
+    "tokenA": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
+    "tokenB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+    "authority": "AuGSuRwZ7qN9sG8eUdfFsW7xdxSZ8CvB4jM4RdkrU3FD",
+    "reserveA": "Bgzr8cWubt89JQFXndVjtdKmDbGzuPxNhvjH1EhWCwbo",
+    "reserveB": "Dxaf8xPBBQsasRKW5Aa4Sw2YrbfGofY9xZueyyF23FBW",
+    "tokenACoingecko": "binance-usd",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
+    "id": "wbusdc",
+    "lpMint": "WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs",
+    "tokenA": "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
+    "tokenB": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+    "authority": "DZrJ1JztPXQtDT7X8bS8mFyQrDH2YdTsXAKnoBHv2txT",
+    "reserveA": "CcFHbafgYDZ8yA8Me1PdtDiVb2eeaS61LbqyKKK5CsNZ",
+    "reserveB": "26R9s4nmF3CFDTkiePDwRmtscn8i7r2eygbSijditJ58",
+    "tokenACoingecko": "usd-coin",
+    "tokenBCoingecko": "usd-coin"
+  },
+  {
+    "id": "wbusdt",
+    "lpMint": "WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv",
+    "tokenA": "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
+    "tokenB": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw",
+    "authority": "G2NKBFb4gXDPD3PPbUPdz4QA6VdAcGrhk1PeM7D6NyLm",
+    "reserveA": "DyBxrn7gSc1EwnpWhDyhzvMHPtxpmBqRqotapLcKcfTM",
+    "reserveB": "Cds99GeBgoCpqBsoRWu1C6fF9LiUMd4pXQQD24s9LPff",
+    "tokenACoingecko": "tether",
+    "tokenBCoingecko": "tether"
+  },
+  {
     "id": "wdai",
     "lpMint": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
     "tokenA": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
