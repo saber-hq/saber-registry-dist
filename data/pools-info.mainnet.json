@@ -588,7 +588,9 @@
             "underlyingTokens": [
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
             ],
-            "currency": "BTC"
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
           }
         }
       ],
@@ -622,7 +624,9 @@
             "underlyingTokens": [
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
             ],
-            "currency": "BTC"
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
           }
         }
       ],
@@ -1136,7 +1140,9 @@
             "underlyingTokens": [
               "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
             ],
-            "currency": "USD"
+            "currency": "USD",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print"
           }
         }
       ],
@@ -1170,7 +1176,9 @@
             "underlyingTokens": [
               "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
             ],
-            "currency": "USD"
+            "currency": "USD",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print"
           }
         }
       ],
@@ -1669,7 +1677,9 @@
             "underlyingTokens": [
               "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
             ],
-            "currency": "ETH"
+            "currency": "ETH",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
           }
         },
         {
@@ -1703,7 +1713,9 @@
             "underlyingTokens": [
               "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
             ],
-            "currency": "ETH"
+            "currency": "ETH",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
           }
         },
         {
@@ -2412,7 +2424,9 @@
             "underlyingTokens": [
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
             ],
-            "currency": "BTC"
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
           }
         }
       ],
@@ -2446,7 +2460,9 @@
             "underlyingTokens": [
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
             ],
-            "currency": "BTC"
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
           }
         }
       ],
@@ -4288,7 +4304,9 @@
             "underlyingTokens": [
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
             ],
-            "currency": "BTC"
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
           }
         }
       ],
@@ -4325,7 +4343,9 @@
             "underlyingTokens": [
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
             ],
-            "currency": "BTC"
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
           }
         }
       ],
@@ -4867,7 +4887,9 @@
             "underlyingTokens": [
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
             ],
-            "currency": "BTC"
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
           }
         }
       ],
@@ -4901,7 +4923,9 @@
             "underlyingTokens": [
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
             ],
-            "currency": "BTC"
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
           }
         }
       ],
@@ -5054,7 +5078,9 @@
             "underlyingTokens": [
               "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
             ],
-            "currency": "LUNA"
+            "currency": "LUNA",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
           }
         }
       ],
@@ -5090,7 +5116,9 @@
             "underlyingTokens": [
               "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
             ],
-            "currency": "LUNA"
+            "currency": "LUNA",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
           }
         }
       ],
@@ -8957,7 +8985,9 @@
             "underlyingTokens": [
               "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
             ],
-            "currency": "FTT"
+            "currency": "FTT",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
           }
         }
       ],
@@ -8991,7 +9021,9 @@
             "underlyingTokens": [
               "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
             ],
-            "currency": "FTT"
+            "currency": "FTT",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
           }
         }
       ],
@@ -10413,7 +10445,9 @@
             "underlyingTokens": [
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
             ],
-            "currency": "BTC"
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
           }
         }
       ],
@@ -10449,7 +10483,9 @@
             "underlyingTokens": [
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
             ],
-            "currency": "BTC"
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
           }
         }
       ],
@@ -10603,7 +10639,9 @@
             "underlyingTokens": [
               "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
             ],
-            "currency": "ETH"
+            "currency": "ETH",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
           }
         }
       ],
@@ -10639,7 +10677,9 @@
             "underlyingTokens": [
               "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
             ],
-            "currency": "ETH"
+            "currency": "ETH",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
           }
         }
       ],
