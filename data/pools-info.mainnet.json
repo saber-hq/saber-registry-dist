@@ -3841,6 +3841,8 @@
             "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
             "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
             "currency": "BTC",
+            "source": "sollet",
+            "sourceUrl": "https://www.sollet.io/",
             "website": "https://app.saber.so",
             "assetContract": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
             "underlyingTokens": ["9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"]
@@ -3867,6 +3869,8 @@
             "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
             "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
             "currency": "BTC",
+            "source": "sollet",
+            "sourceUrl": "https://www.sollet.io/",
             "website": "https://app.saber.so",
             "assetContract": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
             "underlyingTokens": ["9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"]
@@ -3904,7 +3908,9 @@
             "coingeckoId": "bitcoin",
             "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
             "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
-            "currency": "BTC"
+            "currency": "BTC",
+            "source": "sollet",
+            "sourceUrl": "https://www.sollet.io/"
           }
         },
         {
@@ -5371,6 +5377,8 @@
             "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
             "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
             "currency": "BTC",
+            "source": "sollet",
+            "sourceUrl": "https://www.sollet.io/",
             "website": "https://app.saber.so",
             "assetContract": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
             "underlyingTokens": ["9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"]
@@ -5412,6 +5420,8 @@
             "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
             "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
             "currency": "BTC",
+            "source": "sollet",
+            "sourceUrl": "https://www.sollet.io/",
             "website": "https://app.saber.so",
             "assetContract": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
             "underlyingTokens": ["9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"]
@@ -5447,7 +5457,9 @@
             "coingeckoId": "bitcoin",
             "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
             "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
-            "currency": "BTC"
+            "currency": "BTC",
+            "source": "sollet",
+            "sourceUrl": "https://www.sollet.io/"
           }
         }
       ],
@@ -10369,6 +10381,8 @@
             "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
             "serumV3Usdt": "7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF",
             "currency": "ETH",
+            "source": "sollet",
+            "sourceUrl": "https://www.sollet.io/",
             "website": "https://app.saber.so",
             "assetContract": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
             "underlyingTokens": ["2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk"]
@@ -10413,6 +10427,8 @@
             "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
             "serumV3Usdt": "7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF",
             "currency": "ETH",
+            "source": "sollet",
+            "sourceUrl": "https://www.sollet.io/",
             "website": "https://app.saber.so",
             "assetContract": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
             "underlyingTokens": ["2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk"]
@@ -10451,7 +10467,9 @@
             "coingeckoId": "ethereum",
             "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
             "serumV3Usdt": "7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF",
-            "currency": "ETH"
+            "currency": "ETH",
+            "source": "sollet",
+            "sourceUrl": "https://www.sollet.io/"
           }
         },
         {
