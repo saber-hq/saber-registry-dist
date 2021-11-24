@@ -32,6 +32,7 @@
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
           "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
+            "website": "https://app.saber.so",
             "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
             "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"]
           }
@@ -57,6 +58,7 @@
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
           "tags": ["saber-market-btc", "saber-dec-wrapped"],
           "extensions": {
+            "website": "https://app.saber.so",
             "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
             "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"]
           }

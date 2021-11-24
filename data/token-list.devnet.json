@@ -91,7 +91,7 @@
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-11-23T23:51:23.818Z",
+  "timestamp": "2021-11-24T00:28:33.512Z",
   "tokens": [
     {
       "symbol": "TEST",
@@ -162,6 +162,7 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
       "tags": ["saber-market-btc", "saber-dec-wrapped", "saber-swappable"],
       "extensions": {
+        "website": "https://app.saber.so",
         "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
         "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"]
       }

@@ -74,7 +74,7 @@
     "reserveA": "FfSySSbVJPvEo5a5AvrP3nySoXpRE2QPn1uUMpJJ1x7v",
     "reserveB": "HL7Vcj6838ZmvBHDbQxXfjBNckNi83WvPiZQoMQLFeRM",
     "tokenACoingecko": "weth",
-    "tokenBCoingecko": "ethereum"
+    "tokenBCoingecko": "weth"
   },
   {
     "id": "abusdc",
@@ -150,7 +150,7 @@
     "authority": "4vKg9TxAmbmBQYvsv9StJYMwyDeWNyfVSumMzmemrXbZ",
     "reserveA": "CGoM82Hbz7QVqTgvQatYtjvDWBvoUJp5qm21P8iMs9yb",
     "reserveB": "3dxNNww8TivyN5FMy5dCNdi3Zcxv6e4kUfSPxfFwpdNq",
-    "tokenACoingecko": "ethereum",
+    "tokenACoingecko": "weth",
     "tokenBCoingecko": "weth"
   },
   {
@@ -513,7 +513,7 @@
     "authority": "7K88AAbfSVHEZY87Ur3PrDhBYpwhKfTGxSWzMdh7XxUj",
     "reserveA": "JAjt8kZkTsxKA3VKnmszKHQwzuNSAXXhN3Y4NZ2kEoLU",
     "reserveB": "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu",
-    "tokenACoingecko": "terrausd",
+    "tokenACoingecko": "terra-usd",
     "tokenBCoingecko": "usd-coin"
   },
   {
@@ -624,7 +624,7 @@
     "reserveA": "8p4mGnARWPBu6P2Gcw4adodLkNDorrXniZMhaY7eJXUn",
     "reserveB": "AyY89zccbsgp9LKFgH4CFZMJmpSgqmPSdTfukhP227rc",
     "tokenACoingecko": "ethereum",
-    "tokenBCoingecko": "ethereum"
+    "tokenBCoingecko": "weth"
   },
   {
     "id": "whusd",
@@ -689,7 +689,7 @@
     "authority": "9osV5a7FXEjuMujxZJGBRXVAyQ5fJfBFNkyAf6fSz9kw",
     "reserveA": "J63v6qEZmQpDqCD8bd4PXu2Pq5ZbyXrFcSa3Xt1HdAPQ",
     "reserveB": "BnKQtTdLw9qPCDgZkWX3sURkBAoKCUYL1yahh6Mw7mRK",
-    "tokenACoingecko": "terrausd",
+    "tokenACoingecko": "terra-usd",
     "tokenBCoingecko": "usd-coin"
   },
   {
@@ -712,7 +712,7 @@
     "reserveA": "3gkSjY95an9xNFSjCfsay6JZez7uv7yfW3Ad4ubc4fMK",
     "reserveB": "9wXqANaSuEqkKL9yHzCPEDGHwbkStVAqV5rB3QDs3Jr6",
     "tokenACoingecko": "ethereum",
-    "tokenBCoingecko": "ethereum"
+    "tokenBCoingecko": "weth"
   },
   {
     "id": "xftt",
