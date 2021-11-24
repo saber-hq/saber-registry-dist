@@ -733,7 +733,7 @@
           "symbol": "abBTCB",
           "name": "Wrapped BTC (Allbridge from BSC)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu.png",
           "extensions": {
             "coingeckoId": "wrapped-bitcoin",
             "currency": "BTC",
@@ -769,7 +769,7 @@
           "symbol": "abBTCB",
           "name": "Wrapped BTC (Allbridge from BSC)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu.png",
           "extensions": {
             "coingeckoId": "wrapped-bitcoin",
             "currency": "BTC",
@@ -805,7 +805,7 @@
           "symbol": "abBTCB",
           "name": "Wrapped BTC (Allbridge from BSC)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu.png",
           "extensions": {
             "coingeckoId": "wrapped-bitcoin",
             "currency": "BTC",
@@ -1093,7 +1093,7 @@
           "symbol": "abETH",
           "name": "Wrapped ETH (Allbridge from BSC)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FeGn77dhg1KXRRFeSwwMiykZnZPw5JXW6naf2aQgZDQf/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC.png",
           "extensions": {
             "coingeckoId": "weth",
             "currency": "ETH",
@@ -1136,7 +1136,7 @@
           "symbol": "abETH",
           "name": "Wrapped ETH (Allbridge from BSC)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FeGn77dhg1KXRRFeSwwMiykZnZPw5JXW6naf2aQgZDQf/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC.png",
           "extensions": {
             "coingeckoId": "weth",
             "currency": "ETH",
@@ -1179,7 +1179,7 @@
           "symbol": "abETH",
           "name": "Wrapped ETH (Allbridge from BSC)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FeGn77dhg1KXRRFeSwwMiykZnZPw5JXW6naf2aQgZDQf/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC.png",
           "extensions": {
             "coingeckoId": "weth",
             "currency": "ETH",
@@ -1291,7 +1291,7 @@
           "symbol": "abUSDC",
           "name": "Wrapped USDC (Allbridge from BSC)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "usd-coin",
@@ -1325,7 +1325,7 @@
           "symbol": "abUSDC",
           "name": "Wrapped USDC (Allbridge from BSC)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "usd-coin",
@@ -1359,7 +1359,7 @@
           "symbol": "abUSDC",
           "name": "Wrapped USDC (Allbridge from BSC)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "usd-coin",
@@ -1468,7 +1468,7 @@
           "symbol": "abUSDT",
           "name": "Wrapped USDT (Allbridge from BSC)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "tether",
@@ -1502,7 +1502,7 @@
           "symbol": "abUSDT",
           "name": "Wrapped USDT (Allbridge from BSC)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "tether",
@@ -1536,7 +1536,7 @@
           "symbol": "abUSDT",
           "name": "Wrapped USDT (Allbridge from BSC)",
           "decimals": 9,
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL.png",
           "tags": ["stablecoin", "saber-market-usd"],
           "extensions": {
             "coingeckoId": "tether",
