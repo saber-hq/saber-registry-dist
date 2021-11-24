@@ -62,36 +62,36 @@
       "name": "wormhole-v2",
       "description": "Wormhole V2 asset."
     },
-    "saber-market-usd": {
-      "name": "saber-market-usd",
+    "saber-mkt-usd": {
+      "name": "saber-mkt-usd",
       "description": "Token which trades against other representations of USD."
     },
-    "saber-market-btc": {
-      "name": "saber-market-btc",
+    "saber-mkt-btc": {
+      "name": "saber-mkt-btc",
       "description": "Token which trades against other representations of BTC."
     },
-    "saber-market-luna": {
-      "name": "saber-market-luna",
+    "saber-mkt-luna": {
+      "name": "saber-mkt-luna",
       "description": "Token which trades against other representations of LUNA."
     },
-    "saber-market-ftt": {
-      "name": "saber-market-ftt",
+    "saber-mkt-ftt": {
+      "name": "saber-mkt-ftt",
       "description": "Token which trades against other representations of FTT."
     },
-    "saber-market-srm": {
-      "name": "saber-market-srm",
+    "saber-mkt-srm": {
+      "name": "saber-mkt-srm",
       "description": "Token which trades against other representations of SRM."
     },
-    "saber-market-sol": {
-      "name": "saber-market-sol",
+    "saber-mkt-sol": {
+      "name": "saber-mkt-sol",
       "description": "Token which trades against other representations of SOL."
     },
-    "saber-market-eth": {
-      "name": "saber-market-eth",
+    "saber-mkt-eth": {
+      "name": "saber-mkt-eth",
       "description": "Token which trades against other representations of ETH."
     }
   },
-  "timestamp": "2021-11-24T21:23:33.733Z",
+  "timestamp": "2021-11-24T22:53:25.191Z",
   "tokens": [
     {
       "symbol": "TEST",
@@ -100,8 +100,8 @@
       "address": "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
       "decimals": 6,
       "chainId": 103,
-      "tags": ["saber-market-usd", "saber-swappable"],
-      "extensions": {}
+      "tags": ["saber-mkt-usd", "saber-swappable"],
+      "extensions": { "currency": "USD" }
     },
     {
       "symbol": "USDC",
@@ -110,8 +110,8 @@
       "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
       "decimals": 6,
       "chainId": 103,
-      "tags": ["saber-market-usd", "saber-swappable"],
-      "extensions": {}
+      "tags": ["saber-mkt-usd", "saber-swappable"],
+      "extensions": { "currency": "USD" }
     },
     {
       "symbol": "USDT",
@@ -120,8 +120,8 @@
       "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
       "decimals": 6,
       "chainId": 103,
-      "tags": ["saber-market-usd", "saber-swappable"],
-      "extensions": {}
+      "tags": ["saber-mkt-usd", "saber-swappable"],
+      "extensions": { "currency": "USD" }
     },
     {
       "symbol": "PAI",
@@ -130,8 +130,8 @@
       "address": "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL",
       "decimals": 6,
       "chainId": 103,
-      "tags": ["saber-market-usd", "saber-swappable"],
-      "extensions": {}
+      "tags": ["saber-mkt-usd", "saber-swappable"],
+      "extensions": { "currency": "USD" }
     },
     {
       "name": "Test WBTC",
@@ -140,8 +140,8 @@
       "chainId": 103,
       "symbol": "WBTC",
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
-      "tags": ["saber-market-btc"],
-      "extensions": {}
+      "tags": ["saber-mkt-btc"],
+      "extensions": { "currency": "BTC" }
     },
     {
       "name": "Test RenBTC",
@@ -150,8 +150,8 @@
       "chainId": 103,
       "symbol": "renBTC",
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png",
-      "tags": ["saber-market-btc", "saber-swappable"],
-      "extensions": {}
+      "tags": ["saber-mkt-btc", "saber-swappable"],
+      "extensions": { "currency": "BTC" }
     },
     {
       "name": "Saber Wrapped Test WBTC (8 decimals)",
@@ -160,8 +160,9 @@
       "symbol": "sWBTC-8",
       "chainId": 103,
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
-      "tags": ["saber-market-btc", "saber-dec-wrapped", "saber-swappable"],
+      "tags": ["saber-mkt-btc", "saber-dec-wrapped", "saber-swappable"],
       "extensions": {
+        "currency": "BTC",
         "website": "https://app.saber.so",
         "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
         "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"]

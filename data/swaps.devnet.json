@@ -1,0 +1,353 @@
+[
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "J9wWG8PRe7JbHJYkCDEf5xpr6Vs7hzFsnLbCWLuLtN1C",
+      "mergePool": "CLZ8TiVaf6nFGUGy2F1uSUiZ4hkHRD9FEJH5b7Anj8ks",
+      "quarry": "66Aq2hcbJoS5CBc83xPnqiN6upfxo4D6WLF9Fb29yNo4",
+      "reserves": [
+        "7EMe3YbxczxTEswqwwPeRof41oZmC21DDnZjyZZXBGm4",
+        "9w3VeuAML94aH6md9jt85XpwgDf6Edx2yoS2HDL7v58P"
+      ],
+      "swapAccount": "8UAG7CCH3sSUg4eQbtT2ABiLaEBKwQcxT6gingGgMsjm"
+    },
+    "currency": "BTC",
+    "decimals": 8,
+    "displayTokens": [
+      "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
+      "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ"
+    ],
+    "id": "8UAG7CCH3sSUg4eQbtT2ABiLaEBKwQcxT6gingGgMsjm",
+    "isVerified": false,
+    "name": "WBTC-renBTC",
+    "sources": [],
+    "underlyingTokens": [
+      "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs",
+      "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "AAASPHk9YENqJy2fnd8hbc2FgcAeavvFUCz7pvWY5UHx",
+      "mergePool": "H3CUx9mn8xJ8g3t4uEpFFyxLvCkRCyaS2uYZ35WA2E3K",
+      "quarry": "9W8JucVbLmhuwTdshaVm6yK9zHaQndUmpGbqsqwxsyJV",
+      "reserves": [
+        "9tcUgn5Fcbkh1Q1GLKQceAgKt576c8w5MuskH1cSi9x5",
+        "4VtqtD2M5Jb1Du6RQ8YZepFuhFpSZhEjR7Ch3nJAdyLS"
+      ],
+      "swapAccount": "8Uq15j3bmhMAhLjRYh8RsobfcAMhMsgPgJgPCdjxCZv5"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ],
+    "id": "8Uq15j3bmhMAhLjRYh8RsobfcAMhMsgPgJgPCdjxCZv5",
+    "isVerified": false,
+    "name": "USDC-USDT",
+    "sources": [],
+    "underlyingTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo",
+      "mergePool": "5RAiwywZ5fre33Vrvr2Crdztfz54viQVi25bPtf88VwB",
+      "quarry": "5cX41FTaqRwdMBh1eenEKsQ1J1GwxA7sirnKsmP4i5mz",
+      "reserves": [
+        "5t9v3eYu4qY7g9AMZ7DbxZ5feb5HcHSyKcgG9DhcJam4",
+        "Cbbs13w3R9BQhtd4BLfsAUsh1VtjM2La8chxxv5fn9by"
+      ],
+      "swapAccount": "AqBGfWy3D9NpW8LuknrSSuv93tJUBiPWYxkBrettkG7x"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
+    ],
+    "id": "usdc_test",
+    "isVerified": true,
+    "name": "TEST-USDC",
+    "sources": [],
+    "underlyingTokens": [
+      "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
+      "mergePool": "B56ZQjHikGLSYpjF5PGrooGnXZoAAKP3gBUKpXcjVoPV",
+      "quarry": "CeE8rNxCFx2RAgpS7trsmcTz7ydyun33wbNY7r2nEvPi",
+      "reserves": [
+        "GT9JcsFPaeDJRCeysNHWT76nvN9EWDj7z7psaADSn8QS",
+        "6jRUeyuRyaG1BfV5Y7fRCRhUk8P9CJwS1s5qybG6HPti"
+      ],
+      "swapAccount": "AQsYrKkFLuv9Jw7kCcPH7SkeMQ2aZkP1KcBs4RYegHbv"
+    },
+    "currency": "BTC",
+    "decimals": 8,
+    "displayTokens": [
+      "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
+      "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"
+    ],
+    "id": "btc",
+    "isVerified": true,
+    "name": "renBTC-WBTC",
+    "sources": [],
+    "underlyingTokens": [
+      "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
+      "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "btssMDn48kE9K8H18ckd9QWV74dyFtoGAUStYJPHkhY",
+      "mergePool": "Ev1W4MSExZhJ1Pg2JMWd4PgqAJNekSP9EDffDDFs5d3M",
+      "quarry": "FePQVQXUhq9t323nwR6B9mZG1i3WygrS4CmWYb1a4DTS",
+      "reserves": [
+        "CR7LKmWjASUcPRKi9vawhJd7Yji2WKnibRTJxFGaiPYQ",
+        "BDQuDVFYFjcthBzq3wBkAFZaDXqTuu5vQTMz4qpLQjxV"
+      ],
+      "swapAccount": "C9DDHYRzuMUELsDtTfq27hhLrQj1bwHNdwoSgeUpSHyu"
+    },
+    "currency": "BTC",
+    "decimals": 8,
+    "displayTokens": [
+      "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
+      "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ"
+    ],
+    "id": "C9DDHYRzuMUELsDtTfq27hhLrQj1bwHNdwoSgeUpSHyu",
+    "isVerified": false,
+    "name": "WBTC-renBTC",
+    "sources": [],
+    "underlyingTokens": [
+      "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs",
+      "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "4h8wwJedyC6EVUhMAzK8bZLqDrXneRFEs4KqqbfrJ3Qu",
+      "mergePool": "EZQeyUUbrFuDFhy2vbvtPkJ5kLau7pbsShnP6ymWYV2B",
+      "quarry": "4tRRhDeodJj2mvbt9KbeCb9PxrSnmAUu1ZnVLh2jNqny",
+      "reserves": [
+        "5ZZjaYtV3P3ZB6dMmWiVseja36pcjXHxSnWNLHGgRinV",
+        "EdivdYZHsLGqgvbhgLDyAsFiAU5kG2cAnDNtfa8BAsuh"
+      ],
+      "swapAccount": "DaZjGM5rBrP648v8fbXQMi9sTuGH4qFe6i96KCtkSa7f"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ],
+    "id": "DaZjGM5rBrP648v8fbXQMi9sTuGH4qFe6i96KCtkSa7f",
+    "isVerified": false,
+    "name": "USDC-USDT",
+    "sources": [],
+    "underlyingTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J",
+      "mergePool": "ACnAHxMYYN5VTtHVaorRhhWrhXUjorCr12vFkhLW6Dkp",
+      "quarry": "Cae9hW42nD1G89LCheaSczN6CzngYYWQ6KbZMQXhMwyq",
+      "reserves": [
+        "3hqDsGEp4Zp8PhXhx37ub94bHYfkjjHvZG5YJKyJ17no",
+        "FLX3nBuu77Ld4KG9nTLgNnaqfT8BFnTRGtkwaBYWSXLQ"
+      ],
+      "swapAccount": "DoycojcYVwc42yCpGb4CvkbuKJkQ6KBTugLdJXv3U8ZE"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL"
+    ],
+    "id": "usdc_pai",
+    "isVerified": true,
+    "name": "USDC-PAI",
+    "sources": [],
+    "underlyingTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "6RjgoAXop28rWbngWmgkhn9B5QDYzgxvx6yuMA2zFUPC",
+      "mergePool": "EDPBKQgmiRX832YaJTFMijiscZgNVBCnLWopdHXNwsPu",
+      "quarry": "7vQ1ztJ9YkoG8YzzKCQBfrxSLz3a1EwsELrZUuiWWTKm",
+      "reserves": [
+        "GMFtn7TuCmtibEdtn641SmXTkdc4cBe4iy5cisrRxHLW",
+        "C88SCEi3i5PXHveJnozVHRLuAq219KaK4RDzgtitArAR"
+      ],
+      "swapAccount": "ED8qJtfNE7Js8ZEpT8xvUsH2MxBL5dH23CUqE1p4yGo6"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ],
+    "id": "ED8qJtfNE7Js8ZEpT8xvUsH2MxBL5dH23CUqE1p4yGo6",
+    "isVerified": false,
+    "name": "USDC-USDT",
+    "sources": [],
+    "underlyingTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "BTCtvyQH7yVBZ1kD4ucauLyJTWYgbbhRsXZAhf4QUE13",
+      "mergePool": "F3qD2M88nnU6ZKiGoKoZbLKKXmCdq1Dv6tHTpSuNkMA9",
+      "quarry": "CGWCiXV9r98s2g3X8jpp4fhkNisZw3NvbqUatu6xUuvk",
+      "reserves": [
+        "7fCZAQvVDE6SnbuXiKuYFaeXEY7WEM5KDVdUmbF2rdrE",
+        "BiaGgF2mZw4oRxPPEjmuPq4sNnv8b5NsRx3oMh7AHbMM"
+      ],
+      "swapAccount": "FkjhzAGV6kAZ8Svv7dP4upmz5weBS2GNW2S8MpHTEmKd"
+    },
+    "currency": "BTC",
+    "decimals": 8,
+    "displayTokens": [
+      "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
+      "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ"
+    ],
+    "id": "FkjhzAGV6kAZ8Svv7dP4upmz5weBS2GNW2S8MpHTEmKd",
+    "isVerified": false,
+    "name": "WBTC-renBTC",
+    "sources": [],
+    "underlyingTokens": [
+      "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs",
+      "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "aaaVjWhPtRD12TRDeNyYS23Tu9EPukoL7qSjg1JhQpV",
+      "mergePool": "4AEy115NgRX96gKzuLVWDsLVkRbisSzfdJCUdRis7yvw",
+      "quarry": "B8cSxGzaT5GKLzTPg3jV9v7TaEn57dQAJsWymP9PqPSG",
+      "reserves": [
+        "8uf2n7PP47xDgcqX6atLZzUMaLzJFNwQx5qFkRh8pEmR",
+        "F7i3Fifztfy5E1opaeF2hHvevEa2Znu9ydePptLJZyPj"
+      ],
+      "swapAccount": "GqFXS4HY5BB8E3VoKAiJqEaZ3yVgdjcSTpvJe6bMSZeP"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ],
+    "id": "GqFXS4HY5BB8E3VoKAiJqEaZ3yVgdjcSTpvJe6bMSZeP",
+    "isVerified": false,
+    "name": "USDC-USDT",
+    "sources": [],
+    "underlyingTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "2bKoPgFDwG2zkcJaS8Nd6q8igzVpgRkJFotmesrz287T",
+      "mergePool": "AcVq9o9psFtJH2GDXw2b6pBvkhVJjN2tff9etKcgSVjm",
+      "quarry": "AFK6cTAfPfS2gxaFqKZ133Pv3ZDG5uyoKuFN7oUUnFNp",
+      "reserves": [
+        "6PwT5c7eYWmDY3AfRju7y9mfjE3UNbEvH8xcLwaNcgwE",
+        "4udF6McG9ABuS5ZVQeoBJxyRhL2PfZ7vduSc2FkQj2s4"
+      ],
+      "swapAccount": "JEE92C5NKF22jq8XSzb4xoubxw3Cr9k7jBhE4gNSRyUD"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ],
+    "id": "JEE92C5NKF22jq8XSzb4xoubxw3Cr9k7jBhE4gNSRyUD",
+    "isVerified": false,
+    "name": "USDC-USDT",
+    "sources": [],
+    "underlyingTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "FzptgW5uzMX66NWxTj2Ys2fmTnMRq4pyuAwsoCrtor7K",
+      "lpTokenMint": "22Ni6MmCu5UdQiuVjptqrZWJDen245hmojAfgChbDa1P",
+      "mergePool": "5oiUkvY976k8sEhNNKTYxb5w5oNvq5e6dPALxKFp3Nyj",
+      "quarry": "GM12VjuVRSshfXHwBgGTPsgdLca4Cy5yivMJ4JUTmRLZ",
+      "reserves": [
+        "8ppfDHEV62JgrVTKm4Jyeqh5eWCQqdSExgHYV2DfbJzU",
+        "53BVvagBe4o4WPkGYRoxNzCJZbq8yPhc5qCryyPvdasx"
+      ],
+      "swapAccount": "nK4bdLJjCpj4XDqPBwWXv5TDkVomc8ZzozwCgpx6VAF"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ],
+    "id": "nK4bdLJjCpj4XDqPBwWXv5TDkVomc8ZzozwCgpx6VAF",
+    "isVerified": false,
+    "name": "USDC-USDT",
+    "sources": [],
+    "underlyingTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "GSmjrpT8zNtp6Ke8y2xS5P1kREEjqZCjwxF8VbxDJAV8",
+      "lpTokenMint": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
+      "mergePool": "ACHcNqKkVQ6d48Wedy3DvNdpAmX4tqaPj1vXjbgnWq7Q",
+      "quarry": "8QfbpS8fBNcqee9qHjYG5pgBWTKyM193E7zjwzxeUZ3X",
+      "reserves": [
+        "6aFutFMWR7PbWdBQhdfrcKrAor9WYa2twtSinTMb9tXv",
+        "HXbhpnLTxSDDkTg6deDpsXzJRBf8j7T6Dc3GidwrLWeo"
+      ],
+      "swapAccount": "VeNkoB1HvSP6bSeGybQDnx9wTWFsQb2NBCemeCDSuKL"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ],
+    "id": "usdc_usdt",
+    "isVerified": true,
+    "name": "USDC-USDT",
+    "sources": [],
+    "underlyingTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ]
+  }
+]
