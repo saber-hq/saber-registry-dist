@@ -513,7 +513,7 @@
     "authority": "7K88AAbfSVHEZY87Ur3PrDhBYpwhKfTGxSWzMdh7XxUj",
     "reserveA": "JAjt8kZkTsxKA3VKnmszKHQwzuNSAXXhN3Y4NZ2kEoLU",
     "reserveB": "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu",
-    "tokenACoingecko": "terra-usd",
+    "tokenACoingecko": "terrausd",
     "tokenBCoingecko": "usd-coin"
   },
   {
@@ -689,7 +689,7 @@
     "authority": "9osV5a7FXEjuMujxZJGBRXVAyQ5fJfBFNkyAf6fSz9kw",
     "reserveA": "J63v6qEZmQpDqCD8bd4PXu2Pq5ZbyXrFcSa3Xt1HdAPQ",
     "reserveB": "BnKQtTdLw9qPCDgZkWX3sURkBAoKCUYL1yahh6Mw7mRK",
-    "tokenACoingecko": "terra-usd",
+    "tokenACoingecko": "terrausd",
     "tokenBCoingecko": "usd-coin"
   },
   {
