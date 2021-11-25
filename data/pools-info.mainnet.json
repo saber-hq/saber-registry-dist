@@ -14,6 +14,7 @@
       "name": "aaDAI-USDC",
       "tokens": [
         {
+          "chainId": 101,
           "address": "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
           "symbol": "aaDAI",
           "name": "Wrapped DAI (Allbridge from Avalanche)",
@@ -25,8 +26,7 @@
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (9 decimals)",
@@ -48,6 +48,7 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
           "address": "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
           "symbol": "aaDAI",
           "name": "Wrapped DAI (Allbridge from Avalanche)",
@@ -59,8 +60,7 @@
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (9 decimals)",
@@ -82,6 +82,7 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
           "address": "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
           "symbol": "aaDAI",
           "name": "Wrapped DAI (Allbridge from Avalanche)",
@@ -93,8 +94,7 @@
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "chainId": 101,
@@ -191,6 +191,7 @@
       "name": "aaUSDC-USDC",
       "tokens": [
         {
+          "chainId": 101,
           "address": "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
           "symbol": "aaUSDC",
           "name": "Wrapped USDC (Allbridge from Avalanche)",
@@ -202,8 +203,7 @@
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (9 decimals)",
@@ -225,6 +225,7 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
           "address": "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
           "symbol": "aaUSDC",
           "name": "Wrapped USDC (Allbridge from Avalanche)",
@@ -236,8 +237,7 @@
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (9 decimals)",
@@ -259,6 +259,7 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
           "address": "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
           "symbol": "aaUSDC",
           "name": "Wrapped USDC (Allbridge from Avalanche)",
@@ -270,8 +271,7 @@
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "chainId": 101,
@@ -368,6 +368,7 @@
       "name": "aaUSDT-USDT",
       "tokens": [
         {
+          "chainId": 101,
           "address": "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
           "symbol": "aaUSDT",
           "name": "Wrapped USDT (Allbridge from Avalanche)",
@@ -379,8 +380,7 @@
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped USDT (9 decimals)",
@@ -402,6 +402,7 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
           "address": "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
           "symbol": "aaUSDT",
           "name": "Wrapped USDT (Allbridge from Avalanche)",
@@ -413,8 +414,7 @@
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped USDT (9 decimals)",
@@ -436,6 +436,7 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
           "address": "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
           "symbol": "aaUSDT",
           "name": "Wrapped USDT (Allbridge from Avalanche)",
@@ -447,8 +448,7 @@
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "chainId": 101,
@@ -545,6 +545,7 @@
       "name": "aaWBTC-renBTC",
       "tokens": [
         {
+          "chainId": 101,
           "address": "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
           "symbol": "aaWBTC",
           "name": "Wrapped BTC (Allbridge from Avalanche)",
@@ -556,7 +557,6 @@
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
           },
-          "chainId": 101,
           "tags": ["saber-mkt-btc"]
         },
         {
@@ -581,6 +581,7 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
           "address": "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
           "symbol": "aaWBTC",
           "name": "Wrapped BTC (Allbridge from Avalanche)",
@@ -592,7 +593,6 @@
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
           },
-          "chainId": 101,
           "tags": ["saber-mkt-btc"]
         },
         {
@@ -617,6 +617,7 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
           "address": "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
           "symbol": "aaWBTC",
           "name": "Wrapped BTC (Allbridge from Avalanche)",
@@ -628,7 +629,6 @@
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
           },
-          "chainId": 101,
           "tags": ["saber-mkt-btc"]
         },
         {
@@ -911,19 +911,19 @@
       "name": "abBUSD-USDC",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
           "symbol": "abBUSD",
           "name": "Wrapped BUSD (Allbridge from BSC)",
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF.png",
-          "address": "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
           "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF.png",
           "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "binance-usd",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (9 decimals)",
@@ -945,19 +945,19 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
           "symbol": "abBUSD",
           "name": "Wrapped BUSD (Allbridge from BSC)",
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF.png",
-          "address": "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
           "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF.png",
           "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "binance-usd",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (9 decimals)",
@@ -979,19 +979,19 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
           "symbol": "abBUSD",
           "name": "Wrapped BUSD (Allbridge from BSC)",
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF.png",
-          "address": "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
           "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF.png",
           "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "binance-usd",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "chainId": 101,
@@ -1117,10 +1117,10 @@
             "saber-dec-wrapped"
           ],
           "extensions": {
-            "coingeckoId": "weth",
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "weth",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -1160,10 +1160,10 @@
             "saber-dec-wrapped"
           ],
           "extensions": {
-            "coingeckoId": "weth",
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "weth",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -1189,22 +1189,22 @@
           "tags": ["saber-mkt-eth"]
         },
         {
+          "chainId": 101,
+          "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "symbol": "weWETH",
           "name": "Wrapped Ether (Wormhole)",
-          "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "weth",
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "weth",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"]
+          }
         }
       ],
       "currency": "ETH",
@@ -1640,19 +1640,19 @@
       "name": "acUSD-USDC",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "symbol": "acUSD",
           "name": "Wrapped CUSD (Allbridge from Celo)",
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
-          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
           "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "celo-dollar",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (9 decimals)",
@@ -1674,19 +1674,19 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "symbol": "acUSD",
           "name": "Wrapped CUSD (Allbridge from Celo)",
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
-          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
           "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "celo-dollar",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (9 decimals)",
@@ -1708,19 +1708,19 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "symbol": "acUSD",
           "name": "Wrapped CUSD (Allbridge from Celo)",
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
-          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
           "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "celo-dollar",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "chainId": 101,
@@ -1817,19 +1817,19 @@
       "name": "acUSD-CASH",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "symbol": "acUSD",
           "name": "Wrapped CUSD (Allbridge from Celo)",
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
-          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
           "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "celo-dollar",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped Cashio Dollar (9 decimals)",
@@ -1855,19 +1855,19 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "symbol": "acUSD",
           "name": "Wrapped CUSD (Allbridge from Celo)",
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
-          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
           "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "celo-dollar",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped Cashio Dollar (9 decimals)",
@@ -1893,19 +1893,19 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "symbol": "acUSD",
           "name": "Wrapped CUSD (Allbridge from Celo)",
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
-          "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
           "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "celo-dollar",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -2023,19 +2023,19 @@
           }
         },
         {
+          "chainId": 101,
+          "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
           "symbol": "acUSDC",
           "name": "Wrapped USDC (Allbridge from Celo)",
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui.png",
-          "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
           "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui.png",
           "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "usd-coin",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         }
       ],
       "tokenIcons": [
@@ -2057,19 +2057,19 @@
           }
         },
         {
+          "chainId": 101,
+          "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
           "symbol": "acUSDC",
           "name": "Wrapped USDC (Allbridge from Celo)",
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui.png",
-          "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
           "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui.png",
           "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "usd-coin",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         }
       ],
       "underlyingIcons": [
@@ -2089,19 +2089,19 @@
           }
         },
         {
+          "chainId": 101,
+          "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
           "symbol": "acUSDC",
           "name": "Wrapped USDC (Allbridge from Celo)",
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui.png",
-          "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
           "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui.png",
           "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "usd-coin",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         }
       ],
       "currency": "USD",
@@ -2374,10 +2374,10 @@
             "saber-dec-wrapped"
           ],
           "extensions": {
-            "coingeckoId": "weth",
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "weth",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -2417,10 +2417,10 @@
             "saber-dec-wrapped"
           ],
           "extensions": {
-            "coingeckoId": "weth",
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "weth",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -2446,22 +2446,22 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "symbol": "weWETH",
           "name": "Wrapped Ether (Wormhole)",
-          "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "weth",
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "weth",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -2912,6 +2912,7 @@
       "name": "ahUSDT-USDC",
       "tokens": [
         {
+          "chainId": 101,
           "address": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
           "symbol": "ahUSDT",
           "name": "Wrapped USDT (Allbridge from HECO)",
@@ -2923,8 +2924,7 @@
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (9 decimals)",
@@ -2946,6 +2946,7 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
           "address": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
           "symbol": "ahUSDT",
           "name": "Wrapped USDT (Allbridge from HECO)",
@@ -2957,8 +2958,7 @@
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (9 decimals)",
@@ -2980,6 +2980,7 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
           "address": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
           "symbol": "ahUSDT",
           "name": "Wrapped USDT (Allbridge from HECO)",
@@ -2991,8 +2992,7 @@
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101
+          }
         },
         {
           "chainId": 101,
@@ -3089,19 +3089,19 @@
       "name": "ahBTC-renBTC",
       "tokens": [
         {
+          "chainId": 101,
           "address": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
           "symbol": "ahBTC",
           "name": "Wrapped BTC (Allbridge from HECO)",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH.png",
+          "tags": ["stablecoin", "saber-mkt-btc"],
           "extensions": {
             "coingeckoId": "wrapped-bitcoin",
             "currency": "BTC",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101,
-          "tags": ["stablecoin", "saber-mkt-btc"]
+          }
         },
         {
           "name": "Saber Wrapped renBTC (9 decimals)",
@@ -3125,19 +3125,19 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
           "address": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
           "symbol": "ahBTC",
           "name": "Wrapped BTC (Allbridge from HECO)",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH.png",
+          "tags": ["stablecoin", "saber-mkt-btc"],
           "extensions": {
             "coingeckoId": "wrapped-bitcoin",
             "currency": "BTC",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101,
-          "tags": ["stablecoin", "saber-mkt-btc"]
+          }
         },
         {
           "name": "Saber Wrapped renBTC (9 decimals)",
@@ -3161,19 +3161,19 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
           "address": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
           "symbol": "ahBTC",
           "name": "Wrapped BTC (Allbridge from HECO)",
           "decimals": 9,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH.png",
+          "tags": ["stablecoin", "saber-mkt-btc"],
           "extensions": {
             "coingeckoId": "wrapped-bitcoin",
             "currency": "BTC",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          },
-          "chainId": 101,
-          "tags": ["stablecoin", "saber-mkt-btc"]
+          }
         },
         {
           "chainId": 101,
@@ -6691,123 +6691,107 @@
     },
     {
       "id": "port_2pool",
-      "name": "USDT-USDC",
+      "name": "pUSDT-pUSDC",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
           "symbol": "pUSDT",
           "name": "Port Finance USDT",
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ/USDT.svg",
-          "address": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
           "decimals": 6,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ/USDT.svg",
+          "tags": ["port", "lending", "collateral-tokens", "saber-mkt-usd"],
           "extensions": {
-            "coingeckoId": "tether",
-            "underlyingTokens": [
-              "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-            ],
             "website": "https://port.finance",
             "currency": "USD",
             "source": "port",
             "sourceUrl": "https://mainnet.port.finance/#/markets"
-          },
-          "chainId": 101,
-          "tags": ["port", "lending", "collateral-tokens", "saber-mkt-usd"]
+          }
         },
         {
+          "chainId": 101,
+          "address": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
           "symbol": "pUSDC",
           "name": "Port Finance USDC",
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58/USDC.svg",
-          "address": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
           "decimals": 6,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58/USDC.svg",
+          "tags": ["port", "lending", "collateral-tokens", "saber-mkt-usd"],
           "extensions": {
-            "coingeckoId": "usd-coin",
-            "underlyingTokens": [
-              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-            ],
             "website": "https://port.finance",
             "currency": "USD",
             "source": "port",
             "sourceUrl": "https://mainnet.port.finance/#/markets"
-          },
-          "chainId": 101,
-          "tags": ["port", "lending", "collateral-tokens", "saber-mkt-usd"]
+          }
         }
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
           "symbol": "pUSDT",
           "name": "Port Finance USDT",
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ/USDT.svg",
-          "address": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
           "decimals": 6,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ/USDT.svg",
+          "tags": ["port", "lending", "collateral-tokens", "saber-mkt-usd"],
           "extensions": {
-            "coingeckoId": "tether",
-            "underlyingTokens": [
-              "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-            ],
             "website": "https://port.finance",
             "currency": "USD",
             "source": "port",
             "sourceUrl": "https://mainnet.port.finance/#/markets"
-          },
-          "chainId": 101,
-          "tags": ["port", "lending", "collateral-tokens", "saber-mkt-usd"]
+          }
         },
         {
+          "chainId": 101,
+          "address": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
           "symbol": "pUSDC",
           "name": "Port Finance USDC",
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58/USDC.svg",
-          "address": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
           "decimals": 6,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58/USDC.svg",
+          "tags": ["port", "lending", "collateral-tokens", "saber-mkt-usd"],
           "extensions": {
-            "coingeckoId": "usd-coin",
-            "underlyingTokens": [
-              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-            ],
             "website": "https://port.finance",
             "currency": "USD",
             "source": "port",
             "sourceUrl": "https://mainnet.port.finance/#/markets"
-          },
-          "chainId": 101,
-          "tags": ["port", "lending", "collateral-tokens", "saber-mkt-usd"]
+          }
         }
       ],
       "underlyingIcons": [
         {
           "chainId": 101,
-          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-          "symbol": "USDT",
-          "name": "USDT",
+          "address": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
+          "symbol": "pUSDT",
+          "name": "Port Finance USDT",
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
-          "tags": ["stablecoin", "saber-mkt-usd"],
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ/USDT.svg",
+          "tags": ["port", "lending", "collateral-tokens", "saber-mkt-usd"],
           "extensions": {
-            "coingeckoId": "tether",
-            "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-            "website": "https://tether.to/",
-            "currency": "USD"
+            "website": "https://port.finance",
+            "currency": "USD",
+            "source": "port",
+            "sourceUrl": "https://mainnet.port.finance/#/markets"
           }
         },
         {
           "chainId": 101,
-          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-          "symbol": "USDC",
-          "name": "USD Coin",
+          "address": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
+          "symbol": "pUSDC",
+          "name": "Port Finance USDC",
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58/USDC.svg",
+          "tags": ["port", "lending", "collateral-tokens", "saber-mkt-usd"],
           "extensions": {
-            "coingeckoId": "usd-coin",
-            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-            "website": "https://www.centre.io/",
-            "currency": "USD"
+            "website": "https://port.finance",
+            "currency": "USD",
+            "source": "port",
+            "sourceUrl": "https://mainnet.port.finance/#/markets"
           }
         }
       ],
       "currency": "USD",
       "lpToken": {
-        "symbol": "USDT-USDC",
-        "name": "Saber USDT-USDC LP",
+        "symbol": "pUSDT-pUSDC",
+        "name": "Saber pUSDT-pUSDC LP",
         "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en.png",
         "decimals": 6,
         "address": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
@@ -8519,21 +8503,21 @@
       "name": "wtUST-CASH",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "symbol": "wtUST",
           "name": "UST (Wormhole)",
-          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "terra-usd",
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-usd",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -8557,21 +8541,21 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "symbol": "wtUST",
           "name": "UST (Wormhole)",
-          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "terra-usd",
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-usd",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -8595,21 +8579,21 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "symbol": "wtUST",
           "name": "UST (Wormhole)",
-          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "terra-usd",
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-usd",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -9262,22 +9246,22 @@
       "name": "weDAI-USDC",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
           "symbol": "weDAI",
           "name": "Dai Stablecoin (Wormhole)",
-          "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o.png",
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "dai",
             "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
             "assetContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "dai",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -9299,22 +9283,22 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
           "symbol": "weDAI",
           "name": "Dai Stablecoin (Wormhole)",
-          "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o.png",
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "dai",
             "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
             "assetContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "dai",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -9336,22 +9320,22 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
           "symbol": "weDAI",
           "name": "Dai Stablecoin (Wormhole)",
-          "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o.png",
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "dai",
             "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
             "assetContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "dai",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -9448,22 +9432,22 @@
       "name": "weBUSD-USDC",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
           "symbol": "weBUSD",
           "name": "Binance USD (Wormhole)",
-          "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "binance-usd",
             "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
             "assetContract": "https://etherscan.io/address/0x4fabb145d64652a948d72533023f6e7a623c7c53",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "binance-usd",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -9485,22 +9469,22 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
           "symbol": "weBUSD",
           "name": "Binance USD (Wormhole)",
-          "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "binance-usd",
             "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
             "assetContract": "https://etherscan.io/address/0x4fabb145d64652a948d72533023f6e7a623c7c53",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "binance-usd",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -9522,22 +9506,22 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
           "symbol": "weBUSD",
           "name": "Binance USD (Wormhole)",
-          "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "binance-usd",
             "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
             "assetContract": "https://etherscan.io/address/0x4fabb145d64652a948d72533023f6e7a623c7c53",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "binance-usd",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -9634,22 +9618,22 @@
       "name": "weUSDC-USDC",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
           "symbol": "weUSDC",
           "name": "USD Coin (Wormhole)",
-          "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM.png",
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "usd-coin",
             "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "assetContract": "https://etherscan.io/address/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "usd-coin",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -9669,22 +9653,22 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
           "symbol": "weUSDC",
           "name": "USD Coin (Wormhole)",
-          "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM.png",
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "usd-coin",
             "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "assetContract": "https://etherscan.io/address/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "usd-coin",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -9704,22 +9688,22 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
           "symbol": "weUSDC",
           "name": "USD Coin (Wormhole)",
-          "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM.png",
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "usd-coin",
             "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "assetContract": "https://etherscan.io/address/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "usd-coin",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -9816,22 +9800,22 @@
       "name": "weUSDT-USDT",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "symbol": "weUSDT",
           "name": "Tether USD (Wormhole)",
-          "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1.png",
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "tether",
             "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
             "assetContract": "https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "tether",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -9851,22 +9835,22 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "symbol": "weUSDT",
           "name": "Tether USD (Wormhole)",
-          "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1.png",
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "tether",
             "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
             "assetContract": "https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "tether",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -9886,22 +9870,22 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "symbol": "weUSDT",
           "name": "Tether USD (Wormhole)",
-          "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1.png",
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "tether",
             "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
             "assetContract": "https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "tether",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -9998,22 +9982,22 @@
       "name": "weFRAX-USDC",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "symbol": "weFRAX",
           "name": "Frax (Wormhole)",
-          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "frax",
             "address": "0x853d955acef822db058eb8505911ed77f175b99e",
             "assetContract": "https://etherscan.io/address/0x853d955acef822db058eb8505911ed77f175b99e",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "frax",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -10035,22 +10019,22 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "symbol": "weFRAX",
           "name": "Frax (Wormhole)",
-          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "frax",
             "address": "0x853d955acef822db058eb8505911ed77f175b99e",
             "assetContract": "https://etherscan.io/address/0x853d955acef822db058eb8505911ed77f175b99e",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "frax",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -10072,22 +10056,22 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "symbol": "weFRAX",
           "name": "Frax (Wormhole)",
-          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "frax",
             "address": "0x853d955acef822db058eb8505911ed77f175b99e",
             "assetContract": "https://etherscan.io/address/0x853d955acef822db058eb8505911ed77f175b99e",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "frax",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -10213,10 +10197,10 @@
             "saber-dec-wrapped"
           ],
           "extensions": {
-            "coingeckoId": "ftx-token",
             "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "assetContract": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "ftx-token",
             "currency": "FTT",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -10256,10 +10240,10 @@
             "saber-dec-wrapped"
           ],
           "extensions": {
-            "coingeckoId": "ftx-token",
             "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "assetContract": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "ftx-token",
             "currency": "FTT",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -10285,22 +10269,22 @@
           "tags": ["saber-mkt-ftt"]
         },
         {
+          "chainId": 101,
+          "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
           "symbol": "weFTX Token",
           "name": "FTT (Wormhole)",
-          "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-ftt", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "ftx-token",
             "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "ftx-token",
             "currency": "FTT",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-ftt", "wormhole-v2"]
+          }
         }
       ],
       "currency": "FTT",
@@ -10408,22 +10392,22 @@
           }
         },
         {
+          "chainId": 101,
+          "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "symbol": "weWETH",
           "name": "Wrapped Ether (Wormhole)",
-          "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "weth",
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "weth",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"]
+          }
         }
       ],
       "tokenIcons": [
@@ -10454,22 +10438,22 @@
           }
         },
         {
+          "chainId": 101,
+          "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "symbol": "weWETH",
           "name": "Wrapped Ether (Wormhole)",
-          "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "weth",
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "weth",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"]
+          }
         }
       ],
       "underlyingIcons": [
@@ -10492,22 +10476,22 @@
           }
         },
         {
+          "chainId": 101,
+          "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "symbol": "weWETH",
           "name": "Wrapped Ether (Wormhole)",
-          "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "weth",
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "weth",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"]
+          }
         }
       ],
       "currency": "ETH",
@@ -10589,22 +10573,22 @@
       "name": "weHUSD-USDC",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
           "symbol": "weHUSD",
           "name": "HUSD (Wormhole)",
-          "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "husd",
             "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
             "assetContract": "https://etherscan.io/address/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "husd",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -10626,22 +10610,22 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
           "symbol": "weHUSD",
           "name": "HUSD (Wormhole)",
-          "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "husd",
             "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
             "assetContract": "https://etherscan.io/address/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "husd",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -10663,22 +10647,22 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
           "symbol": "weHUSD",
           "name": "HUSD (Wormhole)",
-          "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "husd",
             "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
             "assetContract": "https://etherscan.io/address/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "husd",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -10775,21 +10759,21 @@
       "name": "wtLUNA-renLUNA",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
           "symbol": "wtLUNA",
           "name": "LUNA (Wormhole)",
-          "address": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-luna", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "terra-luna",
             "address": "uluna",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-luna",
             "currency": "LUNA",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-luna", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -10810,21 +10794,21 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
           "symbol": "wtLUNA",
           "name": "LUNA (Wormhole)",
-          "address": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-luna", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "terra-luna",
             "address": "uluna",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-luna",
             "currency": "LUNA",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-luna", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -10845,21 +10829,21 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
           "symbol": "wtLUNA",
           "name": "LUNA (Wormhole)",
-          "address": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-luna", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "terra-luna",
             "address": "uluna",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-luna",
             "currency": "LUNA",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-luna", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -11303,22 +11287,22 @@
       "name": "weUSDK-USDC",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
           "symbol": "weUSDK",
           "name": "USDK (Wormhole)",
-          "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "usdk",
             "address": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
             "assetContract": "https://etherscan.io/address/0x1c48f86ae57291f7686349f12601910bd8d470bb",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "usdk",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -11340,22 +11324,22 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
           "symbol": "weUSDK",
           "name": "USDK (Wormhole)",
-          "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "usdk",
             "address": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
             "assetContract": "https://etherscan.io/address/0x1c48f86ae57291f7686349f12601910bd8d470bb",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "usdk",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -11377,22 +11361,22 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
           "symbol": "weUSDK",
           "name": "USDK (Wormhole)",
-          "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "usdk",
             "address": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
             "assetContract": "https://etherscan.io/address/0x1c48f86ae57291f7686349f12601910bd8d470bb",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "usdk",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -11489,21 +11473,21 @@
       "name": "wtUST-USDC",
       "tokens": [
         {
+          "chainId": 101,
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "symbol": "wtUST",
           "name": "UST (Wormhole)",
-          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "terra-usd",
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-usd",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -11523,21 +11507,21 @@
       ],
       "tokenIcons": [
         {
+          "chainId": 101,
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "symbol": "wtUST",
           "name": "UST (Wormhole)",
-          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "terra-usd",
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-usd",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -11557,21 +11541,21 @@
       ],
       "underlyingIcons": [
         {
+          "chainId": 101,
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "symbol": "wtUST",
           "name": "UST (Wormhole)",
-          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "terra-usd",
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-usd",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          }
         },
         {
           "chainId": 101,
@@ -11888,10 +11872,10 @@
             "saber-dec-wrapped"
           ],
           "extensions": {
-            "coingeckoId": "weth",
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "weth",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -11933,10 +11917,10 @@
             "saber-dec-wrapped"
           ],
           "extensions": {
-            "coingeckoId": "weth",
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "weth",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -11964,22 +11948,22 @@
           "tags": ["saber-mkt-eth"]
         },
         {
+          "chainId": 101,
+          "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "symbol": "weWETH",
           "name": "Wrapped Ether (Wormhole)",
-          "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "weth",
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "weth",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"]
+          }
         }
       ],
       "currency": "ETH",
@@ -12078,22 +12062,22 @@
           "tags": ["saber-mkt-ftt"]
         },
         {
+          "chainId": 101,
+          "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
           "symbol": "weFTX Token",
           "name": "FTT (Wormhole)",
-          "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-ftt", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "ftx-token",
             "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "ftx-token",
             "currency": "FTT",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-ftt", "wormhole-v2"]
+          }
         }
       ],
       "tokenIcons": [
@@ -12115,22 +12099,22 @@
           "tags": ["saber-mkt-ftt"]
         },
         {
+          "chainId": 101,
+          "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
           "symbol": "weFTX Token",
           "name": "FTT (Wormhole)",
-          "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-ftt", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "ftx-token",
             "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "ftx-token",
             "currency": "FTT",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-ftt", "wormhole-v2"]
+          }
         }
       ],
       "underlyingIcons": [
@@ -12152,22 +12136,22 @@
           "tags": ["saber-mkt-ftt"]
         },
         {
+          "chainId": 101,
+          "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
           "symbol": "weFTX Token",
           "name": "FTT (Wormhole)",
-          "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
           "decimals": 8,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-ftt", "wormhole-v2"],
           "extensions": {
-            "coingeckoId": "ftx-token",
             "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "ftx-token",
             "currency": "FTT",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
-          },
-          "chainId": 101,
-          "tags": ["wrapped", "wormhole", "saber-mkt-ftt", "wormhole-v2"]
+          }
         }
       ],
       "currency": "FTT",

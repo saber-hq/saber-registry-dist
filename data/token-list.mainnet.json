@@ -71,7 +71,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2021-11-25T00:15:07.777Z",
+  "timestamp": "2021-11-25T21:57:43.379Z",
   "tokens": [
     {
       "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
@@ -196,11 +196,9 @@
       "chainId": 101,
       "decimals": 6,
       "extensions": {
-        "coingeckoId": "tether",
         "currency": "USD",
         "source": "port",
         "sourceUrl": "https://mainnet.port.finance/#/markets",
-        "underlyingTokens": ["Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"],
         "website": "https://port.finance"
       },
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ/USDT.svg",
@@ -1866,11 +1864,9 @@
       "chainId": 101,
       "decimals": 6,
       "extensions": {
-        "coingeckoId": "usd-coin",
         "currency": "USD",
         "source": "port",
         "sourceUrl": "https://mainnet.port.finance/#/markets",
-        "underlyingTokens": ["EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"],
         "website": "https://port.finance"
       },
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58/USDC.svg",
