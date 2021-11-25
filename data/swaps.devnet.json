@@ -9,7 +9,8 @@
         "7EMe3YbxczxTEswqwwPeRof41oZmC21DDnZjyZZXBGm4",
         "9w3VeuAML94aH6md9jt85XpwgDf6Edx2yoS2HDL7v58P"
       ],
-      "swapAccount": "8UAG7CCH3sSUg4eQbtT2ABiLaEBKwQcxT6gingGgMsjm"
+      "swapAccount": "8UAG7CCH3sSUg4eQbtT2ABiLaEBKwQcxT6gingGgMsjm",
+      "swapAuthority": "AsesfVDYBMDZZs4dahT5VysSTc4M2cCYW1bLzPMHSKTL"
     },
     "currency": "BTC",
     "decimals": 8,
@@ -36,7 +37,8 @@
         "9tcUgn5Fcbkh1Q1GLKQceAgKt576c8w5MuskH1cSi9x5",
         "4VtqtD2M5Jb1Du6RQ8YZepFuhFpSZhEjR7Ch3nJAdyLS"
       ],
-      "swapAccount": "8Uq15j3bmhMAhLjRYh8RsobfcAMhMsgPgJgPCdjxCZv5"
+      "swapAccount": "8Uq15j3bmhMAhLjRYh8RsobfcAMhMsgPgJgPCdjxCZv5",
+      "swapAuthority": "AGfbvVd1EvivgFtYB5ZStjEuDdsewhBYuzb2LB9mG8LY"
     },
     "currency": "USD",
     "decimals": 6,
@@ -63,7 +65,8 @@
         "5t9v3eYu4qY7g9AMZ7DbxZ5feb5HcHSyKcgG9DhcJam4",
         "Cbbs13w3R9BQhtd4BLfsAUsh1VtjM2La8chxxv5fn9by"
       ],
-      "swapAccount": "AqBGfWy3D9NpW8LuknrSSuv93tJUBiPWYxkBrettkG7x"
+      "swapAccount": "AqBGfWy3D9NpW8LuknrSSuv93tJUBiPWYxkBrettkG7x",
+      "swapAuthority": "CzyZPuuszgHNyxcPxWKw6r1nrVKB7LdkGZMyQx6Tohpa"
     },
     "currency": "USD",
     "decimals": 6,
@@ -90,7 +93,8 @@
         "GT9JcsFPaeDJRCeysNHWT76nvN9EWDj7z7psaADSn8QS",
         "6jRUeyuRyaG1BfV5Y7fRCRhUk8P9CJwS1s5qybG6HPti"
       ],
-      "swapAccount": "AQsYrKkFLuv9Jw7kCcPH7SkeMQ2aZkP1KcBs4RYegHbv"
+      "swapAccount": "AQsYrKkFLuv9Jw7kCcPH7SkeMQ2aZkP1KcBs4RYegHbv",
+      "swapAuthority": "ChFJZQK4gNpmcrbF71e5Wo2HzF8qePYGnqsgZ6u7anFA"
     },
     "currency": "BTC",
     "decimals": 8,
@@ -117,7 +121,8 @@
         "CR7LKmWjASUcPRKi9vawhJd7Yji2WKnibRTJxFGaiPYQ",
         "BDQuDVFYFjcthBzq3wBkAFZaDXqTuu5vQTMz4qpLQjxV"
       ],
-      "swapAccount": "C9DDHYRzuMUELsDtTfq27hhLrQj1bwHNdwoSgeUpSHyu"
+      "swapAccount": "C9DDHYRzuMUELsDtTfq27hhLrQj1bwHNdwoSgeUpSHyu",
+      "swapAuthority": "BbRjUngPVmaMdP98iHgdY7hF4Jbw3Tbbx7d5BBWR97KA"
     },
     "currency": "BTC",
     "decimals": 8,
@@ -144,7 +149,8 @@
         "5ZZjaYtV3P3ZB6dMmWiVseja36pcjXHxSnWNLHGgRinV",
         "EdivdYZHsLGqgvbhgLDyAsFiAU5kG2cAnDNtfa8BAsuh"
       ],
-      "swapAccount": "DaZjGM5rBrP648v8fbXQMi9sTuGH4qFe6i96KCtkSa7f"
+      "swapAccount": "DaZjGM5rBrP648v8fbXQMi9sTuGH4qFe6i96KCtkSa7f",
+      "swapAuthority": "HcnwwYjVPx7ZpbK3H9K8Xmc3FUtdzPS2NUbWDsNJUHsy"
     },
     "currency": "USD",
     "decimals": 6,
@@ -171,7 +177,8 @@
         "3hqDsGEp4Zp8PhXhx37ub94bHYfkjjHvZG5YJKyJ17no",
         "FLX3nBuu77Ld4KG9nTLgNnaqfT8BFnTRGtkwaBYWSXLQ"
       ],
-      "swapAccount": "DoycojcYVwc42yCpGb4CvkbuKJkQ6KBTugLdJXv3U8ZE"
+      "swapAccount": "DoycojcYVwc42yCpGb4CvkbuKJkQ6KBTugLdJXv3U8ZE",
+      "swapAuthority": "8BC6eAF59beKMctxpH7jkx8faR6jdyKc5doHB7Tiffig"
     },
     "currency": "USD",
     "decimals": 6,
@@ -198,7 +205,8 @@
         "GMFtn7TuCmtibEdtn641SmXTkdc4cBe4iy5cisrRxHLW",
         "C88SCEi3i5PXHveJnozVHRLuAq219KaK4RDzgtitArAR"
       ],
-      "swapAccount": "ED8qJtfNE7Js8ZEpT8xvUsH2MxBL5dH23CUqE1p4yGo6"
+      "swapAccount": "ED8qJtfNE7Js8ZEpT8xvUsH2MxBL5dH23CUqE1p4yGo6",
+      "swapAuthority": "6d4bUqEPrTYGAXSWUHsLRnbJWC3Z9borvA3gGHH38XkU"
     },
     "currency": "USD",
     "decimals": 6,
@@ -225,7 +233,8 @@
         "7fCZAQvVDE6SnbuXiKuYFaeXEY7WEM5KDVdUmbF2rdrE",
         "BiaGgF2mZw4oRxPPEjmuPq4sNnv8b5NsRx3oMh7AHbMM"
       ],
-      "swapAccount": "FkjhzAGV6kAZ8Svv7dP4upmz5weBS2GNW2S8MpHTEmKd"
+      "swapAccount": "FkjhzAGV6kAZ8Svv7dP4upmz5weBS2GNW2S8MpHTEmKd",
+      "swapAuthority": "9Syv317zKz7uKygsMwRbZpQ61i7qHRZ7xroyjgkf8B5b"
     },
     "currency": "BTC",
     "decimals": 8,
@@ -252,7 +261,8 @@
         "8uf2n7PP47xDgcqX6atLZzUMaLzJFNwQx5qFkRh8pEmR",
         "F7i3Fifztfy5E1opaeF2hHvevEa2Znu9ydePptLJZyPj"
       ],
-      "swapAccount": "GqFXS4HY5BB8E3VoKAiJqEaZ3yVgdjcSTpvJe6bMSZeP"
+      "swapAccount": "GqFXS4HY5BB8E3VoKAiJqEaZ3yVgdjcSTpvJe6bMSZeP",
+      "swapAuthority": "7YUk9TEW8McBxRgib7HuBspoeap834anHyoEpGN1PcMr"
     },
     "currency": "USD",
     "decimals": 6,
@@ -279,7 +289,8 @@
         "6PwT5c7eYWmDY3AfRju7y9mfjE3UNbEvH8xcLwaNcgwE",
         "4udF6McG9ABuS5ZVQeoBJxyRhL2PfZ7vduSc2FkQj2s4"
       ],
-      "swapAccount": "JEE92C5NKF22jq8XSzb4xoubxw3Cr9k7jBhE4gNSRyUD"
+      "swapAccount": "JEE92C5NKF22jq8XSzb4xoubxw3Cr9k7jBhE4gNSRyUD",
+      "swapAuthority": "HpxQa5JFtpo3qxFWNFRE3HYpfScBpyEkSRi3cugJnS94"
     },
     "currency": "USD",
     "decimals": 6,
@@ -306,7 +317,8 @@
         "8ppfDHEV62JgrVTKm4Jyeqh5eWCQqdSExgHYV2DfbJzU",
         "53BVvagBe4o4WPkGYRoxNzCJZbq8yPhc5qCryyPvdasx"
       ],
-      "swapAccount": "nK4bdLJjCpj4XDqPBwWXv5TDkVomc8ZzozwCgpx6VAF"
+      "swapAccount": "nK4bdLJjCpj4XDqPBwWXv5TDkVomc8ZzozwCgpx6VAF",
+      "swapAuthority": "2n2Z1MuEcAgVd84mfQ8aQyrY2iY2t66ULoqZSwsEuAqz"
     },
     "currency": "USD",
     "decimals": 6,
@@ -333,7 +345,8 @@
         "6aFutFMWR7PbWdBQhdfrcKrAor9WYa2twtSinTMb9tXv",
         "HXbhpnLTxSDDkTg6deDpsXzJRBf8j7T6Dc3GidwrLWeo"
       ],
-      "swapAccount": "VeNkoB1HvSP6bSeGybQDnx9wTWFsQb2NBCemeCDSuKL"
+      "swapAccount": "VeNkoB1HvSP6bSeGybQDnx9wTWFsQb2NBCemeCDSuKL",
+      "swapAuthority": "72E8LfHqoxQCxnxmBbDG6WSHnDx1rWPUHNKwYvoL5qDm"
     },
     "currency": "USD",
     "decimals": 6,
