@@ -115,6 +115,10 @@
     "id": "huobi-btc",
     "accounts": [
       {
+        "decimals": 8,
+        "addresses": ["59vRbFfiA5NoGvuPjDpNE399pm4yNWVH28yfSrWH6bL2"]
+      },
+      {
         "decimals": 9,
         "addresses": ["GsizhiRtCs4QDKd2LnSQ9BpzvG8CqERMDtHZcQPDkFQB"]
       }
@@ -195,6 +199,7 @@
       {
         "decimals": 8,
         "addresses": [
+          "9nzCtRofJcFG2GuNtfAxNddGRKhqyKXA5iX6iUZXRT1w",
           "35yX27bmurdebhfAb8EPmjLETDiUaEUCn9zHaDPbakH2",
           "DvHVapj4g2Y1tJVSw2ubSPkPBsJPb8fW387ZWXwaKmZq"
         ]
@@ -221,6 +226,8 @@
       {
         "decimals": 6,
         "addresses": [
+          "72Hj2KWntXPfbie4UgKeTPnm1XVkomDfCnRPKbvfTtPi",
+          "6aqJQ5wedqpUt4fFEDUqUmXhrdxCu4bEJsQdVPCADLko",
           "C5uYkVHiFduEFq8S3fr4pgUS24oYj1sjZ8WW2cb4j8SU",
           "3F5DPU5ScgHiFzePYUHZovvgh3uqmM5keNvbavx2ERqV"
         ]

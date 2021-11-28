@@ -724,6 +724,34 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm",
+      "mergePool": "9Xcvt7xNEqfnYDGVHeg4q8rAsYAUEQAfJmRPBBK237Pf",
+      "quarry": "5iB8Ux2h9XD9pfCimkFMN9i8KnUzB9SERaAedoAaDFo4",
+      "reserves": [
+        "59vRbFfiA5NoGvuPjDpNE399pm4yNWVH28yfSrWH6bL2",
+        "9nzCtRofJcFG2GuNtfAxNddGRKhqyKXA5iX6iUZXRT1w"
+      ],
+      "swapAccount": "BTCkjETHaKDoRJtD2PKwzhseFnwPVsxGFu6BD8h5Riwq",
+      "swapAuthority": "4LQnTsjNyKbKEqDUC8EFriiDy8QQJ15giH2wDJX6kwSC"
+    },
+    "currency": "BTC",
+    "decimals": 8,
+    "displayTokens": [
+      "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
+      "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+    ],
+    "id": "BTCkjETHaKDoRJtD2PKwzhseFnwPVsxGFu6BD8h5Riwq",
+    "isVerified": false,
+    "name": "weHBTC-renBTC",
+    "sources": ["wormhole-v2", "renbridge"],
+    "underlyingTokens": [
+      "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
+      "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs",
       "mergePool": "2rkjV9ZP4rupWg6bUkmorDvr8TUqBe6iupZkdsWXdSg3",
       "quarry": "GiZDN6QkWTGwULWwoyacaeRNEwnQHsn9ohojE2cZZ995",
@@ -1904,6 +1932,34 @@
     "underlyingTokens": [
       "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
+      "mergePool": "8NtQqyBHQxQrwwRHGgptymZqoj7AUKQPb5SkBYDoHPP7",
+      "quarry": "C7faBVAJad3obMyRxXn8dqbDJT7TT2A4oidKeELCMckp",
+      "reserves": [
+        "72Hj2KWntXPfbie4UgKeTPnm1XVkomDfCnRPKbvfTtPi",
+        "6aqJQ5wedqpUt4fFEDUqUmXhrdxCu4bEJsQdVPCADLko"
+      ],
+      "swapAccount": "SRMuKizofcAMicegrfSv7xs9q76tH1w8aAF7oX9FEWu",
+      "swapAuthority": "4VN6BM8qUa746raafkRvqwQFKYLPSAC1voCcEVHEKZBd"
+    },
+    "currency": "SRM",
+    "decimals": 6,
+    "displayTokens": [
+      "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+      "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+    ],
+    "id": "SRMuKizofcAMicegrfSv7xs9q76tH1w8aAF7oX9FEWu",
+    "isVerified": false,
+    "name": "weSRM-SRM",
+    "sources": ["wormhole-v2"],
+    "underlyingTokens": [
+      "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+      "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
     ]
   },
   {
