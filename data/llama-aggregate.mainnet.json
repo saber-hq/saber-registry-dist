@@ -23,7 +23,10 @@
     "accounts": [
       {
         "decimals": 8,
-        "addresses": ["2CxECn1ZJFoESyUnQysQU8rRgT3iJ5GRs2Mdd6gZjx5g"]
+        "addresses": [
+          "2CxECn1ZJFoESyUnQysQU8rRgT3iJ5GRs2Mdd6gZjx5g",
+          "mp5HMG9jYnZvpe3cV1qgPzfX5aPtLQtsMjVTazvkQ28"
+        ]
       },
       {
         "decimals": 9,
@@ -199,9 +202,10 @@
       {
         "decimals": 8,
         "addresses": [
-          "9nzCtRofJcFG2GuNtfAxNddGRKhqyKXA5iX6iUZXRT1w",
           "35yX27bmurdebhfAb8EPmjLETDiUaEUCn9zHaDPbakH2",
-          "DvHVapj4g2Y1tJVSw2ubSPkPBsJPb8fW387ZWXwaKmZq"
+          "DvHVapj4g2Y1tJVSw2ubSPkPBsJPb8fW387ZWXwaKmZq",
+          "9nzCtRofJcFG2GuNtfAxNddGRKhqyKXA5iX6iUZXRT1w",
+          "DwDfm1YMtHT5WQLxfQdnh3WYzUHjwEviHFwDs3RBEm1B"
         ]
       },
       {
@@ -226,10 +230,10 @@
       {
         "decimals": 6,
         "addresses": [
-          "72Hj2KWntXPfbie4UgKeTPnm1XVkomDfCnRPKbvfTtPi",
-          "6aqJQ5wedqpUt4fFEDUqUmXhrdxCu4bEJsQdVPCADLko",
           "C5uYkVHiFduEFq8S3fr4pgUS24oYj1sjZ8WW2cb4j8SU",
-          "3F5DPU5ScgHiFzePYUHZovvgh3uqmM5keNvbavx2ERqV"
+          "3F5DPU5ScgHiFzePYUHZovvgh3uqmM5keNvbavx2ERqV",
+          "72Hj2KWntXPfbie4UgKeTPnm1XVkomDfCnRPKbvfTtPi",
+          "6aqJQ5wedqpUt4fFEDUqUmXhrdxCu4bEJsQdVPCADLko"
         ]
       }
     ]

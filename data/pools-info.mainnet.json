@@ -10362,6 +10362,194 @@
       "quarry": "2o1fDM9y6BbrwfaTxE7MaXxescKm5QeAeknrWscHprNG"
     },
     {
+      "id": "whbtc",
+      "name": "weHBTC-renBTC",
+      "tokens": [
+        {
+          "chainId": 101,
+          "address": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
+          "symbol": "weHBTC",
+          "name": "Huobi BTC (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-btc", "wormhole-v2"],
+          "extensions": {
+            "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+            "assetContract": "https://etherscan.io/address/0x0316eb71485b0ab14103307bf65a021042c6d380",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "huobi-btc",
+            "currency": "BTC",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+          "symbol": "renBTC",
+          "name": "renBTC",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+          "extensions": {
+            "coingeckoId": "renbtc",
+            "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
+          },
+          "tags": ["saber-mkt-btc"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "chainId": 101,
+          "address": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
+          "symbol": "weHBTC",
+          "name": "Huobi BTC (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-btc", "wormhole-v2"],
+          "extensions": {
+            "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+            "assetContract": "https://etherscan.io/address/0x0316eb71485b0ab14103307bf65a021042c6d380",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "huobi-btc",
+            "currency": "BTC",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+          "symbol": "renBTC",
+          "name": "renBTC",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+          "extensions": {
+            "coingeckoId": "renbtc",
+            "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
+          },
+          "tags": ["saber-mkt-btc"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
+          "symbol": "weHBTC",
+          "name": "Huobi BTC (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-btc", "wormhole-v2"],
+          "extensions": {
+            "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+            "assetContract": "https://etherscan.io/address/0x0316eb71485b0ab14103307bf65a021042c6d380",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "huobi-btc",
+            "currency": "BTC",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+          "symbol": "renBTC",
+          "name": "renBTC",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+          "extensions": {
+            "coingeckoId": "renbtc",
+            "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
+          },
+          "tags": ["saber-mkt-btc"]
+        }
+      ],
+      "currency": "BTC",
+      "lpToken": {
+        "symbol": "weHBTC-renBTC",
+        "name": "Saber weHBTC-renBTC LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 8,
+        "address": "WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/whbtc",
+          "underlyingTokens": [
+            "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
+            "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "5keVqD7HGVUze1oN8NT91gQdyMAT3U9YSNeNx1oPTFo6",
+      "swap": {
+        "config": {
+          "swapAccount": "BTCkjETHaKDoRJtD2PKwzhseFnwPVsxGFu6BD8h5Riwq",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "4LQnTsjNyKbKEqDUC8EFriiDy8QQJ15giH2wDJX6kwSC"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "GbtnsUhJjboF5rktbL1CBTJxyqnPgmhGJkpKjukgEFnu",
+            "reserve": "59vRbFfiA5NoGvuPjDpNE399pm4yNWVH28yfSrWH6bL2",
+            "mint": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8"
+          },
+          "tokenB": {
+            "adminFeeAccount": "F64SgEXXjpgp4psuRK5NVLWtqgqd6FvA9WtXi2mTQEdv",
+            "reserve": "9nzCtRofJcFG2GuNtfAxNddGRKhqyKXA5iX6iUZXRT1w",
+            "mint": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+          },
+          "poolTokenMint": "WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm",
+          "initialAmpFactor": "96",
+          "targetAmpFactor": "96",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "5iB8Ux2h9XD9pfCimkFMN9i8KnUzB9SERaAedoAaDFo4"
+    },
+    {
       "id": "wheth",
       "name": "ETH-weWETH",
       "tokens": [
@@ -10753,6 +10941,185 @@
         }
       },
       "quarry": "41CPKcrV6XAJ7943hN7X9znsSaiN1DEGJNEncSA3hAPw"
+    },
+    {
+      "id": "wibbtc",
+      "name": "wibBTC-renBTC",
+      "tokens": [
+        {
+          "symbol": "wibBTC",
+          "name": "ibBTC (Wormhole)",
+          "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
+          "address": "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
+          "decimals": 8,
+          "extensions": {
+            "coingeckoId": "bitcoin",
+            "currency": "BTC",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          },
+          "chainId": 101,
+          "tags": ["saber-mkt-btc", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+          "symbol": "renBTC",
+          "name": "renBTC",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+          "extensions": {
+            "coingeckoId": "renbtc",
+            "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
+          },
+          "tags": ["saber-mkt-btc"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "wibBTC",
+          "name": "ibBTC (Wormhole)",
+          "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
+          "address": "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
+          "decimals": 8,
+          "extensions": {
+            "coingeckoId": "bitcoin",
+            "currency": "BTC",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          },
+          "chainId": 101,
+          "tags": ["saber-mkt-btc", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+          "symbol": "renBTC",
+          "name": "renBTC",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+          "extensions": {
+            "coingeckoId": "renbtc",
+            "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
+          },
+          "tags": ["saber-mkt-btc"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "wibBTC",
+          "name": "ibBTC (Wormhole)",
+          "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
+          "address": "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
+          "decimals": 8,
+          "extensions": {
+            "coingeckoId": "bitcoin",
+            "currency": "BTC",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          },
+          "chainId": 101,
+          "tags": ["saber-mkt-btc", "wormhole-v2"]
+        },
+        {
+          "chainId": 101,
+          "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+          "symbol": "renBTC",
+          "name": "renBTC",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+          "extensions": {
+            "coingeckoId": "renbtc",
+            "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+            "website": "https://renproject.io/",
+            "currency": "BTC",
+            "source": "renbridge",
+            "sourceUrl": "https://bridge.renproject.io/mint"
+          },
+          "tags": ["saber-mkt-btc"]
+        }
+      ],
+      "currency": "BTC",
+      "lpToken": {
+        "symbol": "wibBTC-renBTC",
+        "name": "Saber wibBTC-renBTC LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 8,
+        "address": "WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/wibbtc",
+          "underlyingTokens": [
+            "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
+            "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "3K7gykUDa34q1AMvmGVzbKn9shpPyUM1pC9zohyo8CUz",
+      "swap": {
+        "config": {
+          "swapAccount": "BDGpYPUKFyHzHTnbK21v66tACEVHSmRXf4LWnMqYmfEN",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "8ea2TgjGzY51QjATM9xTF5bw43uMdtyFWm8E4PTKsCXA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "6QqsaXUtxa7FLRPZMdbhMmkenRofQCRvCLgihS4odLVd",
+            "reserve": "mp5HMG9jYnZvpe3cV1qgPzfX5aPtLQtsMjVTazvkQ28",
+            "mint": "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi"
+          },
+          "tokenB": {
+            "adminFeeAccount": "7bq1Cw6Y8j4zAQT9cV9Fs6BQrY5kD3BJGgmuTMPWzFyD",
+            "reserve": "DwDfm1YMtHT5WQLxfQdnh3WYzUHjwEviHFwDs3RBEm1B",
+            "mint": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+          },
+          "poolTokenMint": "WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "AVFD1KFfbG1sc7ExxqLHaSJKbDCA6PMkUgGPovD21Dbe"
     },
     {
       "id": "wluna",
@@ -11281,6 +11648,194 @@
         }
       },
       "quarry": "ECbsUoB8LfzqwNe3zA3hNrvR7WX1vJRiMcL9sMsb92BE"
+    },
+    {
+      "id": "wsrm",
+      "name": "weSRM-SRM",
+      "tokens": [
+        {
+          "chainId": 101,
+          "address": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+          "symbol": "weSRM",
+          "name": "Serum (Wormhole)",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-srm", "wormhole-v2"],
+          "extensions": {
+            "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+            "assetContract": "https://etherscan.io/address/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "serum",
+            "currency": "SRM",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+          "symbol": "SRM",
+          "name": "Serum",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
+          "extensions": {
+            "coingeckoId": "serum",
+            "serumV3Usdc": "ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA",
+            "serumV3Usdt": "AtNnsY1AyRERWJ8xCskfz38YdvruWVJQUVXgScC1iPb",
+            "waterfallbot": "https://bit.ly/SRMwaterfall",
+            "website": "https://projectserum.com/",
+            "currency": "SRM"
+          },
+          "tags": ["saber-mkt-srm"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "chainId": 101,
+          "address": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+          "symbol": "weSRM",
+          "name": "Serum (Wormhole)",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-srm", "wormhole-v2"],
+          "extensions": {
+            "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+            "assetContract": "https://etherscan.io/address/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "serum",
+            "currency": "SRM",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+          "symbol": "SRM",
+          "name": "Serum",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
+          "extensions": {
+            "coingeckoId": "serum",
+            "serumV3Usdc": "ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA",
+            "serumV3Usdt": "AtNnsY1AyRERWJ8xCskfz38YdvruWVJQUVXgScC1iPb",
+            "waterfallbot": "https://bit.ly/SRMwaterfall",
+            "website": "https://projectserum.com/",
+            "currency": "SRM"
+          },
+          "tags": ["saber-mkt-srm"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+          "symbol": "weSRM",
+          "name": "Serum (Wormhole)",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-srm", "wormhole-v2"],
+          "extensions": {
+            "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+            "assetContract": "https://etherscan.io/address/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "serum",
+            "currency": "SRM",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+          "symbol": "SRM",
+          "name": "Serum",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
+          "extensions": {
+            "coingeckoId": "serum",
+            "serumV3Usdc": "ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA",
+            "serumV3Usdt": "AtNnsY1AyRERWJ8xCskfz38YdvruWVJQUVXgScC1iPb",
+            "waterfallbot": "https://bit.ly/SRMwaterfall",
+            "website": "https://projectserum.com/",
+            "currency": "SRM"
+          },
+          "tags": ["saber-mkt-srm"]
+        }
+      ],
+      "currency": "SRM",
+      "lpToken": {
+        "symbol": "weSRM-SRM",
+        "name": "Saber weSRM-SRM LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/wsrm",
+          "underlyingTokens": [
+            "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+            "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "E5V5xnJxkKSbA6CXF6DErEHfpFe8aJs57CYPUPy2RWsz",
+      "swap": {
+        "config": {
+          "swapAccount": "SRMuKizofcAMicegrfSv7xs9q76tH1w8aAF7oX9FEWu",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "4VN6BM8qUa746raafkRvqwQFKYLPSAC1voCcEVHEKZBd"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 253,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "CdSEQEmAJn1ZsuPWYEC6uVdheGZFW4uJbQhN3Fst2DDv",
+            "reserve": "72Hj2KWntXPfbie4UgKeTPnm1XVkomDfCnRPKbvfTtPi",
+            "mint": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG"
+          },
+          "tokenB": {
+            "adminFeeAccount": "2DneTFmdc7KfbnuttcZRyDeCnNa58amPhStttWYLvt42",
+            "reserve": "6aqJQ5wedqpUt4fFEDUqUmXhrdxCu4bEJsQdVPCADLko",
+            "mint": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+          },
+          "poolTokenMint": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
+          "initialAmpFactor": "01f4",
+          "targetAmpFactor": "01f4",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "C7faBVAJad3obMyRxXn8dqbDJT7TT2A4oidKeELCMckp"
     },
     {
       "id": "wusdk",

@@ -435,6 +435,35 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx",
+      "mergePool": "BgZLbCvya2fHYsjkYCP1bRHkTUTAjHEoc8BP9wt16XvN",
+      "quarry": "AVFD1KFfbG1sc7ExxqLHaSJKbDCA6PMkUgGPovD21Dbe",
+      "reserves": [
+        "mp5HMG9jYnZvpe3cV1qgPzfX5aPtLQtsMjVTazvkQ28",
+        "DwDfm1YMtHT5WQLxfQdnh3WYzUHjwEviHFwDs3RBEm1B"
+      ],
+      "swapAccount": "BDGpYPUKFyHzHTnbK21v66tACEVHSmRXf4LWnMqYmfEN",
+      "swapAuthority": "8ea2TgjGzY51QjATM9xTF5bw43uMdtyFWm8E4PTKsCXA"
+    },
+    "currency": "BTC",
+    "decimals": 8,
+    "displayTokens": [
+      "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
+      "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+    ],
+    "id": "wibbtc",
+    "isVerified": true,
+    "name": "wibBTC-renBTC",
+    "sources": ["wormhole-v2", "renbridge"],
+    "tags": ["wormhole-v2"],
+    "underlyingTokens": [
+      "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
+      "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi",
       "mergePool": "7LcgQ1RSEWaq9C8hMCWHpAZS9UGCxydBkz3NrKKtpM6W",
       "quarry": "BB8EYouLWTWnY3cpns7zGpBwcBbWTcczKuqpkvwcdkvi",
@@ -740,10 +769,11 @@
       "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
     ],
-    "id": "BTCkjETHaKDoRJtD2PKwzhseFnwPVsxGFu6BD8h5Riwq",
-    "isVerified": false,
+    "id": "whbtc",
+    "isVerified": true,
     "name": "weHBTC-renBTC",
     "sources": ["wormhole-v2", "renbridge"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
@@ -1953,10 +1983,11 @@
       "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
       "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
     ],
-    "id": "SRMuKizofcAMicegrfSv7xs9q76tH1w8aAF7oX9FEWu",
-    "isVerified": false,
+    "id": "wsrm",
+    "isVerified": true,
     "name": "weSRM-SRM",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
       "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
