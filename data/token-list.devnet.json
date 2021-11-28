@@ -19,7 +19,7 @@
       "name": "saber-stableswap-lp"
     }
   },
-  "timestamp": "2021-11-25T21:57:43.360Z",
+  "timestamp": "2021-11-28T02:58:08.683Z",
   "tokens": [
     {
       "address": "22Ni6MmCu5UdQiuVjptqrZWJDen245hmojAfgChbDa1P",
@@ -248,6 +248,16 @@
       "name": "Test RenBTC",
       "symbol": "renBTC",
       "tags": ["saber-mkt-btc"]
+    },
+    {
+      "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {},
+      "logoURI": "/tokens/sbr.svg",
+      "name": "Saber Protocol Token",
+      "symbol": "SBR",
+      "tags": []
     },
     {
       "address": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
