@@ -75,7 +75,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2021-11-28T05:17:26.900Z",
+  "timestamp": "2021-11-30T00:09:51.877Z",
   "tokens": [
     {
       "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
@@ -827,6 +827,40 @@
       "tags": ["saber-stableswap-lp"]
     },
     {
+      "address": "ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "website": "https://app.saber.so/#/pools/afusdc"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber afUSDC-USDC LP",
+      "symbol": "afUSDC-USDC",
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
+    },
+    {
+      "address": "ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
+          "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
+        ],
+        "website": "https://app.saber.so/#/pools/afeth"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber afETH-weWETH LP",
+      "symbol": "afETH-weWETH",
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
+    },
+    {
       "address": "ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P",
       "chainId": 101,
       "decimals": 9,
@@ -892,6 +926,40 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber abETH-weWETH LP",
       "symbol": "abETH-weWETH",
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
+    },
+    {
+      "address": "ALPoQFUuKsoN6P4gLBiKXMSaYFP9YChniKwvKAFRPvn5",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
+          "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+        ],
+        "website": "https://app.saber.so/#/pools/afbtc"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber afBTC-renBTC LP",
+      "symbol": "afBTC-renBTC",
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
+    },
+    {
+      "address": "ALPqczrbEXS8k5JF69tEPyu6TTE8qJbiwrzADfjVfKov",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "website": "https://app.saber.so/#/pools/afdai"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber afDAI-USDC LP",
+      "symbol": "afDAI-USDC",
       "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
     },
     {
@@ -1175,6 +1243,21 @@
       "name": "Parrot Stake Pool SOL",
       "symbol": "prtSOL",
       "tags": ["saber-mkt-sol"]
+    },
+    {
+      "address": "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "weth",
+        "currency": "ETH",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FeGn77dhg1KXRRFeSwwMiykZnZPw5JXW6naf2aQgZDQf/logo.png",
+      "name": "Wrapped ETH (Allbridge from Fantom)",
+      "symbol": "afETH",
+      "tags": ["saber-mkt-eth"]
     },
     {
       "address": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
@@ -1941,6 +2024,21 @@
       "tags": ["saber-mkt-btc"]
     },
     {
+      "address": "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "currency": "BTC",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
+      "name": "Wrapped BTC (Allbridge from Fantom)",
+      "symbol": "afBTC",
+      "tags": ["saber-mkt-btc"]
+    },
+    {
       "address": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
       "chainId": 101,
       "decimals": 6,
@@ -2035,6 +2133,21 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj.png",
       "name": "Wrapped USDT (Allbridge from HECO)",
       "symbol": "ahUSDT",
+      "tags": ["stablecoin", "saber-mkt-usd"]
+    },
+    {
+      "address": "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW/logo.png",
+      "name": "Wrapped USDC (Allbridge from Fantom)",
+      "symbol": "afUSDC",
       "tags": ["stablecoin", "saber-mkt-usd"]
     },
     {
@@ -2138,6 +2251,21 @@
       "name": "Synthetic BTC",
       "symbol": "xBTC",
       "tags": ["saber-mkt-btc"]
+    },
+    {
+      "address": "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "dai",
+        "currency": "USD",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
+      "name": "Wrapped DAI (Allbridge from Fantom)",
+      "symbol": "afDAI",
+      "tags": ["stablecoin", "saber-mkt-usd"]
     },
     {
       "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",

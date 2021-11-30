@@ -1128,6 +1128,122 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e",
+      "mergePool": "5i5Bc4Zw3izkrphavqtaaZCFdBsogfZaLHdUDXeSWp9r",
+      "quarry": "AwVroXX4B2DefX6M85gA8F6Q5VBTPde2t7kzMKoz9p4y",
+      "reserves": [
+        "8NPZUW1Fa5DKAmc3fZwjm8LbVjQxxt7PbcbBTVMCwGM1",
+        "AHMstoohNmj2eJf32GjG19nSAMM1CTVdxTjVG3hhrHJp"
+      ],
+      "swapAccount": "FTM4CxWEZg5CxSieP5dS8gfSvfKt7kRAtn6m7BAjNUN3",
+      "swapAuthority": "cNJGMcyDpgzTKyWXfYuCJr1G4LnhEyoNxRXQ8CjZ1Hq"
+    },
+    "currency": "ETH",
+    "decimals": 9,
+    "displayTokens": [
+      "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
+      "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
+    ],
+    "id": "afeth",
+    "isVerified": true,
+    "name": "afETH-weWETH",
+    "sources": ["allbridge", "wormhole-v2"],
+    "tags": ["allbridge"],
+    "underlyingTokens": [
+      "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
+      "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "ALPoQFUuKsoN6P4gLBiKXMSaYFP9YChniKwvKAFRPvn5",
+      "mergePool": "97tRk9SMsz572CdyJi8BqXqURyDFMbv2U4c6qJtKQou9",
+      "quarry": "2na6Do1Qj6gQAcGenFxmU6EYRdirEmCMWoAQNy5HqnRH",
+      "reserves": [
+        "D7W9WJBdwThYLCEczsxwRrHoCApqEzCXSJvWVkMs3ekH",
+        "HF2pNCfTMvrHXcXXb8jJU245yRx9ZtK1M76ChMW3pJht"
+      ],
+      "swapAccount": "FTMBUCDa3UxVmLQwssSj2MWYUrQiyGHXqu2ZqQbaDJqk",
+      "swapAuthority": "F8N4t9yAkTosjWcntzhyHTqMF7nYBBPtFKAkq2XaUwgS"
+    },
+    "currency": "BTC",
+    "decimals": 9,
+    "displayTokens": [
+      "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
+      "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+    ],
+    "id": "afbtc",
+    "isVerified": true,
+    "name": "afBTC-renBTC",
+    "sources": ["allbridge", "renbridge"],
+    "tags": ["allbridge"],
+    "underlyingTokens": [
+      "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
+      "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo",
+      "mergePool": "79zNDUQUzog6dDtenQp2QkTFSKDNLoY83hZjH99hVJ2",
+      "quarry": "12sujUAou8V518isa7o2q8ZMrkH5ivF2UrbZdTYVGpUj",
+      "reserves": [
+        "2n895yX1VzrWuwrMCixUcD3SkRysj51jigxtV5N81vk6",
+        "HuEnD3eWBSuJtTCZMDG3P74sHPhi5UyVRV4SVefva6jS"
+      ],
+      "swapAccount": "FTMDfFPjYWvSsDXMGR8Mdt4fLjDtSDwfz7GAqe5V6qwq",
+      "swapAuthority": "5GEQ2WAAGejTGrXJvPRw6iJhKEscd82mDKihZTEhsggJ"
+    },
+    "currency": "USD",
+    "decimals": 9,
+    "displayTokens": [
+      "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ],
+    "id": "afusdc",
+    "isVerified": true,
+    "name": "afUSDC-USDC",
+    "sources": ["allbridge"],
+    "tags": ["allbridge"],
+    "underlyingTokens": [
+      "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
+      "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "ALPqczrbEXS8k5JF69tEPyu6TTE8qJbiwrzADfjVfKov",
+      "mergePool": "BuyuxQxWgnbkJ4K2WLvrGKU7Gm6bnsXBMJvaMKAxWVy4",
+      "quarry": "AAJRKmVKzdh2fVgLQ7Gfb3adMe88sNu4hAkciuFB3nUP",
+      "reserves": [
+        "GJX9po4C8XxeHctdhfhwunXZ6mjXCKJ9XLMqcC2edncv",
+        "2Aq6otuvoyZLtFSQKtbnNSU8MvPPYZu86bT7TbbQbK6V"
+      ],
+      "swapAccount": "FTMFgXfkDwZ6gvuyjsNnDZnf9pU31uRGeQe38QvvHtPh",
+      "swapAuthority": "5dpRCrasDo7d7aF6fgigvKS63yLpRAsSqCoN78bLER5m"
+    },
+    "currency": "USD",
+    "decimals": 9,
+    "displayTokens": [
+      "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ],
+    "id": "afdai",
+    "isVerified": true,
+    "name": "afDAI-USDC",
+    "sources": ["allbridge"],
+    "tags": ["allbridge"],
+    "underlyingTokens": [
+      "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
+      "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c",
       "mergePool": "Ac2cjEnCaoXSCPW6kFhzh9oL52CacrRcq851uALyB7m7",
       "quarry": "7q5jvR4C6hFrC6tScyVKV4wE8km9koX537bud5iyw8ma",
