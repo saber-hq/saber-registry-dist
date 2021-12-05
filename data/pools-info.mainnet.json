@@ -12044,18 +12044,21 @@
       "tokens": [
         {
           "symbol": "wpUSDC",
-          "name": "USDC (Polygon Wormhole)",
+          "name": "USD Coin (Wormhole from Polygon)",
           "address": "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
           "decimals": 6,
-          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/logo.png",
           "extensions": {
             "coingeckoId": "usd-coin",
+            "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "assetContract": "https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "chainId": 101,
-          "tags": ["saber-mkt-usd", "wormhole-v2"]
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
           "chainId": 101,
@@ -12076,18 +12079,21 @@
       "tokenIcons": [
         {
           "symbol": "wpUSDC",
-          "name": "USDC (Polygon Wormhole)",
+          "name": "USD Coin (Wormhole from Polygon)",
           "address": "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
           "decimals": 6,
-          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/logo.png",
           "extensions": {
             "coingeckoId": "usd-coin",
+            "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "assetContract": "https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "chainId": 101,
-          "tags": ["saber-mkt-usd", "wormhole-v2"]
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
           "chainId": 101,
@@ -12108,18 +12114,21 @@
       "underlyingIcons": [
         {
           "symbol": "wpUSDC",
-          "name": "USDC (Polygon Wormhole)",
+          "name": "USD Coin (Wormhole from Polygon)",
           "address": "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
           "decimals": 6,
-          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/logo.png",
           "extensions": {
             "coingeckoId": "usd-coin",
+            "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "assetContract": "https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "chainId": 101,
-          "tags": ["saber-mkt-usd", "wormhole-v2"]
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
           "chainId": 101,
@@ -12217,18 +12226,21 @@
       "tokens": [
         {
           "symbol": "wpUSDT",
-          "name": "USDT (Polygon Wormhole)",
+          "name": "Tether USD (Wormhole from Polygon)",
           "address": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
           "decimals": 6,
-          "logoURI": "https://registry.saber.so/token-icons/usdt.svg",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png",
           "extensions": {
             "coingeckoId": "tether",
+            "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+            "assetContract": "https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+            "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "chainId": 101,
-          "tags": ["saber-mkt-usd", "wormhole-v2"]
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
           "chainId": 101,
@@ -12249,18 +12261,21 @@
       "tokenIcons": [
         {
           "symbol": "wpUSDT",
-          "name": "USDT (Polygon Wormhole)",
+          "name": "Tether USD (Wormhole from Polygon)",
           "address": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
           "decimals": 6,
-          "logoURI": "https://registry.saber.so/token-icons/usdt.svg",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png",
           "extensions": {
             "coingeckoId": "tether",
+            "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+            "assetContract": "https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+            "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "chainId": 101,
-          "tags": ["saber-mkt-usd", "wormhole-v2"]
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
           "chainId": 101,
@@ -12281,18 +12296,21 @@
       "underlyingIcons": [
         {
           "symbol": "wpUSDT",
-          "name": "USDT (Polygon Wormhole)",
+          "name": "Tether USD (Wormhole from Polygon)",
           "address": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
           "decimals": 6,
-          "logoURI": "https://registry.saber.so/token-icons/usdt.svg",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png",
           "extensions": {
             "coingeckoId": "tether",
+            "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+            "assetContract": "https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+            "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "chainId": 101,
-          "tags": ["saber-mkt-usd", "wormhole-v2"]
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
           "chainId": 101,

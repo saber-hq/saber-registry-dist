@@ -75,8 +75,22 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2021-11-30T00:09:51.877Z",
+  "timestamp": "2021-12-05T06:31:26.558Z",
   "tokens": [
+    {
+      "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "magic-internet-money",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj/logo.png",
+      "name": "Wrapped MIM (Allbridge from Ethereum)",
+      "symbol": "aeMIM",
+      "tags": []
+    },
     {
       "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
       "chainId": 101,
@@ -266,15 +280,18 @@
       "chainId": 101,
       "decimals": 6,
       "extensions": {
+        "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "assetContract": "https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
         "coingeckoId": "tether",
         "currency": "USD",
         "source": "wormhole-v2",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
       },
-      "logoURI": "https://registry.saber.so/token-icons/usdt.svg",
-      "name": "USDT (Polygon Wormhole)",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png",
+      "name": "Tether USD (Wormhole from Polygon)",
       "symbol": "wpUSDT",
-      "tags": ["saber-mkt-usd", "wormhole-v2"]
+      "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
     },
     {
       "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
@@ -1130,6 +1147,20 @@
       "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"]
     },
     {
+      "address": "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "fei-usd",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2/logo.png",
+      "name": "Wrapped FEI (Allbridge from Ethereum)",
+      "symbol": "aeFEI",
+      "tags": []
+    },
+    {
       "address": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
       "chainId": 101,
       "decimals": 9,
@@ -1627,15 +1658,18 @@
       "chainId": 101,
       "decimals": 6,
       "extensions": {
+        "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "assetContract": "https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
         "coingeckoId": "usd-coin",
         "currency": "USD",
         "source": "wormhole-v2",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
       },
-      "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
-      "name": "USDC (Polygon Wormhole)",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/logo.png",
+      "name": "USD Coin (Wormhole from Polygon)",
       "symbol": "wpUSDC",
-      "tags": ["saber-mkt-usd", "wormhole-v2"]
+      "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
     },
     {
       "address": "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
