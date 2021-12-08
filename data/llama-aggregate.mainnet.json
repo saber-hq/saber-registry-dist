@@ -158,8 +158,9 @@
         "decimals": 9,
         "addresses": [
           "HTvDKk71haXHb8eSnUnXRZMH8yj7kyBCbomS1QmPFAK2",
+          "EsFsfp3rNDFn4ggWLvfDeTAW1zbjpRRzZxsNWzqRQS4A",
           "BDd5iphdX4nf3ZbTuERZpzqApDyBXDYF4DF51KHihT5n",
-          "EsFsfp3rNDFn4ggWLvfDeTAW1zbjpRRzZxsNWzqRQS4A"
+          "Afy2q2hh6Y474pshJa5fnQ6PfEchGyTbKrQpCZw2hr3m"
         ]
       }
     ]
@@ -326,7 +327,10 @@
       },
       {
         "decimals": 9,
-        "addresses": ["HDYfJLpZKaMFb84jM4mRytn7XLR8UFZUnQpSfhJJaNEy"]
+        "addresses": [
+          "5pXz9ksgjeL8Wgb37bksUaBFMLdFfsNNY3FQnikkCPtS",
+          "HDYfJLpZKaMFb84jM4mRytn7XLR8UFZUnQpSfhJJaNEy"
+        ]
       }
     ]
   },
@@ -416,7 +420,6 @@
           "7KFPJ4VJp9MYsHXpdm1QJhkNEdq5dFqLm6Z17gVsWTW2",
           "5XhLXXuJeZ5QBf9APcbKVaku38YkpTVebqGtvdJ2iocz",
           "AZYHYxc8Gawy7zA5bidwpe7P3pjuGSEJvxNbApeG7K5b",
-          "13XGEQDqaKt7texUGawxfTGnz2j6pTt3k9HsosfJ9uZH",
           "FxU5cupP6NA18ttrQHGnP82HZ9VoY9Rzb6KMv8Akw2gm",
           "rxDQYV77NKRKYxCjq4cECX3QQsiSyLv1T1FT2X3zNA2",
           "2bPenuBYfqzD8p5dFjCcggwkHDsc2RQDnx9AoyYGUBjA",
@@ -439,6 +442,7 @@
           "PhfHJ2Yu99BsEjZrefhApqUnLUiExcECcUT1YLoNUUv",
           "H8VggnHmuwd1wvwpT8eg9cUJFEfZ7HAaeYjgXrSm7A2u",
           "2K2kkXsouBHtWVjtcgkyiXd8eP3oVBvq1bTJzcVdLLr2",
+          "13XGEQDqaKt7texUGawxfTGnz2j6pTt3k9HsosfJ9uZH",
           "DJcFPaQjyW9Xkt7sXCbnEGj1yfykGYuLRUXFyS4LLZ5F",
           "D9yh4KAysxt9GLacVe4Wwh2XqghhcjTCSTV9HuM7TBJd"
         ]

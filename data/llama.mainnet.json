@@ -96,18 +96,6 @@
     "decimals": 9
   },
   {
-    "id": "MiMx8GQKM5CaDTCKcuK9VeTdrpEvPKR4ScyhSe4kYv1",
-    "lpMint": "ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh",
-    "tokenA": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
-    "tokenB": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
-    "authority": "FURmDMwhGoo9xJa32RPzT4o7H6vHLf2Fx7C2Wmu6hmVf",
-    "reserveA": "BDd5iphdX4nf3ZbTuERZpzqApDyBXDYF4DF51KHihT5n",
-    "reserveB": "13XGEQDqaKt7texUGawxfTGnz2j6pTt3k9HsosfJ9uZH",
-    "tokenACoingecko": "magic-internet-money",
-    "tokenBCoingecko": "usd-coin",
-    "decimals": 9
-  },
-  {
     "id": "MiMy69CnJDY4V6cQWkU3HHfTyb8pqXJmhX4MisFYDnM",
     "lpMint": "ALPydtnKSxX5AMZSSH8duCPSDoKa49ZwCvert6hzGera",
     "tokenA": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -573,6 +561,30 @@
     "reserveB": "2K2kkXsouBHtWVjtcgkyiXd8eP3oVBvq1bTJzcVdLLr2",
     "tokenACoingecko": "mimatic",
     "tokenBCoingecko": "usd-coin",
+    "decimals": 9
+  },
+  {
+    "id": "mim_cash",
+    "lpMint": "ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh",
+    "tokenA": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+    "tokenB": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
+    "authority": "FURmDMwhGoo9xJa32RPzT4o7H6vHLf2Fx7C2Wmu6hmVf",
+    "reserveA": "BDd5iphdX4nf3ZbTuERZpzqApDyBXDYF4DF51KHihT5n",
+    "reserveB": "13XGEQDqaKt7texUGawxfTGnz2j6pTt3k9HsosfJ9uZH",
+    "tokenACoingecko": "magic-internet-money",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 9
+  },
+  {
+    "id": "mim_ust",
+    "lpMint": "ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky",
+    "tokenA": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+    "tokenB": "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW",
+    "authority": "4WLCbMH7QQdcYHCNUhH1HV69sXstkmXtAyBoKLUDTjoE",
+    "reserveA": "Afy2q2hh6Y474pshJa5fnQ6PfEchGyTbKrQpCZw2hr3m",
+    "reserveB": "5pXz9ksgjeL8Wgb37bksUaBFMLdFfsNNY3FQnikkCPtS",
+    "tokenACoingecko": "magic-internet-money",
+    "tokenBCoingecko": "terrausd",
     "decimals": 9
   },
   {

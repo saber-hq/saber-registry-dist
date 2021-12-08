@@ -6825,6 +6825,392 @@
       "quarry": "GfhJbBiT4Yfv3FvnGY42EBGReCJpbLgQZbaZ8KuPydK5"
     },
     {
+      "id": "mim_cash",
+      "name": "aeMIM-CASH",
+      "tokens": [
+        {
+          "chainId": 101,
+          "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+          "symbol": "aeMIM",
+          "name": "Wrapped MIM (Allbridge from Ethereum)",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj/logo.png",
+          "extensions": {
+            "coingeckoId": "magic-internet-money",
+            "currency": "USD",
+            "source": "allbridge",
+            "sourceUrl": "https://app.allbridge.io/bridge"
+          },
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "name": "Saber Wrapped Cashio Dollar (9 decimals)",
+          "address": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
+          "decimals": 9,
+          "symbol": "sCASH-9",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi.png",
+          "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
+          "extensions": {
+            "website": "https://app.saber.so",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print",
+            "discord": "https://discord.com/invite/GmkRRKJkuh",
+            "medium": "https://medium.com/@cashioapp",
+            "currency": "USD",
+            "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+            "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"]
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "chainId": 101,
+          "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+          "symbol": "aeMIM",
+          "name": "Wrapped MIM (Allbridge from Ethereum)",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj/logo.png",
+          "extensions": {
+            "coingeckoId": "magic-internet-money",
+            "currency": "USD",
+            "source": "allbridge",
+            "sourceUrl": "https://app.allbridge.io/bridge"
+          },
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "name": "Saber Wrapped Cashio Dollar (9 decimals)",
+          "address": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
+          "decimals": 9,
+          "symbol": "sCASH-9",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi.png",
+          "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
+          "extensions": {
+            "website": "https://app.saber.so",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print",
+            "discord": "https://discord.com/invite/GmkRRKJkuh",
+            "medium": "https://medium.com/@cashioapp",
+            "currency": "USD",
+            "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+            "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"]
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+          "symbol": "aeMIM",
+          "name": "Wrapped MIM (Allbridge from Ethereum)",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj/logo.png",
+          "extensions": {
+            "coingeckoId": "magic-internet-money",
+            "currency": "USD",
+            "source": "allbridge",
+            "sourceUrl": "https://app.allbridge.io/bridge"
+          },
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "symbol": "CASH",
+          "name": "Cashio Dollar",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://cashio.app",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print",
+            "discord": "https://discord.com/invite/GmkRRKJkuh",
+            "medium": "https://medium.com/@cashioapp",
+            "currency": "USD"
+          },
+          "chainId": 101
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "aeMIM-CASH",
+        "name": "Saber aeMIM-CASH LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/mim_cash",
+          "underlyingTokens": [
+            "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+            "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "Dj1MPf57hjLz8hxQSBAo6GJ5fntTt1PHJRKgpNSRdBMz",
+      "swap": {
+        "config": {
+          "swapAccount": "MiMx8GQKM5CaDTCKcuK9VeTdrpEvPKR4ScyhSe4kYv1",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "FURmDMwhGoo9xJa32RPzT4o7H6vHLf2Fx7C2Wmu6hmVf"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "3nuxohcCupCrnvmwkJFxHTsEP5ehkcZEffWF7cvq5Lfj",
+            "reserve": "BDd5iphdX4nf3ZbTuERZpzqApDyBXDYF4DF51KHihT5n",
+            "mint": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj"
+          },
+          "tokenB": {
+            "adminFeeAccount": "8xW7sSoRbbJYGyrjYB33RagCz91gqCTU6g3gAxxidQv9",
+            "reserve": "13XGEQDqaKt7texUGawxfTGnz2j6pTt3k9HsosfJ9uZH",
+            "mint": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
+          },
+          "poolTokenMint": "ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "CjpAJJw6YrmTubmQMhtvC39bcWkPbomfRn1o1hwYjfss"
+    },
+    {
+      "id": "mim_ust",
+      "name": "aeMIM-wtUST",
+      "tokens": [
+        {
+          "chainId": 101,
+          "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+          "symbol": "aeMIM",
+          "name": "Wrapped MIM (Allbridge from Ethereum)",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj/logo.png",
+          "extensions": {
+            "coingeckoId": "magic-internet-money",
+            "currency": "USD",
+            "source": "allbridge",
+            "sourceUrl": "https://app.allbridge.io/bridge"
+          },
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "name": "Saber Wrapped UST (Wormhole) (9 decimals)",
+          "address": "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW",
+          "decimals": 9,
+          "symbol": "swtUST-9",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "saber-mkt-usd",
+            "wormhole-v2",
+            "saber-dec-wrapped"
+          ],
+          "extensions": {
+            "address": "uusd",
+            "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-usd",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer",
+            "website": "https://app.saber.so",
+            "assetContract": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+            "underlyingTokens": ["9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"]
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "chainId": 101,
+          "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+          "symbol": "aeMIM",
+          "name": "Wrapped MIM (Allbridge from Ethereum)",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj/logo.png",
+          "extensions": {
+            "coingeckoId": "magic-internet-money",
+            "currency": "USD",
+            "source": "allbridge",
+            "sourceUrl": "https://app.allbridge.io/bridge"
+          },
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "name": "Saber Wrapped UST (Wormhole) (9 decimals)",
+          "address": "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW",
+          "decimals": 9,
+          "symbol": "swtUST-9",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "saber-mkt-usd",
+            "wormhole-v2",
+            "saber-dec-wrapped"
+          ],
+          "extensions": {
+            "address": "uusd",
+            "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-usd",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer",
+            "website": "https://app.saber.so",
+            "assetContract": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+            "underlyingTokens": ["9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"]
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+          "symbol": "aeMIM",
+          "name": "Wrapped MIM (Allbridge from Ethereum)",
+          "decimals": 9,
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj/logo.png",
+          "extensions": {
+            "coingeckoId": "magic-internet-money",
+            "currency": "USD",
+            "source": "allbridge",
+            "sourceUrl": "https://app.allbridge.io/bridge"
+          },
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "chainId": 101,
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "symbol": "wtUST",
+          "name": "UST (Wormhole)",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
+          "extensions": {
+            "address": "uusd",
+            "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-usd",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "aeMIM-wtUST",
+        "name": "Saber aeMIM-wtUST LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-allbridge"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/mim_ust",
+          "underlyingTokens": [
+            "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+            "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "5TW99rm9xEGB4P4ypK8JHqvv4aX9AXBmZqKTVwrLeNoK",
+      "swap": {
+        "config": {
+          "swapAccount": "MiMuMS9C4vBqcrYeeQPph1E7oAW9aNKvW9k6Zw9XffM",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "4WLCbMH7QQdcYHCNUhH1HV69sXstkmXtAyBoKLUDTjoE"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "9EwKF3tPFToGdWYpjGwi2aWcM6FMmXiisKJUbeCbe7pk",
+            "reserve": "Afy2q2hh6Y474pshJa5fnQ6PfEchGyTbKrQpCZw2hr3m",
+            "mint": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj"
+          },
+          "tokenB": {
+            "adminFeeAccount": "CWJu3QCxj11SfUEcYDUCFLuyBLFffgFfvFADEZzRhLcU",
+            "reserve": "5pXz9ksgjeL8Wgb37bksUaBFMLdFfsNNY3FQnikkCPtS",
+            "mint": "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
+          },
+          "poolTokenMint": "ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "kjswzZghGyCPtfdivs3iEr1cVTjJrMjU512TdPnHiCd"
+    },
+    {
       "id": "msol_sol",
       "name": "mSOL-SOL",
       "tokens": [

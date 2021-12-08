@@ -1759,6 +1759,35 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky",
+      "mergePool": "H39h1yJ49e6JmxKSXVPcAyHDfpy7XnY7TWvsyH1B72w5",
+      "quarry": "kjswzZghGyCPtfdivs3iEr1cVTjJrMjU512TdPnHiCd",
+      "reserves": [
+        "Afy2q2hh6Y474pshJa5fnQ6PfEchGyTbKrQpCZw2hr3m",
+        "5pXz9ksgjeL8Wgb37bksUaBFMLdFfsNNY3FQnikkCPtS"
+      ],
+      "swapAccount": "MiMuMS9C4vBqcrYeeQPph1E7oAW9aNKvW9k6Zw9XffM",
+      "swapAuthority": "4WLCbMH7QQdcYHCNUhH1HV69sXstkmXtAyBoKLUDTjoE"
+    },
+    "currency": "USD",
+    "decimals": 9,
+    "displayTokens": [
+      "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+      "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+    ],
+    "id": "mim_ust",
+    "isVerified": true,
+    "name": "aeMIM-wtUST",
+    "sources": ["allbridge", "wormhole-v2"],
+    "tags": ["allbridge"],
+    "underlyingTokens": [
+      "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+      "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh",
       "mergePool": "5Sgzh5c9RstvfahZtG2dpeRj1xVgrfZeLHrcfKAxeFaf",
       "quarry": "CjpAJJw6YrmTubmQMhtvC39bcWkPbomfRn1o1hwYjfss",
@@ -1775,10 +1804,11 @@
       "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
     ],
-    "id": "MiMx8GQKM5CaDTCKcuK9VeTdrpEvPKR4ScyhSe4kYv1",
-    "isVerified": false,
+    "id": "mim_cash",
+    "isVerified": true,
     "name": "aeMIM-CASH",
     "sources": ["allbridge", "cashio"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
       "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"

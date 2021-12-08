@@ -75,7 +75,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2021-12-08T06:43:32.251Z",
+  "timestamp": "2021-12-08T21:33:14.904Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -83,13 +83,14 @@
       "decimals": 9,
       "extensions": {
         "coingeckoId": "magic-internet-money",
+        "currency": "USD",
         "source": "allbridge",
         "sourceUrl": "https://app.allbridge.io/bridge"
       },
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj/logo.png",
       "name": "Wrapped MIM (Allbridge from Ethereum)",
       "symbol": "aeMIM",
-      "tags": []
+      "tags": ["saber-mkt-usd"]
     },
     {
       "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
@@ -972,12 +973,29 @@
           "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
           "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
         ],
-        "website": "https://app.saber.so/#/pools/MiMx8GQKM5CaDTCKcuK9VeTdrpEvPKR4ScyhSe4kYv1"
+        "website": "https://app.saber.so/#/pools/mim_cash"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber aeMIM-CASH LP",
       "symbol": "aeMIM-CASH",
-      "tags": ["saber-stableswap-lp"]
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
+    },
+    {
+      "address": "ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+          "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
+        ],
+        "website": "https://app.saber.so/#/pools/mim_ust"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber aeMIM-wtUST LP",
+      "symbol": "aeMIM-wtUST",
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
     },
     {
       "address": "ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP",
@@ -1220,13 +1238,14 @@
       "decimals": 9,
       "extensions": {
         "coingeckoId": "fei-usd",
+        "currency": "USD",
         "source": "allbridge",
         "sourceUrl": "https://app.allbridge.io/bridge"
       },
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2/logo.png",
       "name": "Wrapped FEI (Allbridge from Ethereum)",
       "symbol": "aeFEI",
-      "tags": []
+      "tags": ["saber-mkt-usd"]
     },
     {
       "address": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
