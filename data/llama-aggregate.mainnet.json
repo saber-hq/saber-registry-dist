@@ -84,6 +84,15 @@
     ]
   },
   {
+    "id": "fei-usd",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": ["2jLa3LzFouE27ZQDnuHWUMs7ZMtkCNj8uatotPdi4Weg"]
+      }
+    ]
+  },
+  {
     "id": "frax",
     "accounts": [
       {
@@ -138,6 +147,19 @@
         "addresses": [
           "2mUxDu8NrhSKhQJMgKfYLxJqZzeEbmwhQdHeHMyohyuk",
           "E7L8CZxreEeNwM1V8DLxa8AZQKu6oday6RvXxRo27CHi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "magic-internet-money",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "HTvDKk71haXHb8eSnUnXRZMH8yj7kyBCbomS1QmPFAK2",
+          "BDd5iphdX4nf3ZbTuERZpzqApDyBXDYF4DF51KHihT5n",
+          "EsFsfp3rNDFn4ggWLvfDeTAW1zbjpRRzZxsNWzqRQS4A"
         ]
       }
     ]
@@ -391,7 +413,11 @@
         "addresses": [
           "8bPbEhA36iUTd8qgoyfhqA4qTm789CLiWVziJFSmtUga",
           "BA6PfHBH4Ac6VQDxWmF12rb1Hx4zFGWmytpd7PSh5kiv",
+          "7KFPJ4VJp9MYsHXpdm1QJhkNEdq5dFqLm6Z17gVsWTW2",
           "5XhLXXuJeZ5QBf9APcbKVaku38YkpTVebqGtvdJ2iocz",
+          "AZYHYxc8Gawy7zA5bidwpe7P3pjuGSEJvxNbApeG7K5b",
+          "13XGEQDqaKt7texUGawxfTGnz2j6pTt3k9HsosfJ9uZH",
+          "FxU5cupP6NA18ttrQHGnP82HZ9VoY9Rzb6KMv8Akw2gm",
           "rxDQYV77NKRKYxCjq4cECX3QQsiSyLv1T1FT2X3zNA2",
           "2bPenuBYfqzD8p5dFjCcggwkHDsc2RQDnx9AoyYGUBjA",
           "AE6n6iLuX8oYu61vt5hoDYkjswpnxFxrhSehxrnQTnbx",

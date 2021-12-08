@@ -60,6 +60,12 @@
     "decimals": 9
   },
   {
+    "wrapper": "FPuYMuodknZuQKHA8Wp4PBbp52Qu8nK2oAuwedp2WfM3",
+    "underlying": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+    "mint": "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW",
+    "decimals": 9
+  },
+  {
     "wrapper": "G4gRGymKo7MGzGZup12JS39YVCvy8YMM6KY9AmcKi5iw",
     "underlying": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",

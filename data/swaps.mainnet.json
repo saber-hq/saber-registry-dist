@@ -1100,6 +1100,34 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq",
+      "mergePool": "CmiTPDmpAwz3ZWGBbpRRHSExQ9aH694weAxL8PyA5ohu",
+      "quarry": "EQqa6BGXGTg2c2mHe8AtXeNEobsZsF5u6AnKkrgUpjyr",
+      "reserves": [
+        "2jLa3LzFouE27ZQDnuHWUMs7ZMtkCNj8uatotPdi4Weg",
+        "7KFPJ4VJp9MYsHXpdm1QJhkNEdq5dFqLm6Z17gVsWTW2"
+      ],
+      "swapAccount": "FEiWZLDDFthHtFHhavYwdmF8RThgTNt8vzBqAwV4hTar",
+      "swapAuthority": "GzBuk1UQ4iCkeK8QY6mrYjjTa3KaT6RS7aiLeBdoWoEr"
+    },
+    "currency": "USD",
+    "decimals": 9,
+    "displayTokens": [
+      "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
+      "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+    ],
+    "id": "FEiWZLDDFthHtFHhavYwdmF8RThgTNt8vzBqAwV4hTar",
+    "isVerified": false,
+    "name": "aeFEI-CASH",
+    "sources": ["allbridge", "cashio"],
+    "underlyingTokens": [
+      "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
+      "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj",
       "mergePool": "Beur4nDuX1kQcK1YDBd3RbViWYuNLrs8gTNP4m3Qnyob",
       "quarry": "75gshB42wbVJtFyF1PUULR6M4fegdqPLasG3HLGtTwRQ",
@@ -1698,6 +1726,90 @@
     "underlyingTokens": [
       "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "ALP66QkhMUoGeasDbitT4xUTpQrqBYAFkm6VPzWXAzxm",
+      "mergePool": "7XK9A4Hu9kf5veotYV7QJ1cNSNPU5AEUcuj37qonPGpx",
+      "quarry": "GfoocJhJLgm347P3dBm43DwiVg3sXXChnsh9mRCHNXFn",
+      "reserves": [
+        "HTvDKk71haXHb8eSnUnXRZMH8yj7kyBCbomS1QmPFAK2",
+        "AZYHYxc8Gawy7zA5bidwpe7P3pjuGSEJvxNbApeG7K5b"
+      ],
+      "swapAccount": "MiMUFdSLMyCLpqpH6zkqdDrGYs7XBomwENbivdYjv9V",
+      "swapAuthority": "PPqCeKAiDQZ2Usn9i5PfjPQj1DtUiWurzkLoLxT6Jej"
+    },
+    "currency": "USD",
+    "decimals": 9,
+    "displayTokens": [
+      "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ],
+    "id": "MiMUFdSLMyCLpqpH6zkqdDrGYs7XBomwENbivdYjv9V",
+    "isVerified": false,
+    "name": "aeMIM-USDC",
+    "sources": ["allbridge"],
+    "underlyingTokens": [
+      "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+      "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh",
+      "mergePool": "5Sgzh5c9RstvfahZtG2dpeRj1xVgrfZeLHrcfKAxeFaf",
+      "quarry": "CjpAJJw6YrmTubmQMhtvC39bcWkPbomfRn1o1hwYjfss",
+      "reserves": [
+        "BDd5iphdX4nf3ZbTuERZpzqApDyBXDYF4DF51KHihT5n",
+        "13XGEQDqaKt7texUGawxfTGnz2j6pTt3k9HsosfJ9uZH"
+      ],
+      "swapAccount": "MiMx8GQKM5CaDTCKcuK9VeTdrpEvPKR4ScyhSe4kYv1",
+      "swapAuthority": "FURmDMwhGoo9xJa32RPzT4o7H6vHLf2Fx7C2Wmu6hmVf"
+    },
+    "currency": "USD",
+    "decimals": 9,
+    "displayTokens": [
+      "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+      "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+    ],
+    "id": "MiMx8GQKM5CaDTCKcuK9VeTdrpEvPKR4ScyhSe4kYv1",
+    "isVerified": false,
+    "name": "aeMIM-CASH",
+    "sources": ["allbridge", "cashio"],
+    "underlyingTokens": [
+      "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+      "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "ALPydtnKSxX5AMZSSH8duCPSDoKa49ZwCvert6hzGera",
+      "mergePool": "4igLEyhTxNKn8VrtJEgX766DwUPNN8133o3ue563hFDZ",
+      "quarry": "AHoBYvAJaQhSy1G94XgWBKRtL3ywdWTY9Tf91YhN766h",
+      "reserves": [
+        "EsFsfp3rNDFn4ggWLvfDeTAW1zbjpRRzZxsNWzqRQS4A",
+        "FxU5cupP6NA18ttrQHGnP82HZ9VoY9Rzb6KMv8Akw2gm"
+      ],
+      "swapAccount": "MiMy69CnJDY4V6cQWkU3HHfTyb8pqXJmhX4MisFYDnM",
+      "swapAuthority": "8iJ23RVj5nULQqQCeP75kLpX82FUYCCWXnkwxEgbsbME"
+    },
+    "currency": "USD",
+    "decimals": 9,
+    "displayTokens": [
+      "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ],
+    "id": "MiMy69CnJDY4V6cQWkU3HHfTyb8pqXJmhX4MisFYDnM",
+    "isVerified": false,
+    "name": "aeMIM-USDC",
+    "sources": ["allbridge"],
+    "underlyingTokens": [
+      "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+      "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
     ]
   },
   {
