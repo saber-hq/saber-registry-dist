@@ -75,7 +75,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2021-12-09T01:53:03.128Z",
+  "timestamp": "2021-12-09T22:56:22.480Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -894,6 +894,23 @@
       "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
     },
     {
+      "address": "ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
+          "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
+        ],
+        "website": "https://app.saber.so/#/pools/fei_ust"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber aeFEI-wtUST LP",
+      "symbol": "aeFEI-wtUST",
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
+    },
+    {
       "address": "ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e",
       "chainId": 101,
       "decimals": 9,
@@ -954,12 +971,12 @@
           "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
           "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
         ],
-        "website": "https://app.saber.so/#/pools/FEiWZLDDFthHtFHhavYwdmF8RThgTNt8vzBqAwV4hTar"
+        "website": "https://app.saber.so/#/pools/fei_cash"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber aeFEI-CASH LP",
       "symbol": "aeFEI-CASH",
-      "tags": ["saber-stableswap-lp"]
+      "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
     },
     {
       "address": "ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo",
