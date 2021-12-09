@@ -48,7 +48,7 @@
     ],
     "id": "luna",
     "isVerified": true,
-    "name": "wLUNA_V1-renLUNA",
+    "name": "wLUNA_v1_V1-renLUNA",
     "newPoolID": "wluna",
     "sources": ["wormhole-v1", "renbridge"],
     "tags": ["wormhole-v1"],
@@ -134,7 +134,7 @@
     ],
     "id": "dai",
     "isVerified": true,
-    "name": "wDAI_V1-USDC",
+    "name": "wDAI_v1_V1-USDC",
     "newPoolID": "wdai",
     "sources": ["wormhole-v1"],
     "tags": ["wormhole-v1"],
@@ -164,7 +164,7 @@
     ],
     "id": "ust",
     "isVerified": true,
-    "name": "wUST_V1-USDC",
+    "name": "wUST_v1_V1-USDC",
     "newPoolID": "wust",
     "sources": ["wormhole-v1"],
     "tags": ["wormhole-v1"],
@@ -511,7 +511,7 @@
     ],
     "id": "busd",
     "isVerified": true,
-    "name": "wBUSD_V1-USDC",
+    "name": "wBUSD_v1_V1-USDC",
     "newPoolID": "webusd",
     "sources": ["wormhole-v1"],
     "tags": ["wormhole-v1"],
@@ -569,7 +569,7 @@
     ],
     "id": "xftt",
     "isVerified": true,
-    "name": "xFTT-weFTX Token",
+    "name": "xFTT-weFTT",
     "sources": ["synthetify", "wormhole-v2"],
     "tags": ["synthetify"],
     "underlyingTokens": [
@@ -1089,7 +1089,7 @@
     ],
     "id": "hbtc",
     "isVerified": true,
-    "name": "wHBTC_V1-renBTC",
+    "name": "wHBTC_v1_V1-renBTC",
     "sources": ["wormhole-v1", "renbridge"],
     "tags": ["wormhole-v1"],
     "underlyingTokens": [
@@ -1468,6 +1468,34 @@
     "underlyingTokens": [
       "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
       "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
+      "mergePool": "53rXLKPrrHGzyKfdy3gYY8bVqYAag1cSgHW58w25uDcj",
+      "quarry": "2hk3Qcp1mDvGNdQuPN3GoFKaLeQ3QaGmfeg4UTtaZey7",
+      "reserves": [
+        "xG4wXczA7Dk4hccJ61CHKpDHW4NrNfQwgmWgkb9BuF2",
+        "BVR6WgfhsRr9Lob4QDnkEAiNGgAbv7ZieKcY9kSg3QYR"
+      ],
+      "swapAccount": "JSoLLrxK5bYdHwTEWYaGgmeycBCNXKDiBCTw5hXGBg7",
+      "swapAuthority": "75kJUwEvBpyvDFKrpeCmcyhADEGwfqAaLQCwhRNV2FMk"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+      "So11111111111111111111111111111111111111112"
+    ],
+    "id": "JSoLLrxK5bYdHwTEWYaGgmeycBCNXKDiBCTw5hXGBg7",
+    "isVerified": false,
+    "name": "JSOL-SOL",
+    "sources": [],
+    "underlyingTokens": [
+      "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+      "So11111111111111111111111111111111111111112"
     ]
   },
   {
@@ -1863,7 +1891,7 @@
     ],
     "id": "husd",
     "isVerified": true,
-    "name": "wHUSD_V1-USDC",
+    "name": "wHUSD_v1_V1-USDC",
     "newPoolID": "whusd",
     "sources": ["wormhole-v1"],
     "tags": ["wormhole-v1"],
@@ -2155,7 +2183,7 @@
     ],
     "id": "ftt",
     "isVerified": true,
-    "name": "wFTT_V1-FTT",
+    "name": "wFTT_v1_V1-FTT",
     "newPoolID": "wftt",
     "sources": ["wormhole-v1"],
     "tags": ["wormhole-v1"],
@@ -2330,7 +2358,7 @@
     ],
     "id": "wftt",
     "isVerified": true,
-    "name": "aeFTT-weFTX Token",
+    "name": "aeFTT-weFTT",
     "sources": ["allbridge", "wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -2502,7 +2530,7 @@
     ],
     "id": "frax",
     "isVerified": true,
-    "name": "wFRAX_V1-USDC",
+    "name": "wFRAX_v1_V1-USDC",
     "newPoolID": "wfrax",
     "sources": ["wormhole-v1"],
     "tags": ["wormhole-v1"],
