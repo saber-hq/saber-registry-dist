@@ -6844,6 +6844,191 @@
       "newPoolID": "ibbtc_ren"
     },
     {
+      "id": "jsol",
+      "name": "JSOL-SOL",
+      "tokens": [
+        {
+          "chainId": 101,
+          "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+          "symbol": "JSOL",
+          "name": "JPOOL Solana Token",
+          "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn.svg",
+          "tags": ["stake-pool-token", "utility-token", "saber-mkt-sol"],
+          "extensions": {
+            "discord": "https://discord.gg/qR4BA9QXVR",
+            "telegram": "https://t.me/jpoolsolana",
+            "twitter": "https://twitter.com/JPoolSolana",
+            "website": "https://jpool.one/",
+            "currency": "SOL",
+            "source": "jpool",
+            "sourceUrl": "https://jpool.one/"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "So11111111111111111111111111111111111111112",
+          "symbol": "SOL",
+          "name": "Wrapped SOL",
+          "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+          "extensions": {
+            "coingeckoId": "solana",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "website": "https://solana.com/",
+            "currency": "SOL"
+          },
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "chainId": 101,
+          "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+          "symbol": "JSOL",
+          "name": "JPOOL Solana Token",
+          "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn.svg",
+          "tags": ["stake-pool-token", "utility-token", "saber-mkt-sol"],
+          "extensions": {
+            "discord": "https://discord.gg/qR4BA9QXVR",
+            "telegram": "https://t.me/jpoolsolana",
+            "twitter": "https://twitter.com/JPoolSolana",
+            "website": "https://jpool.one/",
+            "currency": "SOL",
+            "source": "jpool",
+            "sourceUrl": "https://jpool.one/"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "So11111111111111111111111111111111111111112",
+          "symbol": "SOL",
+          "name": "Wrapped SOL",
+          "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+          "extensions": {
+            "coingeckoId": "solana",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "website": "https://solana.com/",
+            "currency": "SOL"
+          },
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+          "symbol": "JSOL",
+          "name": "JPOOL Solana Token",
+          "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn.svg",
+          "tags": ["stake-pool-token", "utility-token", "saber-mkt-sol"],
+          "extensions": {
+            "discord": "https://discord.gg/qR4BA9QXVR",
+            "telegram": "https://t.me/jpoolsolana",
+            "twitter": "https://twitter.com/JPoolSolana",
+            "website": "https://jpool.one/",
+            "currency": "SOL",
+            "source": "jpool",
+            "sourceUrl": "https://jpool.one/"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "So11111111111111111111111111111111111111112",
+          "symbol": "SOL",
+          "name": "Wrapped SOL",
+          "decimals": 9,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+          "extensions": {
+            "coingeckoId": "solana",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "website": "https://solana.com/",
+            "currency": "SOL"
+          },
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "currency": "SOL",
+      "lpToken": {
+        "symbol": "JSOL-SOL",
+        "name": "Saber JSOL-SOL LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/jsol",
+          "underlyingTokens": [
+            "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "AL6i2HX3eUuAuUiUmBp2baE3R4pLBHaiyJV3MC2pWC2d",
+      "swap": {
+        "config": {
+          "swapAccount": "JSoLLrxK5bYdHwTEWYaGgmeycBCNXKDiBCTw5hXGBg7",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "75kJUwEvBpyvDFKrpeCmcyhADEGwfqAaLQCwhRNV2FMk"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 251,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "FwhekQKsP52Tup4TiKGDsxx33oFusEqT1kcq5NQMYvn4",
+            "reserve": "xG4wXczA7Dk4hccJ61CHKpDHW4NrNfQwgmWgkb9BuF2",
+            "mint": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+          },
+          "tokenB": {
+            "adminFeeAccount": "5EVVr86MKaFCx8j2UKBkPGvZcG12F74cqVsfDcbmXSZd",
+            "reserve": "BVR6WgfhsRr9Lob4QDnkEAiNGgAbv7ZieKcY9kSg3QYR",
+            "mint": "So11111111111111111111111111111111111111112"
+          },
+          "poolTokenMint": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
+          "initialAmpFactor": "4b",
+          "targetAmpFactor": "4b",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "2hk3Qcp1mDvGNdQuPN3GoFKaLeQ3QaGmfeg4UTtaZey7"
+    },
+    {
       "id": "luna",
       "name": "wLUNA_v1_V1-renLUNA",
       "tokens": [

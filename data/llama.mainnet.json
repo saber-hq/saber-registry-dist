@@ -60,18 +60,6 @@
     "decimals": 9
   },
   {
-    "id": "JSoLLrxK5bYdHwTEWYaGgmeycBCNXKDiBCTw5hXGBg7",
-    "lpMint": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
-    "tokenA": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
-    "tokenB": "So11111111111111111111111111111111111111112",
-    "authority": "75kJUwEvBpyvDFKrpeCmcyhADEGwfqAaLQCwhRNV2FMk",
-    "reserveA": "xG4wXczA7Dk4hccJ61CHKpDHW4NrNfQwgmWgkb9BuF2",
-    "reserveB": "BVR6WgfhsRr9Lob4QDnkEAiNGgAbv7ZieKcY9kSg3QYR",
-    "tokenACoingecko": "solana",
-    "tokenBCoingecko": "solana",
-    "decimals": 9
-  },
-  {
     "id": "LeekqF2NMKiFNtYD6qXJHZaHx4hUdj4UiPu4t8sz7uK",
     "lpMint": "SoLd9SEn8kqLHAd3HqKa35wz87LzpgxiVRBATjkn9a7",
     "tokenA": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
@@ -561,6 +549,18 @@
     "reserveB": "G3nLYyvP46npva5MEobZVJhcDNzJ4rrHgLGJMtvyad5c",
     "tokenACoingecko": "bitcoin",
     "tokenBCoingecko": "renbtc",
+    "decimals": 9
+  },
+  {
+    "id": "jsol",
+    "lpMint": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
+    "tokenA": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+    "tokenB": "So11111111111111111111111111111111111111112",
+    "authority": "75kJUwEvBpyvDFKrpeCmcyhADEGwfqAaLQCwhRNV2FMk",
+    "reserveA": "xG4wXczA7Dk4hccJ61CHKpDHW4NrNfQwgmWgkb9BuF2",
+    "reserveB": "BVR6WgfhsRr9Lob4QDnkEAiNGgAbv7ZieKcY9kSg3QYR",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana",
     "decimals": 9
   },
   {

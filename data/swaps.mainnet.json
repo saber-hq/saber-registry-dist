@@ -1519,10 +1519,10 @@
       "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
       "So11111111111111111111111111111111111111112"
     ],
-    "id": "JSoLLrxK5bYdHwTEWYaGgmeycBCNXKDiBCTw5hXGBg7",
-    "isVerified": false,
+    "id": "jsol",
+    "isVerified": true,
     "name": "JSOL-SOL",
-    "sources": [],
+    "sources": ["jpool"],
     "underlyingTokens": [
       "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
       "So11111111111111111111111111111111111111112"
