@@ -171,6 +171,182 @@
       "quarry": "CeE8rNxCFx2RAgpS7trsmcTz7ydyun33wbNY7r2nEvPi"
     },
     {
+      "id": "usdc_cash",
+      "name": "USDC-CASH",
+      "tokens": [
+        {
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+          "decimals": 6,
+          "chainId": 103,
+          "tags": ["saber-mkt-usd"],
+          "extensions": {
+            "currency": "USD"
+          }
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "chainId": 103,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "discord": "https://discord.com/invite/GmkRRKJkuh",
+            "medium": "https://medium.com/@cashioapp",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+          "decimals": 6,
+          "chainId": 103,
+          "tags": ["saber-mkt-usd"],
+          "extensions": {
+            "currency": "USD"
+          }
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "chainId": 103,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "discord": "https://discord.com/invite/GmkRRKJkuh",
+            "medium": "https://medium.com/@cashioapp",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+          "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+          "decimals": 6,
+          "chainId": 103,
+          "tags": ["saber-mkt-usd"],
+          "extensions": {
+            "currency": "USD"
+          }
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "chainId": 103,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "discord": "https://discord.com/invite/GmkRRKJkuh",
+            "medium": "https://medium.com/@cashioapp",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "USDC-CASH",
+        "name": "Saber USDC-CASH LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ",
+        "chainId": 103,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/usdc_cash",
+          "underlyingTokens": [
+            "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "AoijvP2yrE1H9C4K1Z6TrpkjsQjfPnBVn1yKeh5Y7uyJ",
+      "swap": {
+        "config": {
+          "swapAccount": "B94iYzzWe7Q3ksvRnt5yJm6G5YquerRFKpsUVUvasdmA",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "BgktRz16U7M7gnT2mzeL1idLyndxKFHeWRdKXUD9VGRz"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "4qtTs6LzoAnF9mTfPLYdoKrjWVRWaWMKDP61EcZcbhW2",
+            "reserve": "DjX8KKu5bHz3zz7oJDhZbSDoksGbDr6EZFaooYFrPK4u",
+            "mint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
+          },
+          "tokenB": {
+            "adminFeeAccount": "2v5K4N1D8Jx5BXpbLHBs8zc7xh1Li2QWL4ZDCU89cp9R",
+            "reserve": "654z3VDWzK7BuehVQSmyftqm6TxHnJDDJF8eHdCXUEcs",
+            "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          },
+          "poolTokenMint": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ",
+          "initialAmpFactor": "07d0",
+          "targetAmpFactor": "07d0",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "2xs4gZpawFvgUojWrqWPyFERRtu7F569VvRLeFS29jpm"
+    },
+    {
       "id": "usdc_pai",
       "name": "USDC-PAI",
       "tokens": [
@@ -634,6 +810,182 @@
         }
       },
       "quarry": "8QfbpS8fBNcqee9qHjYG5pgBWTKyM193E7zjwzxeUZ3X"
+    },
+    {
+      "id": "usdt_cash",
+      "name": "USDT-CASH",
+      "tokens": [
+        {
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "logoURI": "https://registry.saber.so/token-icons/usdt.svg",
+          "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+          "decimals": 6,
+          "chainId": 103,
+          "tags": ["saber-mkt-usd"],
+          "extensions": {
+            "currency": "USD"
+          }
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "chainId": 103,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "discord": "https://discord.com/invite/GmkRRKJkuh",
+            "medium": "https://medium.com/@cashioapp",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "logoURI": "https://registry.saber.so/token-icons/usdt.svg",
+          "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+          "decimals": 6,
+          "chainId": 103,
+          "tags": ["saber-mkt-usd"],
+          "extensions": {
+            "currency": "USD"
+          }
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "chainId": 103,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "discord": "https://discord.com/invite/GmkRRKJkuh",
+            "medium": "https://medium.com/@cashioapp",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "logoURI": "https://registry.saber.so/token-icons/usdt.svg",
+          "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+          "decimals": 6,
+          "chainId": 103,
+          "tags": ["saber-mkt-usd"],
+          "extensions": {
+            "currency": "USD"
+          }
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "chainId": 103,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "discord": "https://discord.com/invite/GmkRRKJkuh",
+            "medium": "https://medium.com/@cashioapp",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "USDT-CASH",
+        "name": "Saber USDT-CASH LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4",
+        "chainId": 103,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/usdt_cash",
+          "underlyingTokens": [
+            "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "Awc4HaWid9Ev8iqWMPkDwaaB5jYxQSKRHuyi2YiGscmQ",
+      "swap": {
+        "config": {
+          "swapAccount": "TEJVTFTsqFEuoNNGu864ED4MJuZr8weByrsYYpZGCfQ",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "52ZVLaKbh1jumxHWxiNpv4igyUvfMz8TbP7Vogcw2VDE"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "Bx4ajQv3xDs162GQssEKMPZZTWdhihAe5XbUTEMnkAha",
+            "reserve": "F9tk55FWRKMQFJqh9nX3ro9ePsZK6AFiNCnah3q42UQB",
+            "mint": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+          },
+          "tokenB": {
+            "adminFeeAccount": "3XUFRDDyw2HXtpSsMaZ53sCMTqKrwDa5zLhudBNHfGe9",
+            "reserve": "5gmJrKK9BvEs1FtkrZBwwyok1a3cU6TLcFTwrJ7Lg7PU",
+            "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          },
+          "poolTokenMint": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4",
+          "initialAmpFactor": "07d0",
+          "targetAmpFactor": "07d0",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "HTRAA85HHxsRmozFiZYv2AwQWjqHo1XnPWsc76zPbiFE"
     }
   ]
 }

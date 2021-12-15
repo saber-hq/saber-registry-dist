@@ -17,9 +17,13 @@
     "saber-stableswap-lp": {
       "description": "Saber StableSwap LP token.",
       "name": "saber-stableswap-lp"
+    },
+    "stablecoin": {
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar",
+      "name": "stablecoin"
     }
   },
-  "timestamp": "2021-12-15T07:42:49.567Z",
+  "timestamp": "2021-12-15T07:56:14.520Z",
   "tokens": [
     {
       "address": "22Ni6MmCu5UdQiuVjptqrZWJDen245hmojAfgChbDa1P",
@@ -175,6 +179,42 @@
       "tags": ["saber-mkt-btc", "saber-dec-wrapped"]
     },
     {
+      "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "medium": "https://medium.com/@cashioapp",
+        "source": "cashio",
+        "sourceUrl": "https://cashio.app/#/print",
+        "twitter": "https://twitter.com/CashioApp",
+        "website": "https://cashio.app"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+      "name": "Cashio Dollar",
+      "symbol": "CASH",
+      "tags": ["stablecoin", "saber-mkt-usd"]
+    },
+    {
+      "address": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "website": "https://app.saber.so/#/pools/usdc_cash"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber USDC-CASH LP",
+      "symbol": "USDC-CASH",
+      "tags": ["saber-stableswap-lp"]
+    },
+    {
       "address": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo",
       "chainId": 103,
       "decimals": 6,
@@ -235,6 +275,23 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber WBTC-renBTC LP",
       "symbol": "WBTC-renBTC",
+      "tags": ["saber-stableswap-lp"]
+    },
+    {
+      "address": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "website": "https://app.saber.so/#/pools/usdt_cash"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber USDT-CASH LP",
+      "symbol": "USDT-CASH",
       "tags": ["saber-stableswap-lp"]
     },
     {

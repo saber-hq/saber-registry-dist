@@ -114,6 +114,34 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ",
+      "mergePool": "6htfLrG8dBJBZA3cdvgBQnnvnBAcddZb28EQ6XxQ5TBe",
+      "quarry": "2xs4gZpawFvgUojWrqWPyFERRtu7F569VvRLeFS29jpm",
+      "reserves": [
+        "DjX8KKu5bHz3zz7oJDhZbSDoksGbDr6EZFaooYFrPK4u",
+        "654z3VDWzK7BuehVQSmyftqm6TxHnJDDJF8eHdCXUEcs"
+      ],
+      "swapAccount": "B94iYzzWe7Q3ksvRnt5yJm6G5YquerRFKpsUVUvasdmA",
+      "swapAuthority": "BgktRz16U7M7gnT2mzeL1idLyndxKFHeWRdKXUD9VGRz"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+    ],
+    "id": "usdc_cash",
+    "isVerified": true,
+    "name": "USDC-CASH",
+    "sources": ["cashio"],
+    "underlyingTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "btssMDn48kE9K8H18ckd9QWV74dyFtoGAUStYJPHkhY",
       "mergePool": "Ev1W4MSExZhJ1Pg2JMWd4PgqAJNekSP9EDffDDFs5d3M",
       "quarry": "FePQVQXUhq9t323nwR6B9mZG1i3WygrS4CmWYb1a4DTS",
@@ -333,6 +361,34 @@
     "underlyingTokens": [
       "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
       "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4",
+      "mergePool": "2nzWVp9LoVKuK7QdB8DAud6ryiGLxtyEjesDApCuWQNj",
+      "quarry": "HTRAA85HHxsRmozFiZYv2AwQWjqHo1XnPWsc76zPbiFE",
+      "reserves": [
+        "F9tk55FWRKMQFJqh9nX3ro9ePsZK6AFiNCnah3q42UQB",
+        "5gmJrKK9BvEs1FtkrZBwwyok1a3cU6TLcFTwrJ7Lg7PU"
+      ],
+      "swapAccount": "TEJVTFTsqFEuoNNGu864ED4MJuZr8weByrsYYpZGCfQ",
+      "swapAuthority": "52ZVLaKbh1jumxHWxiNpv4igyUvfMz8TbP7Vogcw2VDE"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+      "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+    ],
+    "id": "usdt_cash",
+    "isVerified": true,
+    "name": "USDT-CASH",
+    "sources": ["cashio"],
+    "underlyingTokens": [
+      "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+      "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
     ]
   },
   {
