@@ -252,7 +252,7 @@
     ],
     "id": "aeeth",
     "isVerified": true,
-    "name": "weWETH-aeWETH",
+    "name": "ETH-aeWETH",
     "sources": ["wormhole-v2", "allbridge"],
     "tags": ["allbridge"],
     "underlyingTokens": [
@@ -569,7 +569,7 @@
     ],
     "id": "xftt",
     "isVerified": true,
-    "name": "xFTT-weFTT",
+    "name": "xFTT-FTT",
     "sources": ["synthetify", "wormhole-v2"],
     "tags": ["synthetify"],
     "underlyingTokens": [
@@ -685,7 +685,7 @@
     ],
     "id": "abeth",
     "isVerified": true,
-    "name": "abETH-weWETH",
+    "name": "abETH-ETH",
     "sources": ["allbridge", "wormhole-v2"],
     "tags": ["allbridge"],
     "underlyingTokens": [
@@ -771,7 +771,7 @@
     ],
     "id": "whbtc",
     "isVerified": true,
-    "name": "weHBTC-renBTC",
+    "name": "HBTC-renBTC",
     "sources": ["wormhole-v2", "renbridge"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -800,7 +800,7 @@
     ],
     "id": "wbusdc",
     "isVerified": true,
-    "name": "wbUSDC-USDC",
+    "name": "USDCbs-USDC",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -829,7 +829,7 @@
     ],
     "id": "wbusd",
     "isVerified": true,
-    "name": "wbBUSD-USDC",
+    "name": "BUSDbs-USDC",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -858,7 +858,7 @@
     ],
     "id": "wbusdt",
     "isVerified": true,
-    "name": "wbUSDT-USDT",
+    "name": "USDTbs-USDT",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -915,7 +915,7 @@
     ],
     "id": "ust_cash",
     "isVerified": true,
-    "name": "wtUST-CASH",
+    "name": "UST-CASH",
     "sources": ["wormhole-v2", "cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
@@ -1002,7 +1002,7 @@
     ],
     "id": "webusd",
     "isVerified": true,
-    "name": "weBUSD-USDC",
+    "name": "BUSDet-USDC",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -1118,7 +1118,7 @@
     ],
     "id": "fei_ust",
     "isVerified": true,
-    "name": "aeFEI-wtUST",
+    "name": "aeFEI-UST",
     "sources": ["allbridge", "wormhole-v2"],
     "tags": ["allbridge"],
     "underlyingTokens": [
@@ -1204,7 +1204,7 @@
     ],
     "id": "afeth",
     "isVerified": true,
-    "name": "afETH-weWETH",
+    "name": "afETH-ETH",
     "sources": ["allbridge", "wormhole-v2"],
     "tags": ["allbridge"],
     "underlyingTokens": [
@@ -1320,7 +1320,7 @@
     ],
     "id": "weusdc",
     "isVerified": true,
-    "name": "weUSDC-USDC",
+    "name": "USDCet-USDC",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -1434,7 +1434,7 @@
     ],
     "id": "whusd",
     "isVerified": true,
-    "name": "weHUSD-USDC",
+    "name": "HUSD-USDC",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -1463,7 +1463,7 @@
     ],
     "id": "xeth",
     "isVerified": true,
-    "name": "xETH-weWETH",
+    "name": "xETH-ETH",
     "sources": ["synthetify", "wormhole-v2"],
     "tags": ["synthetify"],
     "underlyingTokens": [
@@ -1492,7 +1492,7 @@
     ],
     "id": "wluna",
     "isVerified": true,
-    "name": "wtLUNA-renLUNA",
+    "name": "LUNA-renLUNA",
     "sources": ["wormhole-v2", "renbridge"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -1578,7 +1578,7 @@
     ],
     "id": "wust",
     "isVerified": true,
-    "name": "wtUST-USDC",
+    "name": "UST-USDC",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -1607,7 +1607,7 @@
     ],
     "id": "wfrax",
     "isVerified": true,
-    "name": "weFRAX-USDC",
+    "name": "FRAX-USDC",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -1749,7 +1749,7 @@
     ],
     "id": "wpusdc",
     "isVerified": true,
-    "name": "wpUSDC-USDC",
+    "name": "USDCpo-USDC",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -1778,7 +1778,7 @@
     ],
     "id": "wpusdt",
     "isVerified": true,
-    "name": "wpUSDT-USDT",
+    "name": "USDTpo-USDT",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -1835,7 +1835,7 @@
     ],
     "id": "mim_ust",
     "isVerified": true,
-    "name": "aeMIM-wtUST",
+    "name": "aeMIM-UST",
     "sources": ["allbridge", "wormhole-v2"],
     "tags": ["allbridge"],
     "underlyingTokens": [
@@ -2068,7 +2068,7 @@
     ],
     "id": "wusdk",
     "isVerified": true,
-    "name": "weUSDK-USDC",
+    "name": "USDK-USDC",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -2125,7 +2125,7 @@
     ],
     "id": "wdai",
     "isVerified": true,
-    "name": "weDAI-USDC",
+    "name": "DAIet-USDC",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -2213,7 +2213,7 @@
     ],
     "id": "ftt",
     "isVerified": true,
-    "name": "wFTT_v1-FTT",
+    "name": "wFTT_v1-soFTT",
     "newPoolID": "wftt",
     "sources": ["wormhole-v1"],
     "tags": ["wormhole-v1"],
@@ -2301,7 +2301,7 @@
     ],
     "id": "wsrm",
     "isVerified": true,
-    "name": "weSRM-SRM",
+    "name": "SRMet-SRM",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -2388,7 +2388,7 @@
     ],
     "id": "wftt",
     "isVerified": true,
-    "name": "aeFTT-weFTT",
+    "name": "aeFTT-FTT",
     "sources": ["allbridge", "wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -2417,7 +2417,7 @@
     ],
     "id": "weusdt",
     "isVerified": true,
-    "name": "weUSDT-USDT",
+    "name": "USDTet-USDT",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
@@ -2475,7 +2475,7 @@
     ],
     "id": "wheth",
     "isVerified": true,
-    "name": "ETH-weWETH",
+    "name": "soETH-ETH",
     "sources": ["sollet", "wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
