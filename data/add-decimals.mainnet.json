@@ -42,6 +42,12 @@
     "decimals": 9
   },
   {
+    "wrapper": "EwWpia5t9Twiwdi8ghK8e8JHaf6ShNU9jmoYpvdZhBwC",
+    "underlying": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+    "mint": "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7",
+    "decimals": 8
+  },
+  {
     "wrapper": "F9TsAsh5RirU3LqyTJECLQEGXnF4RQT7ckvexCP1KNTu",
     "underlying": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
     "mint": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
@@ -64,6 +70,12 @@
     "underlying": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
     "mint": "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW",
     "decimals": 9
+  },
+  {
+    "wrapper": "Ffxi5TSpFV9NeV5KyNDCC7fWnFoFd2bDcL1eViSAE2M2",
+    "underlying": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+    "mint": "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s",
+    "decimals": 8
   },
   {
     "wrapper": "G4gRGymKo7MGzGZup12JS39YVCvy8YMM6KY9AmcKi5iw",

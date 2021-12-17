@@ -100,7 +100,11 @@
     "accounts": [
       {
         "decimals": 8,
-        "addresses": ["DD4ACBWyVqdaKWh7v5btsgqQCCMwbKnuL2xd9pv7Gyuw"]
+        "addresses": [
+          "DJZorZYrYhSwyw4oCBksDZVaUKvQtiaf5H1g285VPgqg",
+          "6jPzm5TFfquvgm25sTyN3MMGBfufRaFHMxobDWv6hMFW",
+          "DD4ACBWyVqdaKWh7v5btsgqQCCMwbKnuL2xd9pv7Gyuw"
+        ]
       },
       {
         "decimals": 9,
@@ -331,6 +335,10 @@
         ]
       },
       {
+        "decimals": 8,
+        "addresses": ["Cj9ECoDmxsHTDzCY5ZA6RWrPbg9uFzEC1Qc2kso2vJG6"]
+      },
+      {
         "decimals": 9,
         "addresses": [
           "Co2UdQpmfKcYqUkCBB7FBpiSbtq8woMhzmFpNhxEk2N1",
@@ -407,6 +415,7 @@
       {
         "decimals": 8,
         "addresses": [
+          "GQ2YPKtfdjPJexWKFak1m4T16yHyWtbqkoGGh52QGmRX",
           "AZCBmDBcFsA2jHHhfFJBTsWCHx9XnnKmGfFsue3ZVW1t",
           "Dxaf8xPBBQsasRKW5Aa4Sw2YrbfGofY9xZueyyF23FBW",
           "CcFHbafgYDZ8yA8Me1PdtDiVb2eeaS61LbqyKKK5CsNZ",

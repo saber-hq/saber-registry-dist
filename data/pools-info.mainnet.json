@@ -5873,6 +5873,410 @@
       "newPoolID": "wfrax"
     },
     {
+      "id": "frax_cash",
+      "name": "FRAX-CASH",
+      "tokens": [
+        {
+          "chainId": 101,
+          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+          "symbol": "FRAX",
+          "name": "Frax (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
+          "extensions": {
+            "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "assetContract": "https://etherscan.io/address/0x853d955acef822db058eb8505911ed77f175b99e",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "frax",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "name": "Saber Wrapped Cashio Dollar (8 decimals)",
+          "address": "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s",
+          "decimals": 8,
+          "symbol": "sCASH-8",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
+          "extensions": {
+            "website": "https://app.saber.so",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print",
+            "discord": "https://discord.com/invite/GmkRRKJkuh",
+            "medium": "https://medium.com/@cashioapp",
+            "currency": "USD",
+            "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+            "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"]
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "chainId": 101,
+          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+          "symbol": "FRAX",
+          "name": "Frax (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
+          "extensions": {
+            "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "assetContract": "https://etherscan.io/address/0x853d955acef822db058eb8505911ed77f175b99e",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "frax",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "name": "Saber Wrapped Cashio Dollar (8 decimals)",
+          "address": "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s",
+          "decimals": 8,
+          "symbol": "sCASH-8",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
+          "extensions": {
+            "website": "https://app.saber.so",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print",
+            "discord": "https://discord.com/invite/GmkRRKJkuh",
+            "medium": "https://medium.com/@cashioapp",
+            "currency": "USD",
+            "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+            "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"]
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+          "symbol": "FRAX",
+          "name": "Frax (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
+          "extensions": {
+            "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "assetContract": "https://etherscan.io/address/0x853d955acef822db058eb8505911ed77f175b99e",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "frax",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "symbol": "CASH",
+          "name": "Cashio Dollar",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://cashio.app",
+            "twitter": "https://twitter.com/CashioApp",
+            "coingeckoId": "usd-coin",
+            "source": "cashio",
+            "sourceUrl": "https://cashio.app/#/print",
+            "discord": "https://discord.com/invite/GmkRRKJkuh",
+            "medium": "https://medium.com/@cashioapp",
+            "currency": "USD"
+          },
+          "chainId": 101
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "FRAX-CASH",
+        "name": "Saber FRAX-CASH LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 8,
+        "address": "WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/frax_cash",
+          "underlyingTokens": [
+            "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+            "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "71D6SDk62gRAPoxaJ5KUPp5BGtdxS6K7ZzNpLMyjSDaj",
+      "swap": {
+        "config": {
+          "swapAccount": "ZUCKP2rbfTojHnuKUkzCozccxVUWR5DBTL9QbPf9YLv",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "4f7eyeBbQkxzWtktc2cAXmUfpRq9TwTy7PmLqSBeZXUS"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "2kfQgnCNBkJJR56WNLvQqHZutTaModCT7vY9G5A9oR12",
+            "reserve": "DJZorZYrYhSwyw4oCBksDZVaUKvQtiaf5H1g285VPgqg",
+            "mint": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp"
+          },
+          "tokenB": {
+            "adminFeeAccount": "5UhBgcVwvf94mmCauwkyMPWLQtGLX16Gg25CZyUjfZBj",
+            "reserve": "GQ2YPKtfdjPJexWKFak1m4T16yHyWtbqkoGGh52QGmRX",
+            "mint": "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s"
+          },
+          "poolTokenMint": "WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "2GaLgYiAejMPbhAYBxkcYDNgZXpEqqfwPKGQqjyWfyBi"
+    },
+    {
+      "id": "frax_ust",
+      "name": "FRAX-UST",
+      "tokens": [
+        {
+          "chainId": 101,
+          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+          "symbol": "FRAX",
+          "name": "Frax (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
+          "extensions": {
+            "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "assetContract": "https://etherscan.io/address/0x853d955acef822db058eb8505911ed77f175b99e",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "frax",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "name": "Saber Wrapped UST (Wormhole) (8 decimals)",
+          "address": "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7",
+          "decimals": 8,
+          "symbol": "sUST-8",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "saber-mkt-usd",
+            "wormhole-v2",
+            "saber-dec-wrapped"
+          ],
+          "extensions": {
+            "address": "uusd",
+            "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-usd",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer",
+            "website": "https://app.saber.so",
+            "assetContract": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+            "underlyingTokens": ["9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"]
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "chainId": 101,
+          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+          "symbol": "FRAX",
+          "name": "Frax (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
+          "extensions": {
+            "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "assetContract": "https://etherscan.io/address/0x853d955acef822db058eb8505911ed77f175b99e",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "frax",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "name": "Saber Wrapped UST (Wormhole) (8 decimals)",
+          "address": "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7",
+          "decimals": 8,
+          "symbol": "sUST-8",
+          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "saber-mkt-usd",
+            "wormhole-v2",
+            "saber-dec-wrapped"
+          ],
+          "extensions": {
+            "address": "uusd",
+            "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-usd",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer",
+            "website": "https://app.saber.so",
+            "assetContract": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+            "underlyingTokens": ["9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"]
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "chainId": 101,
+          "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+          "symbol": "FRAX",
+          "name": "Frax (Wormhole)",
+          "decimals": 8,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
+          "extensions": {
+            "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "assetContract": "https://etherscan.io/address/0x853d955acef822db058eb8505911ed77f175b99e",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "coingeckoId": "frax",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        },
+        {
+          "chainId": 101,
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "symbol": "UST",
+          "name": "UST (Wormhole)",
+          "decimals": 6,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"],
+          "extensions": {
+            "address": "uusd",
+            "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terra-usd",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "FRAX-UST",
+        "name": "Saber FRAX-UST LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 8,
+        "address": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/frax_ust",
+          "underlyingTokens": [
+            "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+            "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "A3YkUjZ3X5PsKXMQMobz9awAF6rohcV2gXB4zDHA4uEB",
+      "swap": {
+        "config": {
+          "swapAccount": "SAMyS8Jr2HJrkFwYVKbpUwsNStnQmvz3f8Tup8bWUWF",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "9tTrypFDQE3ChSPtwySjgomWDEi8XcTieGcYT3vXkgf1"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 253,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "BVbJc46LgtPCgzvchMMhpw5oQzmDJNDi4sRzp11nZSUH",
+            "reserve": "6jPzm5TFfquvgm25sTyN3MMGBfufRaFHMxobDWv6hMFW",
+            "mint": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp"
+          },
+          "tokenB": {
+            "adminFeeAccount": "3jALqeK22cRT3eoyingC73BLKPfPqdKxAjpwER6mXHgW",
+            "reserve": "Cj9ECoDmxsHTDzCY5ZA6RWrPbg9uFzEC1Qc2kso2vJG6",
+            "mint": "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
+          },
+          "poolTokenMint": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "CSzKyCBEh2yxQYKavrzH9U1uiuNpeUEo691VnHrDVU5v"
+    },
+    {
       "id": "ftt",
       "name": "wFTT_v1-soFTT",
       "tokens": [

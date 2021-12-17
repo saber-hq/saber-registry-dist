@@ -2136,6 +2136,35 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
+      "mergePool": "9qcXJBeMhfN7rYDp1wGhQKQTTWUPdD6z3tEWE52EiNN4",
+      "quarry": "CSzKyCBEh2yxQYKavrzH9U1uiuNpeUEo691VnHrDVU5v",
+      "reserves": [
+        "6jPzm5TFfquvgm25sTyN3MMGBfufRaFHMxobDWv6hMFW",
+        "Cj9ECoDmxsHTDzCY5ZA6RWrPbg9uFzEC1Qc2kso2vJG6"
+      ],
+      "swapAccount": "SAMyS8Jr2HJrkFwYVKbpUwsNStnQmvz3f8Tup8bWUWF",
+      "swapAuthority": "9tTrypFDQE3ChSPtwySjgomWDEi8XcTieGcYT3vXkgf1"
+    },
+    "currency": "USD",
+    "decimals": 8,
+    "displayTokens": [
+      "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+      "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+    ],
+    "id": "frax_ust",
+    "isVerified": true,
+    "name": "FRAX-UST",
+    "sources": ["wormhole-v2", "wormhole-v2"],
+    "tags": ["wormhole-v2"],
+    "underlyingTokens": [
+      "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+      "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39",
       "mergePool": "HAkjiKsg2eDxahiEV9AaPyi3er8K9J5tRQ5qCa6FFi2o",
       "quarry": "6r6zEtUZghQmWsPpLFRwMvnoRja3SNDUaS72NUuQsFia",
@@ -2537,6 +2566,35 @@
     "underlyingTokens": [
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n",
+      "mergePool": "EMzQJ4WxRrwjT4Yv4G9Hc3t78c61wqchamKY8WzKy6KV",
+      "quarry": "2GaLgYiAejMPbhAYBxkcYDNgZXpEqqfwPKGQqjyWfyBi",
+      "reserves": [
+        "DJZorZYrYhSwyw4oCBksDZVaUKvQtiaf5H1g285VPgqg",
+        "GQ2YPKtfdjPJexWKFak1m4T16yHyWtbqkoGGh52QGmRX"
+      ],
+      "swapAccount": "ZUCKP2rbfTojHnuKUkzCozccxVUWR5DBTL9QbPf9YLv",
+      "swapAuthority": "4f7eyeBbQkxzWtktc2cAXmUfpRq9TwTy7PmLqSBeZXUS"
+    },
+    "currency": "USD",
+    "decimals": 8,
+    "displayTokens": [
+      "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+      "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+    ],
+    "id": "frax_cash",
+    "isVerified": true,
+    "name": "FRAX-CASH",
+    "sources": ["wormhole-v2", "cashio"],
+    "tags": ["cashio"],
+    "underlyingTokens": [
+      "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+      "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s"
     ]
   },
   {

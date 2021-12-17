@@ -492,6 +492,30 @@
     "decimals": 9
   },
   {
+    "id": "frax_cash",
+    "lpMint": "WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n",
+    "tokenA": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+    "tokenB": "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s",
+    "authority": "4f7eyeBbQkxzWtktc2cAXmUfpRq9TwTy7PmLqSBeZXUS",
+    "reserveA": "DJZorZYrYhSwyw4oCBksDZVaUKvQtiaf5H1g285VPgqg",
+    "reserveB": "GQ2YPKtfdjPJexWKFak1m4T16yHyWtbqkoGGh52QGmRX",
+    "tokenACoingecko": "frax",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 8
+  },
+  {
+    "id": "frax_ust",
+    "lpMint": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
+    "tokenA": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+    "tokenB": "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7",
+    "authority": "9tTrypFDQE3ChSPtwySjgomWDEi8XcTieGcYT3vXkgf1",
+    "reserveA": "6jPzm5TFfquvgm25sTyN3MMGBfufRaFHMxobDWv6hMFW",
+    "reserveB": "Cj9ECoDmxsHTDzCY5ZA6RWrPbg9uFzEC1Qc2kso2vJG6",
+    "tokenACoingecko": "frax",
+    "tokenBCoingecko": "terrausd",
+    "decimals": 8
+  },
+  {
     "id": "ftt",
     "lpMint": "FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7",
     "tokenA": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
