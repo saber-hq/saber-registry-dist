@@ -1042,6 +1042,34 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z",
+      "mergePool": "5fLGkhxYj9gzqWh5tUA8L8EcaTddJxe4AVbo4JXBFgt3",
+      "quarry": "6rX9t63n4fWGr5AAJ2hEsuGH47UEee8dthZcJMrmbai2",
+      "reserves": [
+        "6VW5GQNyj4LStgmxEHLr5zUfW92vQnmbw8jTnCH7a38F",
+        "4VPCCUifPeBA1c7HWK358CHn2nyjm8pdTRk6Ps3KmnMQ"
+      ],
+      "swapAccount": "daob129AwBGn9Y5r91uLoWZeYiGzbPmksauMhFZKTze",
+      "swapAuthority": "41CKnj1gy1AXQ1nf2dB9Ubst3QGHxjWkFLd78KLpGYsr"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+      "So11111111111111111111111111111111111111112"
+    ],
+    "id": "monkedao",
+    "isVerified": true,
+    "name": "daoSOL-SOL",
+    "sources": [],
+    "underlyingTokens": [
+      "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+      "So11111111111111111111111111111111111111112"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
       "mergePool": "HyVWvFPX2zBSEqJ1xLLfLTWqEWkPtxtXXitYzC4PWJmi",
       "quarry": "GfhJbBiT4Yfv3FvnGY42EBGReCJpbLgQZbaZ8KuPydK5",
@@ -1153,6 +1181,34 @@
     "underlyingTokens": [
       "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
       "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz",
+      "mergePool": "FsmbYKRdQTMBtt73xZv937HFGULu8JbWWL4K2LKvKHSX",
+      "quarry": "DSqhEUtD1kmQAaaCRFae3UUbtPsxVLy7d8o9AYXxjXxe",
+      "reserves": [
+        "G5KhoiuhRBEYmX89PuZMmpG3fLdomzMJZ3yEG13hVYPD",
+        "DuSWTAh1SC43EY86daS2Cq6PNBGGujVjLyEmc5AmQKzC"
+      ],
+      "swapAccount": "FREDEGdjoEe5DiyVnEvSyDAX4h7LWTg7ZkSMaZiWskbp",
+      "swapAuthority": "DmzotTyGA8njH9b1tNuCE2wEmCoUDr3N51UXxvb1kW9g"
+    },
+    "currency": "EUR",
+    "decimals": 9,
+    "displayTokens": [
+      "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
+      "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1"
+    ],
+    "id": "FREDEGdjoEe5DiyVnEvSyDAX4h7LWTg7ZkSMaZiWskbp",
+    "isVerified": false,
+    "name": "acEUR-agEUR",
+    "sources": ["allbridge", "wormhole-v2"],
+    "underlyingTokens": [
+      "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
+      "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt"
     ]
   },
   {
