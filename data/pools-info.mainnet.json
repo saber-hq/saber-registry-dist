@@ -8186,6 +8186,182 @@
       "quarry": "kjswzZghGyCPtfdivs3iEr1cVTjJrMjU512TdPnHiCd"
     },
     {
+      "id": "monkedao",
+      "name": "daoSOL-SOL",
+      "tokens": [
+        {
+          "address": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "description": "daoSOL is the staking token issued by the MonkeDAO staking pool",
+            "twitter": "https://twitter.com/MonkeDAO",
+            "website": "https://monkedao.io/",
+            "currency": "SOL"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh.png",
+          "name": "daoSOL Token",
+          "symbol": "daoSOL",
+          "tags": ["stake-pool-token", "saber-mkt-sol"]
+        },
+        {
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "solana",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "website": "https://solana.com/",
+            "currency": "SOL"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "description": "daoSOL is the staking token issued by the MonkeDAO staking pool",
+            "twitter": "https://twitter.com/MonkeDAO",
+            "website": "https://monkedao.io/",
+            "currency": "SOL"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh.png",
+          "name": "daoSOL Token",
+          "symbol": "daoSOL",
+          "tags": ["stake-pool-token", "saber-mkt-sol"]
+        },
+        {
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "solana",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "website": "https://solana.com/",
+            "currency": "SOL"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "description": "daoSOL is the staking token issued by the MonkeDAO staking pool",
+            "twitter": "https://twitter.com/MonkeDAO",
+            "website": "https://monkedao.io/",
+            "currency": "SOL"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh.png",
+          "name": "daoSOL Token",
+          "symbol": "daoSOL",
+          "tags": ["stake-pool-token", "saber-mkt-sol"]
+        },
+        {
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "solana",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "website": "https://solana.com/",
+            "currency": "SOL"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "currency": "SOL",
+      "lpToken": {
+        "symbol": "daoSOL-SOL",
+        "name": "Saber daoSOL-SOL LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/monkedao",
+          "underlyingTokens": [
+            "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "Ac2ARzZ4ypAMqZjNL2bwEsWM5ebuKGDxT3PP198A83DH",
+      "swap": {
+        "config": {
+          "swapAccount": "daob129AwBGn9Y5r91uLoWZeYiGzbPmksauMhFZKTze",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "41CKnj1gy1AXQ1nf2dB9Ubst3QGHxjWkFLd78KLpGYsr"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "Ga4BbqePtwCHQExwEXdYzhbPNcVeGr7oLbUbnhQ4sEKc",
+            "reserve": "6VW5GQNyj4LStgmxEHLr5zUfW92vQnmbw8jTnCH7a38F",
+            "mint": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh"
+          },
+          "tokenB": {
+            "adminFeeAccount": "EE9reBeT4b4GKyt6dxNEmzZG9pAz5BAYWkKP5NgA36Qo",
+            "reserve": "4VPCCUifPeBA1c7HWK358CHn2nyjm8pdTRk6Ps3KmnMQ",
+            "mint": "So11111111111111111111111111111111111111112"
+          },
+          "poolTokenMint": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z",
+          "initialAmpFactor": "1e",
+          "targetAmpFactor": "1e",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "6rX9t63n4fWGr5AAJ2hEsuGH47UEee8dthZcJMrmbai2"
+    },
+    {
       "id": "msol_sol",
       "name": "mSOL-SOL",
       "tokens": [
