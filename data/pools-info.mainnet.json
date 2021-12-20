@@ -1636,7 +1636,7 @@
       "quarry": "AJExbb6wfD71dUD7QCcQASmHB5B6VqzWV9UjrCHsdDbU"
     },
     {
-      "id": "aceur_aguer",
+      "id": "aceur_ageur",
       "name": "acEUR-agEUR",
       "tokens": [
         {
@@ -1788,7 +1788,7 @@
           "saber-lp-wormhole-v2"
         ],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/aceur_aguer",
+          "website": "https://app.saber.so/#/pools/aceur_ageur",
           "underlyingTokens": [
             "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
             "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt"

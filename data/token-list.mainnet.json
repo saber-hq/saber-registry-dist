@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2021-12-20T00:28:46.244Z",
+  "timestamp": "2021-12-20T00:40:44.447Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -3204,7 +3204,7 @@
           "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
           "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt"
         ],
-        "website": "https://app.saber.so/#/pools/aceur_aguer"
+        "website": "https://app.saber.so/#/pools/aceur_ageur"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber acEUR-agEUR LP",

@@ -26883,8 +26883,9 @@
       "website": "https://liqnft.com/"
     },
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GD8B6KhufThbCGmNodrTE5feVxU2kK5TRzwxqjahv12G/logo.png",
-    "name": "Liquid NFT",
-    "symbol": "LQN"
+    "name": "LIQNFT.com",
+    "symbol": "LQN",
+    "tags": ["utility-token"]
   },
   {
     "address": "3DHPqxdMXogNNnpqBMF8N4Zs4dn1WR31H7UjWq6FExwG",
