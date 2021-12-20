@@ -216,6 +216,18 @@
     "decimals": 9
   },
   {
+    "id": "aceur_aguer",
+    "lpMint": "WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz",
+    "tokenA": "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
+    "tokenB": "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt",
+    "authority": "DmzotTyGA8njH9b1tNuCE2wEmCoUDr3N51UXxvb1kW9g",
+    "reserveA": "G5KhoiuhRBEYmX89PuZMmpG3fLdomzMJZ3yEG13hVYPD",
+    "reserveB": "DuSWTAh1SC43EY86daS2Cq6PNBGGujVjLyEmc5AmQKzC",
+    "tokenACoingecko": "celo-euro",
+    "tokenBCoingecko": "ageur",
+    "decimals": 9
+  },
+  {
     "id": "acusd",
     "lpMint": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",
     "tokenA": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
@@ -345,18 +357,6 @@
     "reserveB": "HuEnD3eWBSuJtTCZMDG3P74sHPhi5UyVRV4SVefva6jS",
     "tokenACoingecko": "usd-coin",
     "tokenBCoingecko": "usd-coin",
-    "decimals": 9
-  },
-  {
-    "id": "ageur_aguer",
-    "lpMint": "WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz",
-    "tokenA": "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
-    "tokenB": "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt",
-    "authority": "DmzotTyGA8njH9b1tNuCE2wEmCoUDr3N51UXxvb1kW9g",
-    "reserveA": "G5KhoiuhRBEYmX89PuZMmpG3fLdomzMJZ3yEG13hVYPD",
-    "reserveB": "DuSWTAh1SC43EY86daS2Cq6PNBGGujVjLyEmc5AmQKzC",
-    "tokenACoingecko": "celo-euro",
-    "tokenBCoingecko": "ageur",
     "decimals": 9
   },
   {

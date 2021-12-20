@@ -45635,5 +45635,23 @@
     "name": "NPC DAO",
     "symbol": "NPC",
     "tags": ["meme-token", "community-token", "fair-launch", "dao-token"]
+  },
+  {
+    "address": "EdW4dQkTZ3QRioGDKmFckJyELiPyh8VcwioAJWG7C4X5",
+    "chainId": 101,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/boostmagento/sol-sndc/main/logo.png",
+    "name": "Special Needs and Disabilities Coin",
+    "symbol": "SNDC",
+    "tags": ["NFTs", "utility-token", "social-token", "community-token"]
+  },
+  {
+    "address": "39BGw1FfdTz8JmdwUp6m3HhXGZ15mJgjnMfrQHx2Ypx8",
+    "chainId": 101,
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/trekk/Cloud-Atlas-Tech-Coin/main/logo.png",
+    "name": "CloudAtlasTech Coin",
+    "symbol": "CAT",
+    "tags": ["utility-token", "social-token"]
   }
 ]
