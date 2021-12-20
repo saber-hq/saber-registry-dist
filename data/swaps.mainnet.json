@@ -1202,10 +1202,11 @@
       "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
       "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1"
     ],
-    "id": "FREDEGdjoEe5DiyVnEvSyDAX4h7LWTg7ZkSMaZiWskbp",
-    "isVerified": false,
+    "id": "ageur_aguer",
+    "isVerified": true,
     "name": "acEUR-agEUR",
     "sources": ["allbridge", "wormhole-v2"],
+    "tags": ["allbridge", "wormhole-v2"],
     "underlyingTokens": [
       "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
       "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt"

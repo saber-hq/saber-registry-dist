@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2021-12-20T00:02:27.541Z",
+  "timestamp": "2021-12-20T00:17:57.416Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -3204,12 +3204,16 @@
           "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
           "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt"
         ],
-        "website": "https://app.saber.so/#/pools/FREDEGdjoEe5DiyVnEvSyDAX4h7LWTg7ZkSMaZiWskbp"
+        "website": "https://app.saber.so/#/pools/ageur_aguer"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber acEUR-agEUR LP",
       "symbol": "acEUR-agEUR",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge",
+        "saber-lp-wormhole-v2"
+      ]
     },
     {
       "address": "WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS",
