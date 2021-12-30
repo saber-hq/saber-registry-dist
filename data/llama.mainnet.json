@@ -420,6 +420,18 @@
     "decimals": 9
   },
   {
+    "id": "bilira",
+    "lpMint": "Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer",
+    "tokenA": "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
+    "tokenB": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf",
+    "authority": "AAFwoEvGaFLW6V8E4u4NBGmGnExaboMdJTcguxDrRvDt",
+    "reserveA": "GA7UoHChxwpLd1Sx4pK5jVA575zWAxNveJPPkayrvJV7",
+    "reserveB": "5rSTM7rrLvoWerY897n3KhbpuQyHV8ZMuS1pHJNAwMnQ",
+    "tokenACoingecko": "bilira",
+    "tokenBCoingecko": "bilira",
+    "decimals": 6
+  },
+  {
     "id": "btc",
     "lpMint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
     "tokenA": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",

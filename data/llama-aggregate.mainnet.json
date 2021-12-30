@@ -9,6 +9,18 @@
     ]
   },
   {
+    "id": "bilira",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "GA7UoHChxwpLd1Sx4pK5jVA575zWAxNveJPPkayrvJV7",
+          "5rSTM7rrLvoWerY897n3KhbpuQyHV8ZMuS1pHJNAwMnQ"
+        ]
+      }
+    ]
+  },
+  {
     "id": "binance-usd",
     "accounts": [
       {

@@ -30,6 +30,35 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer",
+      "mergePool": "EF2dvUkhApFmht1wqsT6AYdL8KsPBs2ajkb4NSeKVPXp",
+      "quarry": "HB4brmTLxoMEEzQx9ADMYtye71nc11yYq3SVXvvDbgu7",
+      "reserves": [
+        "GA7UoHChxwpLd1Sx4pK5jVA575zWAxNveJPPkayrvJV7",
+        "5rSTM7rrLvoWerY897n3KhbpuQyHV8ZMuS1pHJNAwMnQ"
+      ],
+      "swapAccount": "3nesbuhAwCMGtsyypYtg4oRPwJ3FmHnytC5bqskhPh1x",
+      "swapAuthority": "AAFwoEvGaFLW6V8E4u4NBGmGnExaboMdJTcguxDrRvDt"
+    },
+    "currency": "TRY",
+    "decimals": 6,
+    "displayTokens": [
+      "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
+      "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
+    ],
+    "id": "bilira",
+    "isVerified": true,
+    "name": "TRYB-TRYB",
+    "sources": ["wormhole-v2", "BiLira"],
+    "tags": ["wormhole-v2"],
+    "underlyingTokens": [
+      "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
+      "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE",
       "mergePool": "2Z42MEgDRLAt7uWDxbMx2gurkWcaS7PVHDA2QyNDVMsh",
       "quarry": "FaEnerTg1tsHKtqXfjGKtHMDkUrd4pe6i7d41qoYDUJf",

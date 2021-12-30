@@ -4772,6 +4772,227 @@
       "quarry": "8RyD4nFiZ56nVNtHM3wBfn2kr889XBrxv8Y1swJq91md"
     },
     {
+      "id": "bilira",
+      "name": "TRYB-TRYB",
+      "tokens": [
+        {
+          "address": "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+            "assetContract": "https://etherscan.io/token/0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "github": "https://github.com/bilira-org",
+            "instagram": "https://instagram.com/bilira_official",
+            "telegram": "https://t.me/BiLira_Official",
+            "website": "http://bilira.co",
+            "currency": "TRY",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj.png",
+          "name": "BiLira (Wormhole)",
+          "symbol": "TRYB",
+          "tags": [
+            "stablecoin",
+            "wormhole",
+            "wrapped",
+            "saber-mkt-try",
+            "wormhole-v2"
+          ]
+        },
+        {
+          "address": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "bilira",
+            "github": "https://github.com/bilira-org",
+            "instagram": "https://instagram.com/bilira_official",
+            "telegram": "https://t.me/BiLira_Official",
+            "website": "http://bilira.co",
+            "currency": "TRY",
+            "source": "BiLira",
+            "sourceUrl": "https://www.bilira.co/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf.png",
+          "name": "BiLira",
+          "symbol": "TRYB",
+          "tags": ["tryb", "bilira", "stablecoin", "saber-mkt-try"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+            "assetContract": "https://etherscan.io/token/0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "github": "https://github.com/bilira-org",
+            "instagram": "https://instagram.com/bilira_official",
+            "telegram": "https://t.me/BiLira_Official",
+            "website": "http://bilira.co",
+            "currency": "TRY",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj.png",
+          "name": "BiLira (Wormhole)",
+          "symbol": "TRYB",
+          "tags": [
+            "stablecoin",
+            "wormhole",
+            "wrapped",
+            "saber-mkt-try",
+            "wormhole-v2"
+          ]
+        },
+        {
+          "address": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "bilira",
+            "github": "https://github.com/bilira-org",
+            "instagram": "https://instagram.com/bilira_official",
+            "telegram": "https://t.me/BiLira_Official",
+            "website": "http://bilira.co",
+            "currency": "TRY",
+            "source": "BiLira",
+            "sourceUrl": "https://www.bilira.co/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf.png",
+          "name": "BiLira",
+          "symbol": "TRYB",
+          "tags": ["tryb", "bilira", "stablecoin", "saber-mkt-try"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+            "assetContract": "https://etherscan.io/token/0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "github": "https://github.com/bilira-org",
+            "instagram": "https://instagram.com/bilira_official",
+            "telegram": "https://t.me/BiLira_Official",
+            "website": "http://bilira.co",
+            "currency": "TRY",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj.png",
+          "name": "BiLira (Wormhole)",
+          "symbol": "TRYB",
+          "tags": [
+            "stablecoin",
+            "wormhole",
+            "wrapped",
+            "saber-mkt-try",
+            "wormhole-v2"
+          ]
+        },
+        {
+          "address": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "bilira",
+            "github": "https://github.com/bilira-org",
+            "instagram": "https://instagram.com/bilira_official",
+            "telegram": "https://t.me/BiLira_Official",
+            "website": "http://bilira.co",
+            "currency": "TRY",
+            "source": "BiLira",
+            "sourceUrl": "https://www.bilira.co/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf.png",
+          "name": "BiLira",
+          "symbol": "TRYB",
+          "tags": ["tryb", "bilira", "stablecoin", "saber-mkt-try"]
+        }
+      ],
+      "currency": "TRY",
+      "lpToken": {
+        "symbol": "TRYB-TRYB",
+        "name": "Saber TRYB-TRYB LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/bilira",
+          "underlyingTokens": [
+            "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
+            "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "GPG8RpDrBx8MRJK1bngqrWcBopaCzMPVSi6zGxRX4KqA",
+      "swap": {
+        "config": {
+          "swapAccount": "3nesbuhAwCMGtsyypYtg4oRPwJ3FmHnytC5bqskhPh1x",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "AAFwoEvGaFLW6V8E4u4NBGmGnExaboMdJTcguxDrRvDt"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "XAxRNSti6K4ecSRrjq8Wj6XuEFcpubPQVLZ47qYxaA1",
+            "reserve": "GA7UoHChxwpLd1Sx4pK5jVA575zWAxNveJPPkayrvJV7",
+            "mint": "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj"
+          },
+          "tokenB": {
+            "adminFeeAccount": "XM5dbDhKcPYH2Zzh71PQ41e2MGHVFp9Dzq5q1VH6gKF",
+            "reserve": "5rSTM7rrLvoWerY897n3KhbpuQyHV8ZMuS1pHJNAwMnQ",
+            "mint": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
+          },
+          "poolTokenMint": "Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer",
+          "initialAmpFactor": "fa",
+          "targetAmpFactor": "fa",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "HB4brmTLxoMEEzQx9ADMYtye71nc11yYq3SVXvvDbgu7"
+    },
+    {
       "id": "btc",
       "name": "BTC-renBTC",
       "tokens": [
