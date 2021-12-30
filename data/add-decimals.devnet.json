@@ -4,5 +4,11 @@
     "underlying": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
     "mint": "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs",
     "decimals": 8
+  },
+  {
+    "wrapper": "BEKCwuSDeiAfbAVgTuS4ZmsfVKyt5ai5iDTr6ihyTzDW",
+    "underlying": "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
+    "mint": "EY3s4nXTzHDiiysmjvj7zWP6yAX3n4xHmXkJWD1w1tGP",
+    "decimals": 16
   }
 ]

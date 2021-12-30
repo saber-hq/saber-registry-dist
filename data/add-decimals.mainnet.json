@@ -24,6 +24,12 @@
     "decimals": 9
   },
   {
+    "wrapper": "8zooyPZrq2mth917VrHLtNTk6GvAhc2KgdB4DGBXYyke",
+    "underlying": "AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z",
+    "mint": "EY3s4nXTzHDiiysmjvj7zWP6yAX3n4xHmXkJWD1w1tGP",
+    "decimals": 15
+  },
+  {
     "wrapper": "93qsLbASEG8DmtSB2MEVaa25KvEm2afh5rzbaAJHLi5A",
     "underlying": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
     "mint": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",

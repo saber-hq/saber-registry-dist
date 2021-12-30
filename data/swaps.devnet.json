@@ -282,6 +282,34 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "FeKq4jkPt8YtNg12GRR5CtW2MP4eGYG1gBWK1nGuc1V",
+      "mergePool": "FUZUu2LqgPhb6qwWpEga4EP64G4otEG66XaPA2JpAvoS",
+      "quarry": "EcRQ4PBg9W7AbAtTfRWRHMvRT2rkewhYZ8aHETpEsddB",
+      "reserves": [
+        "HkWKqQzfwZqYk8AAVQMHSgWnzzM3DCNVLWzdBj46aAdQ",
+        "8joazEJ93uFdU3mzGYCyFAn4qFScL4wMt4DfT8ChUmim"
+      ],
+      "swapAccount": "G8oALwgE2zFyYG62xTASzdrCNHrKgofTdUn1VDTeDzW4",
+      "swapAuthority": "5CbDasAPNHM5C6uzpoj8APxk5CXJRQFysoFMkSxE6BKd"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+    ],
+    "id": "G8oALwgE2zFyYG62xTASzdrCNHrKgofTdUn1VDTeDzW4",
+    "isVerified": false,
+    "name": "USDC-SBR",
+    "sources": [],
+    "underlyingTokens": [
+      "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "aaaVjWhPtRD12TRDeNyYS23Tu9EPukoL7qSjg1JhQpV",
       "mergePool": "4AEy115NgRX96gKzuLVWDsLVkRbisSzfdJCUdRis7yvw",
       "quarry": "B8cSxGzaT5GKLzTPg3jV9v7TaEn57dQAJsWymP9PqPSG",

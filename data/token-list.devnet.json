@@ -23,7 +23,7 @@
       "name": "stablecoin"
     }
   },
-  "timestamp": "2021-12-20T00:40:44.694Z",
+  "timestamp": "2021-12-30T02:58:53.320Z",
   "tokens": [
     {
       "address": "22Ni6MmCu5UdQiuVjptqrZWJDen245hmojAfgChbDa1P",
@@ -242,6 +242,23 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "tags": ["saber-mkt-usd"]
+    },
+    {
+      "address": "FeKq4jkPt8YtNg12GRR5CtW2MP4eGYG1gBWK1nGuc1V",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+          "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+        ],
+        "website": "https://app.saber.so/#/pools/G8oALwgE2zFyYG62xTASzdrCNHrKgofTdUn1VDTeDzW4"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber USDC-SBR LP",
+      "symbol": "USDC-SBR",
+      "tags": ["saber-stableswap-lp"]
     },
     {
       "address": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J",

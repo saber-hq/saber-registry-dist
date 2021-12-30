@@ -188,7 +188,7 @@
     "reserveA": "FfSySSbVJPvEo5a5AvrP3nySoXpRE2QPn1uUMpJJ1x7v",
     "reserveB": "HL7Vcj6838ZmvBHDbQxXfjBNckNi83WvPiZQoMQLFeRM",
     "tokenACoingecko": "weth",
-    "tokenBCoingecko": "weth",
+    "tokenBCoingecko": "ethereum",
     "decimals": 9
   },
   {
@@ -283,7 +283,7 @@
     "authority": "4vKg9TxAmbmBQYvsv9StJYMwyDeWNyfVSumMzmemrXbZ",
     "reserveA": "CGoM82Hbz7QVqTgvQatYtjvDWBvoUJp5qm21P8iMs9yb",
     "reserveB": "3dxNNww8TivyN5FMy5dCNdi3Zcxv6e4kUfSPxfFwpdNq",
-    "tokenACoingecko": "weth",
+    "tokenACoingecko": "ethereum",
     "tokenBCoingecko": "weth",
     "decimals": 9
   },
@@ -344,7 +344,7 @@
     "reserveA": "8NPZUW1Fa5DKAmc3fZwjm8LbVjQxxt7PbcbBTVMCwGM1",
     "reserveB": "AHMstoohNmj2eJf32GjG19nSAMM1CTVdxTjVG3hhrHJp",
     "tokenACoingecko": "weth",
-    "tokenBCoingecko": "weth",
+    "tokenBCoingecko": "ethereum",
     "decimals": 9
   },
   {
@@ -956,7 +956,7 @@
     "reserveA": "8p4mGnARWPBu6P2Gcw4adodLkNDorrXniZMhaY7eJXUn",
     "reserveB": "AyY89zccbsgp9LKFgH4CFZMJmpSgqmPSdTfukhP227rc",
     "tokenACoingecko": "ethereum",
-    "tokenBCoingecko": "weth",
+    "tokenBCoingecko": "ethereum",
     "decimals": 8
   },
   {
@@ -1076,7 +1076,7 @@
     "reserveA": "3gkSjY95an9xNFSjCfsay6JZez7uv7yfW3Ad4ubc4fMK",
     "reserveB": "9wXqANaSuEqkKL9yHzCPEDGHwbkStVAqV5rB3QDs3Jr6",
     "tokenACoingecko": "ethereum",
-    "tokenBCoingecko": "weth",
+    "tokenBCoingecko": "ethereum",
     "decimals": 9
   },
   {

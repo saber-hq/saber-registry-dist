@@ -1061,7 +1061,7 @@
     "id": "monkedao",
     "isVerified": true,
     "name": "daoSOL-SOL",
-    "sources": [],
+    "sources": ["monkedao"],
     "underlyingTokens": [
       "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
       "So11111111111111111111111111111111111111112"
@@ -2182,7 +2182,7 @@
     ],
     "id": "wdai",
     "isVerified": true,
-    "name": "DAIet-USDC",
+    "name": "DAI-USDC",
     "sources": ["wormhole-v2"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [

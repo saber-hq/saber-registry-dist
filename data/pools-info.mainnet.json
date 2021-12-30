@@ -1103,7 +1103,7 @@
           "tags": ["saber-mkt-eth"]
         },
         {
-          "name": "Saber Wrapped Wrapped Ether (Wormhole) (9 decimals)",
+          "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
           "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
           "decimals": 9,
           "symbol": "sETH-9",
@@ -1120,7 +1120,9 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -1146,7 +1148,7 @@
           "tags": ["saber-mkt-eth"]
         },
         {
-          "name": "Saber Wrapped Wrapped Ether (Wormhole) (9 decimals)",
+          "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
           "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
           "decimals": 9,
           "symbol": "sETH-9",
@@ -1163,7 +1165,9 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -1196,13 +1200,15 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
-          "name": "Wrapped Ether (Wormhole)",
+          "name": "Ether (Wormhole)",
           "symbol": "ETH",
           "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"]
         }
@@ -2577,7 +2583,7 @@
       "name": "ETH-aeWETH",
       "tokens": [
         {
-          "name": "Saber Wrapped Wrapped Ether (Wormhole) (9 decimals)",
+          "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
           "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
           "decimals": 9,
           "symbol": "sETH-9",
@@ -2594,7 +2600,9 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -2620,7 +2628,7 @@
       ],
       "tokenIcons": [
         {
-          "name": "Saber Wrapped Wrapped Ether (Wormhole) (9 decimals)",
+          "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
           "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
           "decimals": 9,
           "symbol": "sETH-9",
@@ -2637,7 +2645,9 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -2670,13 +2680,15 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
-          "name": "Wrapped Ether (Wormhole)",
+          "name": "Ether (Wormhole)",
           "symbol": "ETH",
           "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"]
         },
@@ -3504,7 +3516,7 @@
           "tags": ["saber-mkt-eth"]
         },
         {
-          "name": "Saber Wrapped Wrapped Ether (Wormhole) (9 decimals)",
+          "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
           "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
           "decimals": 9,
           "symbol": "sETH-9",
@@ -3521,7 +3533,9 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -3547,7 +3561,7 @@
           "tags": ["saber-mkt-eth"]
         },
         {
-          "name": "Saber Wrapped Wrapped Ether (Wormhole) (9 decimals)",
+          "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
           "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
           "decimals": 9,
           "symbol": "sETH-9",
@@ -3564,7 +3578,9 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -3597,13 +3613,15 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
-          "name": "Wrapped Ether (Wormhole)",
+          "name": "Ether (Wormhole)",
           "symbol": "ETH",
           "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"]
         }
@@ -8414,7 +8432,9 @@
             "description": "daoSOL is the staking token issued by the MonkeDAO staking pool",
             "twitter": "https://twitter.com/MonkeDAO",
             "website": "https://monkedao.io/",
-            "currency": "SOL"
+            "currency": "SOL",
+            "source": "monkedao",
+            "sourceUrl": "https://daopool.monkedao.io/"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh.png",
           "name": "daoSOL Token",
@@ -8447,7 +8467,9 @@
             "description": "daoSOL is the staking token issued by the MonkeDAO staking pool",
             "twitter": "https://twitter.com/MonkeDAO",
             "website": "https://monkedao.io/",
-            "currency": "SOL"
+            "currency": "SOL",
+            "source": "monkedao",
+            "sourceUrl": "https://daopool.monkedao.io/"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh.png",
           "name": "daoSOL Token",
@@ -8480,7 +8502,9 @@
             "description": "daoSOL is the staking token issued by the MonkeDAO staking pool",
             "twitter": "https://twitter.com/MonkeDAO",
             "website": "https://monkedao.io/",
-            "currency": "SOL"
+            "currency": "SOL",
+            "source": "monkedao",
+            "sourceUrl": "https://daopool.monkedao.io/"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh.png",
           "name": "daoSOL Token",
@@ -11376,6 +11400,7 @@
             "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
             "assetContract": "https://bscscan.com/address/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
             "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "coingeckoId": "usd-coin",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -11412,6 +11437,7 @@
             "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
             "assetContract": "https://bscscan.com/address/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
             "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "coingeckoId": "usd-coin",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -11448,6 +11474,7 @@
             "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
             "assetContract": "https://bscscan.com/address/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
             "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "coingeckoId": "usd-coin",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -11559,6 +11586,7 @@
             "address": "0x55d398326f99059ff775485246999027b3197955",
             "assetContract": "https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955",
             "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "coingeckoId": "tether",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -11595,6 +11623,7 @@
             "address": "0x55d398326f99059ff775485246999027b3197955",
             "assetContract": "https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955",
             "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "coingeckoId": "tether",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -11631,6 +11660,7 @@
             "address": "0x55d398326f99059ff775485246999027b3197955",
             "assetContract": "https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955",
             "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+            "coingeckoId": "tether",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -11732,7 +11762,7 @@
     },
     {
       "id": "wdai",
-      "name": "DAIet-USDC",
+      "name": "DAI-USDC",
       "tokens": [
         {
           "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
@@ -11748,8 +11778,8 @@
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o.png",
-          "name": "Dai Stablecoin (Wormhole from Ethereum)",
-          "symbol": "DAIet",
+          "name": "Dai Stablecoin (Wormhole)",
+          "symbol": "DAI",
           "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
@@ -11785,8 +11815,8 @@
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o.png",
-          "name": "Dai Stablecoin (Wormhole from Ethereum)",
-          "symbol": "DAIet",
+          "name": "Dai Stablecoin (Wormhole)",
+          "symbol": "DAI",
           "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
@@ -11822,8 +11852,8 @@
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o.png",
-          "name": "Dai Stablecoin (Wormhole from Ethereum)",
-          "symbol": "DAIet",
+          "name": "Dai Stablecoin (Wormhole)",
+          "symbol": "DAI",
           "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
@@ -11844,8 +11874,8 @@
       ],
       "currency": "USD",
       "lpToken": {
-        "symbol": "DAIet-USDC",
-        "name": "Saber DAIet-USDC LP",
+        "symbol": "DAI-USDC",
+        "name": "Saber DAI-USDC LP",
         "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3.png",
         "decimals": 8,
         "address": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
@@ -12690,6 +12720,8 @@
             "assetContract": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
             "coingeckoId": "ftx-token",
+            "serumV3Usdc": "2wteg25ch227n4Rh1CN4WNrDZXBpRBpWJ48mEC2K7f4r",
+            "serumV3Usdt": "BoHojHESAv4McZx9gXd1bWTZMq25JYyGz4qL1m5C3nvk",
             "currency": "FTT",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -12733,6 +12765,8 @@
             "assetContract": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
             "coingeckoId": "ftx-token",
+            "serumV3Usdc": "2wteg25ch227n4Rh1CN4WNrDZXBpRBpWJ48mEC2K7f4r",
+            "serumV3Usdt": "BoHojHESAv4McZx9gXd1bWTZMq25JYyGz4qL1m5C3nvk",
             "currency": "FTT",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -12766,6 +12800,8 @@
             "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
             "coingeckoId": "ftx-token",
+            "serumV3Usdc": "2wteg25ch227n4Rh1CN4WNrDZXBpRBpWJ48mEC2K7f4r",
+            "serumV3Usdt": "BoHojHESAv4McZx9gXd1bWTZMq25JYyGz4qL1m5C3nvk",
             "currency": "FTT",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -13076,13 +13112,15 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
-          "name": "Wrapped Ether (Wormhole)",
+          "name": "Ether (Wormhole)",
           "symbol": "ETH",
           "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"]
         }
@@ -13122,13 +13160,15 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
-          "name": "Wrapped Ether (Wormhole)",
+          "name": "Ether (Wormhole)",
           "symbol": "ETH",
           "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"]
         }
@@ -13160,13 +13200,15 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
-          "name": "Wrapped Ether (Wormhole)",
+          "name": "Ether (Wormhole)",
           "symbol": "ETH",
           "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"]
         }
@@ -13622,6 +13664,7 @@
             "address": "uluna",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
             "coingeckoId": "terra-luna",
+            "serumV3Usdc": "HBTu8hNaoT3VyiSSzJYa8jwt9sDGKtJviSwFa11iXdmE",
             "currency": "LUNA",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -13657,6 +13700,7 @@
             "address": "uluna",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
             "coingeckoId": "terra-luna",
+            "serumV3Usdc": "HBTu8hNaoT3VyiSSzJYa8jwt9sDGKtJviSwFa11iXdmE",
             "currency": "LUNA",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -13692,6 +13736,7 @@
             "address": "uluna",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
             "coingeckoId": "terra-luna",
+            "serumV3Usdc": "HBTu8hNaoT3VyiSSzJYa8jwt9sDGKtJviSwFa11iXdmE",
             "currency": "LUNA",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -14920,7 +14965,7 @@
           "tags": ["saber-mkt-eth"]
         },
         {
-          "name": "Saber Wrapped Wrapped Ether (Wormhole) (9 decimals)",
+          "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
           "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
           "decimals": 9,
           "symbol": "sETH-9",
@@ -14937,7 +14982,9 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -14965,7 +15012,7 @@
           "tags": ["saber-mkt-eth"]
         },
         {
-          "name": "Saber Wrapped Wrapped Ether (Wormhole) (9 decimals)",
+          "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
           "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
           "decimals": 9,
           "symbol": "sETH-9",
@@ -14982,7 +15029,9 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -15017,13 +15066,15 @@
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "assetContract": "https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-            "coingeckoId": "weth",
+            "coingeckoId": "ethereum",
+            "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+            "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
             "currency": "ETH",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
-          "name": "Wrapped Ether (Wormhole)",
+          "name": "Ether (Wormhole)",
           "symbol": "ETH",
           "tags": ["wrapped", "wormhole", "saber-mkt-eth", "wormhole-v2"]
         }
@@ -15132,6 +15183,8 @@
             "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
             "coingeckoId": "ftx-token",
+            "serumV3Usdc": "2wteg25ch227n4Rh1CN4WNrDZXBpRBpWJ48mEC2K7f4r",
+            "serumV3Usdt": "BoHojHESAv4McZx9gXd1bWTZMq25JYyGz4qL1m5C3nvk",
             "currency": "FTT",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -15169,6 +15222,8 @@
             "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
             "coingeckoId": "ftx-token",
+            "serumV3Usdc": "2wteg25ch227n4Rh1CN4WNrDZXBpRBpWJ48mEC2K7f4r",
+            "serumV3Usdt": "BoHojHESAv4McZx9gXd1bWTZMq25JYyGz4qL1m5C3nvk",
             "currency": "FTT",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -15206,6 +15261,8 @@
             "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
             "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
             "coingeckoId": "ftx-token",
+            "serumV3Usdc": "2wteg25ch227n4Rh1CN4WNrDZXBpRBpWJ48mEC2K7f4r",
+            "serumV3Usdt": "BoHojHESAv4McZx9gXd1bWTZMq25JYyGz4qL1m5C3nvk",
             "currency": "FTT",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"

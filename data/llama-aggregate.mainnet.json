@@ -93,11 +93,20 @@
     "accounts": [
       {
         "decimals": 8,
-        "addresses": ["8p4mGnARWPBu6P2Gcw4adodLkNDorrXniZMhaY7eJXUn"]
+        "addresses": [
+          "8p4mGnARWPBu6P2Gcw4adodLkNDorrXniZMhaY7eJXUn",
+          "AyY89zccbsgp9LKFgH4CFZMJmpSgqmPSdTfukhP227rc"
+        ]
       },
       {
         "decimals": 9,
-        "addresses": ["3gkSjY95an9xNFSjCfsay6JZez7uv7yfW3Ad4ubc4fMK"]
+        "addresses": [
+          "HL7Vcj6838ZmvBHDbQxXfjBNckNi83WvPiZQoMQLFeRM",
+          "CGoM82Hbz7QVqTgvQatYtjvDWBvoUJp5qm21P8iMs9yb",
+          "AHMstoohNmj2eJf32GjG19nSAMM1CTVdxTjVG3hhrHJp",
+          "3gkSjY95an9xNFSjCfsay6JZez7uv7yfW3Ad4ubc4fMK",
+          "9wXqANaSuEqkKL9yHzCPEDGHwbkStVAqV5rB3QDs3Jr6"
+        ]
       }
     ]
   },
@@ -504,19 +513,11 @@
     "id": "weth",
     "accounts": [
       {
-        "decimals": 8,
-        "addresses": ["AyY89zccbsgp9LKFgH4CFZMJmpSgqmPSdTfukhP227rc"]
-      },
-      {
         "decimals": 9,
         "addresses": [
           "FfSySSbVJPvEo5a5AvrP3nySoXpRE2QPn1uUMpJJ1x7v",
-          "HL7Vcj6838ZmvBHDbQxXfjBNckNi83WvPiZQoMQLFeRM",
-          "CGoM82Hbz7QVqTgvQatYtjvDWBvoUJp5qm21P8iMs9yb",
           "3dxNNww8TivyN5FMy5dCNdi3Zcxv6e4kUfSPxfFwpdNq",
-          "8NPZUW1Fa5DKAmc3fZwjm8LbVjQxxt7PbcbBTVMCwGM1",
-          "AHMstoohNmj2eJf32GjG19nSAMM1CTVdxTjVG3hhrHJp",
-          "9wXqANaSuEqkKL9yHzCPEDGHwbkStVAqV5rB3QDs3Jr6"
+          "8NPZUW1Fa5DKAmc3fZwjm8LbVjQxxt7PbcbBTVMCwGM1"
         ]
       }
     ]
