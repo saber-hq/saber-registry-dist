@@ -83,7 +83,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2021-12-30T17:41:52.538Z",
+  "timestamp": "2022-01-10T13:59:33.067Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -447,7 +447,7 @@
         "source": "allbridge",
         "sourceUrl": "https://app.allbridge.io/bridge"
       },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv/logo.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv.png",
       "name": "Wrapped CEUR (Allbridge from Celo)",
       "symbol": "acEUR",
       "tags": ["stablecoin", "saber-mkt-eur"]
