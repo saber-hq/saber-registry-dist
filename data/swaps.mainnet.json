@@ -1157,6 +1157,35 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY",
+      "mergePool": "CYiMrPWEYV3uzFcmB7wHVidfvhmrwYa4HUxURYD6yyA8",
+      "quarry": "FCvKrbMgjttqUjduhW6U42xyEGxhr7Q9thmexazAobm2",
+      "reserves": [
+        "C5MQPbuYwVKN5VNCYkSLC8iaUkgWbM2yPxpeMhhsXukm",
+        "svkSYboqedQUS7zLxKx7VZjPJ6QAcpBQixFDdUkRCfq"
+      ],
+      "swapAccount": "DouVMTbFTjafGAvXjUUZ2hZZbcGFsYXhH5x7GejyQmjT",
+      "swapAuthority": "7JCnCBfZr3VRurCp43QqQZY4UuzK4DHUUWCtPKZjVE27"
+    },
+    "currency": "LUNA",
+    "decimals": 9,
+    "displayTokens": [
+      "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
+      "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
+    ],
+    "id": "atust_wust",
+    "isVerified": true,
+    "name": "atLUNA-LUNA",
+    "sources": ["allbridge", "wormhole-v2"],
+    "tags": ["allbridge", "wormhole-v2"],
+    "underlyingTokens": [
+      "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
+      "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik",
       "mergePool": "564TJcsgjxHZt5M4wTiyVVYayRFue4zeUd6c66kn52L6",
       "quarry": "EiMaivTu5DqfQohX8sYbFDrrumzFaSso9w3Z1sityvpP",
@@ -1641,6 +1670,35 @@
     "underlyingTokens": [
       "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP",
+      "mergePool": "9PUUiJeMNVWmQSAFG443ZcCYTCfNtrcPxudEd45AuJ6n",
+      "quarry": "5XaTK9MV9Ab2BLP5Ug4xUfNxeMNYQqcn2mpVaZ4Mbbhh",
+      "reserves": [
+        "6QEFAL5yVfVX4fd8ty7xbgFPGhkKZ7bno6zWtfenf74M",
+        "F5BusnAhe2K5wv7mZd6uE2Mwknvb6NhWHuxiF8TxCvpW"
+      ],
+      "swapAccount": "KWAnW2f2FYWLjfjoeu61BPfjHfkcNTKG4x8ogaLa5NL",
+      "swapAuthority": "EQ2deWUZGyNPcbpWH3Z7E7T2eWya5Bpg1vuSDwK6DV84"
+    },
+    "currency": "LUNA",
+    "decimals": 6,
+    "displayTokens": [
+      "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
+      "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
+    ],
+    "id": "xluna",
+    "isVerified": true,
+    "name": "xLUNA-LUNA",
+    "sources": ["synthetify", "wormhole-v2"],
+    "tags": ["synthetify"],
+    "underlyingTokens": [
+      "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
+      "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
     ]
   },
   {
@@ -2652,6 +2710,35 @@
     "underlyingTokens": [
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA",
+      "mergePool": "ANwTDrVi3STfAvWknLtyPMunSp1wc9n6VgRDyBhxrsyd",
+      "quarry": "HtqCusszJQPYULswQEbQ7F1PQhze3o9AFXxNi72EXgPX",
+      "reserves": [
+        "3k54TvpQN5R1MactdGnJSnXzu1Wozx76Pqvi1k6mQYPz",
+        "417JcbvTQCRk2yowySN8MjtJuHSU8dTsGtVcFL4ECNCA"
+      ],
+      "swapAccount": "ZoNxMdmUi6NAhBUGsBsZ751oDgqK863KXTNnQQ1HCkD",
+      "swapAuthority": "Cb5C5umtXQ7N2uPgjRSRbTZkirMt9SsTV9uParfhu8NY"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
+      "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+    ],
+    "id": "atust_cash",
+    "isVerified": true,
+    "name": "atUST-CASH",
+    "sources": ["allbridge", "cashio"],
+    "tags": ["cashio"],
+    "underlyingTokens": [
+      "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
+      "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
     ]
   },
   {

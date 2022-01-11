@@ -36,6 +36,12 @@
     "decimals": 9
   },
   {
+    "wrapper": "ACvLVgR3UKdDB3b1QapsbJsPXaUrBPdJGDfiFnMYMXoz",
+    "underlying": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
+    "mint": "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB",
+    "decimals": 9
+  },
+  {
     "wrapper": "AnKLLfpMcceM6YXtJ9nGxYekVXqfWy8WNsMZXoQTCVQk",
     "underlying": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
