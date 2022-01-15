@@ -1665,7 +1665,7 @@
           "decimals": 9,
           "symbol": "sagEUR-9",
           "chainId": 101,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1.svg",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt.png",
           "tags": [
             "ethereum",
             "wrapped",
@@ -1711,7 +1711,7 @@
           "decimals": 9,
           "symbol": "sagEUR-9",
           "chainId": 101,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1.svg",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt.png",
           "tags": [
             "ethereum",
             "wrapped",
@@ -1784,7 +1784,7 @@
       "lpToken": {
         "symbol": "acEUR-agEUR",
         "name": "Saber acEUR-agEUR LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz.png",
         "decimals": 9,
         "address": "WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz",
         "chainId": 101,
@@ -5305,7 +5305,7 @@
       "lpToken": {
         "symbol": "TRYB-TRYB",
         "name": "Saber TRYB-TRYB LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer.png",
         "decimals": 6,
         "address": "Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer",
         "chainId": 101,
@@ -6363,7 +6363,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -6406,7 +6407,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -6439,7 +6441,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -6739,7 +6742,7 @@
           "decimals": 8,
           "symbol": "sCASH-8",
           "chainId": 101,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s.png",
           "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
           "extensions": {
             "website": "https://app.saber.so",
@@ -6780,7 +6783,7 @@
           "decimals": 8,
           "symbol": "sCASH-8",
           "chainId": 101,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s.png",
           "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
           "extensions": {
             "website": "https://app.saber.so",
@@ -6839,7 +6842,7 @@
       "lpToken": {
         "symbol": "FRAX-CASH",
         "name": "Saber FRAX-CASH LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n.png",
         "decimals": 8,
         "address": "WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n",
         "chainId": 101,
@@ -6937,7 +6940,7 @@
           "decimals": 8,
           "symbol": "sUST-8",
           "chainId": 101,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7.png",
           "tags": [
             "wrapped",
             "wormhole",
@@ -6948,7 +6951,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -6983,7 +6987,7 @@
           "decimals": 8,
           "symbol": "sUST-8",
           "chainId": 101,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7.png",
           "tags": [
             "wrapped",
             "wormhole",
@@ -6994,7 +6998,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -7030,7 +7035,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -7045,7 +7051,7 @@
       "lpToken": {
         "symbol": "FRAX-UST",
         "name": "Saber FRAX-UST LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD.png",
         "decimals": 8,
         "address": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
         "chainId": 101,
@@ -8201,7 +8207,7 @@
       "lpToken": {
         "symbol": "JSOL-SOL",
         "name": "Saber JSOL-SOL LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw.png",
         "decimals": 9,
         "address": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
         "chainId": 101,
@@ -8863,7 +8869,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -8906,7 +8913,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer",
@@ -8939,7 +8947,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -9136,7 +9145,7 @@
       "lpToken": {
         "symbol": "daoSOL-SOL",
         "name": "Saber daoSOL-SOL LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z.png",
         "decimals": 9,
         "address": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z",
         "chainId": 101,
@@ -9220,6 +9229,7 @@
             "github": "https://github.com/marinade-finance",
             "medium": "https://medium.com/marinade-finance",
             "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
             "twitter": "https://twitter.com/MarinadeFinance",
             "website": "https://marinade.finance",
             "currency": "SOL",
@@ -9259,6 +9269,7 @@
             "github": "https://github.com/marinade-finance",
             "medium": "https://medium.com/marinade-finance",
             "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
             "twitter": "https://twitter.com/MarinadeFinance",
             "website": "https://marinade.finance",
             "currency": "SOL",
@@ -9298,6 +9309,7 @@
             "github": "https://github.com/marinade-finance",
             "medium": "https://medium.com/marinade-finance",
             "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
             "twitter": "https://twitter.com/MarinadeFinance",
             "website": "https://marinade.finance",
             "currency": "SOL",
@@ -11626,7 +11638,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -11664,7 +11677,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -11702,7 +11716,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -15190,7 +15205,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -15224,7 +15240,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
@@ -15258,7 +15275,8 @@
           "extensions": {
             "address": "uusd",
             "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-            "coingeckoId": "terra-usd",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"

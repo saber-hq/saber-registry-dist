@@ -1,0 +1,568 @@
+[
+  {
+    "id": "ageur",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": ["DuSWTAh1SC43EY86daS2Cq6PNBGGujVjLyEmc5AmQKzC"]
+      }
+    ]
+  },
+  {
+    "id": "bilira",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "GA7UoHChxwpLd1Sx4pK5jVA575zWAxNveJPPkayrvJV7",
+          "5rSTM7rrLvoWerY897n3KhbpuQyHV8ZMuS1pHJNAwMnQ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "binance-usd",
+    "accounts": [
+      {
+        "decimals": 8,
+        "addresses": [
+          "Bgzr8cWubt89JQFXndVjtdKmDbGzuPxNhvjH1EhWCwbo",
+          "4ZjU6MKvtqVQKCiowhvZ5yUsPxXX5SCzd5eFsPeXyey5"
+        ]
+      },
+      {
+        "decimals": 9,
+        "addresses": [
+          "7n9kgNL633yGzCYksgnzHyjG73ZLBAwvEae5sbAekbzW",
+          "5uerVwBnZQsuVhZ15igs7ZgmcqhHnYWbwoRtLyRqLvR"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bitcoin",
+    "accounts": [
+      {
+        "decimals": 8,
+        "addresses": [
+          "2CxECn1ZJFoESyUnQysQU8rRgT3iJ5GRs2Mdd6gZjx5g",
+          "mp5HMG9jYnZvpe3cV1qgPzfX5aPtLQtsMjVTazvkQ28"
+        ]
+      },
+      {
+        "decimals": 9,
+        "addresses": [
+          "Fb2Zdo7hWjMmwMXn7589WbPbjVPxVUQgPgs5cAcStJm8",
+          "AjVXZPzFEShWkGASQv5dBp9r4Xf6V1mvyHWfH5UWF9c3",
+          "CZ48nQQ6GK8Z7hGBPdxTtMzRBA8werj5iciVJnc3vz1S"
+        ]
+      },
+      {
+        "decimals": 10,
+        "addresses": ["C82XDu1d1UjtuUwnkSTwVuWyH3AqpJ3ftb9W7en8rEUu"]
+      }
+    ]
+  },
+  {
+    "id": "celo-dollar",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "44ALBrpqi9PfZkBRTvbtRNtFJGsatfY4QydjtMbFWq8S",
+          "49EQuSDQNz7L4a22CcnWUxExSpYW4UXSKG985S2drLsR"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "celo-euro",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": ["G5KhoiuhRBEYmX89PuZMmpG3fLdomzMJZ3yEG13hVYPD"]
+      }
+    ]
+  },
+  {
+    "id": "dai",
+    "accounts": [
+      {
+        "decimals": 8,
+        "addresses": ["725ZA3fhyBAKb5iopNRrcbSuQa3LXA1656Q3mBvYPxeg"]
+      },
+      {
+        "decimals": 9,
+        "addresses": [
+          "GJX9po4C8XxeHctdhfhwunXZ6mjXCKJ9XLMqcC2edncv",
+          "A7VkMFrnCCyeZFUrQ3TzDr4xFep7PZtxvy3jJnBjLB2a"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ethereum",
+    "accounts": [
+      {
+        "decimals": 8,
+        "addresses": [
+          "8p4mGnARWPBu6P2Gcw4adodLkNDorrXniZMhaY7eJXUn",
+          "AyY89zccbsgp9LKFgH4CFZMJmpSgqmPSdTfukhP227rc"
+        ]
+      },
+      {
+        "decimals": 9,
+        "addresses": [
+          "HL7Vcj6838ZmvBHDbQxXfjBNckNi83WvPiZQoMQLFeRM",
+          "CGoM82Hbz7QVqTgvQatYtjvDWBvoUJp5qm21P8iMs9yb",
+          "AHMstoohNmj2eJf32GjG19nSAMM1CTVdxTjVG3hhrHJp",
+          "3gkSjY95an9xNFSjCfsay6JZez7uv7yfW3Ad4ubc4fMK",
+          "9wXqANaSuEqkKL9yHzCPEDGHwbkStVAqV5rB3QDs3Jr6"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fei-usd",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "2jLa3LzFouE27ZQDnuHWUMs7ZMtkCNj8uatotPdi4Weg",
+          "5DjHcTbdZ567fzf21YgDhKDKAu7HYoYsMW3fEx3fqDWJ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frax",
+    "accounts": [
+      {
+        "decimals": 8,
+        "addresses": [
+          "DJZorZYrYhSwyw4oCBksDZVaUKvQtiaf5H1g285VPgqg",
+          "6jPzm5TFfquvgm25sTyN3MMGBfufRaFHMxobDWv6hMFW",
+          "DD4ACBWyVqdaKWh7v5btsgqQCCMwbKnuL2xd9pv7Gyuw"
+        ]
+      },
+      {
+        "decimals": 9,
+        "addresses": ["7eEYpq6ShaJ9opZWMxitRFrdCHh6vfyHhGfoSvFht3N2"]
+      }
+    ]
+  },
+  {
+    "id": "ftx-token",
+    "accounts": [
+      {
+        "decimals": 8,
+        "addresses": [
+          "HHnpxMvDcXaeHXTSnWw9y8gMeUMnnCzxWfACgx839nCt",
+          "Hk8UFqdvVdvJRZjKJV59PkrDrpLnbCCBMgDjVwx53cwi"
+        ]
+      },
+      {
+        "decimals": 9,
+        "addresses": [
+          "46xwHtnXoQR3wCHUbm2eCAbPYWbioDQ59Te1Db8M5DDL",
+          "FC38fiikZwFvDt5zTjNtGfKd7LjaPz2uUAzLwKP5pRJY",
+          "CyFL8noR6CKMFBjZPziSmChCKJE1Jtg4hQyMhgWPgH84",
+          "5PfKQpBWUayFWSSkwjp1PLr8LiHBrvVB81qfnSP5Dvkb"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "huobi-btc",
+    "accounts": [
+      {
+        "decimals": 8,
+        "addresses": ["59vRbFfiA5NoGvuPjDpNE399pm4yNWVH28yfSrWH6bL2"]
+      },
+      {
+        "decimals": 9,
+        "addresses": ["GsizhiRtCs4QDKd2LnSQ9BpzvG8CqERMDtHZcQPDkFQB"]
+      }
+    ]
+  },
+  {
+    "id": "husd",
+    "accounts": [
+      {
+        "decimals": 8,
+        "addresses": [
+          "2mUxDu8NrhSKhQJMgKfYLxJqZzeEbmwhQdHeHMyohyuk",
+          "E7L8CZxreEeNwM1V8DLxa8AZQKu6oday6RvXxRo27CHi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "magic-internet-money",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "HTvDKk71haXHb8eSnUnXRZMH8yj7kyBCbomS1QmPFAK2",
+          "EsFsfp3rNDFn4ggWLvfDeTAW1zbjpRRzZxsNWzqRQS4A",
+          "BDd5iphdX4nf3ZbTuERZpzqApDyBXDYF4DF51KHihT5n",
+          "Afy2q2hh6Y474pshJa5fnQ6PfEchGyTbKrQpCZw2hr3m"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mimatic",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": ["DhgiEgiNdqZdRdo195UUHnoEJUtefK8buko8nU97XJUZ"]
+      }
+    ]
+  },
+  {
+    "id": "msol",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "5j2W7aBXp6e3qHQgFWVs5pDKU8cYCyRHSvvt7JdbevwX",
+          "6PkneD3AHPXgM35mqA3HxXCrrtUrYrF7UQfoBNXV1Ee8",
+          "AiHX8hAhyNaV61cmw3AuBudUCwsYBPUyP8woTnn3Prkh",
+          "9DgFSWkPDGijNKcLGbr3p5xoJbHsPgXUTr6QvGBJ5vGN"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multi-collateral-dai",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "GiehZ4X2uQjhEKuxSm3ACmEFrabxh3RTvjbLfLjw1xGX",
+          "B4UtLRZND3D83CitRCBUyeiNr7H8m7YFRqBmiPmXjhW4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "parrot-usd",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "DPhWpkh39jo45PiGPois7Qs3Z8KcsqZY2dHZo7faVCEP",
+          "F36eiDG64zYoAA9vtTvV4EWcTqYNUku7hzhUyTYcQSin",
+          "4DYwgJtxwuJdAjkj5RJSNH4e7U329V5cNp7d3a1nLrZv"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ptokens-btc",
+    "accounts": [
+      {
+        "decimals": 8,
+        "addresses": ["DKjqWWgrtDRPKrnMWtZ4UiJk4sGQVCQgFjSo7BvfngvK"]
+      }
+    ]
+  },
+  {
+    "id": "renbtc",
+    "accounts": [
+      {
+        "decimals": 8,
+        "addresses": [
+          "35yX27bmurdebhfAb8EPmjLETDiUaEUCn9zHaDPbakH2",
+          "DvHVapj4g2Y1tJVSw2ubSPkPBsJPb8fW387ZWXwaKmZq",
+          "9nzCtRofJcFG2GuNtfAxNddGRKhqyKXA5iX6iUZXRT1w",
+          "DwDfm1YMtHT5WQLxfQdnh3WYzUHjwEviHFwDs3RBEm1B"
+        ]
+      },
+      {
+        "decimals": 9,
+        "addresses": [
+          "33QrhvkyroiTxp21hbXPRowPhsgVHmrgEQbY7eHPp1h4",
+          "5KMjfTVueu78hnEaUNKPTQmKkEnUrwTGD9r8YFKXXxy7",
+          "HF2pNCfTMvrHXcXXb8jJU245yRx9ZtK1M76ChMW3pJht",
+          "LRiFt5Sa2dCx2njaRMTVtkxKbiH2EJV2KN1b7FjMube",
+          "CRaJHfCry6JShmF4tMr6siR2D2QNNfcUrLawTqPVCTTJ",
+          "G3nLYyvP46npva5MEobZVJhcDNzJ4rrHgLGJMtvyad5c"
+        ]
+      },
+      {
+        "decimals": 10,
+        "addresses": ["F7cZoYpWQSFuYJzW2UUFw6sVbTtaihyD5upeeHRUPABk"]
+      }
+    ]
+  },
+  {
+    "id": "serum",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "C5uYkVHiFduEFq8S3fr4pgUS24oYj1sjZ8WW2cb4j8SU",
+          "3F5DPU5ScgHiFzePYUHZovvgh3uqmM5keNvbavx2ERqV",
+          "72Hj2KWntXPfbie4UgKeTPnm1XVkomDfCnRPKbvfTtPi",
+          "6aqJQ5wedqpUt4fFEDUqUmXhrdxCu4bEJsQdVPCADLko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "socean-staked-sol",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": ["DjvZuMZ46fxKBoBpGMPcRcos4xdTtHFxwMh69DpA2ZFY"]
+      }
+    ]
+  },
+  {
+    "id": "solana",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "AjMBRv6VdDdCNoK5QCMpH1gMvwYnMGoHWR4wRabPzREY",
+          "4C2yZjVkyHUD3CSR9oD7BeZH4sn7mwgiH2H1rNaaTsEK",
+          "HjNF3RYWShFx6bYGevnrfKYDr7utoe4PASEzAEUHLoUW",
+          "BKWm4TRnTeKwfWXRyuzjRHU7iZDkPuXBX5b5V5jSVfGJ",
+          "A5Ww74HVrkj9nPeC7pHKLfgeDMEhBCpW1efQdz3TGLEg",
+          "xG4wXczA7Dk4hccJ61CHKpDHW4NrNfQwgmWgkb9BuF2",
+          "BVR6WgfhsRr9Lob4QDnkEAiNGgAbv7ZieKcY9kSg3QYR",
+          "6VW5GQNyj4LStgmxEHLr5zUfW92vQnmbw8jTnCH7a38F",
+          "4VPCCUifPeBA1c7HWK358CHn2nyjm8pdTRk6Ps3KmnMQ",
+          "2hNHZg7XBhuhHVZ3JDEi4buq2fPQwuWBdQ9xkH7t1GQX",
+          "9ZDpBKPqMABtGfq66FbVribaArMvtk63xxy91onZAtDt",
+          "DaTP4s6N7xxSPinbNZ3FB52EpRDRt87QShTuN3VPCW52",
+          "3oyc6hpjYSJEquK6dSvG72NXyz3pqLZz5D8AC71pwgQb",
+          "Di2vordgFJVZ1aj1aBpvzXtLfZgJsuLLXawGtVFwX6Rz",
+          "9rvDPJLAng4uVVqnnSoEXgNDFhBZQTny9AoQioYDZbQX",
+          "4PgzyzLtds9bKZ2to9PMnKqJzKEUpjvNUaeN23phegax",
+          "AtymwxoVN9peZo7EXTcDz9jKVc4vRmisJKKrNfe3ewBa",
+          "GSt31U8nF6WJBRG7j2EALfNTMd3J8jmotGX9szVTrzvN",
+          "7WEqRDS5Dk6kVXFZHrsW5EtdPhy4v6jWK9P5jHhi9oz"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "terra-luna",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "GgRnQyCm22UkHQME96CqJFpsqV93QJQsWMURdsQSSAdk",
+          "GrWSq33By3uf7Vqqfrscy7oJMuqGgZojd2KSzsxioxQL",
+          "6QEFAL5yVfVX4fd8ty7xbgFPGhkKZ7bno6zWtfenf74M",
+          "F5BusnAhe2K5wv7mZd6uE2Mwknvb6NhWHuxiF8TxCvpW"
+        ]
+      },
+      {
+        "decimals": 9,
+        "addresses": [
+          "C5MQPbuYwVKN5VNCYkSLC8iaUkgWbM2yPxpeMhhsXukm",
+          "svkSYboqedQUS7zLxKx7VZjPJ6QAcpBQixFDdUkRCfq",
+          "Gx1L7n1YhDWLNfUyCeZfzKvwHJSxhppnk4DS5cZLqyd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "terrausd",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "3k54TvpQN5R1MactdGnJSnXzu1Wozx76Pqvi1k6mQYPz",
+          "JAjt8kZkTsxKA3VKnmszKHQwzuNSAXXhN3Y4NZ2kEoLU",
+          "J63v6qEZmQpDqCD8bd4PXu2Pq5ZbyXrFcSa3Xt1HdAPQ"
+        ]
+      },
+      {
+        "decimals": 8,
+        "addresses": ["Cj9ECoDmxsHTDzCY5ZA6RWrPbg9uFzEC1Qc2kso2vJG6"]
+      },
+      {
+        "decimals": 9,
+        "addresses": [
+          "Co2UdQpmfKcYqUkCBB7FBpiSbtq8woMhzmFpNhxEk2N1",
+          "5pXz9ksgjeL8Wgb37bksUaBFMLdFfsNNY3FQnikkCPtS",
+          "HDYfJLpZKaMFb84jM4mRytn7XLR8UFZUnQpSfhJJaNEy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tether",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "G8xrN5CDpHXvBykQ6f3dLEm2EoAY1dF9WiD3kcma3Ma3",
+          "D6d156U1bPiJpDYRLextvDRccgFk7QzkQbJg42ceKEu5",
+          "GNcM8U5g8RwTZffwwm3kSQqUNPSwv5d2fbN9sLxPJqt2",
+          "2tBpLvzYBCs7e4DrRocEnssoJANB8rDh2jt5FbeCAeK1",
+          "EnTrdMMpdhugeH6Ban6gYZWXughWxKtVGfCwFn78ZmY3",
+          "DtfyjjsZ5yCjWKLKHvwsfXs5QVsmm1QkK6Sh9JZHoq1g",
+          "e5wrKCRv4GhHvEf1VD5Pq2KGaZDXP77nTL612Jyrxwy",
+          "631WX9JizSHJm4w6VanZeJAst9T8DeUUnPLesdGkCVtK",
+          "211maUSfpnXbPuW1iBu8b4dtJv5EbN1j7JJiEX5TZKEP"
+        ]
+      },
+      {
+        "decimals": 8,
+        "addresses": [
+          "DyBxrn7gSc1EwnpWhDyhzvMHPtxpmBqRqotapLcKcfTM",
+          "Cds99GeBgoCpqBsoRWu1C6fF9LiUMd4pXQQD24s9LPff"
+        ]
+      },
+      {
+        "decimals": 9,
+        "addresses": [
+          "3dFMPj4r9mMmPHF32mz1gNDX7f8ftidWof7S8YiYTs1j",
+          "Fc1ED3YPeQfXQosHbd8DTaBd2AV5gHQtwiSAL5C5pUhi",
+          "GnKpRj5kBVPMJfiwZtEuD9GYApLzPdW5JFuZTcyX4BTc",
+          "3dmwD9okkomV9nDwyuh4UMhKdUR13QpuKxRo89ycZB5t",
+          "Eu1Ze6Z84LWNkq7SNoAHBJbXx5t1P95EwyqYohrfCRFV",
+          "ASMbv7WNu3qe4pkhREmvyEdwFNDZQ6B6iSrjkj4u8bdC",
+          "DyBGrZkGJHrgbxQXo3sh5KKz7YTzYK9gN8fhRSXN2whK"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "usd-coin",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "3Pg5xVmLQQm4nHMJ4ATXXKWejkw3chJnLnJVng2rAszu",
+          "Hb4gYexeZMbPY3yg1AM35HSWDyPfk4QyprYtvwHZx2C1",
+          "4xkyD7AfGQDwsQMy9MosRRNGoVJ1zosNinesxg1TzHG7",
+          "Cbm5gsQe3nSiCsFrvepVzMCD9xLK3ri9g3ypS2hdmVJ7",
+          "417JcbvTQCRk2yowySN8MjtJuHSU8dTsGtVcFL4ECNCA",
+          "7EifTDGz2nEU7DiE2UuuBX9Efkbdfad47mgr7Bqrqo8Y",
+          "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr",
+          "FXJq5PZ8XshMvhcfX2y3khJyWK6S5W7ftLeMgbuFgwDG",
+          "DLkWGoaeXw4oeGPnr2ecJze541HVKFhrhaW4iVSFEwET",
+          "EXNW64GEf1ACC6xY9BtKRiunrs6GoJSXBdxWN2eTPmrF",
+          "CfWX7o2TswwbxusJ4hCaPobu2jLCb1hfXuXJQjVq3jQF",
+          "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu",
+          "3YB7hfpBdbQEuZqLGWVDpRPmeZWCUsrrWyqGXegnQ6Cg",
+          "4DPCj6Z1DsG6HUtwSogBGqXEUxdEV5a8YVrrFtcnz7UW",
+          "y8dALFo1bJrSzPYjMX14HJX448pXqYmrfXHD1K8MXih",
+          "GN7Yuet3UyiWS5YVkEHv6oQKi4HGBJc3XDPt9zQhAqZz",
+          "BnKQtTdLw9qPCDgZkWX3sURkBAoKCUYL1yahh6Mw7mRK",
+          "34M8pFVqgbV7aqHxvRT5tCv3vu2P1JJYT8J3VaxBK2oG",
+          "3AZWBSze3ucsY3xSeuLne3b2pauVqiaJ1SZSV5T9WGWw"
+        ]
+      },
+      {
+        "decimals": 8,
+        "addresses": [
+          "GQ2YPKtfdjPJexWKFak1m4T16yHyWtbqkoGGh52QGmRX",
+          "AZCBmDBcFsA2jHHhfFJBTsWCHx9XnnKmGfFsue3ZVW1t",
+          "Dxaf8xPBBQsasRKW5Aa4Sw2YrbfGofY9xZueyyF23FBW",
+          "CcFHbafgYDZ8yA8Me1PdtDiVb2eeaS61LbqyKKK5CsNZ",
+          "26R9s4nmF3CFDTkiePDwRmtscn8i7r2eygbSijditJ58",
+          "GLA6i1dSZpUfk2f9Nj8uiG7xyDdAR2reff8oEiZH3617",
+          "BsyWeshjDbCvjDojry3vKDCesmFRM37WtwcR4Kfgzqr",
+          "GcYqiJ1MAuYbNTNYXm1F1gQYTfTgkErACAhNU5dpVj9T",
+          "48UJw19Ra8y5Kv989DsXPrfUHeUWUbHvXZmdPBbGuHdz",
+          "FmRb5jHfSNj1YWP3b45d9vvYuhwjp4om8bALmtqZpr1v"
+        ]
+      },
+      {
+        "decimals": 9,
+        "addresses": [
+          "8bPbEhA36iUTd8qgoyfhqA4qTm789CLiWVziJFSmtUga",
+          "BA6PfHBH4Ac6VQDxWmF12rb1Hx4zFGWmytpd7PSh5kiv",
+          "5XhLXXuJeZ5QBf9APcbKVaku38YkpTVebqGtvdJ2iocz",
+          "AZYHYxc8Gawy7zA5bidwpe7P3pjuGSEJvxNbApeG7K5b",
+          "FxU5cupP6NA18ttrQHGnP82HZ9VoY9Rzb6KMv8Akw2gm",
+          "rxDQYV77NKRKYxCjq4cECX3QQsiSyLv1T1FT2X3zNA2",
+          "2bPenuBYfqzD8p5dFjCcggwkHDsc2RQDnx9AoyYGUBjA",
+          "AE6n6iLuX8oYu61vt5hoDYkjswpnxFxrhSehxrnQTnbx",
+          "SscdxE99omdG9AiMVwmaEMQySQnCgeAh1sPj2Leutm2",
+          "AZjEH1zWVx1UJ6udMyRijGTzPteuLnaY18yNNmprJEsh",
+          "Caf8ypkSVR8xYnXNhjvfvdGCC7mrM3C11rz8Xi6NA6aK",
+          "2ho8qEEie1UjVwWNBo9y4oAJZMyMLx8zPj9bxyUz6uWs",
+          "7DH5gc5Hj1Kq4Y9z8ybEmAX1WPoHcunwiav1Za4A5J3J",
+          "AhFPQdu8GKBsxuhiH46UmCu1YpaLgNpoP325HnYtsgas",
+          "A8wxWpT3aFEr2XqZp1kDmbxbFfcBE95UUmdsNTDBJYbT",
+          "AAmpYbuixWiSqDaJBCqYEs1pb5SrbdPr9mgXrB58Q2e",
+          "3S2jpqSYxho6wiz3cafhjXruVY8cg4HYa2v3BqBHYFSj",
+          "Dfe67M6TfrG74gKRtdqys4e6E9QirPD53BkF4FujFjuv",
+          "2Aq6otuvoyZLtFSQKtbnNSU8MvPPYZu86bT7TbbQbK6V",
+          "2n895yX1VzrWuwrMCixUcD3SkRysj51jigxtV5N81vk6",
+          "HuEnD3eWBSuJtTCZMDG3P74sHPhi5UyVRV4SVefva6jS",
+          "DRr3h3DF9wupahxh6vHMFCm6WGfmJWMrrBHoBvWAweAQ",
+          "9YWiQh5d4jCtgMdzcGLv9bWgnLaFtzvDDh2nnhJdzhBX",
+          "PhfHJ2Yu99BsEjZrefhApqUnLUiExcECcUT1YLoNUUv",
+          "7KFPJ4VJp9MYsHXpdm1QJhkNEdq5dFqLm6Z17gVsWTW2",
+          "H8VggnHmuwd1wvwpT8eg9cUJFEfZ7HAaeYjgXrSm7A2u",
+          "2K2kkXsouBHtWVjtcgkyiXd8eP3oVBvq1bTJzcVdLLr2",
+          "13XGEQDqaKt7texUGawxfTGnz2j6pTt3k9HsosfJ9uZH",
+          "DJcFPaQjyW9Xkt7sXCbnEGj1yfykGYuLRUXFyS4LLZ5F",
+          "D9yh4KAysxt9GLacVe4Wwh2XqghhcjTCSTV9HuM7TBJd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "usdk",
+    "accounts": [
+      {
+        "decimals": 8,
+        "addresses": ["CMR2J7CwfW98RpvnJmFBgRFTLAd3x8CJ1SWs8Bt3uunG"]
+      },
+      {
+        "decimals": 9,
+        "addresses": [
+          "7mwozKdXTVZhSxcmtqP58rQ8MQx7dmFxr7mGaYsJ8Wws",
+          "5RfXYWvxR9PUaedokXVxgJHDoD4xnLLauVtdJ27shPWG"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "weth",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "FfSySSbVJPvEo5a5AvrP3nySoXpRE2QPn1uUMpJJ1x7v",
+          "3dxNNww8TivyN5FMy5dCNdi3Zcxv6e4kUfSPxfFwpdNq",
+          "8NPZUW1Fa5DKAmc3fZwjm8LbVjQxxt7PbcbBTVMCwGM1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wrapped-bitcoin",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "bDVSLHopvEo45R3rR7JXoRRAcnUXKD7r14ijj1apALb",
+          "3aQn9HbPXwxCLEd71x81K1whfHvMe18bEwPtqPArA68d",
+          "D7W9WJBdwThYLCEczsxwRrHoCApqEzCXSJvWVkMs3ekH",
+          "56TsbS21JcCVgD8x7HDivK371QPWhNWPvH5QPA6oqmTX"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wrapped-terra",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": ["Au5zcSost9sXpH8AQQjULRXJ9QCJ3kdKehUr1zYzTr6G"]
+      }
+    ]
+  }
+]

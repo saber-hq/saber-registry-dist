@@ -83,7 +83,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-01-11T19:54:00.587Z",
+  "timestamp": "2022-01-15T04:34:50.211Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -781,8 +781,9 @@
       "extensions": {
         "address": "uusd",
         "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-        "coingeckoId": "terra-usd",
+        "coingeckoId": "terrausd",
         "currency": "USD",
+        "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
         "source": "wormhole-v2",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
       },
@@ -1684,7 +1685,7 @@
         "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"],
         "website": "https://app.saber.so"
       },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s.png",
       "name": "Saber Wrapped Cashio Dollar (8 decimals)",
       "symbol": "sCASH-8",
       "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"]
@@ -2023,7 +2024,7 @@
         "underlyingTokens": ["CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1"],
         "website": "https://app.saber.so"
       },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1.svg",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt.png",
       "name": "Saber Wrapped agEUR (Wormhole) (9 decimals)",
       "symbol": "sagEUR-9",
       "tags": [
@@ -2832,7 +2833,7 @@
         ],
         "website": "https://app.saber.so/#/pools/bilira"
       },
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer.png",
       "name": "Saber TRYB-TRYB LP",
       "symbol": "TRYB-TRYB",
       "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"]
@@ -3238,14 +3239,15 @@
         "address": "uusd",
         "assetContract": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
         "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-        "coingeckoId": "terra-usd",
+        "coingeckoId": "terrausd",
         "currency": "USD",
+        "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
         "source": "wormhole-v2",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
         "underlyingTokens": ["9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"],
         "website": "https://app.saber.so"
       },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7.png",
       "name": "Saber Wrapped UST (Wormhole) (8 decimals)",
       "symbol": "sUST-8",
       "tags": [
@@ -3264,8 +3266,9 @@
         "address": "uusd",
         "assetContract": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
         "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-        "coingeckoId": "terra-usd",
+        "coingeckoId": "terrausd",
         "currency": "USD",
+        "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
         "source": "wormhole-v2",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
         "underlyingTokens": ["9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"],
@@ -3396,7 +3399,7 @@
         ],
         "website": "https://app.saber.so/#/pools/frax_ust"
       },
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD.png",
       "name": "Saber FRAX-UST LP",
       "symbol": "FRAX-UST",
       "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"]
@@ -3413,7 +3416,7 @@
         ],
         "website": "https://app.saber.so/#/pools/aceur_ageur"
       },
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz.png",
       "name": "Saber acEUR-agEUR LP",
       "symbol": "acEUR-agEUR",
       "tags": [
@@ -3468,7 +3471,7 @@
         ],
         "website": "https://app.saber.so/#/pools/frax_cash"
       },
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n.png",
       "name": "Saber FRAX-CASH LP",
       "symbol": "FRAX-CASH",
       "tags": ["saber-stableswap-lp", "saber-lp-cashio"]
@@ -3601,6 +3604,7 @@
         "github": "https://github.com/marinade-finance",
         "medium": "https://medium.com/marinade-finance",
         "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+        "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
         "source": "marinade",
         "sourceUrl": "https://marinade.finance/app/staking",
         "twitter": "https://twitter.com/MarinadeFinance",
@@ -3623,7 +3627,7 @@
         ],
         "website": "https://app.saber.so/#/pools/monkedao"
       },
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z.png",
       "name": "Saber daoSOL-SOL LP",
       "symbol": "daoSOL-SOL",
       "tags": ["saber-stableswap-lp"]
@@ -3657,7 +3661,7 @@
         ],
         "website": "https://app.saber.so/#/pools/jsol"
       },
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw.png",
       "name": "Saber JSOL-SOL LP",
       "symbol": "JSOL-SOL",
       "tags": ["saber-stableswap-lp"]
