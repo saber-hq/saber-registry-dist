@@ -96,6 +96,18 @@
     "decimals": 9
   },
   {
+    "id": "SAMGk1Nd4haC8zQA63DG37pzuEZy8j4q13tSFtCbcRE",
+    "lpMint": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
+    "tokenA": "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
+    "tokenB": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+    "authority": "8kJzWzrvsZgHCW9Q9JFqamgf58SbjMmTe8mbDotk4ooR",
+    "reserveA": "9U9TnkHD3jXMAVZtynCVLgDruuqN4pTvLJTmVHCLWS8g",
+    "reserveB": "C6zoEbvqSknmi96QWq96UBiPCyNW3YSTvKhavR2BfifE",
+    "tokenACoingecko": "ftx-token",
+    "tokenBCoingecko": "ftx-token",
+    "decimals": 8
+  },
+  {
     "id": "YakoMPuYrybnr9R7VC7hVGxMz94fJvPFCdZ4gmW61Ed",
     "lpMint": "2poo1dNgDaVaZbLsqq4cbNz9hWZ3MFz3hpErfT7SRWxu",
     "tokenA": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -860,6 +872,18 @@
     "reserveA": "JAjt8kZkTsxKA3VKnmszKHQwzuNSAXXhN3Y4NZ2kEoLU",
     "reserveB": "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu",
     "tokenACoingecko": "terrausd",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 6
+  },
+  {
+    "id": "uxd",
+    "lpMint": "UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ",
+    "tokenA": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+    "tokenB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "authority": "HaNqpJUQeH2t6SB3tDJAtKV52fJM9rV1mGZrRrqMRZo1",
+    "reserveA": "9zj4aX38Uxf3h6AUjS4EipWS8mwbEofasHAf3a1uKGds",
+    "reserveB": "CwQDG1MWunn9cLNwcZLd8YBacweSR7ARo32w4mLua1Yr",
+    "tokenACoingecko": "usd-coin",
     "tokenBCoingecko": "usd-coin",
     "decimals": 6
   },

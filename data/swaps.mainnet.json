@@ -1646,6 +1646,34 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ",
+      "mergePool": "AkH2HMuANESqm8PmY3txZdFR6bU6FPh7QAK36kGJCEzm",
+      "quarry": "BMMiE1bNCW61k3rw4Kfzx7er36JMrEsFGr1Bcng9i6Aq",
+      "reserves": [
+        "9zj4aX38Uxf3h6AUjS4EipWS8mwbEofasHAf3a1uKGds",
+        "CwQDG1MWunn9cLNwcZLd8YBacweSR7ARo32w4mLua1Yr"
+      ],
+      "swapAccount": "KEN5P7p3asnb23Sw6yAmJRGvijfAzso3RqfyLAQhznt",
+      "swapAuthority": "HaNqpJUQeH2t6SB3tDJAtKV52fJM9rV1mGZrRrqMRZo1"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ],
+    "id": "uxd",
+    "isVerified": true,
+    "name": "UXD-USDC",
+    "sources": [],
+    "underlyingTokens": [
+      "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv",
       "mergePool": "7XMHLAd74N4hQ1F1s3YJ4ryNkE8JawxxmXYyY1248e45",
       "quarry": "A8NH6Fk92PLzQAGwwAY3b2e9Zuryiisvu8WUceu95QK6",
@@ -2275,6 +2303,34 @@
     "underlyingTokens": [
       "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
       "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
+      "mergePool": "FF72qCV3BXgVt15vmwUycSzm3pkn8YbTVBqG74kGme9R",
+      "quarry": "3PkM4UVVw3fuLiwfDb6gEsxiN94EcukxafYTJjqcsMyg",
+      "reserves": [
+        "9U9TnkHD3jXMAVZtynCVLgDruuqN4pTvLJTmVHCLWS8g",
+        "C6zoEbvqSknmi96QWq96UBiPCyNW3YSTvKhavR2BfifE"
+      ],
+      "swapAccount": "SAMGk1Nd4haC8zQA63DG37pzuEZy8j4q13tSFtCbcRE",
+      "swapAuthority": "8kJzWzrvsZgHCW9Q9JFqamgf58SbjMmTe8mbDotk4ooR"
+    },
+    "currency": "FTT",
+    "decimals": 8,
+    "displayTokens": [
+      "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
+      "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
+    ],
+    "id": "SAMGk1Nd4haC8zQA63DG37pzuEZy8j4q13tSFtCbcRE",
+    "isVerified": false,
+    "name": "soFTT-FTT",
+    "sources": ["wormhole-v2"],
+    "underlyingTokens": [
+      "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
+      "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
     ]
   },
   {

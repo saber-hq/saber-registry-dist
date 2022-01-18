@@ -11822,6 +11822,182 @@
       "quarry": "HEFCUdoJRcsjD1VPacn4oYsoPne2TfdYaQNczq7Aj3iX"
     },
     {
+      "id": "uxd",
+      "name": "UXD-USDC",
+      "tokens": [
+        {
+          "address": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "discord": "https://discord.com/invite/BHfpYmjsBM",
+            "medium": "https://uxdprotocol.medium.com/",
+            "twitter": "https://twitter.com/UXDProtocol",
+            "website": "https://uxd.fi/",
+            "currency": "USD"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT/logo.png",
+          "name": "UXD Stablecoin",
+          "symbol": "UXD",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        },
+        {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
+            "currency": "USD"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "discord": "https://discord.com/invite/BHfpYmjsBM",
+            "medium": "https://uxdprotocol.medium.com/",
+            "twitter": "https://twitter.com/UXDProtocol",
+            "website": "https://uxd.fi/",
+            "currency": "USD"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT/logo.png",
+          "name": "UXD Stablecoin",
+          "symbol": "UXD",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        },
+        {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
+            "currency": "USD"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "discord": "https://discord.com/invite/BHfpYmjsBM",
+            "medium": "https://uxdprotocol.medium.com/",
+            "twitter": "https://twitter.com/UXDProtocol",
+            "website": "https://uxd.fi/",
+            "currency": "USD"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT/logo.png",
+          "name": "UXD Stablecoin",
+          "symbol": "UXD",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        },
+        {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "usd-coin",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "website": "https://www.centre.io/",
+            "currency": "USD"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "UXD-USDC",
+        "name": "Saber UXD-USDC LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/uxd",
+          "underlyingTokens": [
+            "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "FqTNQwqqGkWh7R5vtKqzS7JXcrTRA9ECTLeivpYu658d",
+      "swap": {
+        "config": {
+          "swapAccount": "KEN5P7p3asnb23Sw6yAmJRGvijfAzso3RqfyLAQhznt",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "HaNqpJUQeH2t6SB3tDJAtKV52fJM9rV1mGZrRrqMRZo1"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "GF54Rbthtfek71A8mj5M5yCeQs699KKuaKZtkwrJaa3J",
+            "reserve": "9zj4aX38Uxf3h6AUjS4EipWS8mwbEofasHAf3a1uKGds",
+            "mint": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT"
+          },
+          "tokenB": {
+            "adminFeeAccount": "JFRteFSRZ2cbe8bnNwQDY61jMzysDv11mhNZVjo3frh",
+            "reserve": "CwQDG1MWunn9cLNwcZLd8YBacweSR7ARo32w4mLua1Yr",
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          },
+          "poolTokenMint": "UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ",
+          "initialAmpFactor": "64",
+          "targetAmpFactor": "64",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "BMMiE1bNCW61k3rw4Kfzx7er36JMrEsFGr1Bcng9i6Aq"
+    },
+    {
       "id": "wbusd",
       "name": "BUSDbs-USDC",
       "tokens": [
