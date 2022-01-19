@@ -70097,5 +70097,54 @@
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D77wfRvxzFgdAHd1C1gE5JuwuSq4QLSTxc3huB52WBXH/logo.png",
     "name": "Yakuza Wars",
     "symbol": "$Yakuza"
+  },
+  {
+    "address": "EcDWaqgfWre56VhCCjHbtqeVoPVWGtRkyWSA4H4GCXRD",
+    "chainId": 101,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/Elod044/BitondCoin/main/bitondcoin.png",
+    "name": "BitondCoin",
+    "symbol": "BITC",
+    "tags": ["social-token"]
+  },
+  {
+    "address": "3Mtinr77fvdW3jBUkimTHmm4DsTUcm6YyhPRmijwrqa6",
+    "chainId": 101,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/florianHamal/coin/main/pic.png",
+    "name": "HamalCoin",
+    "symbol": "HML",
+    "tags": ["social-token"]
+  },
+  {
+    "address": "CYnW72dNBZcjv2rVH7QEChdynPWU6AwhWnLfCyVjAFBX",
+    "chainId": 101,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/Izsook/Cinemetaverses/main/Logo3.png",
+    "name": "CINEMetAverse's",
+    "symbol": "CMV",
+    "tags": ["social-token"]
+  },
+  {
+    "address": "5fTwKZP2AK39LtFN9Ayppu6hdCVKfMGVm79F2EgHCtsi",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "twitter": "https://twitter.com/shreddedapes",
+      "website": "https://shreddedapes.io/"
+    },
+    "logoURI": "https://secureservercdn.net/160.153.138.53/cjm.06a.myftpupload.com/wp-content/uploads/2021/12/whey-coin-2048x2048.png",
+    "name": "Shredded Apes Gym Club",
+    "symbol": "WHEY",
+    "tags": ["utility-token"]
+  },
+  {
+    "address": "9w56YQTqukyTDckwvX1q3otDDqoHZKvZRfyxRs66714Q",
+    "chainId": 101,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/SpyicyDev/crypto/main/logo.png",
+    "name": "Pickle Law Firm Coin",
+    "symbol": "PKLWFM",
+    "tags": ["social-token"]
   }
 ]

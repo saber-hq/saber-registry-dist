@@ -224,6 +224,7 @@
     "id": "acusdc",
     "isVerified": true,
     "name": "USDC-acUSDC",
+    "newPoolID": "acusd_cash",
     "sources": ["allbridge"],
     "tags": ["allbridge"],
     "underlyingTokens": [
