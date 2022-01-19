@@ -918,7 +918,7 @@
     "id": "cash",
     "isVerified": true,
     "name": "CASH-USDC",
-    "sources": ["cashio"],
+    "sources": ["Cashio"],
     "underlyingTokens": [
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -946,7 +946,7 @@
     "id": "ust_cash",
     "isVerified": true,
     "name": "UST-CASH",
-    "sources": ["wormhole-v2", "cashio"],
+    "sources": ["wormhole-v2", "Cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
       "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
@@ -975,7 +975,7 @@
     "id": "pai_cash",
     "isVerified": true,
     "name": "PAI-CASH",
-    "sources": ["parrot", "cashio"],
+    "sources": ["parrot", "Cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
       "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
@@ -1004,7 +1004,7 @@
     "id": "acusd_cash",
     "isVerified": true,
     "name": "acUSD-CASH",
-    "sources": ["allbridge", "cashio"],
+    "sources": ["allbridge", "Cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
       "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
@@ -1235,7 +1235,7 @@
     "id": "fei_cash",
     "isVerified": true,
     "name": "aeFEI-CASH",
-    "sources": ["allbridge", "cashio"],
+    "sources": ["allbridge", "Cashio"],
     "tags": ["allbridge"],
     "underlyingTokens": [
       "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
@@ -2038,7 +2038,7 @@
     "id": "mim_cash",
     "isVerified": true,
     "name": "aeMIM-CASH",
-    "sources": ["allbridge", "cashio"],
+    "sources": ["allbridge", "Cashio"],
     "tags": ["allbridge"],
     "underlyingTokens": [
       "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -2820,7 +2820,7 @@
     "id": "atust_cash",
     "isVerified": true,
     "name": "atUST-CASH",
-    "sources": ["allbridge", "cashio"],
+    "sources": ["allbridge", "Cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
       "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
@@ -2849,7 +2849,7 @@
     "id": "frax_cash",
     "isVerified": true,
     "name": "FRAX-CASH",
-    "sources": ["wormhole-v2", "cashio"],
+    "sources": ["wormhole-v2", "Cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
       "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",

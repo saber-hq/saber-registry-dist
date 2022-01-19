@@ -83,7 +83,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-01-19T19:45:55.646Z",
+  "timestamp": "2022-01-19T19:51:31.945Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -1279,7 +1279,7 @@
         "description": "aSOL is the standard for transacting with staked SOL tokens.",
         "github": "https://github.com/aSolHQ",
         "source": "aSOL",
-        "sourceUrl": "https://asol.so/#/mint/msol",
+        "sourceUrl": "https://asol.so/",
         "twitter": "https://twitter.com/aSOLprotocol",
         "website": "https://asol.so"
       },
@@ -1653,12 +1653,11 @@
       "decimals": 9,
       "extensions": {
         "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "coingeckoId": "usd-coin",
         "currency": "USD",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "medium": "https://medium.com/@cashioapp",
-        "source": "cashio",
-        "sourceUrl": "https://cashio.app/#/print",
+        "source": "Cashio",
+        "sourceUrl": "https://cashio.app/",
         "twitter": "https://twitter.com/CashioApp",
         "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"],
         "website": "https://app.saber.so"
@@ -1673,12 +1672,11 @@
       "chainId": 101,
       "decimals": 6,
       "extensions": {
-        "coingeckoId": "usd-coin",
         "currency": "USD",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "medium": "https://medium.com/@cashioapp",
-        "source": "cashio",
-        "sourceUrl": "https://cashio.app/#/print",
+        "source": "Cashio",
+        "sourceUrl": "https://cashio.app/",
         "twitter": "https://twitter.com/CashioApp",
         "website": "https://cashio.app"
       },
@@ -1693,12 +1691,11 @@
       "decimals": 8,
       "extensions": {
         "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "coingeckoId": "usd-coin",
         "currency": "USD",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "medium": "https://medium.com/@cashioapp",
-        "source": "cashio",
-        "sourceUrl": "https://cashio.app/#/print",
+        "source": "Cashio",
+        "sourceUrl": "https://cashio.app/",
         "twitter": "https://twitter.com/CashioApp",
         "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"],
         "website": "https://app.saber.so"

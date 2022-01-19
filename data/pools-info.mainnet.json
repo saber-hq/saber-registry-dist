@@ -2063,14 +2063,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi.png",
           "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
           "extensions": {
-            "website": "https://app.saber.so",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://app.saber.so",
             "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/",
             "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"]
           }
@@ -2101,14 +2100,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi.png",
           "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
           "extensions": {
-            "website": "https://app.saber.so",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://app.saber.so",
             "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/",
             "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"]
           }
@@ -2132,22 +2130,21 @@
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         }
       ],
       "currency": "USD",
@@ -4595,21 +4592,21 @@
       "tokens": [
         {
           "address": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
-          "symbol": "aSOL",
-          "name": "aSOL Aggregate Solana Stake Pool",
+          "chainId": 101,
           "decimals": 9,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond.svg",
           "extensions": {
-            "website": "https://asol.so",
             "coingeckoId": "solana",
-            "source": "aSOL",
-            "sourceUrl": "https://asol.so/#/mint/msol",
             "description": "aSOL is the standard for transacting with staked SOL tokens.",
             "github": "https://github.com/aSolHQ",
             "twitter": "https://twitter.com/aSOLprotocol",
-            "currency": "SOL"
+            "website": "https://asol.so",
+            "currency": "SOL",
+            "source": "aSOL",
+            "sourceUrl": "https://asol.so/"
           },
-          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond.svg",
+          "name": "aSOL Aggregate Solana Stake Pool",
+          "symbol": "aSOL",
           "tags": ["saber-mkt-sol"]
         },
         {
@@ -4632,21 +4629,21 @@
       "tokenIcons": [
         {
           "address": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
-          "symbol": "aSOL",
-          "name": "aSOL Aggregate Solana Stake Pool",
+          "chainId": 101,
           "decimals": 9,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond.svg",
           "extensions": {
-            "website": "https://asol.so",
             "coingeckoId": "solana",
-            "source": "aSOL",
-            "sourceUrl": "https://asol.so/#/mint/msol",
             "description": "aSOL is the standard for transacting with staked SOL tokens.",
             "github": "https://github.com/aSolHQ",
             "twitter": "https://twitter.com/aSOLprotocol",
-            "currency": "SOL"
+            "website": "https://asol.so",
+            "currency": "SOL",
+            "source": "aSOL",
+            "sourceUrl": "https://asol.so/"
           },
-          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond.svg",
+          "name": "aSOL Aggregate Solana Stake Pool",
+          "symbol": "aSOL",
           "tags": ["saber-mkt-sol"]
         },
         {
@@ -4669,21 +4666,21 @@
       "underlyingIcons": [
         {
           "address": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
-          "symbol": "aSOL",
-          "name": "aSOL Aggregate Solana Stake Pool",
+          "chainId": 101,
           "decimals": 9,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond.svg",
           "extensions": {
-            "website": "https://asol.so",
             "coingeckoId": "solana",
-            "source": "aSOL",
-            "sourceUrl": "https://asol.so/#/mint/msol",
             "description": "aSOL is the standard for transacting with staked SOL tokens.",
             "github": "https://github.com/aSolHQ",
             "twitter": "https://twitter.com/aSOLprotocol",
-            "currency": "SOL"
+            "website": "https://asol.so",
+            "currency": "SOL",
+            "source": "aSOL",
+            "sourceUrl": "https://asol.so/"
           },
-          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond.svg",
+          "name": "aSOL Aggregate Solana Stake Pool",
+          "symbol": "aSOL",
           "tags": ["saber-mkt-sol"]
         },
         {
@@ -4797,22 +4794,21 @@
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         }
       ],
       "tokenIcons": [
@@ -4832,22 +4828,21 @@
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         }
       ],
       "underlyingIcons": [
@@ -4867,22 +4862,21 @@
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         }
       ],
       "currency": "USD",
@@ -5778,22 +5772,21 @@
       "tokens": [
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         },
         {
           "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -5814,22 +5807,21 @@
       "tokenIcons": [
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         },
         {
           "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -5850,22 +5842,21 @@
       "underlyingIcons": [
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         },
         {
           "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -6172,14 +6163,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi.png",
           "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
           "extensions": {
-            "website": "https://app.saber.so",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://app.saber.so",
             "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/",
             "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"]
           }
@@ -6210,14 +6200,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi.png",
           "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
           "extensions": {
-            "website": "https://app.saber.so",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://app.saber.so",
             "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/",
             "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"]
           }
@@ -6241,22 +6230,21 @@
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         }
       ],
       "currency": "USD",
@@ -6751,14 +6739,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s.png",
           "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
           "extensions": {
-            "website": "https://app.saber.so",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://app.saber.so",
             "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/",
             "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"]
           }
@@ -6792,14 +6779,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s.png",
           "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
           "extensions": {
-            "website": "https://app.saber.so",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://app.saber.so",
             "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/",
             "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"]
           }
@@ -6826,22 +6812,21 @@
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         }
       ],
       "currency": "USD",
@@ -8684,14 +8669,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi.png",
           "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
           "extensions": {
-            "website": "https://app.saber.so",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://app.saber.so",
             "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/",
             "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"]
           }
@@ -8722,14 +8706,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi.png",
           "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
           "extensions": {
-            "website": "https://app.saber.so",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://app.saber.so",
             "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/",
             "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "underlyingTokens": ["CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"]
           }
@@ -8753,22 +8736,21 @@
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         }
       ],
       "currency": "USD",
@@ -9450,22 +9432,21 @@
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         }
       ],
       "tokenIcons": [
@@ -9491,22 +9472,21 @@
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         }
       ],
       "underlyingIcons": [
@@ -9532,22 +9512,21 @@
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         }
       ],
       "currency": "USD",
@@ -11880,22 +11859,21 @@
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         }
       ],
       "tokenIcons": [
@@ -11919,22 +11897,21 @@
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         }
       ],
       "underlyingIcons": [
@@ -11958,22 +11935,21 @@
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-          "symbol": "CASH",
-          "name": "Cashio Dollar",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
-            "website": "https://cashio.app",
-            "twitter": "https://twitter.com/CashioApp",
-            "coingeckoId": "usd-coin",
-            "source": "cashio",
-            "sourceUrl": "https://cashio.app/#/print",
             "discord": "https://discord.com/invite/GmkRRKJkuh",
             "medium": "https://medium.com/@cashioapp",
-            "currency": "USD"
+            "twitter": "https://twitter.com/CashioApp",
+            "website": "https://cashio.app",
+            "currency": "USD",
+            "source": "Cashio",
+            "sourceUrl": "https://cashio.app/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+          "name": "Cashio Dollar",
+          "symbol": "CASH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
         }
       ],
       "currency": "USD",
