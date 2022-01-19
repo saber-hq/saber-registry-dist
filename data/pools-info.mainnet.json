@@ -4781,7 +4781,7 @@
         {
           "address": "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
           "chainId": 101,
-          "decimals": 9,
+          "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ.png",
           "name": "Wrapped UST (Allbridge from Terra)",
           "symbol": "atUST",
@@ -4815,7 +4815,7 @@
         {
           "address": "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
           "chainId": 101,
-          "decimals": 9,
+          "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ.png",
           "name": "Wrapped UST (Allbridge from Terra)",
           "symbol": "atUST",
@@ -4849,7 +4849,7 @@
         {
           "address": "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
           "chainId": 101,
-          "decimals": 9,
+          "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ.png",
           "name": "Wrapped UST (Allbridge from Terra)",
           "symbol": "atUST",
@@ -4884,7 +4884,7 @@
         "symbol": "atUST-CASH",
         "name": "Saber atUST-CASH LP",
         "logoURI": "https://registry.saber.so/token-icons/slp.png",
-        "decimals": 9,
+        "decimals": 6,
         "address": "ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA",
         "chainId": 101,
         "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
@@ -9626,53 +9626,43 @@
         },
         {
           "address": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
-          "symbol": "pBTC",
-          "name": "pBTC (Parrot BTC)",
+          "chainId": 101,
           "decimals": 8,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun.svg",
-          "tags": [
-            "stablecoin",
-            "saber-market-btc",
-            "saber-swappable",
-            "saber-mkt-btc"
-          ],
           "extensions": {
-            "website": "https://parrot.fi",
-            "twitter": "https://twitter.com/gopartyparrot",
-            "telegram": "https://t.me/gopartyparrot",
-            "medium": "https://gopartyparrot.medium.com/",
             "discord": "https://discord.gg/gopartyparrot",
-            "source": "Parrot",
-            "sourceUrl": "https://parrot.fi/mint/",
-            "currency": "BTC"
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
+            "currency": "BTC",
+            "source": "parrot",
+            "sourceUrl": "https://parrot.fi/mint/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun.svg",
+          "name": "pBTC (Parrot BTC)",
+          "symbol": "pBTC",
+          "tags": ["stablecoin", "saber-mkt-btc"]
         }
       ],
       "tokenIcons": [
         {
           "address": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
-          "symbol": "pBTC",
-          "name": "pBTC (Parrot BTC)",
+          "chainId": 101,
           "decimals": 8,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun.svg",
-          "tags": [
-            "stablecoin",
-            "saber-market-btc",
-            "saber-swappable",
-            "saber-mkt-btc"
-          ],
           "extensions": {
-            "website": "https://parrot.fi",
-            "twitter": "https://twitter.com/gopartyparrot",
-            "telegram": "https://t.me/gopartyparrot",
-            "medium": "https://gopartyparrot.medium.com/",
             "discord": "https://discord.gg/gopartyparrot",
-            "source": "Parrot",
-            "sourceUrl": "https://parrot.fi/mint/",
-            "currency": "BTC"
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
+            "currency": "BTC",
+            "source": "parrot",
+            "sourceUrl": "https://parrot.fi/mint/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun.svg",
+          "name": "pBTC (Parrot BTC)",
+          "symbol": "pBTC",
+          "tags": ["stablecoin", "saber-mkt-btc"]
         },
         {
           "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
@@ -9695,27 +9685,22 @@
       "underlyingIcons": [
         {
           "address": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
-          "symbol": "pBTC",
-          "name": "pBTC (Parrot BTC)",
+          "chainId": 101,
           "decimals": 8,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun.svg",
-          "tags": [
-            "stablecoin",
-            "saber-market-btc",
-            "saber-swappable",
-            "saber-mkt-btc"
-          ],
           "extensions": {
-            "website": "https://parrot.fi",
-            "twitter": "https://twitter.com/gopartyparrot",
-            "telegram": "https://t.me/gopartyparrot",
-            "medium": "https://gopartyparrot.medium.com/",
             "discord": "https://discord.gg/gopartyparrot",
-            "source": "Parrot",
-            "sourceUrl": "https://parrot.fi/mint/",
-            "currency": "BTC"
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
+            "currency": "BTC",
+            "source": "parrot",
+            "sourceUrl": "https://parrot.fi/mint/"
           },
-          "chainId": 101
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun.svg",
+          "name": "pBTC (Parrot BTC)",
+          "symbol": "pBTC",
+          "tags": ["stablecoin", "saber-mkt-btc"]
         },
         {
           "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
@@ -9994,9 +9979,9 @@
           "decimals": 9,
           "extensions": {
             "coingeckoId": "solana",
-            "source": "Parrot",
-            "sourceUrl": "https://parrot.fi/mint/",
-            "currency": "SOL"
+            "currency": "SOL",
+            "source": "parrot",
+            "sourceUrl": "https://parrot.fi/mint/"
           },
           "chainId": 101,
           "tags": ["saber-mkt-sol"]
@@ -10027,9 +10012,9 @@
           "decimals": 9,
           "extensions": {
             "coingeckoId": "solana",
-            "source": "Parrot",
-            "sourceUrl": "https://parrot.fi/mint/",
-            "currency": "SOL"
+            "currency": "SOL",
+            "source": "parrot",
+            "sourceUrl": "https://parrot.fi/mint/"
           },
           "chainId": 101,
           "tags": ["saber-mkt-sol"]
@@ -10060,9 +10045,9 @@
           "decimals": 9,
           "extensions": {
             "coingeckoId": "solana",
-            "source": "Parrot",
-            "sourceUrl": "https://parrot.fi/mint/",
-            "currency": "SOL"
+            "currency": "SOL",
+            "source": "parrot",
+            "sourceUrl": "https://parrot.fi/mint/"
           },
           "chainId": 101,
           "tags": ["saber-mkt-sol"]
@@ -10164,21 +10149,21 @@
       "tokens": [
         {
           "address": "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
-          "symbol": "pSOL",
-          "name": "pSOL (Parrot SOL)",
-          "decimals": 9,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
-          "extensions": {
-            "website": "https://parrot.fi",
-            "twitter": "https://twitter.com/gopartyparrot",
-            "telegram": "https://t.me/gopartyparrot",
-            "medium": "https://gopartyparrot.medium.com/",
-            "discord": "https://discord.gg/gopartyparrot",
-            "source": "Parrot",
-            "sourceUrl": "https://parrot.fi/mint/",
-            "currency": "SOL"
-          },
           "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
+            "currency": "SOL",
+            "source": "parrot",
+            "sourceUrl": "https://parrot.fi/mint/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
+          "name": "pSOL (Parrot SOL)",
+          "symbol": "pSOL",
           "tags": ["stablecoin", "saber-mkt-sol"]
         },
         {
@@ -10189,9 +10174,9 @@
           "decimals": 9,
           "extensions": {
             "coingeckoId": "solana",
-            "source": "Parrot",
-            "sourceUrl": "https://parrot.fi/mint/",
-            "currency": "SOL"
+            "currency": "SOL",
+            "source": "parrot",
+            "sourceUrl": "https://parrot.fi/mint/"
           },
           "chainId": 101,
           "tags": ["saber-mkt-sol"]
@@ -10200,21 +10185,21 @@
       "tokenIcons": [
         {
           "address": "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
-          "symbol": "pSOL",
-          "name": "pSOL (Parrot SOL)",
-          "decimals": 9,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
-          "extensions": {
-            "website": "https://parrot.fi",
-            "twitter": "https://twitter.com/gopartyparrot",
-            "telegram": "https://t.me/gopartyparrot",
-            "medium": "https://gopartyparrot.medium.com/",
-            "discord": "https://discord.gg/gopartyparrot",
-            "source": "Parrot",
-            "sourceUrl": "https://parrot.fi/mint/",
-            "currency": "SOL"
-          },
           "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
+            "currency": "SOL",
+            "source": "parrot",
+            "sourceUrl": "https://parrot.fi/mint/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
+          "name": "pSOL (Parrot SOL)",
+          "symbol": "pSOL",
           "tags": ["stablecoin", "saber-mkt-sol"]
         },
         {
@@ -10225,9 +10210,9 @@
           "decimals": 9,
           "extensions": {
             "coingeckoId": "solana",
-            "source": "Parrot",
-            "sourceUrl": "https://parrot.fi/mint/",
-            "currency": "SOL"
+            "currency": "SOL",
+            "source": "parrot",
+            "sourceUrl": "https://parrot.fi/mint/"
           },
           "chainId": 101,
           "tags": ["saber-mkt-sol"]
@@ -10236,21 +10221,21 @@
       "underlyingIcons": [
         {
           "address": "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
-          "symbol": "pSOL",
-          "name": "pSOL (Parrot SOL)",
-          "decimals": 9,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
-          "extensions": {
-            "website": "https://parrot.fi",
-            "twitter": "https://twitter.com/gopartyparrot",
-            "telegram": "https://t.me/gopartyparrot",
-            "medium": "https://gopartyparrot.medium.com/",
-            "discord": "https://discord.gg/gopartyparrot",
-            "source": "Parrot",
-            "sourceUrl": "https://parrot.fi/mint/",
-            "currency": "SOL"
-          },
           "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
+            "currency": "SOL",
+            "source": "parrot",
+            "sourceUrl": "https://parrot.fi/mint/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
+          "name": "pSOL (Parrot SOL)",
+          "symbol": "pSOL",
           "tags": ["stablecoin", "saber-mkt-sol"]
         },
         {
@@ -10261,9 +10246,9 @@
           "decimals": 9,
           "extensions": {
             "coingeckoId": "solana",
-            "source": "Parrot",
-            "sourceUrl": "https://parrot.fi/mint/",
-            "currency": "SOL"
+            "currency": "SOL",
+            "source": "parrot",
+            "sourceUrl": "https://parrot.fi/mint/"
           },
           "chainId": 101,
           "tags": ["saber-mkt-sol"]
@@ -14842,21 +14827,21 @@
       "name": "USDCpo-USDC",
       "tokens": [
         {
-          "symbol": "USDCpo",
-          "name": "USD Coin (Wormhole from Polygon)",
           "address": "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M.png",
           "extensions": {
-            "coingeckoId": "usd-coin",
             "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
             "assetContract": "https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
             "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
+            "coingeckoId": "usd-coin",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
-          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M.png",
+          "name": "USD Coin (Wormhole from Polygon)",
+          "symbol": "USDCpo",
           "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
@@ -14877,21 +14862,21 @@
       ],
       "tokenIcons": [
         {
-          "symbol": "USDCpo",
-          "name": "USD Coin (Wormhole from Polygon)",
           "address": "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M.png",
           "extensions": {
-            "coingeckoId": "usd-coin",
             "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
             "assetContract": "https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
             "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
+            "coingeckoId": "usd-coin",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
-          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M.png",
+          "name": "USD Coin (Wormhole from Polygon)",
+          "symbol": "USDCpo",
           "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
@@ -14912,21 +14897,21 @@
       ],
       "underlyingIcons": [
         {
-          "symbol": "USDCpo",
-          "name": "USD Coin (Wormhole from Polygon)",
           "address": "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M.png",
           "extensions": {
-            "coingeckoId": "usd-coin",
             "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
             "assetContract": "https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
             "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
+            "coingeckoId": "usd-coin",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
-          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M.png",
+          "name": "USD Coin (Wormhole from Polygon)",
+          "symbol": "USDCpo",
           "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
@@ -15024,21 +15009,21 @@
       "name": "USDTpo-USDT",
       "tokens": [
         {
-          "symbol": "USDTpo",
-          "name": "Tether USD (Wormhole from Polygon)",
           "address": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1.png",
           "extensions": {
-            "coingeckoId": "tether",
             "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
             "assetContract": "https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
             "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
+            "coingeckoId": "tether",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
-          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1.png",
+          "name": "Tether USD (Wormhole from Polygon)",
+          "symbol": "USDTpo",
           "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
@@ -15059,21 +15044,21 @@
       ],
       "tokenIcons": [
         {
-          "symbol": "USDTpo",
-          "name": "Tether USD (Wormhole from Polygon)",
           "address": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1.png",
           "extensions": {
-            "coingeckoId": "tether",
             "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
             "assetContract": "https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
             "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
+            "coingeckoId": "tether",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
-          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1.png",
+          "name": "Tether USD (Wormhole from Polygon)",
+          "symbol": "USDTpo",
           "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {
@@ -15094,21 +15079,21 @@
       ],
       "underlyingIcons": [
         {
-          "symbol": "USDTpo",
-          "name": "Tether USD (Wormhole from Polygon)",
           "address": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
+          "chainId": 101,
           "decimals": 6,
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1.png",
           "extensions": {
-            "coingeckoId": "tether",
             "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
             "assetContract": "https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
             "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
+            "coingeckoId": "tether",
             "currency": "USD",
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
-          "chainId": 101,
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1.png",
+          "name": "Tether USD (Wormhole from Polygon)",
+          "symbol": "USDTpo",
           "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"]
         },
         {

@@ -54,10 +54,6 @@
       "description": "Saber StableSwap LP token.",
       "name": "saber-stableswap-lp"
     },
-    "saber-swappable": {
-      "description": "May be swapped on Saber.",
-      "name": "saber-swappable"
-    },
     "stablecoin": {
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar",
       "name": "stablecoin"
@@ -83,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-01-19T19:51:31.945Z",
+  "timestamp": "2022-01-19T20:06:54.543Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -719,7 +715,7 @@
         "currency": "SOL",
         "discord": "https://discord.gg/gopartyparrot",
         "medium": "https://gopartyparrot.medium.com/",
-        "source": "Parrot",
+        "source": "parrot",
         "sourceUrl": "https://parrot.fi/mint/",
         "telegram": "https://t.me/gopartyparrot",
         "twitter": "https://twitter.com/gopartyparrot",
@@ -845,7 +841,7 @@
     {
       "address": "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
       "chainId": 101,
-      "decimals": 9,
+      "decimals": 6,
       "extensions": {
         "currency": "USD",
         "source": "allbridge",
@@ -1541,7 +1537,7 @@
       "extensions": {
         "coingeckoId": "solana",
         "currency": "SOL",
-        "source": "Parrot",
+        "source": "parrot",
         "sourceUrl": "https://parrot.fi/mint/"
       },
       "logoURI": "https://registry.saber.so/token-icons/prtsol.svg",
@@ -1892,7 +1888,7 @@
         "currency": "BTC",
         "discord": "https://discord.gg/gopartyparrot",
         "medium": "https://gopartyparrot.medium.com/",
-        "source": "Parrot",
+        "source": "parrot",
         "sourceUrl": "https://parrot.fi/mint/",
         "telegram": "https://t.me/gopartyparrot",
         "twitter": "https://twitter.com/gopartyparrot",
@@ -1901,12 +1897,7 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun.svg",
       "name": "pBTC (Parrot BTC)",
       "symbol": "pBTC",
-      "tags": [
-        "stablecoin",
-        "saber-market-btc",
-        "saber-swappable",
-        "saber-mkt-btc"
-      ]
+      "tags": ["stablecoin", "saber-mkt-btc"]
     },
     {
       "address": "Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh",

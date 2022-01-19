@@ -398,7 +398,7 @@
     "id": "pbtc",
     "isVerified": true,
     "name": "pBTC-renBTC",
-    "sources": ["Parrot", "renbridge"],
+    "sources": ["parrot", "renbridge"],
     "underlyingTokens": [
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
       "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun"
@@ -1495,7 +1495,7 @@
     "id": "prtsol",
     "isVerified": true,
     "name": "prtSOL-SOL",
-    "sources": ["Parrot"],
+    "sources": ["parrot"],
     "underlyingTokens": [
       "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
       "So11111111111111111111111111111111111111112"
@@ -2271,7 +2271,7 @@
     "id": "psol",
     "isVerified": true,
     "name": "pSOL-prtSOL",
-    "sources": ["Parrot", "Parrot"],
+    "sources": ["parrot", "parrot"],
     "underlyingTokens": [
       "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
       "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3"
