@@ -96,16 +96,16 @@
     "decimals": 9
   },
   {
-    "id": "SAMGk1Nd4haC8zQA63DG37pzuEZy8j4q13tSFtCbcRE",
-    "lpMint": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
-    "tokenA": "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
-    "tokenB": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
-    "authority": "8kJzWzrvsZgHCW9Q9JFqamgf58SbjMmTe8mbDotk4ooR",
-    "reserveA": "9U9TnkHD3jXMAVZtynCVLgDruuqN4pTvLJTmVHCLWS8g",
-    "reserveB": "C6zoEbvqSknmi96QWq96UBiPCyNW3YSTvKhavR2BfifE",
-    "tokenACoingecko": "ftx-token",
-    "tokenBCoingecko": "ftx-token",
-    "decimals": 8
+    "id": "SERgf3DMJpQxUifu7VoFKmfne73d2fDJxSrxUMrcNJB",
+    "lpMint": "ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau",
+    "tokenA": "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
+    "tokenB": "So11111111111111111111111111111111111111112",
+    "authority": "MtvDRVATWdGwEG16kPgY5bvWVqN5zbjzzVDGxJFSW4R",
+    "reserveA": "AJfM2GZ2tTB8UtN2krcyR9xufRJEx2mhSCbJyMgPo3GU",
+    "reserveB": "F4yRYkufQvERZcEKnKjJwRLU1btiMBUuEwq46hfm11QD",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana",
+    "decimals": 9
   },
   {
     "id": "YakoMPuYrybnr9R7VC7hVGxMz94fJvPFCdZ4gmW61Ed",
@@ -790,6 +790,18 @@
     "tokenACoingecko": "socean-staked-sol",
     "tokenBCoingecko": "solana",
     "decimals": 9
+  },
+  {
+    "id": "sollet_ftt",
+    "lpMint": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
+    "tokenA": "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
+    "tokenB": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+    "authority": "8kJzWzrvsZgHCW9Q9JFqamgf58SbjMmTe8mbDotk4ooR",
+    "reserveA": "9U9TnkHD3jXMAVZtynCVLgDruuqN4pTvLJTmVHCLWS8g",
+    "reserveB": "C6zoEbvqSknmi96QWq96UBiPCyNW3YSTvKhavR2BfifE",
+    "tokenACoingecko": "ftx-token",
+    "tokenBCoingecko": "ftx-token",
+    "decimals": 8
   },
   {
     "id": "srm",

@@ -2324,10 +2324,11 @@
       "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
       "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
     ],
-    "id": "SAMGk1Nd4haC8zQA63DG37pzuEZy8j4q13tSFtCbcRE",
-    "isVerified": false,
+    "id": "sollet_ftt",
+    "isVerified": true,
     "name": "soFTT-FTT",
-    "sources": ["wormhole-v2"],
+    "sources": ["sollet", "wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
       "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
@@ -2444,7 +2445,7 @@
     "isVerified": true,
     "name": "wFTT_v1-soFTT",
     "newPoolID": "wftt",
-    "sources": ["wormhole-v1"],
+    "sources": ["wormhole-v1", "sollet"],
     "tags": ["wormhole-v1"],
     "underlyingTokens": [
       "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
@@ -2478,6 +2479,34 @@
     "underlyingTokens": [
       "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
       "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau",
+      "mergePool": "ChQJhSh1HSRgvDpdYNo5do2U5qErbRp6hfejq5xgzQrm",
+      "quarry": "6yqzupus4AdYkghjsGNHxgRLNXW22oisAwCDDGGTWU4s",
+      "reserves": [
+        "AJfM2GZ2tTB8UtN2krcyR9xufRJEx2mhSCbJyMgPo3GU",
+        "F4yRYkufQvERZcEKnKjJwRLU1btiMBUuEwq46hfm11QD"
+      ],
+      "swapAccount": "SERgf3DMJpQxUifu7VoFKmfne73d2fDJxSrxUMrcNJB",
+      "swapAuthority": "MtvDRVATWdGwEG16kPgY5bvWVqN5zbjzzVDGxJFSW4R"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
+      "So11111111111111111111111111111111111111112"
+    ],
+    "id": "SERgf3DMJpQxUifu7VoFKmfne73d2fDJxSrxUMrcNJB",
+    "isVerified": false,
+    "name": "eSOL-SOL",
+    "sources": [],
+    "underlyingTokens": [
+      "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
+      "So11111111111111111111111111111111111111112"
     ]
   },
   {
