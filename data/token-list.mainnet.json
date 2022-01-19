@@ -83,7 +83,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-01-18T23:04:03.247Z",
+  "timestamp": "2022-01-19T00:01:00.253Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -494,7 +494,7 @@
         "twitter": "https://twitter.com/UXDProtocol",
         "website": "https://uxd.fi/"
       },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT/logo.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT.png",
       "name": "UXD Stablecoin",
       "symbol": "UXD",
       "tags": ["stablecoin", "saber-mkt-usd"]

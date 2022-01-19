@@ -69517,5 +69517,27 @@
     "name": "Nylon Coin",
     "symbol": "NYLCN",
     "tags": ["social-token", "nft", "collectible-token", "rare-token"]
+  },
+  {
+    "address": "8HQAcKYzowK7R2rXhcx3zqTAJ2WtDsFhRvrYZQNck6jq",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "twitter": "https://twitter.com/nftsoltoken",
+      "website": "https://nftsol.club"
+    },
+    "logoURI": "https://raw.githubusercontent.com/NFTSOL/assets/main/assets/nftsol500.png",
+    "name": "NftSOl",
+    "symbol": "NSL",
+    "tags": ["nft-token"]
+  },
+  {
+    "address": "FZ3gSK53564jaFbwVsUYmmPXboLaMSW9xibRoreQVtYq",
+    "chainId": 101,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/curthulbert/crypto/main/logo-main.png",
+    "name": "Gecco Coin",
+    "symbol": "GECO",
+    "tags": ["social-token"]
   }
 ]
