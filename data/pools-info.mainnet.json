@@ -2400,7 +2400,12 @@
         }
       },
       "quarry": "GkiBc6Vzqhdm9jeQUDpkXfAtZdfpbfaaiwVTMqM3uMc3",
-      "newPoolID": "acusd_cash"
+      "newPoolID": "acusd_cash",
+      "deprecationInfo": {
+        "newPoolID": "acusd_cash",
+        "message": "The Celo Optics V1 bridge has been deprecated. Please migrate your assets over to Optics V2.",
+        "link": "https://medium.com/@mobiusmoney/migrating-to-the-optics-v2-bridge-5f098634d3e2"
+      }
     },
     {
       "id": "aedai",
