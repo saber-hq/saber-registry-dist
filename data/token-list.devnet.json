@@ -23,7 +23,7 @@
       "name": "stablecoin"
     }
   },
-  "timestamp": "2022-01-19T20:06:55.395Z",
+  "timestamp": "2022-01-25T21:31:57.904Z",
   "tokens": [
     {
       "address": "22Ni6MmCu5UdQiuVjptqrZWJDen245hmojAfgChbDa1P",
@@ -64,12 +64,14 @@
       "chainId": 103,
       "decimals": 6,
       "extensions": {
-        "currency": "USD"
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "website": "https://saber.so/"
       },
-      "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
-      "name": "USD Coin",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "name": "USD Coin (Saber Devnet)",
       "symbol": "USDC",
-      "tags": ["saber-mkt-usd"]
+      "tags": ["saber-mkt-usd", "stablecoin"]
     },
     {
       "address": "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
@@ -236,12 +238,14 @@
       "chainId": 103,
       "decimals": 6,
       "extensions": {
-        "currency": "USD"
+        "coingeckoId": "tether",
+        "currency": "USD",
+        "website": "https://saber.so/"
       },
-      "logoURI": "https://registry.saber.so/token-icons/usdt.svg",
-      "name": "Tether USD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+      "name": "USDT (Saber Devnet)",
       "symbol": "USDT",
-      "tags": ["saber-mkt-usd"]
+      "tags": ["saber-mkt-usd", "stablecoin"]
     },
     {
       "address": "FeKq4jkPt8YtNg12GRR5CtW2MP4eGYG1gBWK1nGuc1V",

@@ -6136,6 +6136,182 @@
       "newPoolID": "wdai"
     },
     {
+      "id": "everstake_sol",
+      "name": "eSOL-SOL",
+      "tokens": [
+        {
+          "address": "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "medium": "https://medium.com/everstake",
+            "twitter": "https://twitter.com/everstake_pool",
+            "website": "https://everstake.one",
+            "currency": "SOL"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM.png",
+          "name": "EverSOL staked SOL (eSOL)",
+          "symbol": "eSOL",
+          "tags": ["saber-mkt-sol"]
+        },
+        {
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "solana",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "website": "https://solana.com/",
+            "currency": "SOL"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "medium": "https://medium.com/everstake",
+            "twitter": "https://twitter.com/everstake_pool",
+            "website": "https://everstake.one",
+            "currency": "SOL"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM.png",
+          "name": "EverSOL staked SOL (eSOL)",
+          "symbol": "eSOL",
+          "tags": ["saber-mkt-sol"]
+        },
+        {
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "solana",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "website": "https://solana.com/",
+            "currency": "SOL"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "medium": "https://medium.com/everstake",
+            "twitter": "https://twitter.com/everstake_pool",
+            "website": "https://everstake.one",
+            "currency": "SOL"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM.png",
+          "name": "EverSOL staked SOL (eSOL)",
+          "symbol": "eSOL",
+          "tags": ["saber-mkt-sol"]
+        },
+        {
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "solana",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "website": "https://solana.com/",
+            "currency": "SOL"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "currency": "SOL",
+      "lpToken": {
+        "symbol": "eSOL-SOL",
+        "name": "Saber eSOL-SOL LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/everstake_sol",
+          "underlyingTokens": [
+            "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "8KYHNi7kyPDiy8FXUej4hrFMDgyvp2YFGQRZwPWvSTcm",
+      "swap": {
+        "config": {
+          "swapAccount": "SERgf3DMJpQxUifu7VoFKmfne73d2fDJxSrxUMrcNJB",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "MtvDRVATWdGwEG16kPgY5bvWVqN5zbjzzVDGxJFSW4R"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "3cQpFptcBqBz2BKDr78x9dFdEF64yAWehJTsXHFJUS7T",
+            "reserve": "AJfM2GZ2tTB8UtN2krcyR9xufRJEx2mhSCbJyMgPo3GU",
+            "mint": "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM"
+          },
+          "tokenB": {
+            "adminFeeAccount": "FKBNYjeRSiZH5zSLHTyBTCHs2i6mxurkfKBk6dKjbF1o",
+            "reserve": "F4yRYkufQvERZcEKnKjJwRLU1btiMBUuEwq46hfm11QD",
+            "mint": "So11111111111111111111111111111111111111112"
+          },
+          "poolTokenMint": "ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau",
+          "initialAmpFactor": "32",
+          "targetAmpFactor": "32",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "6yqzupus4AdYkghjsGNHxgRLNXW22oisAwCDDGGTWU4s"
+    },
+    {
       "id": "fei_cash",
       "name": "aeFEI-CASH",
       "tokens": [
@@ -10340,6 +10516,7 @@
             "coingeckoId": "socean-staked-sol",
             "discord": "https://discord.gg/k8ZcW27bq9",
             "medium": "https://medium.com/@soceanfinance",
+            "serumV3Usdc": "D52sefGCWho2nd5UGxWd7wCftAzeNEMNYZkdEPGEdQTb",
             "twitter": "https://twitter.com/soceanfinance",
             "website": "https://socean.fi/",
             "currency": "SOL",
@@ -10377,6 +10554,7 @@
             "coingeckoId": "socean-staked-sol",
             "discord": "https://discord.gg/k8ZcW27bq9",
             "medium": "https://medium.com/@soceanfinance",
+            "serumV3Usdc": "D52sefGCWho2nd5UGxWd7wCftAzeNEMNYZkdEPGEdQTb",
             "twitter": "https://twitter.com/soceanfinance",
             "website": "https://socean.fi/",
             "currency": "SOL",
@@ -10414,6 +10592,7 @@
             "coingeckoId": "socean-staked-sol",
             "discord": "https://discord.gg/k8ZcW27bq9",
             "medium": "https://medium.com/@soceanfinance",
+            "serumV3Usdc": "D52sefGCWho2nd5UGxWd7wCftAzeNEMNYZkdEPGEdQTb",
             "twitter": "https://twitter.com/soceanfinance",
             "website": "https://socean.fi/",
             "currency": "SOL",
@@ -10921,6 +11100,7 @@
           "chainId": 101,
           "decimals": 9,
           "extensions": {
+            "serumV3Usdc": "5F7LGsP1LPtaRV7vVKgxwNYX4Vf22xvuzyXjyar7jJqp",
             "twitter": "https://twitter.com/LidoFinance",
             "website": "https://solana.lido.fi/",
             "currency": "SOL",
@@ -10955,6 +11135,7 @@
           "chainId": 101,
           "decimals": 9,
           "extensions": {
+            "serumV3Usdc": "5F7LGsP1LPtaRV7vVKgxwNYX4Vf22xvuzyXjyar7jJqp",
             "twitter": "https://twitter.com/LidoFinance",
             "website": "https://solana.lido.fi/",
             "currency": "SOL",
@@ -10989,6 +11170,7 @@
           "chainId": 101,
           "decimals": 9,
           "extensions": {
+            "serumV3Usdc": "5F7LGsP1LPtaRV7vVKgxwNYX4Vf22xvuzyXjyar7jJqp",
             "twitter": "https://twitter.com/LidoFinance",
             "website": "https://solana.lido.fi/",
             "currency": "SOL",

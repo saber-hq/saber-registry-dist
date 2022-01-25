@@ -2501,8 +2501,8 @@
       "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
       "So11111111111111111111111111111111111111112"
     ],
-    "id": "SERgf3DMJpQxUifu7VoFKmfne73d2fDJxSrxUMrcNJB",
-    "isVerified": false,
+    "id": "everstake_sol",
+    "isVerified": true,
     "name": "eSOL-SOL",
     "sources": [],
     "underlyingTokens": [

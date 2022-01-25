@@ -96,18 +96,6 @@
     "decimals": 9
   },
   {
-    "id": "SERgf3DMJpQxUifu7VoFKmfne73d2fDJxSrxUMrcNJB",
-    "lpMint": "ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau",
-    "tokenA": "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
-    "tokenB": "So11111111111111111111111111111111111111112",
-    "authority": "MtvDRVATWdGwEG16kPgY5bvWVqN5zbjzzVDGxJFSW4R",
-    "reserveA": "AJfM2GZ2tTB8UtN2krcyR9xufRJEx2mhSCbJyMgPo3GU",
-    "reserveB": "F4yRYkufQvERZcEKnKjJwRLU1btiMBUuEwq46hfm11QD",
-    "tokenACoingecko": "solana",
-    "tokenBCoingecko": "solana",
-    "decimals": 9
-  },
-  {
     "id": "YakoMPuYrybnr9R7VC7hVGxMz94fJvPFCdZ4gmW61Ed",
     "lpMint": "2poo1dNgDaVaZbLsqq4cbNz9hWZ3MFz3hpErfT7SRWxu",
     "tokenA": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -513,6 +501,18 @@
     "reserveB": "PhfHJ2Yu99BsEjZrefhApqUnLUiExcECcUT1YLoNUUv",
     "tokenACoingecko": "dai",
     "tokenBCoingecko": "usd-coin",
+    "decimals": 9
+  },
+  {
+    "id": "everstake_sol",
+    "lpMint": "ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau",
+    "tokenA": "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
+    "tokenB": "So11111111111111111111111111111111111111112",
+    "authority": "MtvDRVATWdGwEG16kPgY5bvWVqN5zbjzzVDGxJFSW4R",
+    "reserveA": "AJfM2GZ2tTB8UtN2krcyR9xufRJEx2mhSCbJyMgPo3GU",
+    "reserveB": "F4yRYkufQvERZcEKnKjJwRLU1btiMBUuEwq46hfm11QD",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana",
     "decimals": 9
   },
   {
