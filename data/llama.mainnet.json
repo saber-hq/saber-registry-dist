@@ -895,7 +895,7 @@
     "authority": "HaNqpJUQeH2t6SB3tDJAtKV52fJM9rV1mGZrRrqMRZo1",
     "reserveA": "9zj4aX38Uxf3h6AUjS4EipWS8mwbEofasHAf3a1uKGds",
     "reserveB": "CwQDG1MWunn9cLNwcZLd8YBacweSR7ARo32w4mLua1Yr",
-    "tokenACoingecko": "usd-coin",
+    "tokenACoingecko": "uxd-stablecoin",
     "tokenBCoingecko": "usd-coin",
     "decimals": 6
   },

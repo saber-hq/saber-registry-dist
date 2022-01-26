@@ -1666,7 +1666,7 @@
     "id": "uxd",
     "isVerified": true,
     "name": "UXD-USDC",
-    "sources": [],
+    "sources": ["UXD"],
     "underlyingTokens": [
       "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -2504,7 +2504,7 @@
     "id": "everstake_sol",
     "isVerified": true,
     "name": "eSOL-SOL",
-    "sources": [],
+    "sources": ["Everstake"],
     "underlyingTokens": [
       "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
       "So11111111111111111111111111111111111111112"

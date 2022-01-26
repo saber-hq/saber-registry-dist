@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-01-25T21:31:57.324Z",
+  "timestamp": "2022-01-26T23:16:49.825Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -486,9 +486,12 @@
       "chainId": 101,
       "decimals": 6,
       "extensions": {
+        "coingeckoId": "uxd-stablecoin",
         "currency": "USD",
         "discord": "https://discord.com/invite/BHfpYmjsBM",
         "medium": "https://uxdprotocol.medium.com/",
+        "source": "UXD",
+        "sourceUrl": "https://app.uxd.fi/",
         "twitter": "https://twitter.com/UXDProtocol",
         "website": "https://uxd.fi/"
       },
@@ -845,6 +848,7 @@
       "chainId": 101,
       "decimals": 6,
       "extensions": {
+        "coingeckoId": "terrausd",
         "currency": "USD",
         "source": "allbridge",
         "sourceUrl": "https://app.allbridge.io/bridge"
@@ -2705,6 +2709,8 @@
       "extensions": {
         "currency": "SOL",
         "medium": "https://medium.com/everstake",
+        "source": "Everstake",
+        "sourceUrl": "https://eversol.one/app",
         "twitter": "https://twitter.com/everstake_pool",
         "website": "https://everstake.one"
       },

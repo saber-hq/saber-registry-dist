@@ -4780,17 +4780,18 @@
       "tokens": [
         {
           "address": "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
-          "chainId": 101,
+          "symbol": "atUST",
+          "name": "Wrapped UST (Allbridge from Terra)",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ.png",
-          "name": "Wrapped UST (Allbridge from Terra)",
-          "symbol": "atUST",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
+            "coingeckoId": "terrausd",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          }
+          },
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"]
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -4814,17 +4815,18 @@
       "tokenIcons": [
         {
           "address": "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
-          "chainId": 101,
+          "symbol": "atUST",
+          "name": "Wrapped UST (Allbridge from Terra)",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ.png",
-          "name": "Wrapped UST (Allbridge from Terra)",
-          "symbol": "atUST",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
+            "coingeckoId": "terrausd",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          }
+          },
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"]
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -4848,17 +4850,18 @@
       "underlyingIcons": [
         {
           "address": "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
-          "chainId": 101,
+          "symbol": "atUST",
+          "name": "Wrapped UST (Allbridge from Terra)",
           "decimals": 6,
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ.png",
-          "name": "Wrapped UST (Allbridge from Terra)",
-          "symbol": "atUST",
-          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
+            "coingeckoId": "terrausd",
             "currency": "USD",
             "source": "allbridge",
             "sourceUrl": "https://app.allbridge.io/bridge"
-          }
+          },
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"]
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -6147,7 +6150,9 @@
             "medium": "https://medium.com/everstake",
             "twitter": "https://twitter.com/everstake_pool",
             "website": "https://everstake.one",
-            "currency": "SOL"
+            "currency": "SOL",
+            "source": "Everstake",
+            "sourceUrl": "https://eversol.one/app"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM.png",
           "name": "EverSOL staked SOL (eSOL)",
@@ -6180,7 +6185,9 @@
             "medium": "https://medium.com/everstake",
             "twitter": "https://twitter.com/everstake_pool",
             "website": "https://everstake.one",
-            "currency": "SOL"
+            "currency": "SOL",
+            "source": "Everstake",
+            "sourceUrl": "https://eversol.one/app"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM.png",
           "name": "EverSOL staked SOL (eSOL)",
@@ -6213,7 +6220,9 @@
             "medium": "https://medium.com/everstake",
             "twitter": "https://twitter.com/everstake_pool",
             "website": "https://everstake.one",
-            "currency": "SOL"
+            "currency": "SOL",
+            "source": "Everstake",
+            "sourceUrl": "https://eversol.one/app"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM.png",
           "name": "EverSOL staked SOL (eSOL)",
@@ -12202,11 +12211,14 @@
           "chainId": 101,
           "decimals": 6,
           "extensions": {
+            "coingeckoId": "uxd-stablecoin",
             "discord": "https://discord.com/invite/BHfpYmjsBM",
             "medium": "https://uxdprotocol.medium.com/",
             "twitter": "https://twitter.com/UXDProtocol",
             "website": "https://uxd.fi/",
-            "currency": "USD"
+            "currency": "USD",
+            "source": "UXD",
+            "sourceUrl": "https://app.uxd.fi/"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT.png",
           "name": "UXD Stablecoin",
@@ -12235,11 +12247,14 @@
           "chainId": 101,
           "decimals": 6,
           "extensions": {
+            "coingeckoId": "uxd-stablecoin",
             "discord": "https://discord.com/invite/BHfpYmjsBM",
             "medium": "https://uxdprotocol.medium.com/",
             "twitter": "https://twitter.com/UXDProtocol",
             "website": "https://uxd.fi/",
-            "currency": "USD"
+            "currency": "USD",
+            "source": "UXD",
+            "sourceUrl": "https://app.uxd.fi/"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT.png",
           "name": "UXD Stablecoin",
@@ -12268,11 +12283,14 @@
           "chainId": 101,
           "decimals": 6,
           "extensions": {
+            "coingeckoId": "uxd-stablecoin",
             "discord": "https://discord.com/invite/BHfpYmjsBM",
             "medium": "https://uxdprotocol.medium.com/",
             "twitter": "https://twitter.com/UXDProtocol",
             "website": "https://uxd.fi/",
-            "currency": "USD"
+            "currency": "USD",
+            "source": "UXD",
+            "sourceUrl": "https://app.uxd.fi/"
           },
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT.png",
           "name": "UXD Stablecoin",

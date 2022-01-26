@@ -456,7 +456,6 @@
           "EXNW64GEf1ACC6xY9BtKRiunrs6GoJSXBdxWN2eTPmrF",
           "CfWX7o2TswwbxusJ4hCaPobu2jLCb1hfXuXJQjVq3jQF",
           "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu",
-          "9zj4aX38Uxf3h6AUjS4EipWS8mwbEofasHAf3a1uKGds",
           "CwQDG1MWunn9cLNwcZLd8YBacweSR7ARo32w4mLua1Yr",
           "3YB7hfpBdbQEuZqLGWVDpRPmeZWCUsrrWyqGXegnQ6Cg",
           "4DPCj6Z1DsG6HUtwSogBGqXEUxdEV5a8YVrrFtcnz7UW",
@@ -532,6 +531,15 @@
           "7mwozKdXTVZhSxcmtqP58rQ8MQx7dmFxr7mGaYsJ8Wws",
           "5RfXYWvxR9PUaedokXVxgJHDoD4xnLLauVtdJ27shPWG"
         ]
+      }
+    ]
+  },
+  {
+    "id": "uxd-stablecoin",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": ["9zj4aX38Uxf3h6AUjS4EipWS8mwbEofasHAf3a1uKGds"]
       }
     ]
   },
