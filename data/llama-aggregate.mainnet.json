@@ -69,11 +69,11 @@
       {
         "decimals": 6,
         "addresses": [
-          "AKD1Xb4SMBMJYurhrx26mGagKeLBQAHKxdo22n33pUX5",
           "417JcbvTQCRk2yowySN8MjtJuHSU8dTsGtVcFL4ECNCA",
           "7EifTDGz2nEU7DiE2UuuBX9Efkbdfad47mgr7Bqrqo8Y",
           "FXJq5PZ8XshMvhcfX2y3khJyWK6S5W7ftLeMgbuFgwDG",
-          "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu"
+          "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu",
+          "AKD1Xb4SMBMJYurhrx26mGagKeLBQAHKxdo22n33pUX5"
         ]
       },
       {
@@ -559,8 +559,8 @@
       {
         "decimals": 6,
         "addresses": [
-          "AzN6vs3nTunrapnJTZwD3EVALcLddfKC8hYexcWAtG9F",
-          "9zj4aX38Uxf3h6AUjS4EipWS8mwbEofasHAf3a1uKGds"
+          "9zj4aX38Uxf3h6AUjS4EipWS8mwbEofasHAf3a1uKGds",
+          "AzN6vs3nTunrapnJTZwD3EVALcLddfKC8hYexcWAtG9F"
         ]
       }
     ]

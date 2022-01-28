@@ -1059,10 +1059,11 @@
       "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
     ],
-    "id": "D1RyGbGF7iFupgaknywa5ThmdkdMwCJR7cQXfzTnNpFv",
-    "isVerified": false,
+    "id": "uxd_cash",
+    "isVerified": true,
     "name": "UXD-CASH",
     "sources": ["UXD", "Cashio"],
+    "tags": ["cashio"],
     "underlyingTokens": [
       "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"

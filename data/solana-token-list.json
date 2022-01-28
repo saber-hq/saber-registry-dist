@@ -77645,5 +77645,58 @@
       "eCommerce",
       "education"
     ]
+  },
+  {
+    "address": "BjFceVzhHSADeV9udJnS73sxdGFQ2VcFdi1meXhS1EzF",
+    "chainId": 101,
+    "decimals": 0,
+    "extensions": {
+      "discord": "https://discord.gg/chimpanions",
+      "twitter": "https://twitter.com/thechimpanions",
+      "website": "https://ondalab.io/"
+    },
+    "logoURI": "https://cdn.discordapp.com/attachments/935006072266162177/936269290955485214/unknown.png",
+    "name": "Chimpanions WL Token",
+    "symbol": "ChimpWL"
+  },
+  {
+    "address": "5PKB6ySL244r2CnRSDPBqe3yLYW72kY8DsWc82MufAtg",
+    "chainId": 103,
+    "decimals": 8,
+    "logoURI": "https://cdn.jsdelivr.net/gh/gowtham-k147/snkctoken/logo.png",
+    "name": "SnakeChain Coin",
+    "symbol": "SNKC",
+    "tags": ["social-token", "utility-token"]
+  },
+  {
+    "address": "69HKWsA5AuX1hc5MSyAF9N9iZP59BpNsUSPCB3XPKRrZ",
+    "chainId": 101,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/WEVR33/Crypto/main/IMG_7043.png",
+    "name": "Wumbo",
+    "symbol": "WMBO",
+    "tags": ["social-token"]
+  },
+  {
+    "address": "Fx8JwEA9B7YxJrKpjoMt6Cxxnukqj4TQPTkniGcB4WsA",
+    "chainId": 103,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/Hariienesh1901/Lunar/main/logo.png",
+    "name": "Lunar",
+    "symbol": "LNR",
+    "tags": ["social-token"]
+  },
+  {
+    "address": "9cyEStsrZF7LzqLzbNcuUeuat1NM4eHrBVApvkPBCQk4",
+    "chainId": 101,
+    "decimals": 9,
+    "extensions": {
+      "twitter": "https://twitter.com/_atadia_",
+      "website": "https://www.atadia.io/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/puppetmonkester/img-repo/main/logo.png",
+    "name": "ATA",
+    "symbol": "ATA",
+    "tags": ["utility-token"]
   }
 ]

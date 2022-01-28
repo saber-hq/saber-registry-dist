@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-01-28T07:57:00.891Z",
+  "timestamp": "2022-01-28T10:48:19.633Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -3404,12 +3404,12 @@
           "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "website": "https://app.saber.so/#/pools/D1RyGbGF7iFupgaknywa5ThmdkdMwCJR7cQXfzTnNpFv"
+        "website": "https://app.saber.so/#/pools/uxd_cash"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber UXD-CASH LP",
       "symbol": "UXD-CASH",
-      "tags": ["saber-stableswap-lp"]
+      "tags": ["saber-stableswap-lp", "saber-lp-cashio"]
     },
     {
       "address": "WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj",
