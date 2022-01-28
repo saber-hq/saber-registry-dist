@@ -64,6 +64,33 @@
     ]
   },
   {
+    "id": "cashio-dollar",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "AKD1Xb4SMBMJYurhrx26mGagKeLBQAHKxdo22n33pUX5",
+          "417JcbvTQCRk2yowySN8MjtJuHSU8dTsGtVcFL4ECNCA",
+          "7EifTDGz2nEU7DiE2UuuBX9Efkbdfad47mgr7Bqrqo8Y",
+          "FXJq5PZ8XshMvhcfX2y3khJyWK6S5W7ftLeMgbuFgwDG",
+          "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu"
+        ]
+      },
+      {
+        "decimals": 8,
+        "addresses": ["GQ2YPKtfdjPJexWKFak1m4T16yHyWtbqkoGGh52QGmRX"]
+      },
+      {
+        "decimals": 9,
+        "addresses": [
+          "7DH5gc5Hj1Kq4Y9z8ybEmAX1WPoHcunwiav1Za4A5J3J",
+          "7KFPJ4VJp9MYsHXpdm1QJhkNEdq5dFqLm6Z17gVsWTW2",
+          "13XGEQDqaKt7texUGawxfTGnz2j6pTt3k9HsosfJ9uZH"
+        ]
+      }
+    ]
+  },
+  {
     "id": "celo-dollar",
     "accounts": [
       {
@@ -448,14 +475,10 @@
           "Hb4gYexeZMbPY3yg1AM35HSWDyPfk4QyprYtvwHZx2C1",
           "4xkyD7AfGQDwsQMy9MosRRNGoVJ1zosNinesxg1TzHG7",
           "Cbm5gsQe3nSiCsFrvepVzMCD9xLK3ri9g3ypS2hdmVJ7",
-          "417JcbvTQCRk2yowySN8MjtJuHSU8dTsGtVcFL4ECNCA",
-          "7EifTDGz2nEU7DiE2UuuBX9Efkbdfad47mgr7Bqrqo8Y",
           "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr",
-          "FXJq5PZ8XshMvhcfX2y3khJyWK6S5W7ftLeMgbuFgwDG",
           "DLkWGoaeXw4oeGPnr2ecJze541HVKFhrhaW4iVSFEwET",
           "EXNW64GEf1ACC6xY9BtKRiunrs6GoJSXBdxWN2eTPmrF",
           "CfWX7o2TswwbxusJ4hCaPobu2jLCb1hfXuXJQjVq3jQF",
-          "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu",
           "CwQDG1MWunn9cLNwcZLd8YBacweSR7ARo32w4mLua1Yr",
           "3YB7hfpBdbQEuZqLGWVDpRPmeZWCUsrrWyqGXegnQ6Cg",
           "4DPCj6Z1DsG6HUtwSogBGqXEUxdEV5a8YVrrFtcnz7UW",
@@ -469,7 +492,6 @@
       {
         "decimals": 8,
         "addresses": [
-          "GQ2YPKtfdjPJexWKFak1m4T16yHyWtbqkoGGh52QGmRX",
           "AZCBmDBcFsA2jHHhfFJBTsWCHx9XnnKmGfFsue3ZVW1t",
           "Dxaf8xPBBQsasRKW5Aa4Sw2YrbfGofY9xZueyyF23FBW",
           "CcFHbafgYDZ8yA8Me1PdtDiVb2eeaS61LbqyKKK5CsNZ",
@@ -496,7 +518,6 @@
           "AZjEH1zWVx1UJ6udMyRijGTzPteuLnaY18yNNmprJEsh",
           "Caf8ypkSVR8xYnXNhjvfvdGCC7mrM3C11rz8Xi6NA6aK",
           "2ho8qEEie1UjVwWNBo9y4oAJZMyMLx8zPj9bxyUz6uWs",
-          "7DH5gc5Hj1Kq4Y9z8ybEmAX1WPoHcunwiav1Za4A5J3J",
           "AhFPQdu8GKBsxuhiH46UmCu1YpaLgNpoP325HnYtsgas",
           "A8wxWpT3aFEr2XqZp1kDmbxbFfcBE95UUmdsNTDBJYbT",
           "AAmpYbuixWiSqDaJBCqYEs1pb5SrbdPr9mgXrB58Q2e",
@@ -508,10 +529,8 @@
           "DRr3h3DF9wupahxh6vHMFCm6WGfmJWMrrBHoBvWAweAQ",
           "9YWiQh5d4jCtgMdzcGLv9bWgnLaFtzvDDh2nnhJdzhBX",
           "PhfHJ2Yu99BsEjZrefhApqUnLUiExcECcUT1YLoNUUv",
-          "7KFPJ4VJp9MYsHXpdm1QJhkNEdq5dFqLm6Z17gVsWTW2",
           "H8VggnHmuwd1wvwpT8eg9cUJFEfZ7HAaeYjgXrSm7A2u",
           "2K2kkXsouBHtWVjtcgkyiXd8eP3oVBvq1bTJzcVdLLr2",
-          "13XGEQDqaKt7texUGawxfTGnz2j6pTt3k9HsosfJ9uZH",
           "DJcFPaQjyW9Xkt7sXCbnEGj1yfykGYuLRUXFyS4LLZ5F",
           "D9yh4KAysxt9GLacVe4Wwh2XqghhcjTCSTV9HuM7TBJd"
         ]
@@ -539,7 +558,10 @@
     "accounts": [
       {
         "decimals": 6,
-        "addresses": ["9zj4aX38Uxf3h6AUjS4EipWS8mwbEofasHAf3a1uKGds"]
+        "addresses": [
+          "AzN6vs3nTunrapnJTZwD3EVALcLddfKC8hYexcWAtG9F",
+          "9zj4aX38Uxf3h6AUjS4EipWS8mwbEofasHAf3a1uKGds"
+        ]
       }
     ]
   },

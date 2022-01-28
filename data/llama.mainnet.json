@@ -48,6 +48,18 @@
     "decimals": 9
   },
   {
+    "id": "D1RyGbGF7iFupgaknywa5ThmdkdMwCJR7cQXfzTnNpFv",
+    "lpMint": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW",
+    "tokenA": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+    "tokenB": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+    "authority": "551oYh1ChowZfq2PiU7uxJugM4ywqf1JCPuTk9qEjiU5",
+    "reserveA": "AzN6vs3nTunrapnJTZwD3EVALcLddfKC8hYexcWAtG9F",
+    "reserveB": "AKD1Xb4SMBMJYurhrx26mGagKeLBQAHKxdo22n33pUX5",
+    "tokenACoingecko": "uxd-stablecoin",
+    "tokenBCoingecko": "cashio-dollar",
+    "decimals": 6
+  },
+  {
     "id": "HoNG9Z4jsA1qtkZhDRYBc67LF2cbusZahjyxXtXdKZgR",
     "lpMint": "FAnGeAVpzeZM1zBvrB4V836UQjQ5K3EJcc6b1Zx9Jm1U",
     "tokenA": "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
@@ -248,7 +260,7 @@
     "reserveA": "49EQuSDQNz7L4a22CcnWUxExSpYW4UXSKG985S2drLsR",
     "reserveB": "7DH5gc5Hj1Kq4Y9z8ybEmAX1WPoHcunwiav1Za4A5J3J",
     "tokenACoingecko": "celo-dollar",
-    "tokenBCoingecko": "usd-coin",
+    "tokenBCoingecko": "cashio-dollar",
     "decimals": 9
   },
   {
@@ -428,7 +440,7 @@
     "reserveA": "3k54TvpQN5R1MactdGnJSnXzu1Wozx76Pqvi1k6mQYPz",
     "reserveB": "417JcbvTQCRk2yowySN8MjtJuHSU8dTsGtVcFL4ECNCA",
     "tokenACoingecko": "terrausd",
-    "tokenBCoingecko": "usd-coin",
+    "tokenBCoingecko": "cashio-dollar",
     "decimals": 6
   },
   {
@@ -487,7 +499,7 @@
     "authority": "4ofEvMGQ87LFQ9aNw6pCDocFytWBH8BYqL7MwDKfQt1U",
     "reserveA": "7EifTDGz2nEU7DiE2UuuBX9Efkbdfad47mgr7Bqrqo8Y",
     "reserveB": "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr",
-    "tokenACoingecko": "usd-coin",
+    "tokenACoingecko": "cashio-dollar",
     "tokenBCoingecko": "usd-coin",
     "decimals": 6
   },
@@ -524,7 +536,7 @@
     "reserveA": "2jLa3LzFouE27ZQDnuHWUMs7ZMtkCNj8uatotPdi4Weg",
     "reserveB": "7KFPJ4VJp9MYsHXpdm1QJhkNEdq5dFqLm6Z17gVsWTW2",
     "tokenACoingecko": "fei-usd",
-    "tokenBCoingecko": "usd-coin",
+    "tokenBCoingecko": "cashio-dollar",
     "decimals": 9
   },
   {
@@ -560,7 +572,7 @@
     "reserveA": "DJZorZYrYhSwyw4oCBksDZVaUKvQtiaf5H1g285VPgqg",
     "reserveB": "GQ2YPKtfdjPJexWKFak1m4T16yHyWtbqkoGGh52QGmRX",
     "tokenACoingecko": "frax",
-    "tokenBCoingecko": "usd-coin",
+    "tokenBCoingecko": "cashio-dollar",
     "decimals": 8
   },
   {
@@ -680,7 +692,7 @@
     "reserveA": "BDd5iphdX4nf3ZbTuERZpzqApDyBXDYF4DF51KHihT5n",
     "reserveB": "13XGEQDqaKt7texUGawxfTGnz2j6pTt3k9HsosfJ9uZH",
     "tokenACoingecko": "magic-internet-money",
-    "tokenBCoingecko": "usd-coin",
+    "tokenBCoingecko": "cashio-dollar",
     "decimals": 9
   },
   {
@@ -728,7 +740,7 @@
     "reserveA": "F36eiDG64zYoAA9vtTvV4EWcTqYNUku7hzhUyTYcQSin",
     "reserveB": "FXJq5PZ8XshMvhcfX2y3khJyWK6S5W7ftLeMgbuFgwDG",
     "tokenACoingecko": "parrot-usd",
-    "tokenBCoingecko": "usd-coin",
+    "tokenBCoingecko": "cashio-dollar",
     "decimals": 6
   },
   {
@@ -884,7 +896,7 @@
     "reserveA": "JAjt8kZkTsxKA3VKnmszKHQwzuNSAXXhN3Y4NZ2kEoLU",
     "reserveB": "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu",
     "tokenACoingecko": "terrausd",
-    "tokenBCoingecko": "usd-coin",
+    "tokenBCoingecko": "cashio-dollar",
     "decimals": 6
   },
   {

@@ -1043,6 +1043,34 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW",
+      "mergePool": "9g3f1SXaY2CBV19YdKeFK7mRdHfHv9nCDdWjhVxqDDE1",
+      "quarry": "Fp3eynmHDXTkCtosY9g7fhhfG3HFsCepyKP2UgaZBFAG",
+      "reserves": [
+        "AzN6vs3nTunrapnJTZwD3EVALcLddfKC8hYexcWAtG9F",
+        "AKD1Xb4SMBMJYurhrx26mGagKeLBQAHKxdo22n33pUX5"
+      ],
+      "swapAccount": "D1RyGbGF7iFupgaknywa5ThmdkdMwCJR7cQXfzTnNpFv",
+      "swapAuthority": "551oYh1ChowZfq2PiU7uxJugM4ywqf1JCPuTk9qEjiU5"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+      "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+    ],
+    "id": "D1RyGbGF7iFupgaknywa5ThmdkdMwCJR7cQXfzTnNpFv",
+    "isVerified": false,
+    "name": "UXD-CASH",
+    "sources": ["UXD", "Cashio"],
+    "underlyingTokens": [
+      "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+      "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
       "mergePool": "5v5xLneaeuVAxGCuAEmwBdjvDDPrxRmw6R8xjA9urDyr",
       "quarry": "GBkRWmWtDtHwnjhhDXGuHTDbVNQAs14nbUkwNpWXE2xp",
