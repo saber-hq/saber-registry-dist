@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-01-28T10:48:19.633Z",
+  "timestamp": "2022-01-29T00:08:15.352Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -765,13 +765,16 @@
       "extensions": {
         "coingeckoId": "mimatic",
         "currency": "USD",
+        "discord": "https://discord.com/invite/mQq55j65xJ",
         "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
+        "sourceUrl": "https://app.allbridge.io/bridge",
+        "twitter": "https://twitter.com/QiDaoProtocol",
+        "website": "https://mai.finance/"
       },
-      "logoURI": "https://registry.saber.so/token-icons/mai.svg",
-      "name": "MAI (miMATIC)",
+      "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png",
+      "name": "MAI Stablecoin",
       "symbol": "MAI",
-      "tags": ["saber-mkt-usd"]
+      "tags": ["stablecoin", "saber-mkt-usd"]
     },
     {
       "address": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
@@ -2652,6 +2655,40 @@
       "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
     },
     {
+      "address": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "website": "https://app.saber.so/#/pools/usdh"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber USDH-USDC LP",
+      "symbol": "USDH-USDC",
+      "tags": ["saber-stableswap-lp"]
+    },
+    {
+      "address": "HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "website": "https://app.saber.so/#/pools/usdh_cash"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber USDH-CASH LP",
+      "symbol": "USDH-CASH",
+      "tags": ["saber-stableswap-lp", "saber-lp-cashio"]
+    },
+    {
       "address": "HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS",
       "chainId": 101,
       "decimals": 8,
@@ -3254,6 +3291,21 @@
       "name": "Saber USDCet-USDC LP",
       "symbol": "USDCet-USDC",
       "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"]
+    },
+    {
+      "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "currency": "USD",
+        "discord": "https://discord.gg/d44A8WvK",
+        "twitter": "https://twitter.com/hubbleprotocol",
+        "website": "https://hubbleprotocol.io/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX/usdh.svg",
+      "name": "USDH Hubble Stablecoin",
+      "symbol": "USDH",
+      "tags": ["stablecoin", "saber-mkt-usd"]
     },
     {
       "address": "USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz",

@@ -1933,6 +1933,63 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59",
+      "mergePool": "2AnYNXQGTz1RhR84S4Sv4hQbPqUiztEKy2DuG4nY5CMJ",
+      "quarry": "EJTo9MTgthEYZE7BSwsgLC5dDocWhka5VpsqhoGSp598",
+      "reserves": [
+        "9KvCDR1hzYS6ziAR7acAsX7yU2mSBWnhXgdyobma2fNq",
+        "732AKGENciwszwAC876DDfTL5vPN3FTzgy5CB7xmXn8v"
+      ],
+      "swapAccount": "MAR1pJUGGmgS2WhSinrb4ta1F9w5mLhBXpoCX4jrSw7",
+      "swapAuthority": "GkMw7hsfDriGqu1DhYkfeAr41eG4yx74uPaiB2cGcyGh"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+      "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+    ],
+    "id": "usdh_cash",
+    "isVerified": true,
+    "name": "USDH-CASH",
+    "sources": ["Cashio"],
+    "tags": ["cashio"],
+    "underlyingTokens": [
+      "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+      "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS",
+      "mergePool": "H7Ug5ue93LFtJCgLmMtdK6uukPJY2zjgohyRcHLubWR5",
+      "quarry": "H6TWopq51MkjYqtCy8xTRJrzm88esDWoNVpL87Akybwn",
+      "reserves": [
+        "6YjT74rmcfCpw8LSjPNx5JTmZoYLGrTKnf9arfSgZ4SR",
+        "F8GSmi3vA8M8TsybLya1LQ4n1aFHCRbZ6k437PeTdXtg"
+      ],
+      "swapAccount": "MARpDPs5A7XiyCWPNH8GsMWPLxmwNn9SBmKvPa9LzgA",
+      "swapAuthority": "H66xGa3c5wvg5ZGF7RCwskf52iH42C8u8v8TPwQXwc3m"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ],
+    "id": "usdh",
+    "isVerified": true,
+    "name": "USDH-USDC",
+    "sources": [],
+    "underlyingTokens": [
+      "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "WLPyXq7WRfdWLiP4fvRfSisrfDzLiPmCeVTE6okKQWE",
       "mergePool": "W1iD2Prhom5QaHpmLNbXAj2FbHwXwGuQJXtQyjAQ8rF",
       "quarry": "Hutnp9RAkAaam3SGorHCjzYghrATZ9gkQTWdJ51QgXv",

@@ -852,6 +852,30 @@
     "decimals": 6
   },
   {
+    "id": "usdh",
+    "lpMint": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS",
+    "tokenA": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+    "tokenB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "authority": "H66xGa3c5wvg5ZGF7RCwskf52iH42C8u8v8TPwQXwc3m",
+    "reserveA": "6YjT74rmcfCpw8LSjPNx5JTmZoYLGrTKnf9arfSgZ4SR",
+    "reserveB": "F8GSmi3vA8M8TsybLya1LQ4n1aFHCRbZ6k437PeTdXtg",
+    "tokenACoingecko": "usd-coin",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 6
+  },
+  {
+    "id": "usdh_cash",
+    "lpMint": "HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59",
+    "tokenA": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+    "tokenB": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+    "authority": "GkMw7hsfDriGqu1DhYkfeAr41eG4yx74uPaiB2cGcyGh",
+    "reserveA": "9KvCDR1hzYS6ziAR7acAsX7yU2mSBWnhXgdyobma2fNq",
+    "reserveB": "732AKGENciwszwAC876DDfTL5vPN3FTzgy5CB7xmXn8v",
+    "tokenACoingecko": "usd-coin",
+    "tokenBCoingecko": "cashio-dollar",
+    "decimals": 6
+  },
+  {
     "id": "usdk",
     "lpMint": "uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW",
     "tokenA": "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
