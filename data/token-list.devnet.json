@@ -23,7 +23,7 @@
       "name": "stablecoin"
     }
   },
-  "timestamp": "2022-01-29T00:27:23.853Z",
+  "timestamp": "2022-01-30T08:20:44.880Z",
   "tokens": [
     {
       "address": "22Ni6MmCu5UdQiuVjptqrZWJDen245hmojAfgChbDa1P",
@@ -332,7 +332,7 @@
       "chainId": 103,
       "decimals": 6,
       "extensions": {},
-      "logoURI": "/tokens/sbr.svg",
+      "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
       "name": "Saber Protocol Token",
       "symbol": "SBR",
       "tags": []
