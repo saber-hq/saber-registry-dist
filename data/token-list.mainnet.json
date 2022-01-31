@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-01-31T07:50:12.344Z",
+  "timestamp": "2022-01-31T21:45:37.097Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -3299,6 +3299,8 @@
       "extensions": {
         "currency": "USD",
         "discord": "https://discord.gg/d44A8WvK",
+        "source": "Hubble",
+        "sourceUrl": "https://app.hubbleprotocol.io/",
         "twitter": "https://twitter.com/hubbleprotocol",
         "website": "https://hubbleprotocol.io/"
       },

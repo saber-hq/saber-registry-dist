@@ -1952,7 +1952,7 @@
     "id": "usdh_cash",
     "isVerified": true,
     "name": "USDH-CASH",
-    "sources": ["Cashio"],
+    "sources": ["Hubble", "Cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
       "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
@@ -1981,7 +1981,7 @@
     "id": "usdh",
     "isVerified": true,
     "name": "USDH-USDC",
-    "sources": [],
+    "sources": ["Hubble"],
     "underlyingTokens": [
       "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
