@@ -1768,7 +1768,7 @@
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1.svg",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1.png",
           "name": "agEUR (Wormhole)",
           "symbol": "agEUR",
           "tags": [
@@ -4886,18 +4886,18 @@
       "lpToken": {
         "symbol": "atUST-CASH",
         "name": "Saber atUST-CASH LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA.png",
         "decimals": 6,
         "address": "ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA",
         "chainId": 101,
         "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/atust_cash",
+          "source": "saber",
           "underlyingTokens": [
             "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
             "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
           ],
-          "source": "saber"
+          "website": "https://app.saber.so/#/pools/atust_cash"
         }
       },
       "plotKey": "4Hkjh2a8FSLhCpG7A5mDigxFwqxrtakn9pGmPWGR9Lbf",
@@ -5083,7 +5083,7 @@
       "lpToken": {
         "symbol": "atLUNA-LUNA",
         "name": "Saber atLUNA-LUNA LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY.png",
         "decimals": 9,
         "address": "KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY",
         "chainId": 101,
@@ -5093,12 +5093,12 @@
           "saber-lp-wormhole-v2"
         ],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/atust_wust",
+          "source": "saber",
           "underlyingTokens": [
             "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
             "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
           ],
-          "source": "saber"
+          "website": "https://app.saber.so/#/pools/atust_wust"
         }
       },
       "plotKey": "6aWPyMzQsU3ZjyNkgMvbJrJ8mKPVQmE7SnQuz67t7fhP",
@@ -6250,18 +6250,18 @@
       "lpToken": {
         "symbol": "eSOL-SOL",
         "name": "Saber eSOL-SOL LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau.png",
         "decimals": 9,
         "address": "ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau",
         "chainId": 101,
         "tags": ["saber-stableswap-lp"],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/everstake_sol",
+          "source": "saber",
           "underlyingTokens": [
             "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
             "So11111111111111111111111111111111111111112"
           ],
-          "source": "saber"
+          "website": "https://app.saber.so/#/pools/everstake_sol"
         }
       },
       "plotKey": "8KYHNi7kyPDiy8FXUej4hrFMDgyvp2YFGQRZwPWvSTcm",
@@ -8656,7 +8656,7 @@
         {
           "symbol": "MAI",
           "name": "MAI Stablecoin",
-          "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7.png",
           "address": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
           "decimals": 9,
           "extensions": {
@@ -8693,7 +8693,7 @@
         {
           "symbol": "MAI",
           "name": "MAI Stablecoin",
-          "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7.png",
           "address": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
           "decimals": 9,
           "extensions": {
@@ -8730,7 +8730,7 @@
         {
           "symbol": "MAI",
           "name": "MAI Stablecoin",
-          "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7.png",
           "address": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
           "decimals": 9,
           "extensions": {
@@ -10860,18 +10860,18 @@
       "lpToken": {
         "symbol": "soFTT-FTT",
         "name": "Saber soFTT-FTT LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg.png",
         "decimals": 8,
         "address": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
         "chainId": 101,
         "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/sollet_ftt",
+          "source": "saber",
           "underlyingTokens": [
             "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
             "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
           ],
-          "source": "saber"
+          "website": "https://app.saber.so/#/pools/sollet_ftt"
         }
       },
       "plotKey": "FXKgQqFQZcz3X4d3cQ1o7VuJxRAxzhn2Gqxy1DVhYKH5",
@@ -11666,7 +11666,7 @@
             "website": "https://hubbleprotocol.io/",
             "currency": "USD"
           },
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX/usdh.svg",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
           "name": "USDH Hubble Stablecoin",
           "symbol": "USDH",
           "tags": ["stablecoin", "saber-mkt-usd"]
@@ -11698,7 +11698,7 @@
             "website": "https://hubbleprotocol.io/",
             "currency": "USD"
           },
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX/usdh.svg",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
           "name": "USDH Hubble Stablecoin",
           "symbol": "USDH",
           "tags": ["stablecoin", "saber-mkt-usd"]
@@ -11730,7 +11730,7 @@
             "website": "https://hubbleprotocol.io/",
             "currency": "USD"
           },
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX/usdh.svg",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
           "name": "USDH Hubble Stablecoin",
           "symbol": "USDH",
           "tags": ["stablecoin", "saber-mkt-usd"]
@@ -11755,18 +11755,18 @@
       "lpToken": {
         "symbol": "USDH-USDC",
         "name": "Saber USDH-USDC LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS.png",
         "decimals": 6,
         "address": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS",
         "chainId": 101,
         "tags": ["saber-stableswap-lp"],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/usdh",
+          "source": "saber",
           "underlyingTokens": [
             "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
             "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
           ],
-          "source": "saber"
+          "website": "https://app.saber.so/#/pools/usdh"
         }
       },
       "plotKey": "ANheWkAbXdr51fgeywyzrXg3xmERHVNKPZfnCKZ6Mzv1",
@@ -11839,7 +11839,7 @@
             "website": "https://hubbleprotocol.io/",
             "currency": "USD"
           },
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX/usdh.svg",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
           "name": "USDH Hubble Stablecoin",
           "symbol": "USDH",
           "tags": ["stablecoin", "saber-mkt-usd"]
@@ -11874,7 +11874,7 @@
             "website": "https://hubbleprotocol.io/",
             "currency": "USD"
           },
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX/usdh.svg",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
           "name": "USDH Hubble Stablecoin",
           "symbol": "USDH",
           "tags": ["stablecoin", "saber-mkt-usd"]
@@ -11909,7 +11909,7 @@
             "website": "https://hubbleprotocol.io/",
             "currency": "USD"
           },
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX/usdh.svg",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
           "name": "USDH Hubble Stablecoin",
           "symbol": "USDH",
           "tags": ["stablecoin", "saber-mkt-usd"]
@@ -11937,18 +11937,18 @@
       "lpToken": {
         "symbol": "USDH-CASH",
         "name": "Saber USDH-CASH LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59.png",
         "decimals": 6,
         "address": "HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59",
         "chainId": 101,
         "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/usdh_cash",
+          "source": "saber",
           "underlyingTokens": [
             "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
             "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
           ],
-          "source": "saber"
+          "website": "https://app.saber.so/#/pools/usdh_cash"
         }
       },
       "plotKey": "4xoc4uar2ZVuriDFjeg65xUuq5XsiDZ4tDCTTccCWJQk",
@@ -12681,18 +12681,18 @@
       "lpToken": {
         "symbol": "UXD-USDC",
         "name": "Saber UXD-USDC LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ.png",
         "decimals": 6,
         "address": "UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ",
         "chainId": 101,
         "tags": ["saber-stableswap-lp"],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/uxd",
+          "source": "saber",
           "underlyingTokens": [
             "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
             "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
           ],
-          "source": "saber"
+          "website": "https://app.saber.so/#/pools/uxd"
         }
       },
       "plotKey": "FqTNQwqqGkWh7R5vtKqzS7JXcrTRA9ECTLeivpYu658d",
@@ -12875,18 +12875,18 @@
       "lpToken": {
         "symbol": "UXD-CASH",
         "name": "Saber UXD-CASH LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW.png",
         "decimals": 6,
         "address": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW",
         "chainId": 101,
         "tags": ["saber-stableswap-lp", "saber-lp-cashio"],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/uxd_cash",
+          "source": "saber",
           "underlyingTokens": [
             "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
             "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
           ],
-          "source": "saber"
+          "website": "https://app.saber.so/#/pools/uxd_cash"
         }
       },
       "plotKey": "DzQFtjDpNbtT2PmiSnUaGX3MwsEgYTiNSdhXFvx7zLMf",
@@ -17211,18 +17211,18 @@
       "lpToken": {
         "symbol": "xLUNA-LUNA",
         "name": "Saber xLUNA-LUNA LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP.png",
         "decimals": 6,
         "address": "LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP",
         "chainId": 101,
         "tags": ["saber-stableswap-lp", "saber-lp-synthetify"],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/xluna",
+          "source": "saber",
           "underlyingTokens": [
             "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
             "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
           ],
-          "source": "saber"
+          "website": "https://app.saber.so/#/pools/xluna"
         }
       },
       "plotKey": "2BVYbNHN893FSQKfJpx5MBzKDCkGb8aJSpUwMydrMMtT",

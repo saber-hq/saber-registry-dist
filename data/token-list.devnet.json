@@ -23,7 +23,7 @@
       "name": "stablecoin"
     }
   },
-  "timestamp": "2022-01-30T08:20:44.880Z",
+  "timestamp": "2022-01-31T07:50:12.998Z",
   "tokens": [
     {
       "address": "22Ni6MmCu5UdQiuVjptqrZWJDen245hmojAfgChbDa1P",
@@ -68,7 +68,7 @@
         "currency": "USD",
         "website": "https://saber.so/"
       },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8.png",
       "name": "USD Coin (Saber Devnet)",
       "symbol": "USDC",
       "tags": ["saber-mkt-usd", "stablecoin"]
@@ -242,7 +242,7 @@
         "currency": "USD",
         "website": "https://saber.so/"
       },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS.svg",
       "name": "USDT (Saber Devnet)",
       "symbol": "USDT",
       "tags": ["saber-mkt-usd", "stablecoin"]
