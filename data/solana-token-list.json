@@ -87411,6 +87411,15 @@
     "tags": ["utility-token"]
   },
   {
+    "address": "CCWhF5ST5AH6VZ9qQKbMvKZD9DrX2SkhTNG6Nr67m5jA",
+    "chainId": 101,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/Faceless87/whacktoken/main/logo.png",
+    "name": "Whack Token",
+    "symbol": "WAKT",
+    "tags": ["social-token"]
+  },
+  {
     "address": "ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA",
     "chainId": 101,
     "decimals": 6,
@@ -87515,6 +87524,23 @@
     "name": "Saber xLUNA-LUNA LP",
     "symbol": "xLUNA-LUNA",
     "tags": ["saber-stableswap-lp", "saber-lp-synthetify"]
+  },
+  {
+    "address": "USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "source": "saber",
+      "underlyingTokens": [
+        "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+        "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+      ],
+      "website": "https://app.saber.so/#/pools/solust"
+    },
+    "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c/icon.png",
+    "name": "Saber solUST-UST LP",
+    "symbol": "solUST-UST",
+    "tags": ["saber-stableswap-lp"]
   },
   {
     "address": "UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ",

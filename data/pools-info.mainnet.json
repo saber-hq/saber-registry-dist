@@ -9404,6 +9404,209 @@
       "quarry": "6rX9t63n4fWGr5AAJ2hEsuGH47UEee8dthZcJMrmbai2"
     },
     {
+      "id": "msol_jsol",
+      "name": "mSOL-JSOL",
+      "tokens": [
+        {
+          "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "msol",
+            "discord": "https://discord.gg/mGqZA5pjRN",
+            "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
+            "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance",
+            "currency": "SOL",
+            "source": "marinade",
+            "sourceUrl": "https://marinade.finance/app/staking"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
+          "name": "Marinade staked SOL (mSOL)",
+          "symbol": "mSOL",
+          "tags": ["saber-mkt-sol"]
+        },
+        {
+          "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "discord": "https://discord.gg/qR4BA9QXVR",
+            "telegram": "https://t.me/jpoolsolana",
+            "twitter": "https://twitter.com/JPoolSolana",
+            "website": "https://jpool.one/",
+            "currency": "SOL",
+            "source": "jpool",
+            "sourceUrl": "https://jpool.one/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn.svg",
+          "name": "JPOOL Solana Token",
+          "symbol": "JSOL",
+          "tags": ["stake-pool-token", "utility-token", "saber-mkt-sol"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "msol",
+            "discord": "https://discord.gg/mGqZA5pjRN",
+            "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
+            "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance",
+            "currency": "SOL",
+            "source": "marinade",
+            "sourceUrl": "https://marinade.finance/app/staking"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
+          "name": "Marinade staked SOL (mSOL)",
+          "symbol": "mSOL",
+          "tags": ["saber-mkt-sol"]
+        },
+        {
+          "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "discord": "https://discord.gg/qR4BA9QXVR",
+            "telegram": "https://t.me/jpoolsolana",
+            "twitter": "https://twitter.com/JPoolSolana",
+            "website": "https://jpool.one/",
+            "currency": "SOL",
+            "source": "jpool",
+            "sourceUrl": "https://jpool.one/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn.svg",
+          "name": "JPOOL Solana Token",
+          "symbol": "JSOL",
+          "tags": ["stake-pool-token", "utility-token", "saber-mkt-sol"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "msol",
+            "discord": "https://discord.gg/mGqZA5pjRN",
+            "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
+            "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance",
+            "currency": "SOL",
+            "source": "marinade",
+            "sourceUrl": "https://marinade.finance/app/staking"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
+          "name": "Marinade staked SOL (mSOL)",
+          "symbol": "mSOL",
+          "tags": ["saber-mkt-sol"]
+        },
+        {
+          "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "discord": "https://discord.gg/qR4BA9QXVR",
+            "telegram": "https://t.me/jpoolsolana",
+            "twitter": "https://twitter.com/JPoolSolana",
+            "website": "https://jpool.one/",
+            "currency": "SOL",
+            "source": "jpool",
+            "sourceUrl": "https://jpool.one/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn.svg",
+          "name": "JPOOL Solana Token",
+          "symbol": "JSOL",
+          "tags": ["stake-pool-token", "utility-token", "saber-mkt-sol"]
+        }
+      ],
+      "currency": "SOL",
+      "lpToken": {
+        "symbol": "mSOL-JSOL",
+        "name": "Saber mSOL-JSOL LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "SoLWs9Av7ss1jHXqVLDVCBiDaAYuT4o5uRNMMuBFhB9",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/msol_jsol",
+          "underlyingTokens": [
+            "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+            "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "GQsqaGP4fAvaNKqguNb2e8ZnjfA7LVzTtFJucMbTEv79",
+      "swap": {
+        "config": {
+          "swapAccount": "SoNcU2iwHMw6dGzsYNQkYFkUjwN1UdAjrWVRnStrZu2",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "HdyZaku984169KxKtjwyAB2pxPc77tjR1Bqh18DX1hzJ"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "FQ9RAeQcyk476sGxc7Kt3zh5MEyTUCJ5eci5bDgbVQqC",
+            "reserve": "8ivTTid27jZnYNc4w3CTA1Z6QS2twsFb8WMwUabeDJgc",
+            "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+          },
+          "tokenB": {
+            "adminFeeAccount": "HAsRFZDNB9vscgKfQmScKrANgjFrTKMknAzDxXpSPgau",
+            "reserve": "CyXm53PMvHCbeXJBykU46Rcbo28xk5srhMZFg7gv6EYB",
+            "mint": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+          },
+          "poolTokenMint": "SoLWs9Av7ss1jHXqVLDVCBiDaAYuT4o5uRNMMuBFhB9",
+          "initialAmpFactor": "19",
+          "targetAmpFactor": "19",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "22qZzDhBckZxeZ2nojZbPqoZRoTq2NtUwDEv1jZEx2qK"
+    },
+    {
       "id": "msol_sol",
       "name": "mSOL-SOL",
       "tokens": [
@@ -10553,6 +10756,203 @@
       "quarry": "8uEjJsJ5cCbz7m4K9jZEmQB6cL3SM3V2suc6fazkgWan"
     },
     {
+      "id": "scn_jsol",
+      "name": "scnSOL-JSOL",
+      "tokens": [
+        {
+          "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "socean-staked-sol",
+            "discord": "https://discord.gg/k8ZcW27bq9",
+            "medium": "https://medium.com/@soceanfinance",
+            "serumV3Usdc": "D52sefGCWho2nd5UGxWd7wCftAzeNEMNYZkdEPGEdQTb",
+            "twitter": "https://twitter.com/soceanfinance",
+            "website": "https://socean.fi/",
+            "currency": "SOL",
+            "source": "socean",
+            "sourceUrl": "https://www.socean.fi/app"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
+          "name": "Socean staked SOL",
+          "symbol": "scnSOL",
+          "tags": ["stake-pool", "saber-mkt-sol"]
+        },
+        {
+          "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "discord": "https://discord.gg/qR4BA9QXVR",
+            "telegram": "https://t.me/jpoolsolana",
+            "twitter": "https://twitter.com/JPoolSolana",
+            "website": "https://jpool.one/",
+            "currency": "SOL",
+            "source": "jpool",
+            "sourceUrl": "https://jpool.one/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn.svg",
+          "name": "JPOOL Solana Token",
+          "symbol": "JSOL",
+          "tags": ["stake-pool-token", "utility-token", "saber-mkt-sol"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "socean-staked-sol",
+            "discord": "https://discord.gg/k8ZcW27bq9",
+            "medium": "https://medium.com/@soceanfinance",
+            "serumV3Usdc": "D52sefGCWho2nd5UGxWd7wCftAzeNEMNYZkdEPGEdQTb",
+            "twitter": "https://twitter.com/soceanfinance",
+            "website": "https://socean.fi/",
+            "currency": "SOL",
+            "source": "socean",
+            "sourceUrl": "https://www.socean.fi/app"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
+          "name": "Socean staked SOL",
+          "symbol": "scnSOL",
+          "tags": ["stake-pool", "saber-mkt-sol"]
+        },
+        {
+          "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "discord": "https://discord.gg/qR4BA9QXVR",
+            "telegram": "https://t.me/jpoolsolana",
+            "twitter": "https://twitter.com/JPoolSolana",
+            "website": "https://jpool.one/",
+            "currency": "SOL",
+            "source": "jpool",
+            "sourceUrl": "https://jpool.one/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn.svg",
+          "name": "JPOOL Solana Token",
+          "symbol": "JSOL",
+          "tags": ["stake-pool-token", "utility-token", "saber-mkt-sol"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "socean-staked-sol",
+            "discord": "https://discord.gg/k8ZcW27bq9",
+            "medium": "https://medium.com/@soceanfinance",
+            "serumV3Usdc": "D52sefGCWho2nd5UGxWd7wCftAzeNEMNYZkdEPGEdQTb",
+            "twitter": "https://twitter.com/soceanfinance",
+            "website": "https://socean.fi/",
+            "currency": "SOL",
+            "source": "socean",
+            "sourceUrl": "https://www.socean.fi/app"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
+          "name": "Socean staked SOL",
+          "symbol": "scnSOL",
+          "tags": ["stake-pool", "saber-mkt-sol"]
+        },
+        {
+          "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "discord": "https://discord.gg/qR4BA9QXVR",
+            "telegram": "https://t.me/jpoolsolana",
+            "twitter": "https://twitter.com/JPoolSolana",
+            "website": "https://jpool.one/",
+            "currency": "SOL",
+            "source": "jpool",
+            "sourceUrl": "https://jpool.one/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn.svg",
+          "name": "JPOOL Solana Token",
+          "symbol": "JSOL",
+          "tags": ["stake-pool-token", "utility-token", "saber-mkt-sol"]
+        }
+      ],
+      "currency": "SOL",
+      "lpToken": {
+        "symbol": "scnSOL-JSOL",
+        "name": "Saber scnSOL-JSOL LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/scn_jsol",
+          "underlyingTokens": [
+            "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+            "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "8y5Dd14LDVv4oG3RRzUe32oLLW7qgHN7dWjeCYqVUdnW",
+      "swap": {
+        "config": {
+          "swapAccount": "SoN9GaFpSXfpyR5dth3x7PHPVhvJMpQqqDJfCSmPv1t",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "F1YPYbRoKaM16GL52MSa2rRuoK66KjAtzSKXcexj7yTC"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 252,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "B5QhaFfhGc3JGugKz3JGPhXg6n6WypBpw4qH6fZFryuN",
+            "reserve": "9kZ9iS68ViMPtoeqtnhAKuF2iqVyfHPdZHoUNdwCELr",
+            "mint": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm"
+          },
+          "tokenB": {
+            "adminFeeAccount": "9sjRSm31MKQvur71DTGFPLZoGpRLy4SLkprpW5ESCV7L",
+            "reserve": "BBhm5fJLjw3HRzjtKB8uMEYjGhY6EDm9co3cqpjrSzB9",
+            "mint": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+          },
+          "poolTokenMint": "SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca",
+          "initialAmpFactor": "19",
+          "targetAmpFactor": "19",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "4TL78ccjwJawVbRBLuFwXdziVs3pC5v7S4W4cRHzVm45"
+    },
+    {
       "id": "socean",
       "name": "scnSOL-SOL",
       "tokens": [
@@ -11084,12 +11484,12 @@
         "chainId": 101,
         "tags": ["saber-stableswap-lp"],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/solust",
+          "source": "saber",
           "underlyingTokens": [
             "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
             "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
           ],
-          "source": "saber"
+          "website": "https://app.saber.so/#/pools/solust"
         }
       },
       "plotKey": "8xgoxX6hW6E1zC6k7HBc9hyAVUHFUTk11MFYcTzVG3r3",

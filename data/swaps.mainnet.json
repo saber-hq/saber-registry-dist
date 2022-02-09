@@ -2643,8 +2643,8 @@
       "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
       "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
     ],
-    "id": "SoN9GaFpSXfpyR5dth3x7PHPVhvJMpQqqDJfCSmPv1t",
-    "isVerified": false,
+    "id": "scn_jsol",
+    "isVerified": true,
     "name": "scnSOL-JSOL",
     "sources": ["socean", "jpool"],
     "underlyingTokens": [
@@ -2671,8 +2671,8 @@
       "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
       "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
     ],
-    "id": "SoNcU2iwHMw6dGzsYNQkYFkUjwN1UdAjrWVRnStrZu2",
-    "isVerified": false,
+    "id": "msol_jsol",
+    "isVerified": true,
     "name": "mSOL-JSOL",
     "sources": ["marinade", "jpool"],
     "underlyingTokens": [
