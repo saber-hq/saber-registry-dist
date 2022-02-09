@@ -9542,12 +9542,12 @@
         "chainId": 101,
         "tags": ["saber-stableswap-lp"],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/msol_jsol",
+          "source": "saber",
           "underlyingTokens": [
             "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
             "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
           ],
-          "source": "saber"
+          "website": "https://app.saber.so/#/pools/msol_jsol"
         }
       },
       "plotKey": "GQsqaGP4fAvaNKqguNb2e8ZnjfA7LVzTtFJucMbTEv79",
@@ -10888,12 +10888,12 @@
         "chainId": 101,
         "tags": ["saber-stableswap-lp"],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/scn_jsol",
+          "source": "saber",
           "underlyingTokens": [
             "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
             "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
           ],
-          "source": "saber"
+          "website": "https://app.saber.so/#/pools/scn_jsol"
         }
       },
       "plotKey": "8y5Dd14LDVv4oG3RRzUe32oLLW7qgHN7dWjeCYqVUdnW",
@@ -11375,8 +11375,9 @@
             "twitter": "https://twitter.com/solunaDAO",
             "coingeckoId": "terrausd",
             "medium": "https://medium.com/solunadao",
-            "source": "soluna",
-            "currency": "USD"
+            "source": "Soluna",
+            "currency": "USD",
+            "sourceUrl": "https://soluna.money/#/deposit"
           },
           "chainId": 101,
           "tags": ["saber-mkt-usd"]
@@ -11412,8 +11413,9 @@
             "twitter": "https://twitter.com/solunaDAO",
             "coingeckoId": "terrausd",
             "medium": "https://medium.com/solunadao",
-            "source": "soluna",
-            "currency": "USD"
+            "source": "Soluna",
+            "currency": "USD",
+            "sourceUrl": "https://soluna.money/#/deposit"
           },
           "chainId": 101,
           "tags": ["saber-mkt-usd"]
@@ -11449,8 +11451,9 @@
             "twitter": "https://twitter.com/solunaDAO",
             "coingeckoId": "terrausd",
             "medium": "https://medium.com/solunadao",
-            "source": "soluna",
-            "currency": "USD"
+            "source": "Soluna",
+            "currency": "USD",
+            "sourceUrl": "https://soluna.money/#/deposit"
           },
           "chainId": 101,
           "tags": ["saber-mkt-usd"]

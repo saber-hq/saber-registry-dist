@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-02-09T00:50:57.974Z",
+  "timestamp": "2022-02-09T22:30:08.366Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -2784,7 +2784,8 @@
         "coingeckoId": "terrausd",
         "currency": "USD",
         "medium": "https://medium.com/solunadao",
-        "source": "soluna",
+        "source": "Soluna",
+        "sourceUrl": "https://soluna.money/#/deposit",
         "twitter": "https://twitter.com/solunaDAO",
         "website": "https://soluna.money"
       },
