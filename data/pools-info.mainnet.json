@@ -10167,12 +10167,17 @@
       "tokens": [
         {
           "symbol": "prtSOL",
-          "name": "Parrot Stake Pool SOL",
-          "logoURI": "https://registry.saber.so/token-icons/prtsol.svg",
+          "name": "prtSOL (Parrot Staked SOL)",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3/logo.svg",
           "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
           "decimals": 9,
           "extensions": {
             "coingeckoId": "solana",
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
             "currency": "SOL",
             "source": "parrot",
             "sourceUrl": "https://parrot.fi/mint/"
@@ -10200,12 +10205,17 @@
       "tokenIcons": [
         {
           "symbol": "prtSOL",
-          "name": "Parrot Stake Pool SOL",
-          "logoURI": "https://registry.saber.so/token-icons/prtsol.svg",
+          "name": "prtSOL (Parrot Staked SOL)",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3/logo.svg",
           "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
           "decimals": 9,
           "extensions": {
             "coingeckoId": "solana",
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
             "currency": "SOL",
             "source": "parrot",
             "sourceUrl": "https://parrot.fi/mint/"
@@ -10233,12 +10243,17 @@
       "underlyingIcons": [
         {
           "symbol": "prtSOL",
-          "name": "Parrot Stake Pool SOL",
-          "logoURI": "https://registry.saber.so/token-icons/prtsol.svg",
+          "name": "prtSOL (Parrot Staked SOL)",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3/logo.svg",
           "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
           "decimals": 9,
           "extensions": {
             "coingeckoId": "solana",
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
             "currency": "SOL",
             "source": "parrot",
             "sourceUrl": "https://parrot.fi/mint/"
@@ -10362,12 +10377,17 @@
         },
         {
           "symbol": "prtSOL",
-          "name": "Parrot Stake Pool SOL",
-          "logoURI": "https://registry.saber.so/token-icons/prtsol.svg",
+          "name": "prtSOL (Parrot Staked SOL)",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3/logo.svg",
           "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
           "decimals": 9,
           "extensions": {
             "coingeckoId": "solana",
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
             "currency": "SOL",
             "source": "parrot",
             "sourceUrl": "https://parrot.fi/mint/"
@@ -10398,12 +10418,17 @@
         },
         {
           "symbol": "prtSOL",
-          "name": "Parrot Stake Pool SOL",
-          "logoURI": "https://registry.saber.so/token-icons/prtsol.svg",
+          "name": "prtSOL (Parrot Staked SOL)",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3/logo.svg",
           "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
           "decimals": 9,
           "extensions": {
             "coingeckoId": "solana",
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
             "currency": "SOL",
             "source": "parrot",
             "sourceUrl": "https://parrot.fi/mint/"
@@ -10434,12 +10459,17 @@
         },
         {
           "symbol": "prtSOL",
-          "name": "Parrot Stake Pool SOL",
-          "logoURI": "https://registry.saber.so/token-icons/prtsol.svg",
+          "name": "prtSOL (Parrot Staked SOL)",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3/logo.svg",
           "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
           "decimals": 9,
           "extensions": {
             "coingeckoId": "solana",
+            "discord": "https://discord.gg/gopartyparrot",
+            "medium": "https://gopartyparrot.medium.com/",
+            "telegram": "https://t.me/gopartyparrot",
+            "twitter": "https://twitter.com/gopartyparrot",
+            "website": "https://parrot.fi",
             "currency": "SOL",
             "source": "parrot",
             "sourceUrl": "https://parrot.fi/mint/"
@@ -10929,6 +10959,194 @@
         }
       },
       "quarry": "3PkM4UVVw3fuLiwfDb6gEsxiN94EcukxafYTJjqcsMyg"
+    },
+    {
+      "id": "solust",
+      "name": "solUST-UST",
+      "tokens": [
+        {
+          "symbol": "solUST",
+          "name": "solUST",
+          "address": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+          "decimals": 6,
+          "logoURI": "https://registry.saber.so/token-icons/solust.svg",
+          "extensions": {
+            "website": "https://soluna.money",
+            "twitter": "https://twitter.com/solunaDAO",
+            "coingeckoId": "terrausd",
+            "medium": "https://medium.com/solunadao",
+            "source": "soluna",
+            "currency": "USD"
+          },
+          "chainId": 101,
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "address": "uusd",
+            "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "name": "UST (Wormhole)",
+          "symbol": "UST",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "solUST",
+          "name": "solUST",
+          "address": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+          "decimals": 6,
+          "logoURI": "https://registry.saber.so/token-icons/solust.svg",
+          "extensions": {
+            "website": "https://soluna.money",
+            "twitter": "https://twitter.com/solunaDAO",
+            "coingeckoId": "terrausd",
+            "medium": "https://medium.com/solunadao",
+            "source": "soluna",
+            "currency": "USD"
+          },
+          "chainId": 101,
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "address": "uusd",
+            "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "name": "UST (Wormhole)",
+          "symbol": "UST",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "solUST",
+          "name": "solUST",
+          "address": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+          "decimals": 6,
+          "logoURI": "https://registry.saber.so/token-icons/solust.svg",
+          "extensions": {
+            "website": "https://soluna.money",
+            "twitter": "https://twitter.com/solunaDAO",
+            "coingeckoId": "terrausd",
+            "medium": "https://medium.com/solunadao",
+            "source": "soluna",
+            "currency": "USD"
+          },
+          "chainId": 101,
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "address": "uusd",
+            "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "coingeckoId": "terrausd",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
+            "currency": "USD",
+            "source": "wormhole-v2",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "name": "UST (Wormhole)",
+          "symbol": "UST",
+          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "solUST-UST",
+        "name": "Saber solUST-UST LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/solust",
+          "underlyingTokens": [
+            "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+            "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "8xgoxX6hW6E1zC6k7HBc9hyAVUHFUTk11MFYcTzVG3r3",
+      "swap": {
+        "config": {
+          "swapAccount": "KysFMBBoavfov2tLpvefWW6tPFt6rAeZWDJVy1mMQae",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "54tRZ5wqJ9nccXLbEpNkxFBChJY6B2phVFQDq9YiiQtw"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "27bpsF94q5pyV6bZhTMj1yyUCqJfbhHcgBFAM6MrtB8b",
+            "reserve": "B8ka2V21TH3x64dFV8ETcjuQcwmrciJ2qzy1mJUttRew",
+            "mint": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T"
+          },
+          "tokenB": {
+            "adminFeeAccount": "HFaU5q6N3enCkdV1wTktqk6wYBgHGRZiZqwyTHaUqYHF",
+            "reserve": "7fSf7EYxBANyxzk2s5pymFgshA91tFYQNKKs5UnLWcYS",
+            "mint": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+          },
+          "poolTokenMint": "USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c",
+          "initialAmpFactor": "03e8",
+          "targetAmpFactor": "03e8",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "CavJJ3MoNvLAVd1vzGTiQk3F8D9gycvV9teyGGWCG6J9"
     },
     {
       "id": "srm",

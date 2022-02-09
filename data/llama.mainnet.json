@@ -96,6 +96,30 @@
     "decimals": 9
   },
   {
+    "id": "SoN9GaFpSXfpyR5dth3x7PHPVhvJMpQqqDJfCSmPv1t",
+    "lpMint": "SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca",
+    "tokenA": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+    "tokenB": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+    "authority": "F1YPYbRoKaM16GL52MSa2rRuoK66KjAtzSKXcexj7yTC",
+    "reserveA": "9kZ9iS68ViMPtoeqtnhAKuF2iqVyfHPdZHoUNdwCELr",
+    "reserveB": "BBhm5fJLjw3HRzjtKB8uMEYjGhY6EDm9co3cqpjrSzB9",
+    "tokenACoingecko": "socean-staked-sol",
+    "tokenBCoingecko": "solana",
+    "decimals": 9
+  },
+  {
+    "id": "SoNcU2iwHMw6dGzsYNQkYFkUjwN1UdAjrWVRnStrZu2",
+    "lpMint": "SoLWs9Av7ss1jHXqVLDVCBiDaAYuT4o5uRNMMuBFhB9",
+    "tokenA": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+    "tokenB": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+    "authority": "HdyZaku984169KxKtjwyAB2pxPc77tjR1Bqh18DX1hzJ",
+    "reserveA": "8ivTTid27jZnYNc4w3CTA1Z6QS2twsFb8WMwUabeDJgc",
+    "reserveB": "CyXm53PMvHCbeXJBykU46Rcbo28xk5srhMZFg7gv6EYB",
+    "tokenACoingecko": "msol",
+    "tokenBCoingecko": "solana",
+    "decimals": 9
+  },
+  {
     "id": "YakoMPuYrybnr9R7VC7hVGxMz94fJvPFCdZ4gmW61Ed",
     "lpMint": "2poo1dNgDaVaZbLsqq4cbNz9hWZ3MFz3hpErfT7SRWxu",
     "tokenA": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -802,6 +826,18 @@
     "tokenACoingecko": "ftx-token",
     "tokenBCoingecko": "ftx-token",
     "decimals": 8
+  },
+  {
+    "id": "solust",
+    "lpMint": "USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c",
+    "tokenA": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+    "tokenB": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+    "authority": "54tRZ5wqJ9nccXLbEpNkxFBChJY6B2phVFQDq9YiiQtw",
+    "reserveA": "B8ka2V21TH3x64dFV8ETcjuQcwmrciJ2qzy1mJUttRew",
+    "reserveB": "7fSf7EYxBANyxzk2s5pymFgshA91tFYQNKKs5UnLWcYS",
+    "tokenACoingecko": "terrausd",
+    "tokenBCoingecko": "terrausd",
+    "decimals": 6
   },
   {
     "id": "srm",
