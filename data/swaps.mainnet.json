@@ -49,7 +49,7 @@
     "id": "bilira",
     "isVerified": true,
     "name": "TRYB-TRYB",
-    "sources": ["wormhole-v2", "BiLira"],
+    "sources": ["wormhole-v2", "biLira"],
     "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
@@ -170,6 +170,34 @@
     "underlyingTokens": [
       "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF",
+      "mergePool": "F46N3Zhh7oG44NXScMNc8xXCxDHRH2HoM1M5fv7D1Swe",
+      "quarry": "7YsjyUn53KSqi4YGfhukrTLWcM6ex7TDtNvfVYSAet3D",
+      "reserves": [
+        "CquVr6atkvwueDYficKjn6SSEWq4F4rH4VSiBbW4GBWU",
+        "8BCa6ge3b7ho3TfZuM64Vk1hgbrJ3J7EPiAb9uP86CGd"
+      ],
+      "swapAccount": "7dwD9TF6uikvHXxPFK9AsSim54yJoujQjY9vU6gNFumk",
+      "swapAuthority": "8bopcrcYNPHHE5f5RtSMjtyecM9vMufuAY4kLDAoFiqc"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+      "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+    ],
+    "id": "7dwD9TF6uikvHXxPFK9AsSim54yJoujQjY9vU6gNFumk",
+    "isVerified": false,
+    "name": "stSOL-mSOL",
+    "sources": ["lido", "marinade"],
+    "underlyingTokens": [
+      "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+      "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
     ]
   },
   {
@@ -918,7 +946,7 @@
     "id": "cash",
     "isVerified": true,
     "name": "CASH-USDC",
-    "sources": ["Cashio"],
+    "sources": ["cashio"],
     "underlyingTokens": [
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -946,7 +974,7 @@
     "id": "ust_cash",
     "isVerified": true,
     "name": "UST-CASH",
-    "sources": ["wormhole-v2", "Cashio"],
+    "sources": ["wormhole-v2", "cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
       "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
@@ -975,7 +1003,7 @@
     "id": "pai_cash",
     "isVerified": true,
     "name": "PAI-CASH",
-    "sources": ["parrot", "Cashio"],
+    "sources": ["parrot", "cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
       "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
@@ -1004,7 +1032,7 @@
     "id": "acusd_cash",
     "isVerified": true,
     "name": "acUSD-CASH",
-    "sources": ["allbridge", "Cashio"],
+    "sources": ["allbridge", "cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
       "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
@@ -1062,7 +1090,7 @@
     "id": "uxd_cash",
     "isVerified": true,
     "name": "UXD-CASH",
-    "sources": ["UXD", "Cashio"],
+    "sources": ["UXD", "cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
       "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
@@ -1153,6 +1181,34 @@
     "underlyingTokens": [
       "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
+      "mergePool": "C6aA7tCwfmWC5gb1wFfxvUVBhmo42TTfaYENf6RNe3nX",
+      "quarry": "399RMzmnwFpxDgsKLU2fPdnMue84fLpwZntBaqw7SRJz",
+      "reserves": [
+        "EATxwd8YA2wV93VJcKMmH2Kn2Y9XfJVUB9hHVu3udwEy",
+        "GiGvrRi7NMHfHKanG2B8xyCEqe8jaafWins8bhrLVEaa"
+      ],
+      "swapAccount": "Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju",
+      "swapAuthority": "2ENUpqrjguuLRfovPAjSVZvVz5t31xowzmNBp1wDFKcz"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+      "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+    ],
+    "id": "Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju",
+    "isVerified": false,
+    "name": "scnSOL-mSOL",
+    "sources": ["socean", "marinade"],
+    "underlyingTokens": [
+      "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+      "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
     ]
   },
   {
@@ -1264,7 +1320,7 @@
     "id": "fei_cash",
     "isVerified": true,
     "name": "aeFEI-CASH",
-    "sources": ["allbridge", "Cashio"],
+    "sources": ["allbridge", "cashio"],
     "tags": ["allbridge"],
     "underlyingTokens": [
       "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
@@ -1810,7 +1866,7 @@
     "id": "solust",
     "isVerified": true,
     "name": "solUST-UST",
-    "sources": ["Soluna", "wormhole-v2"],
+    "sources": ["soluna", "wormhole-v2"],
     "underlyingTokens": [
       "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
       "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
@@ -1952,7 +2008,7 @@
     "id": "stsol",
     "isVerified": true,
     "name": "stSOL-SOL",
-    "sources": ["Lido"],
+    "sources": ["lido"],
     "underlyingTokens": [
       "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
       "So11111111111111111111111111111111111111112"
@@ -1980,7 +2036,7 @@
     "id": "usdh_cash",
     "isVerified": true,
     "name": "USDH-CASH",
-    "sources": ["Hubble", "Cashio"],
+    "sources": ["hubble", "cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
       "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
@@ -2009,7 +2065,7 @@
     "id": "usdh",
     "isVerified": true,
     "name": "USDH-USDC",
-    "sources": ["Hubble"],
+    "sources": ["hubble"],
     "underlyingTokens": [
       "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -2152,7 +2208,7 @@
     "id": "mim_cash",
     "isVerified": true,
     "name": "aeMIM-CASH",
-    "sources": ["allbridge", "Cashio"],
+    "sources": ["allbridge", "cashio"],
     "tags": ["allbridge"],
     "underlyingTokens": [
       "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -2422,6 +2478,64 @@
   },
   {
     "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa",
+      "mergePool": "CUMgrBUJmTRBTonCZPQy3U46xU5PuZb8vgDbnRce1iJP",
+      "quarry": "7Cvc9vEFztaUEY5r27sj8BXUYpNMxRWTLSUwvQi19ug7",
+      "reserves": [
+        "DAizXCPHT5ATkKoW9XAGTdrA7Lbj3cNygjD8RQFH8nZJ",
+        "Gh4iXm7PAHjAbagz9FfbpLSuuRE8rdKkDcSukp8Dzq9R"
+      ],
+      "swapAccount": "Roockn5vpbWxKybZqMy3xaYuSaq1Lhoc7CL3C6bAUXX",
+      "swapAuthority": "5wYPXCAA59FnC8e2ZHszcNJ68HSeqPnHffnBrnagcJe6"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
+      "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h"
+    ],
+    "id": "solend_sol_msol",
+    "isVerified": true,
+    "name": "cSOL-cmSOL",
+    "sources": ["solend", "solend"],
+    "tags": ["solend"],
+    "underlyingTokens": [
+      "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
+      "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1",
+      "mergePool": "BYAVYB55HKoyDYKgoCXgXz8LuGwNc4sX2Z9gAaMMdhNT",
+      "quarry": "ByuGnzyRgj73HKmQnLLC61Qgn6EtteeQ7qx9TPHwDYzN",
+      "reserves": [
+        "4XqU6QN4QJKva4fF4eyCnPtJG99pKecuUuCPDax5BEqU",
+        "F7k8DuuawVEZ3new4A9ahWVojCkEG8BrLsCwyhRvmEHa"
+      ],
+      "swapAccount": "RooZXUCc5RK1onxyVxB5G8CtGES3ptNgVnZLXMe2cws",
+      "swapAuthority": "CKiGW6G7mp7eyFYeby782hro9VkaSL8HGrYBPP95bXho"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
+      "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8"
+    ],
+    "id": "solend_usdc_usdt",
+    "isVerified": true,
+    "name": "cUSDC-cUSDT",
+    "sources": ["solend", "solend"],
+    "tags": ["solend"],
+    "underlyingTokens": [
+      "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
+      "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8"
+    ]
+  },
+  {
+    "addresses": {
       "admin": "6eqHBuXjU1ip4bAh69fpK7FSnus6dRoc7ZyLwdGmFHS8",
       "lpTokenMint": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
       "mergePool": "FF72qCV3BXgVt15vmwUycSzm3pkn8YbTVBqG74kGme9R",
@@ -2618,7 +2732,7 @@
     "id": "everstake_sol",
     "isVerified": true,
     "name": "eSOL-SOL",
-    "sources": ["Everstake"],
+    "sources": ["everstake"],
     "underlyingTokens": [
       "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
       "So11111111111111111111111111111111111111112"
@@ -2990,7 +3104,7 @@
     "id": "atust_cash",
     "isVerified": true,
     "name": "atUST-CASH",
-    "sources": ["allbridge", "Cashio"],
+    "sources": ["allbridge", "cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
       "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
@@ -3019,7 +3133,7 @@
     "id": "frax_cash",
     "isVerified": true,
     "name": "FRAX-CASH",
-    "sources": ["wormhole-v2", "Cashio"],
+    "sources": ["wormhole-v2", "cashio"],
     "tags": ["cashio"],
     "underlyingTokens": [
       "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",

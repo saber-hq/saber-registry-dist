@@ -258,6 +258,8 @@
         "addresses": [
           "5j2W7aBXp6e3qHQgFWVs5pDKU8cYCyRHSvvt7JdbevwX",
           "6PkneD3AHPXgM35mqA3HxXCrrtUrYrF7UQfoBNXV1Ee8",
+          "8BCa6ge3b7ho3TfZuM64Vk1hgbrJ3J7EPiAb9uP86CGd",
+          "GiGvrRi7NMHfHKanG2B8xyCEqe8jaafWins8bhrLVEaa",
           "AiHX8hAhyNaV61cmw3AuBudUCwsYBPUyP8woTnn3Prkh",
           "8ivTTid27jZnYNc4w3CTA1Z6QS2twsFb8WMwUabeDJgc",
           "9DgFSWkPDGijNKcLGbr3p5xoJbHsPgXUTr6QvGBJ5vGN"
@@ -348,6 +350,7 @@
       {
         "decimals": 9,
         "addresses": [
+          "EATxwd8YA2wV93VJcKMmH2Kn2Y9XfJVUB9hHVu3udwEy",
           "9kZ9iS68ViMPtoeqtnhAKuF2iqVyfHPdZHoUNdwCELr",
           "DjvZuMZ46fxKBoBpGMPcRcos4xdTtHFxwMh69DpA2ZFY"
         ]
@@ -362,6 +365,7 @@
         "addresses": [
           "AjMBRv6VdDdCNoK5QCMpH1gMvwYnMGoHWR4wRabPzREY",
           "4C2yZjVkyHUD3CSR9oD7BeZH4sn7mwgiH2H1rNaaTsEK",
+          "CquVr6atkvwueDYficKjn6SSEWq4F4rH4VSiBbW4GBWU",
           "HjNF3RYWShFx6bYGevnrfKYDr7utoe4PASEzAEUHLoUW",
           "BKWm4TRnTeKwfWXRyuzjRHU7iZDkPuXBX5b5V5jSVfGJ",
           "A5Ww74HVrkj9nPeC7pHKLfgeDMEhBCpW1efQdz3TGLEg",
@@ -379,6 +383,8 @@
           "Di2vordgFJVZ1aj1aBpvzXtLfZgJsuLLXawGtVFwX6Rz",
           "BBhm5fJLjw3HRzjtKB8uMEYjGhY6EDm9co3cqpjrSzB9",
           "9rvDPJLAng4uVVqnnSoEXgNDFhBZQTny9AoQioYDZbQX",
+          "DAizXCPHT5ATkKoW9XAGTdrA7Lbj3cNygjD8RQFH8nZJ",
+          "Gh4iXm7PAHjAbagz9FfbpLSuuRE8rdKkDcSukp8Dzq9R",
           "4PgzyzLtds9bKZ2to9PMnKqJzKEUpjvNUaeN23phegax",
           "AtymwxoVN9peZo7EXTcDz9jKVc4vRmisJKKrNfe3ewBa",
           "GSt31U8nF6WJBRG7j2EALfNTMd3J8jmotGX9szVTrzvN",
@@ -446,6 +452,7 @@
           "D6d156U1bPiJpDYRLextvDRccgFk7QzkQbJg42ceKEu5",
           "GNcM8U5g8RwTZffwwm3kSQqUNPSwv5d2fbN9sLxPJqt2",
           "2tBpLvzYBCs7e4DrRocEnssoJANB8rDh2jt5FbeCAeK1",
+          "F7k8DuuawVEZ3new4A9ahWVojCkEG8BrLsCwyhRvmEHa",
           "EnTrdMMpdhugeH6Ban6gYZWXughWxKtVGfCwFn78ZmY3",
           "DtfyjjsZ5yCjWKLKHvwsfXs5QVsmm1QkK6Sh9JZHoq1g",
           "e5wrKCRv4GhHvEf1VD5Pq2KGaZDXP77nTL612Jyrxwy",
@@ -486,6 +493,7 @@
           "Cbm5gsQe3nSiCsFrvepVzMCD9xLK3ri9g3ypS2hdmVJ7",
           "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr",
           "DLkWGoaeXw4oeGPnr2ecJze541HVKFhrhaW4iVSFEwET",
+          "4XqU6QN4QJKva4fF4eyCnPtJG99pKecuUuCPDax5BEqU",
           "EXNW64GEf1ACC6xY9BtKRiunrs6GoJSXBdxWN2eTPmrF",
           "CfWX7o2TswwbxusJ4hCaPobu2jLCb1hfXuXJQjVq3jQF",
           "6YjT74rmcfCpw8LSjPNx5JTmZoYLGrTKnf9arfSgZ4SR",

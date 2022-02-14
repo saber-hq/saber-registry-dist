@@ -36,6 +36,18 @@
     "decimals": 6
   },
   {
+    "id": "7dwD9TF6uikvHXxPFK9AsSim54yJoujQjY9vU6gNFumk",
+    "lpMint": "4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF",
+    "tokenA": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+    "tokenB": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+    "authority": "8bopcrcYNPHHE5f5RtSMjtyecM9vMufuAY4kLDAoFiqc",
+    "reserveA": "CquVr6atkvwueDYficKjn6SSEWq4F4rH4VSiBbW4GBWU",
+    "reserveB": "8BCa6ge3b7ho3TfZuM64Vk1hgbrJ3J7EPiAb9uP86CGd",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "msol",
+    "decimals": 9
+  },
+  {
     "id": "BSCsJRZuzNScmNdka9rr24iFediCUYHKh3Sya7TjVBni",
     "lpMint": "ALP74DnaoVT8DpiXBfQiTDjtcDdsmXGKDAQMkCeVM3LQ",
     "tokenA": "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
@@ -45,6 +57,18 @@
     "reserveB": "BA6PfHBH4Ac6VQDxWmF12rb1Hx4zFGWmytpd7PSh5kiv",
     "tokenACoingecko": "usd-coin",
     "tokenBCoingecko": "usd-coin",
+    "decimals": 9
+  },
+  {
+    "id": "Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju",
+    "lpMint": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
+    "tokenA": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+    "tokenB": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+    "authority": "2ENUpqrjguuLRfovPAjSVZvVz5t31xowzmNBp1wDFKcz",
+    "reserveA": "EATxwd8YA2wV93VJcKMmH2Kn2Y9XfJVUB9hHVu3udwEy",
+    "reserveB": "GiGvrRi7NMHfHKanG2B8xyCEqe8jaafWins8bhrLVEaa",
+    "tokenACoingecko": "socean-staked-sol",
+    "tokenBCoingecko": "msol",
     "decimals": 9
   },
   {
@@ -814,6 +838,30 @@
     "tokenACoingecko": "socean-staked-sol",
     "tokenBCoingecko": "solana",
     "decimals": 9
+  },
+  {
+    "id": "solend_sol_msol",
+    "lpMint": "SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa",
+    "tokenA": "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
+    "tokenB": "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h",
+    "authority": "5wYPXCAA59FnC8e2ZHszcNJ68HSeqPnHffnBrnagcJe6",
+    "reserveA": "DAizXCPHT5ATkKoW9XAGTdrA7Lbj3cNygjD8RQFH8nZJ",
+    "reserveB": "Gh4iXm7PAHjAbagz9FfbpLSuuRE8rdKkDcSukp8Dzq9R",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana",
+    "decimals": 9
+  },
+  {
+    "id": "solend_usdc_usdt",
+    "lpMint": "SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1",
+    "tokenA": "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
+    "tokenB": "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8",
+    "authority": "CKiGW6G7mp7eyFYeby782hro9VkaSL8HGrYBPP95bXho",
+    "reserveA": "4XqU6QN4QJKva4fF4eyCnPtJG99pKecuUuCPDax5BEqU",
+    "reserveB": "F7k8DuuawVEZ3new4A9ahWVojCkEG8BrLsCwyhRvmEHa",
+    "tokenACoingecko": "usd-coin",
+    "tokenBCoingecko": "tether",
+    "decimals": 6
   },
   {
     "id": "sollet_ftt",
