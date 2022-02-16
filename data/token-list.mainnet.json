@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-02-14T18:49:13.250Z",
+  "timestamp": "2022-02-16T21:27:18.587Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -3301,7 +3301,7 @@
         ],
         "website": "https://app.saber.so/#/pools/solend_sol_msol"
       },
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa.png",
       "name": "Saber cSOL-cmSOL LP",
       "symbol": "cSOL-cmSOL",
       "tags": ["saber-stableswap-lp", "saber-lp-solend"]
@@ -3318,7 +3318,7 @@
         ],
         "website": "https://app.saber.so/#/pools/solend_usdc_usdt"
       },
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1.png",
       "name": "Saber cUSDC-cUSDT LP",
       "symbol": "cUSDC-cUSDT",
       "tags": ["saber-stableswap-lp", "saber-lp-solend"]
