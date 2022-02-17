@@ -11898,6 +11898,194 @@
       "quarry": "CavJJ3MoNvLAVd1vzGTiQk3F8D9gycvV9teyGGWCG6J9"
     },
     {
+      "id": "solust_usdh",
+      "name": "solUST-USDH",
+      "tokens": [
+        {
+          "symbol": "solUST",
+          "name": "solUST",
+          "address": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+          "decimals": 6,
+          "logoURI": "https://registry.saber.so/token-icons/solust.svg",
+          "extensions": {
+            "website": "https://soluna.money",
+            "twitter": "https://twitter.com/solunaDAO",
+            "coingeckoId": "terrausd",
+            "medium": "https://medium.com/solunadao",
+            "source": "soluna",
+            "currency": "USD",
+            "sourceUrl": "https://soluna.money/#/deposit"
+          },
+          "chainId": 101,
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "discord": "https://discord.gg/d44A8WvK",
+            "twitter": "https://twitter.com/hubbleprotocol",
+            "website": "https://hubbleprotocol.io/",
+            "currency": "USD",
+            "source": "hubble",
+            "sourceUrl": "https://app.hubbleprotocol.io/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
+          "name": "USDH Hubble Stablecoin",
+          "symbol": "USDH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "symbol": "solUST",
+          "name": "solUST",
+          "address": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+          "decimals": 6,
+          "logoURI": "https://registry.saber.so/token-icons/solust.svg",
+          "extensions": {
+            "website": "https://soluna.money",
+            "twitter": "https://twitter.com/solunaDAO",
+            "coingeckoId": "terrausd",
+            "medium": "https://medium.com/solunadao",
+            "source": "soluna",
+            "currency": "USD",
+            "sourceUrl": "https://soluna.money/#/deposit"
+          },
+          "chainId": 101,
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "discord": "https://discord.gg/d44A8WvK",
+            "twitter": "https://twitter.com/hubbleprotocol",
+            "website": "https://hubbleprotocol.io/",
+            "currency": "USD",
+            "source": "hubble",
+            "sourceUrl": "https://app.hubbleprotocol.io/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
+          "name": "USDH Hubble Stablecoin",
+          "symbol": "USDH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "symbol": "solUST",
+          "name": "solUST",
+          "address": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+          "decimals": 6,
+          "logoURI": "https://registry.saber.so/token-icons/solust.svg",
+          "extensions": {
+            "website": "https://soluna.money",
+            "twitter": "https://twitter.com/solunaDAO",
+            "coingeckoId": "terrausd",
+            "medium": "https://medium.com/solunadao",
+            "source": "soluna",
+            "currency": "USD",
+            "sourceUrl": "https://soluna.money/#/deposit"
+          },
+          "chainId": 101,
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "discord": "https://discord.gg/d44A8WvK",
+            "twitter": "https://twitter.com/hubbleprotocol",
+            "website": "https://hubbleprotocol.io/",
+            "currency": "USD",
+            "source": "hubble",
+            "sourceUrl": "https://app.hubbleprotocol.io/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
+          "name": "USDH Hubble Stablecoin",
+          "symbol": "USDH",
+          "tags": ["stablecoin", "saber-mkt-usd"]
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "solUST-USDH",
+        "name": "Saber solUST-USDH LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/solust_usdh",
+          "underlyingTokens": [
+            "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+            "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "AMjDq5Lggwjeu8kDj4XhCiixaG9Jx6UbSUJttip5g7kB",
+      "swap": {
+        "config": {
+          "swapAccount": "RoBgmK8CvjdHvPrqdDyVw54VwjZv2TqJ493xnqJAQHx",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "75GiSiZjXh2KosJ3KQw84cTJmFxGZdV2KPyUhQPs4PwP"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 250,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "2JMvBpLiHzEXmHbGNGYqLRZT8i7yD8uCvMEFAVZGMQpi",
+            "reserve": "ExiHJxM7qPAcy27NDHAF6G7vnW7muNHi2sVJpnaNynGQ",
+            "mint": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T"
+          },
+          "tokenB": {
+            "adminFeeAccount": "AStaeEGXoFSLuekwuiq2fRRvV1uNZcCSz4NgPfXbbXDD",
+            "reserve": "6rkPHSqZb7StM4HwS9EuVrmfkV7tRdc7dnsFhyB6cefE",
+            "mint": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+          },
+          "poolTokenMint": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9",
+          "initialAmpFactor": "64",
+          "targetAmpFactor": "64",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "CEZw8iG7fHou9JV8v3ZqG1Ax2LbQaFYYP7aT8Tu55Xft"
+    },
+    {
       "id": "srm",
       "name": "wSRM_V1-SRM",
       "tokens": [

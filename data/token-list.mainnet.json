@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-02-16T21:27:18.587Z",
+  "timestamp": "2022-02-17T05:28:34.050Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -3631,6 +3631,23 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c.png",
       "name": "Saber solUST-UST LP",
       "symbol": "solUST-UST",
+      "tags": ["saber-stableswap-lp"]
+    },
+    {
+      "address": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+          "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+        ],
+        "website": "https://app.saber.so/#/pools/solust_usdh"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber solUST-USDH LP",
+      "symbol": "solUST-USDH",
       "tags": ["saber-stableswap-lp"]
     },
     {

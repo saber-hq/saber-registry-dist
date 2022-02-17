@@ -888,6 +888,18 @@
     "decimals": 6
   },
   {
+    "id": "solust_usdh",
+    "lpMint": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9",
+    "tokenA": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+    "tokenB": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+    "authority": "75GiSiZjXh2KosJ3KQw84cTJmFxGZdV2KPyUhQPs4PwP",
+    "reserveA": "ExiHJxM7qPAcy27NDHAF6G7vnW7muNHi2sVJpnaNynGQ",
+    "reserveB": "6rkPHSqZb7StM4HwS9EuVrmfkV7tRdc7dnsFhyB6cefE",
+    "tokenACoingecko": "terrausd",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 6
+  },
+  {
     "id": "srm",
     "lpMint": "SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp",
     "tokenA": "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",

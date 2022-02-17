@@ -2479,6 +2479,34 @@
   {
     "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "lpTokenMint": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9",
+      "mergePool": "9PutH8K8CLpBYKijRkkpvVNq6iKfZKYBKjfsikYWFjJV",
+      "quarry": "CEZw8iG7fHou9JV8v3ZqG1Ax2LbQaFYYP7aT8Tu55Xft",
+      "reserves": [
+        "ExiHJxM7qPAcy27NDHAF6G7vnW7muNHi2sVJpnaNynGQ",
+        "6rkPHSqZb7StM4HwS9EuVrmfkV7tRdc7dnsFhyB6cefE"
+      ],
+      "swapAccount": "RoBgmK8CvjdHvPrqdDyVw54VwjZv2TqJ493xnqJAQHx",
+      "swapAuthority": "75GiSiZjXh2KosJ3KQw84cTJmFxGZdV2KPyUhQPs4PwP"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+      "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+    ],
+    "id": "solust_usdh",
+    "isVerified": true,
+    "name": "solUST-USDH",
+    "sources": ["soluna", "hubble"],
+    "underlyingTokens": [
+      "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+      "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa",
       "mergePool": "CUMgrBUJmTRBTonCZPQy3U46xU5PuZb8vgDbnRce1iJP",
       "quarry": "7Cvc9vEFztaUEY5r27sj8BXUYpNMxRWTLSUwvQi19ug7",
