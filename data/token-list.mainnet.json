@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-02-17T05:28:34.050Z",
+  "timestamp": "2022-02-18T18:02:18.111Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -301,7 +301,7 @@
           "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
         ],
-        "website": "https://app.saber.so/#/pools/7dwD9TF6uikvHXxPFK9AsSim54yJoujQjY9vU6gNFumk"
+        "website": "https://app.saber.so/#/pools/stsol_msol"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber stSOL-mSOL LP",
@@ -872,7 +872,13 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
       "name": "UST (Wormhole)",
       "symbol": "UST",
-      "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+      "tags": [
+        "wrapped",
+        "wormhole",
+        "stablecoin",
+        "saber-mkt-usd",
+        "wormhole-v2"
+      ]
     },
     {
       "address": "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
@@ -2350,7 +2356,7 @@
           "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
         ],
-        "website": "https://app.saber.so/#/pools/Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju"
+        "website": "https://app.saber.so/#/pools/scn_msol"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber scnSOL-mSOL LP",
@@ -3567,6 +3573,7 @@
       "tags": [
         "wrapped",
         "wormhole",
+        "stablecoin",
         "saber-mkt-usd",
         "wormhole-v2",
         "saber-dec-wrapped"
@@ -3594,6 +3601,7 @@
       "tags": [
         "wrapped",
         "wormhole",
+        "stablecoin",
         "saber-mkt-usd",
         "wormhole-v2",
         "saber-dec-wrapped"

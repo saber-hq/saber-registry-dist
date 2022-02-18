@@ -6535,6 +6535,7 @@
           "tags": [
             "wrapped",
             "wormhole",
+            "stablecoin",
             "saber-mkt-usd",
             "wormhole-v2",
             "saber-dec-wrapped"
@@ -6579,6 +6580,7 @@
           "tags": [
             "wrapped",
             "wormhole",
+            "stablecoin",
             "saber-mkt-usd",
             "wormhole-v2",
             "saber-dec-wrapped"
@@ -6629,7 +6631,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
           "name": "UST (Wormhole)",
           "symbol": "UST",
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ]
         }
       ],
       "currency": "USD",
@@ -7120,6 +7128,7 @@
           "tags": [
             "wrapped",
             "wormhole",
+            "stablecoin",
             "saber-mkt-usd",
             "wormhole-v2",
             "saber-dec-wrapped"
@@ -7167,6 +7176,7 @@
           "tags": [
             "wrapped",
             "wormhole",
+            "stablecoin",
             "saber-mkt-usd",
             "wormhole-v2",
             "saber-dec-wrapped"
@@ -7220,7 +7230,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
           "name": "UST (Wormhole)",
           "symbol": "UST",
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ]
         }
       ],
       "currency": "USD",
@@ -9050,6 +9066,7 @@
           "tags": [
             "wrapped",
             "wormhole",
+            "stablecoin",
             "saber-mkt-usd",
             "wormhole-v2",
             "saber-dec-wrapped"
@@ -9094,6 +9111,7 @@
           "tags": [
             "wrapped",
             "wormhole",
+            "stablecoin",
             "saber-mkt-usd",
             "wormhole-v2",
             "saber-dec-wrapped"
@@ -9144,7 +9162,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
           "name": "UST (Wormhole)",
           "symbol": "UST",
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ]
         }
       ],
       "currency": "USD",
@@ -10953,6 +10977,215 @@
       "quarry": "4TL78ccjwJawVbRBLuFwXdziVs3pC5v7S4W4cRHzVm45"
     },
     {
+      "id": "scn_msol",
+      "name": "scnSOL-mSOL",
+      "tokens": [
+        {
+          "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "socean-staked-sol",
+            "discord": "https://discord.gg/k8ZcW27bq9",
+            "medium": "https://medium.com/@soceanfinance",
+            "serumV3Usdc": "D52sefGCWho2nd5UGxWd7wCftAzeNEMNYZkdEPGEdQTb",
+            "twitter": "https://twitter.com/soceanfinance",
+            "website": "https://socean.fi/",
+            "currency": "SOL",
+            "source": "socean",
+            "sourceUrl": "https://www.socean.fi/app"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
+          "name": "Socean staked SOL",
+          "symbol": "scnSOL",
+          "tags": ["stake-pool", "saber-mkt-sol"]
+        },
+        {
+          "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "msol",
+            "discord": "https://discord.gg/mGqZA5pjRN",
+            "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
+            "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance",
+            "currency": "SOL",
+            "source": "marinade",
+            "sourceUrl": "https://marinade.finance/app/staking"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
+          "name": "Marinade staked SOL (mSOL)",
+          "symbol": "mSOL",
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "socean-staked-sol",
+            "discord": "https://discord.gg/k8ZcW27bq9",
+            "medium": "https://medium.com/@soceanfinance",
+            "serumV3Usdc": "D52sefGCWho2nd5UGxWd7wCftAzeNEMNYZkdEPGEdQTb",
+            "twitter": "https://twitter.com/soceanfinance",
+            "website": "https://socean.fi/",
+            "currency": "SOL",
+            "source": "socean",
+            "sourceUrl": "https://www.socean.fi/app"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
+          "name": "Socean staked SOL",
+          "symbol": "scnSOL",
+          "tags": ["stake-pool", "saber-mkt-sol"]
+        },
+        {
+          "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "msol",
+            "discord": "https://discord.gg/mGqZA5pjRN",
+            "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
+            "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance",
+            "currency": "SOL",
+            "source": "marinade",
+            "sourceUrl": "https://marinade.finance/app/staking"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
+          "name": "Marinade staked SOL (mSOL)",
+          "symbol": "mSOL",
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "socean-staked-sol",
+            "discord": "https://discord.gg/k8ZcW27bq9",
+            "medium": "https://medium.com/@soceanfinance",
+            "serumV3Usdc": "D52sefGCWho2nd5UGxWd7wCftAzeNEMNYZkdEPGEdQTb",
+            "twitter": "https://twitter.com/soceanfinance",
+            "website": "https://socean.fi/",
+            "currency": "SOL",
+            "source": "socean",
+            "sourceUrl": "https://www.socean.fi/app"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
+          "name": "Socean staked SOL",
+          "symbol": "scnSOL",
+          "tags": ["stake-pool", "saber-mkt-sol"]
+        },
+        {
+          "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "msol",
+            "discord": "https://discord.gg/mGqZA5pjRN",
+            "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
+            "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance",
+            "currency": "SOL",
+            "source": "marinade",
+            "sourceUrl": "https://marinade.finance/app/staking"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
+          "name": "Marinade staked SOL (mSOL)",
+          "symbol": "mSOL",
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "currency": "SOL",
+      "lpToken": {
+        "symbol": "scnSOL-mSOL",
+        "name": "Saber scnSOL-mSOL LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/scn_msol",
+          "underlyingTokens": [
+            "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+            "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "6Fe6JHJNHzK4EEmzPzyaSRuiPwDCtMmXu6Cdw7Td5WeY",
+      "swap": {
+        "config": {
+          "swapAccount": "Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "2ENUpqrjguuLRfovPAjSVZvVz5t31xowzmNBp1wDFKcz"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "D6ZqcZedZ2Siw5JVvZh7858DshVuckFUNLMjk98avEL2",
+            "reserve": "EATxwd8YA2wV93VJcKMmH2Kn2Y9XfJVUB9hHVu3udwEy",
+            "mint": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm"
+          },
+          "tokenB": {
+            "adminFeeAccount": "Cfwdmk3gh7xpwLJZxi3he1FrnF5CL3iBX3cCjJaUfBAo",
+            "reserve": "GiGvrRi7NMHfHKanG2B8xyCEqe8jaafWins8bhrLVEaa",
+            "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+          },
+          "poolTokenMint": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
+          "initialAmpFactor": "19",
+          "targetAmpFactor": "19",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "399RMzmnwFpxDgsKLU2fPdnMue84fLpwZntBaqw7SRJz"
+    },
+    {
       "id": "socean",
       "name": "scnSOL-SOL",
       "tokens": [
@@ -11744,7 +11977,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
           "name": "UST (Wormhole)",
           "symbol": "UST",
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ]
         }
       ],
       "tokenIcons": [
@@ -11782,7 +12021,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
           "name": "UST (Wormhole)",
           "symbol": "UST",
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ]
         }
       ],
       "underlyingIcons": [
@@ -11820,7 +12065,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
           "name": "UST (Wormhole)",
           "symbol": "UST",
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ]
         }
       ],
       "currency": "USD",
@@ -12021,12 +12272,12 @@
         "chainId": 101,
         "tags": ["saber-stableswap-lp"],
         "extensions": {
-          "website": "https://app.saber.so/#/pools/solust_usdh",
+          "source": "saber",
           "underlyingTokens": [
             "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
             "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
           ],
-          "source": "saber"
+          "website": "https://app.saber.so/#/pools/solust_usdh"
         }
       },
       "plotKey": "AMjDq5Lggwjeu8kDj4XhCiixaG9Jx6UbSUJttip5g7kB",
@@ -12445,6 +12696,206 @@
         }
       },
       "quarry": "2isVhcqVVpsAeZ94d1DGVErCQ7uZQNSJ85xikN8awHeC"
+    },
+    {
+      "id": "stsol_msol",
+      "name": "stSOL-mSOL",
+      "tokens": [
+        {
+          "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "serumV3Usdc": "5F7LGsP1LPtaRV7vVKgxwNYX4Vf22xvuzyXjyar7jJqp",
+            "twitter": "https://twitter.com/LidoFinance",
+            "website": "https://solana.lido.fi/",
+            "currency": "SOL",
+            "source": "lido",
+            "sourceUrl": "https://solana.lido.fi/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj.png",
+          "name": "Lido Staked SOL",
+          "symbol": "stSOL",
+          "tags": ["saber-mkt-sol"]
+        },
+        {
+          "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "msol",
+            "discord": "https://discord.gg/mGqZA5pjRN",
+            "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
+            "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance",
+            "currency": "SOL",
+            "source": "marinade",
+            "sourceUrl": "https://marinade.finance/app/staking"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
+          "name": "Marinade staked SOL (mSOL)",
+          "symbol": "mSOL",
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "serumV3Usdc": "5F7LGsP1LPtaRV7vVKgxwNYX4Vf22xvuzyXjyar7jJqp",
+            "twitter": "https://twitter.com/LidoFinance",
+            "website": "https://solana.lido.fi/",
+            "currency": "SOL",
+            "source": "lido",
+            "sourceUrl": "https://solana.lido.fi/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj.png",
+          "name": "Lido Staked SOL",
+          "symbol": "stSOL",
+          "tags": ["saber-mkt-sol"]
+        },
+        {
+          "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "msol",
+            "discord": "https://discord.gg/mGqZA5pjRN",
+            "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
+            "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance",
+            "currency": "SOL",
+            "source": "marinade",
+            "sourceUrl": "https://marinade.finance/app/staking"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
+          "name": "Marinade staked SOL (mSOL)",
+          "symbol": "mSOL",
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "serumV3Usdc": "5F7LGsP1LPtaRV7vVKgxwNYX4Vf22xvuzyXjyar7jJqp",
+            "twitter": "https://twitter.com/LidoFinance",
+            "website": "https://solana.lido.fi/",
+            "currency": "SOL",
+            "source": "lido",
+            "sourceUrl": "https://solana.lido.fi/"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj.png",
+          "name": "Lido Staked SOL",
+          "symbol": "stSOL",
+          "tags": ["saber-mkt-sol"]
+        },
+        {
+          "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "msol",
+            "discord": "https://discord.gg/mGqZA5pjRN",
+            "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
+            "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+            "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance",
+            "currency": "SOL",
+            "source": "marinade",
+            "sourceUrl": "https://marinade.finance/app/staking"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
+          "name": "Marinade staked SOL (mSOL)",
+          "symbol": "mSOL",
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "currency": "SOL",
+      "lpToken": {
+        "symbol": "stSOL-mSOL",
+        "name": "Saber stSOL-mSOL LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/stsol_msol",
+          "underlyingTokens": [
+            "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+            "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "4J99hTyVUQsjm8MeJdxJWK31D9QGMr7uMLyMNpsiZ3eG",
+      "swap": {
+        "config": {
+          "swapAccount": "7dwD9TF6uikvHXxPFK9AsSim54yJoujQjY9vU6gNFumk",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "authority": "8bopcrcYNPHHE5f5RtSMjtyecM9vMufuAY4kLDAoFiqc"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "adminAccount": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+          "tokenA": {
+            "adminFeeAccount": "xs2eLHRPGqyZFAVzrdmvHYKJZ3myeoTfVnt8pypo66y",
+            "reserve": "CquVr6atkvwueDYficKjn6SSEWq4F4rH4VSiBbW4GBWU",
+            "mint": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj"
+          },
+          "tokenB": {
+            "adminFeeAccount": "9S9Z3YSgoZ68qKpNZ99YSeCX3yiPE5KPJ78zSDEGgSb4",
+            "reserve": "8BCa6ge3b7ho3TfZuM64Vk1hgbrJ3J7EPiAb9uP86CGd",
+            "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+          },
+          "poolTokenMint": "4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF",
+          "initialAmpFactor": "19",
+          "targetAmpFactor": "19",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "7YsjyUn53KSqi4YGfhukrTLWcM6ex7TDtNvfVYSAet3D"
     },
     {
       "id": "usdc_pai",
@@ -13562,7 +14013,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
           "name": "UST (Wormhole)",
           "symbol": "UST",
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ]
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -13600,7 +14057,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
           "name": "UST (Wormhole)",
           "symbol": "UST",
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ]
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -13638,7 +14101,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
           "name": "UST (Wormhole)",
           "symbol": "UST",
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ]
         },
         {
           "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -17505,7 +17974,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
           "name": "UST (Wormhole)",
           "symbol": "UST",
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ]
         },
         {
           "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -17540,7 +18015,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
           "name": "UST (Wormhole)",
           "symbol": "UST",
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ]
         },
         {
           "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -17575,7 +18056,13 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
           "name": "UST (Wormhole)",
           "symbol": "UST",
-          "tags": ["wrapped", "wormhole", "saber-mkt-usd", "wormhole-v2"]
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ]
         },
         {
           "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
