@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-02-18T18:02:18.111Z",
+  "timestamp": "2022-03-20T06:12:50.660Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -301,7 +301,7 @@
           "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
         ],
-        "website": "https://app.saber.so/#/pools/stsol_msol"
+        "website": "https://app.saber.so/#/pools/7dwD9TF6uikvHXxPFK9AsSim54yJoujQjY9vU6gNFumk"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber stSOL-mSOL LP",
@@ -1366,7 +1366,7 @@
       "chainId": 101,
       "decimals": 9,
       "extensions": {
-        "coingeckoId": "avalanche",
+        "coingeckoId": "avalanche-2",
         "source": "allbridge",
         "sourceUrl": "https://app.allbridge.io/bridge"
       },
@@ -2356,7 +2356,7 @@
           "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
         ],
-        "website": "https://app.saber.so/#/pools/scn_msol"
+        "website": "https://app.saber.so/#/pools/Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber scnSOL-mSOL LP",
@@ -2887,12 +2887,12 @@
         "source": "soluna",
         "sourceUrl": "https://soluna.money/#/deposit",
         "twitter": "https://twitter.com/solunaDAO",
-        "website": "https://soluna.money"
+        "website": "https://soluna.money/"
       },
-      "logoURI": "https://registry.saber.so/token-icons/solust.svg",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T/solust.svg",
       "name": "solUST",
       "symbol": "solUST",
-      "tags": ["saber-mkt-usd"]
+      "tags": ["stablecoin", "saber-mkt-usd"]
     },
     {
       "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
