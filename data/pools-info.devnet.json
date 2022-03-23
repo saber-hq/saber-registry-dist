@@ -799,14 +799,14 @@
           "nonce": 254,
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
-          "adminAccount": "GSmjrpT8zNtp6Ke8y2xS5P1kREEjqZCjwxF8VbxDJAV8",
+          "adminAccount": "8stm1cGSc85QL9yJKphHvkZsHRXX7aFp5FhyhnMun1KN",
           "tokenA": {
-            "adminFeeAccount": "6RPzht581g8QLdKaT8CSuCnj9yBhR2u6mxKFFK6Dbhgx",
+            "adminFeeAccount": "Cea3Bt6MjHMwwULZ5qpeEA7pkioWwf6feR94oy6YJxwZ",
             "reserve": "6aFutFMWR7PbWdBQhdfrcKrAor9WYa2twtSinTMb9tXv",
             "mint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
           },
           "tokenB": {
-            "adminFeeAccount": "5Z4M2yHn6LUWaK9Ka8QqByM1NimGGRMdEk7roHoQbDb9",
+            "adminFeeAccount": "J53kBEY831Mr3RdZtUjEkJeuweKNxTeYNbV9vLYLhp5W",
             "reserve": "HXbhpnLTxSDDkTg6deDpsXzJRBf8j7T6Dc3GidwrLWeo",
             "mint": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
           },
