@@ -280,6 +280,15 @@
     ]
   },
   {
+    "id": "nirvana-nirv",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": ["GP7KB8o1bv527HG8kTzzzf4wJ5aEGHvcMQvVhLziUfmT"]
+      }
+    ]
+  },
+  {
     "id": "parrot-usd",
     "accounts": [
       {
@@ -422,6 +431,7 @@
         "decimals": 6,
         "addresses": [
           "3k54TvpQN5R1MactdGnJSnXzu1Wozx76Pqvi1k6mQYPz",
+          "9gYxhAZ1M9wu5pxr8SBoa5NDm21gi3s9vMHaYTME77sa",
           "B8ka2V21TH3x64dFV8ETcjuQcwmrciJ2qzy1mJUttRew",
           "7fSf7EYxBANyxzk2s5pymFgshA91tFYQNKKs5UnLWcYS",
           "ExiHJxM7qPAcy27NDHAF6G7vnW7muNHi2sVJpnaNynGQ",
@@ -496,13 +506,9 @@
           "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr",
           "DLkWGoaeXw4oeGPnr2ecJze541HVKFhrhaW4iVSFEwET",
           "4XqU6QN4QJKva4fF4eyCnPtJG99pKecuUuCPDax5BEqU",
-          "6rkPHSqZb7StM4HwS9EuVrmfkV7tRdc7dnsFhyB6cefE",
           "EXNW64GEf1ACC6xY9BtKRiunrs6GoJSXBdxWN2eTPmrF",
           "CfWX7o2TswwbxusJ4hCaPobu2jLCb1hfXuXJQjVq3jQF",
-          "6YjT74rmcfCpw8LSjPNx5JTmZoYLGrTKnf9arfSgZ4SR",
           "F8GSmi3vA8M8TsybLya1LQ4n1aFHCRbZ6k437PeTdXtg",
-          "9KvCDR1hzYS6ziAR7acAsX7yU2mSBWnhXgdyobma2fNq",
-          "6qG7GUhER8Cg9gDEgnebph9LdS6eu2eoWcA4R7z9uizK",
           "CwQDG1MWunn9cLNwcZLd8YBacweSR7ARo32w4mLua1Yr",
           "3YB7hfpBdbQEuZqLGWVDpRPmeZWCUsrrWyqGXegnQ6Cg",
           "4DPCj6Z1DsG6HUtwSogBGqXEUxdEV5a8YVrrFtcnz7UW",
@@ -557,6 +563,20 @@
           "2K2kkXsouBHtWVjtcgkyiXd8eP3oVBvq1bTJzcVdLLr2",
           "DJcFPaQjyW9Xkt7sXCbnEGj1yfykGYuLRUXFyS4LLZ5F",
           "D9yh4KAysxt9GLacVe4Wwh2XqghhcjTCSTV9HuM7TBJd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "usdh",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "6rkPHSqZb7StM4HwS9EuVrmfkV7tRdc7dnsFhyB6cefE",
+          "6YjT74rmcfCpw8LSjPNx5JTmZoYLGrTKnf9arfSgZ4SR",
+          "9KvCDR1hzYS6ziAR7acAsX7yU2mSBWnhXgdyobma2fNq",
+          "6qG7GUhER8Cg9gDEgnebph9LdS6eu2eoWcA4R7z9uizK"
         ]
       }
     ]

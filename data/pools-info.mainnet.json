@@ -9828,6 +9828,200 @@
       "quarry": "7193EeecxsPPv9TMoQATTN8i1eTqEUSNU8aDLuFCQy68"
     },
     {
+      "id": "nirv_ust",
+      "name": "NIRV-UST",
+      "tokens": [
+        {
+          "name": "NIRV",
+          "symbol": "NIRV",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+          "decimals": 6,
+          "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "chainId": 101,
+          "tags": ["currency"],
+          "extensions": {
+            "website": "https://nirvana.finance/",
+            "twitter": "https://twitter.com/nirvana_fi"
+          }
+        },
+        {
+          "name": "UST (Wormhole)",
+          "symbol": "UST",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "decimals": 6,
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "chainId": 101,
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ],
+          "extensions": {
+            "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
+            "coingeckoId": "terrausd",
+            "source": "wormhole-v2",
+            "address": "uusd",
+            "currency": "USD",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "name": "NIRV",
+          "symbol": "NIRV",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+          "decimals": 6,
+          "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "chainId": 101,
+          "tags": ["currency"],
+          "extensions": {
+            "website": "https://nirvana.finance/",
+            "twitter": "https://twitter.com/nirvana_fi"
+          }
+        },
+        {
+          "name": "UST (Wormhole)",
+          "symbol": "UST",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "decimals": 6,
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "chainId": 101,
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ],
+          "extensions": {
+            "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
+            "coingeckoId": "terrausd",
+            "source": "wormhole-v2",
+            "address": "uusd",
+            "currency": "USD",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "name": "NIRV",
+          "symbol": "NIRV",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+          "decimals": 6,
+          "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "chainId": 101,
+          "tags": ["currency"],
+          "extensions": {
+            "website": "https://nirvana.finance/",
+            "twitter": "https://twitter.com/nirvana_fi"
+          }
+        },
+        {
+          "name": "UST (Wormhole)",
+          "symbol": "UST",
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+          "decimals": 6,
+          "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "chainId": 101,
+          "tags": [
+            "wrapped",
+            "wormhole",
+            "stablecoin",
+            "saber-mkt-usd",
+            "wormhole-v2"
+          ],
+          "extensions": {
+            "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+            "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
+            "coingeckoId": "terrausd",
+            "source": "wormhole-v2",
+            "address": "uusd",
+            "currency": "USD",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "NIRV-UST",
+        "name": "Saber NIRV-UST LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/#/pools/nirv_ust",
+          "underlyingTokens": [
+            "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+            "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "FnxdDjUte4RpQDtHDBYwGyFmUd1hCS8kdbTv8j7hqBN4",
+      "swap": {
+        "config": {
+          "swapAccount": "Sid7E679i9ABqptiAVhkmQ27YHN8vaYT4fppPwmxFsJ",
+          "authority": "8GhxgLae6vY63wQ42AMzRs46qJwULTPts72NCJgH6JUT",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
+          "adminAccount": "6XJsoWaKwZ6nR2aR5Yt3GU7etWUWBXoVVvrYWrQtTrtS",
+          "tokenA": {
+            "adminFeeAccount": "uoKx14yxomFBRHwAedyBKd7MurvUQf8gi7wZu6fG4hA",
+            "mint": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+            "reserve": "GP7KB8o1bv527HG8kTzzzf4wJ5aEGHvcMQvVhLziUfmT"
+          },
+          "tokenB": {
+            "adminFeeAccount": "54VfH6GnmaTcxsz9Q1F3uh6aRUvs4kWCBkNUmrjfXDzX",
+            "mint": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+            "reserve": "9gYxhAZ1M9wu5pxr8SBoa5NDm21gi3s9vMHaYTME77sa"
+          },
+          "initialAmpFactor": "0a",
+          "targetAmpFactor": "0a",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "8W2qWpq5gSzTbviZRkhVPtPUywvQymKgXHXuwL1ngEM6"
+    },
+    {
       "id": "pai_cash",
       "name": "PAI-CASH",
       "tokens": [

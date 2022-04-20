@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-04-20T17:40:32.703Z",
+  "timestamp": "2022-04-20T20:50:03.923Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -3106,6 +3106,36 @@
       "name": "Saber MAI-USDC LP",
       "symbol": "MAI-USDC",
       "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
+    },
+    {
+      "address": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+        ],
+        "website": "https://app.saber.so/#/pools/nirv_ust"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber NIRV-UST LP",
+      "symbol": "NIRV-UST",
+      "tags": ["saber-stableswap-lp"]
+    },
+    {
+      "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "twitter": "https://twitter.com/nirvana_fi",
+        "website": "https://nirvana.finance/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+      "name": "NIRV",
+      "symbol": "NIRV",
+      "tags": ["currency"]
     },
     {
       "address": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",

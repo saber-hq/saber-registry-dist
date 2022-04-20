@@ -756,6 +756,18 @@
     "decimals": 9
   },
   {
+    "id": "nirv_ust",
+    "lpMint": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
+    "tokenA": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+    "tokenB": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+    "authority": "8GhxgLae6vY63wQ42AMzRs46qJwULTPts72NCJgH6JUT",
+    "reserveA": "GP7KB8o1bv527HG8kTzzzf4wJ5aEGHvcMQvVhLziUfmT",
+    "reserveB": "9gYxhAZ1M9wu5pxr8SBoa5NDm21gi3s9vMHaYTME77sa",
+    "tokenACoingecko": "nirvana-nirv",
+    "tokenBCoingecko": "terrausd",
+    "decimals": 6
+  },
+  {
     "id": "pai_cash",
     "lpMint": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY",
     "tokenA": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
@@ -896,7 +908,7 @@
     "reserveA": "ExiHJxM7qPAcy27NDHAF6G7vnW7muNHi2sVJpnaNynGQ",
     "reserveB": "6rkPHSqZb7StM4HwS9EuVrmfkV7tRdc7dnsFhyB6cefE",
     "tokenACoingecko": "terrausd",
-    "tokenBCoingecko": "usd-coin",
+    "tokenBCoingecko": "usdh",
     "decimals": 6
   },
   {
@@ -955,7 +967,7 @@
     "authority": "H66xGa3c5wvg5ZGF7RCwskf52iH42C8u8v8TPwQXwc3m",
     "reserveA": "6YjT74rmcfCpw8LSjPNx5JTmZoYLGrTKnf9arfSgZ4SR",
     "reserveB": "F8GSmi3vA8M8TsybLya1LQ4n1aFHCRbZ6k437PeTdXtg",
-    "tokenACoingecko": "usd-coin",
+    "tokenACoingecko": "usdh",
     "tokenBCoingecko": "usd-coin",
     "decimals": 6
   },
@@ -967,7 +979,7 @@
     "authority": "GkMw7hsfDriGqu1DhYkfeAr41eG4yx74uPaiB2cGcyGh",
     "reserveA": "9KvCDR1hzYS6ziAR7acAsX7yU2mSBWnhXgdyobma2fNq",
     "reserveB": "732AKGENciwszwAC876DDfTL5vPN3FTzgy5CB7xmXn8v",
-    "tokenACoingecko": "usd-coin",
+    "tokenACoingecko": "usdh",
     "tokenBCoingecko": "cashio-dollar",
     "decimals": 6
   },
@@ -979,7 +991,7 @@
     "authority": "ESoBYoCq7ej9wD6spKfSnoMoXCu7ijja3GUg7ydk95Wy",
     "reserveA": "6qG7GUhER8Cg9gDEgnebph9LdS6eu2eoWcA4R7z9uizK",
     "reserveB": "4QV4CwRXVMY227KkFF9voNAfwWHVvVajXSXDKbUHkWZR",
-    "tokenACoingecko": "usd-coin",
+    "tokenACoingecko": "usdh",
     "tokenBCoingecko": "terrausd",
     "decimals": 6
   },
