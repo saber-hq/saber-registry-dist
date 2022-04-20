@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-04-20T21:03:14.806Z",
+  "timestamp": "2022-04-20T21:15:15.752Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -3130,6 +3130,8 @@
       "decimals": 6,
       "extensions": {
         "currency": "USD",
+        "source": "nirvana",
+        "sourceUrl": "https://nirvana.finance",
         "twitter": "https://twitter.com/nirvana_fi",
         "website": "https://nirvana.finance/"
       },

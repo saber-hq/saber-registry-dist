@@ -2816,7 +2816,7 @@
     "id": "nirv_ust",
     "isVerified": true,
     "name": "NIRV-UST",
-    "sources": ["wormhole-v2"],
+    "sources": ["nirvana", "wormhole-v2"],
     "underlyingTokens": [
       "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
       "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
