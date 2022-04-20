@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-04-20T20:50:03.923Z",
+  "timestamp": "2022-04-20T20:51:17.226Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -3129,13 +3129,14 @@
       "chainId": 101,
       "decimals": 6,
       "extensions": {
+        "currency": "USD",
         "twitter": "https://twitter.com/nirvana_fi",
         "website": "https://nirvana.finance/"
       },
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
       "name": "NIRV",
       "symbol": "NIRV",
-      "tags": ["currency"]
+      "tags": ["currency", "saber-mkt-usd"]
     },
     {
       "address": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
