@@ -2062,7 +2062,7 @@
       "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
       "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
     ],
-    "id": "USDH_UST",
+    "id": "usdh_ust",
     "isVerified": true,
     "name": "USDH-UST",
     "sources": ["hubble", "wormhole-v2"],

@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-04-20T17:23:10.057Z",
+  "timestamp": "2022-04-20T17:40:32.703Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -2837,7 +2837,7 @@
           "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
-        "website": "https://app.saber.so/#/pools/USDH_UST"
+        "website": "https://app.saber.so/#/pools/usdh_ust"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDH-UST LP",
