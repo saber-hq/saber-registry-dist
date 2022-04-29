@@ -23,7 +23,7 @@
       "name": "stablecoin"
     }
   },
-  "timestamp": "2022-04-29T20:26:25.174Z",
+  "timestamp": "2022-04-29T22:29:44.637Z",
   "tokens": [
     {
       "address": "22Ni6MmCu5UdQiuVjptqrZWJDen245hmojAfgChbDa1P",
@@ -35,7 +35,7 @@
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
         ],
-        "website": "https://app.saber.so/#/pools/nK4bdLJjCpj4XDqPBwWXv5TDkVomc8ZzozwCgpx6VAF"
+        "website": "https://app.saber.so/pools/nK4bdLJjCpj4XDqPBwWXv5TDkVomc8ZzozwCgpx6VAF"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
@@ -52,7 +52,7 @@
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
         ],
-        "website": "https://app.saber.so/#/pools/JEE92C5NKF22jq8XSzb4xoubxw3Cr9k7jBhE4gNSRyUD"
+        "website": "https://app.saber.so/pools/JEE92C5NKF22jq8XSzb4xoubxw3Cr9k7jBhE4gNSRyUD"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
@@ -95,7 +95,7 @@
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
         ],
-        "website": "https://app.saber.so/#/pools/DaZjGM5rBrP648v8fbXQMi9sTuGH4qFe6i96KCtkSa7f"
+        "website": "https://app.saber.so/pools/DaZjGM5rBrP648v8fbXQMi9sTuGH4qFe6i96KCtkSa7f"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
@@ -124,7 +124,7 @@
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
         ],
-        "website": "https://app.saber.so/#/pools/ED8qJtfNE7Js8ZEpT8xvUsH2MxBL5dH23CUqE1p4yGo6"
+        "website": "https://app.saber.so/pools/ED8qJtfNE7Js8ZEpT8xvUsH2MxBL5dH23CUqE1p4yGo6"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
@@ -141,7 +141,7 @@
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
         ],
-        "website": "https://app.saber.so/#/pools/8Uq15j3bmhMAhLjRYh8RsobfcAMhMsgPgJgPCdjxCZv5"
+        "website": "https://app.saber.so/pools/8Uq15j3bmhMAhLjRYh8RsobfcAMhMsgPgJgPCdjxCZv5"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
@@ -158,7 +158,7 @@
           "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs",
           "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ"
         ],
-        "website": "https://app.saber.so/#/pools/FkjhzAGV6kAZ8Svv7dP4upmz5weBS2GNW2S8MpHTEmKd"
+        "website": "https://app.saber.so/pools/FkjhzAGV6kAZ8Svv7dP4upmz5weBS2GNW2S8MpHTEmKd"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber WBTC-renBTC LP",
@@ -209,7 +209,7 @@
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "website": "https://app.saber.so/#/pools/usdc_cash"
+        "website": "https://app.saber.so/pools/usdc_cash"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-CASH LP",
@@ -226,7 +226,7 @@
           "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
         ],
-        "website": "https://app.saber.so/#/pools/usdc_test"
+        "website": "https://app.saber.so/pools/usdc_test"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber TEST-USDC LP",
@@ -257,7 +257,7 @@
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
         ],
-        "website": "https://app.saber.so/#/pools/G8oALwgE2zFyYG62xTASzdrCNHrKgofTdUn1VDTeDzW4"
+        "website": "https://app.saber.so/pools/G8oALwgE2zFyYG62xTASzdrCNHrKgofTdUn1VDTeDzW4"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-SBR LP",
@@ -274,7 +274,7 @@
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL"
         ],
-        "website": "https://app.saber.so/#/pools/usdc_pai"
+        "website": "https://app.saber.so/pools/usdc_pai"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-PAI LP",
@@ -291,7 +291,7 @@
           "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs",
           "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ"
         ],
-        "website": "https://app.saber.so/#/pools/8UAG7CCH3sSUg4eQbtT2ABiLaEBKwQcxT6gingGgMsjm"
+        "website": "https://app.saber.so/pools/8UAG7CCH3sSUg4eQbtT2ABiLaEBKwQcxT6gingGgMsjm"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber WBTC-renBTC LP",
@@ -308,7 +308,7 @@
           "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "website": "https://app.saber.so/#/pools/usdt_cash"
+        "website": "https://app.saber.so/pools/usdt_cash"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDT-CASH LP",
@@ -359,7 +359,7 @@
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
         ],
-        "website": "https://app.saber.so/#/pools/usdc_usdt"
+        "website": "https://app.saber.so/pools/usdc_usdt"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
@@ -376,7 +376,7 @@
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
         ],
-        "website": "https://app.saber.so/#/pools/GqFXS4HY5BB8E3VoKAiJqEaZ3yVgdjcSTpvJe6bMSZeP"
+        "website": "https://app.saber.so/pools/GqFXS4HY5BB8E3VoKAiJqEaZ3yVgdjcSTpvJe6bMSZeP"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
@@ -393,7 +393,7 @@
           "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
           "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs"
         ],
-        "website": "https://app.saber.so/#/pools/btc"
+        "website": "https://app.saber.so/pools/btc"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber renBTC-WBTC LP",
@@ -410,7 +410,7 @@
           "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs",
           "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ"
         ],
-        "website": "https://app.saber.so/#/pools/C9DDHYRzuMUELsDtTfq27hhLrQj1bwHNdwoSgeUpSHyu"
+        "website": "https://app.saber.so/pools/C9DDHYRzuMUELsDtTfq27hhLrQj1bwHNdwoSgeUpSHyu"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber WBTC-renBTC LP",

@@ -36,18 +36,6 @@
     "decimals": 6
   },
   {
-    "id": "7dwD9TF6uikvHXxPFK9AsSim54yJoujQjY9vU6gNFumk",
-    "lpMint": "4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF",
-    "tokenA": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
-    "tokenB": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
-    "authority": "8bopcrcYNPHHE5f5RtSMjtyecM9vMufuAY4kLDAoFiqc",
-    "reserveA": "CquVr6atkvwueDYficKjn6SSEWq4F4rH4VSiBbW4GBWU",
-    "reserveB": "8BCa6ge3b7ho3TfZuM64Vk1hgbrJ3J7EPiAb9uP86CGd",
-    "tokenACoingecko": "solana",
-    "tokenBCoingecko": "msol",
-    "decimals": 9
-  },
-  {
     "id": "BSCsJRZuzNScmNdka9rr24iFediCUYHKh3Sya7TjVBni",
     "lpMint": "ALP74DnaoVT8DpiXBfQiTDjtcDdsmXGKDAQMkCeVM3LQ",
     "tokenA": "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
@@ -57,18 +45,6 @@
     "reserveB": "BA6PfHBH4Ac6VQDxWmF12rb1Hx4zFGWmytpd7PSh5kiv",
     "tokenACoingecko": "usd-coin",
     "tokenBCoingecko": "usd-coin",
-    "decimals": 9
-  },
-  {
-    "id": "Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju",
-    "lpMint": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
-    "tokenA": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
-    "tokenB": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
-    "authority": "2ENUpqrjguuLRfovPAjSVZvVz5t31xowzmNBp1wDFKcz",
-    "reserveA": "EATxwd8YA2wV93VJcKMmH2Kn2Y9XfJVUB9hHVu3udwEy",
-    "reserveB": "GiGvrRi7NMHfHKanG2B8xyCEqe8jaafWins8bhrLVEaa",
-    "tokenACoingecko": "socean-staked-sol",
-    "tokenBCoingecko": "msol",
     "decimals": 9
   },
   {
@@ -840,6 +816,18 @@
     "decimals": 9
   },
   {
+    "id": "scn_msol",
+    "lpMint": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
+    "tokenA": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+    "tokenB": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+    "authority": "2ENUpqrjguuLRfovPAjSVZvVz5t31xowzmNBp1wDFKcz",
+    "reserveA": "EATxwd8YA2wV93VJcKMmH2Kn2Y9XfJVUB9hHVu3udwEy",
+    "reserveB": "GiGvrRi7NMHfHKanG2B8xyCEqe8jaafWins8bhrLVEaa",
+    "tokenACoingecko": "socean-staked-sol",
+    "tokenBCoingecko": "msol",
+    "decimals": 9
+  },
+  {
     "id": "socean",
     "lpMint": "SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj",
     "tokenA": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
@@ -933,6 +921,18 @@
     "reserveB": "AtymwxoVN9peZo7EXTcDz9jKVc4vRmisJKKrNfe3ewBa",
     "tokenACoingecko": "solana",
     "tokenBCoingecko": "solana",
+    "decimals": 9
+  },
+  {
+    "id": "stsol_msol",
+    "lpMint": "4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF",
+    "tokenA": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+    "tokenB": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+    "authority": "8bopcrcYNPHHE5f5RtSMjtyecM9vMufuAY4kLDAoFiqc",
+    "reserveA": "CquVr6atkvwueDYficKjn6SSEWq4F4rH4VSiBbW4GBWU",
+    "reserveB": "8BCa6ge3b7ho3TfZuM64Vk1hgbrJ3J7EPiAb9uP86CGd",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "msol",
     "decimals": 9
   },
   {

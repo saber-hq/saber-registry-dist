@@ -174,7 +174,7 @@
   },
   {
     "addresses": {
-      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "admin": "4Xvjkg3fPAkKHD3zRSGH3u7DfKbQCFxHuYYQ8or2Yc86",
       "lpTokenMint": "4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF",
       "mergePool": "F46N3Zhh7oG44NXScMNc8xXCxDHRH2HoM1M5fv7D1Swe",
       "quarry": "7YsjyUn53KSqi4YGfhukrTLWcM6ex7TDtNvfVYSAet3D",
@@ -191,8 +191,8 @@
       "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
       "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
     ],
-    "id": "7dwD9TF6uikvHXxPFK9AsSim54yJoujQjY9vU6gNFumk",
-    "isVerified": false,
+    "id": "stsol_msol",
+    "isVerified": true,
     "name": "stSOL-mSOL",
     "sources": ["lido", "marinade"],
     "underlyingTokens": [
@@ -1185,7 +1185,7 @@
   },
   {
     "addresses": {
-      "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
+      "admin": "DG4HvjNx2FaE4QDx5VTXwVXdnffJpg8nDYrknjFVkQkd",
       "lpTokenMint": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
       "mergePool": "C6aA7tCwfmWC5gb1wFfxvUVBhmo42TTfaYENf6RNe3nX",
       "quarry": "399RMzmnwFpxDgsKLU2fPdnMue84fLpwZntBaqw7SRJz",
@@ -1202,8 +1202,8 @@
       "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
       "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
     ],
-    "id": "Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju",
-    "isVerified": false,
+    "id": "scn_msol",
+    "isVerified": true,
     "name": "scnSOL-mSOL",
     "sources": ["socean", "marinade"],
     "underlyingTokens": [
