@@ -284,7 +284,12 @@
     "accounts": [
       {
         "decimals": 6,
-        "addresses": ["GP7KB8o1bv527HG8kTzzzf4wJ5aEGHvcMQvVhLziUfmT"]
+        "addresses": [
+          "NhFM9UXE48PyNAyeyPYA3iXztqKVJwA4bTdLj4ysM8w",
+          "49GjCCPsv7fBqo6t3iKDrP1xxGDS8uWZbVCdfnp2gjMf",
+          "3qsjFRuw1qeLMPo4DLwaQevenGAGBj9dA3Q6rb8ax2YR",
+          "GP7KB8o1bv527HG8kTzzzf4wJ5aEGHvcMQvVhLziUfmT"
+        ]
       }
     ]
   },
@@ -463,6 +468,7 @@
           "G8xrN5CDpHXvBykQ6f3dLEm2EoAY1dF9WiD3kcma3Ma3",
           "D6d156U1bPiJpDYRLextvDRccgFk7QzkQbJg42ceKEu5",
           "GNcM8U5g8RwTZffwwm3kSQqUNPSwv5d2fbN9sLxPJqt2",
+          "77iEv8zPQAEyCcEbvBRSB6AFcUdfkhiqnAKtPxk76rNN",
           "2tBpLvzYBCs7e4DrRocEnssoJANB8rDh2jt5FbeCAeK1",
           "F7k8DuuawVEZ3new4A9ahWVojCkEG8BrLsCwyhRvmEHa",
           "EnTrdMMpdhugeH6Ban6gYZWXughWxKtVGfCwFn78ZmY3",
@@ -504,6 +510,7 @@
           "4xkyD7AfGQDwsQMy9MosRRNGoVJ1zosNinesxg1TzHG7",
           "Cbm5gsQe3nSiCsFrvepVzMCD9xLK3ri9g3ypS2hdmVJ7",
           "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr",
+          "6TuFuynuBoeskxyR2cz4wxyidk8dpDK7kAWw3UkjQGx",
           "DLkWGoaeXw4oeGPnr2ecJze541HVKFhrhaW4iVSFEwET",
           "4XqU6QN4QJKva4fF4eyCnPtJG99pKecuUuCPDax5BEqU",
           "EXNW64GEf1ACC6xY9BtKRiunrs6GoJSXBdxWN2eTPmrF",
@@ -558,6 +565,8 @@
           "HuEnD3eWBSuJtTCZMDG3P74sHPhi5UyVRV4SVefva6jS",
           "DRr3h3DF9wupahxh6vHMFCm6WGfmJWMrrBHoBvWAweAQ",
           "9YWiQh5d4jCtgMdzcGLv9bWgnLaFtzvDDh2nnhJdzhBX",
+          "78XKqNb8wbfsMMrvo8WPUpdx7GEkfQutpNVH943aCGFa",
+          "DKYQwn4nDvFHCszi5tXbqfVMAP7DaXXp1KGTXEnYnKVH",
           "PhfHJ2Yu99BsEjZrefhApqUnLUiExcECcUT1YLoNUUv",
           "H8VggnHmuwd1wvwpT8eg9cUJFEfZ7HAaeYjgXrSm7A2u",
           "2K2kkXsouBHtWVjtcgkyiXd8eP3oVBvq1bTJzcVdLLr2",
@@ -573,6 +582,7 @@
       {
         "decimals": 6,
         "addresses": [
+          "CEwj5xEbbJEjYqM8D6Ai8ByGz1mrh8mkAVsE5fzDSSSx",
           "6rkPHSqZb7StM4HwS9EuVrmfkV7tRdc7dnsFhyB6cefE",
           "6YjT74rmcfCpw8LSjPNx5JTmZoYLGrTKnf9arfSgZ4SR",
           "9KvCDR1hzYS6ziAR7acAsX7yU2mSBWnhXgdyobma2fNq",

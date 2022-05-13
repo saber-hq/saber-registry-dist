@@ -5770,6 +5770,192 @@
       "newPoolID": "webusd"
     },
     {
+      "id": "calusd",
+      "name": "calUSD-USDC",
+      "tokens": [
+        {
+          "name": "calUSD Stablecoin",
+          "symbol": "calUSD",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk.png",
+          "decimals": 9,
+          "address": "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://calcifer.fi/",
+            "twitter": "https://twitter.com/CalciferFi",
+            "medium": "https://medium.com/@CalciferFinance",
+            "discord": "https://discord.com/invite/Me2zTTdQpu",
+            "currency": "USD",
+            "source": "calcifer",
+            "sourceUrl": "https://calcifer.fi"
+          }
+        },
+        {
+          "name": "Saber Wrapped USD Coin (9 decimals)",
+          "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "decimals": 9,
+          "symbol": "sUSDC-9",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
+          "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
+          "extensions": {
+            "website": "https://app.saber.so",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "underlyingTokens": ["EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"]
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "name": "calUSD Stablecoin",
+          "symbol": "calUSD",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk.png",
+          "decimals": 9,
+          "address": "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://calcifer.fi/",
+            "twitter": "https://twitter.com/CalciferFi",
+            "medium": "https://medium.com/@CalciferFinance",
+            "discord": "https://discord.com/invite/Me2zTTdQpu",
+            "currency": "USD",
+            "source": "calcifer",
+            "sourceUrl": "https://calcifer.fi"
+          }
+        },
+        {
+          "name": "Saber Wrapped USD Coin (9 decimals)",
+          "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "decimals": 9,
+          "symbol": "sUSDC-9",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
+          "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
+          "extensions": {
+            "website": "https://app.saber.so",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "underlyingTokens": ["EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"]
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "name": "calUSD Stablecoin",
+          "symbol": "calUSD",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk.png",
+          "decimals": 9,
+          "address": "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://calcifer.fi/",
+            "twitter": "https://twitter.com/CalciferFi",
+            "medium": "https://medium.com/@CalciferFinance",
+            "discord": "https://discord.com/invite/Me2zTTdQpu",
+            "currency": "USD",
+            "source": "calcifer",
+            "sourceUrl": "https://calcifer.fi"
+          }
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "calUSD-USDC",
+        "name": "Saber calUSD-USDC LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/pools/calusd",
+          "underlyingTokens": [
+            "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "A5BZJm1enr1WMTZCMonYHYNikgJzoPHKywB35dNDVrRR",
+      "swap": {
+        "config": {
+          "swapAccount": "BerKDkt6v49dT1bHRedgnpsJS263C1DSJtEGvY9Mg35V",
+          "authority": "Hwashq9x4AEy9Fq51uyQxfCa4RKrdwzuSmRx8Wn9yxQq",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 250,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa",
+          "adminAccount": "GsVQCAzyUViUhubyQMtphmyWFRtR58kHUidV7KLimDuY",
+          "tokenA": {
+            "adminFeeAccount": "4rhNyLHLCkfJ1DJQqt5cUcAfWd6oNJCUNsuni4QT5YYz",
+            "mint": "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+            "reserve": "78XKqNb8wbfsMMrvo8WPUpdx7GEkfQutpNVH943aCGFa"
+          },
+          "tokenB": {
+            "adminFeeAccount": "HHVkZP3R6vi2wfuDc2RgNpKxqW3rJF9qdr56LhaotsL9",
+            "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+            "reserve": "DKYQwn4nDvFHCszi5tXbqfVMAP7DaXXp1KGTXEnYnKVH"
+          },
+          "initialAmpFactor": "96",
+          "targetAmpFactor": "96",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "AotTWCpKdh2GdHr1D73QYkjzu1GPDXEb6yot9q2z1h8A"
+    },
+    {
       "id": "cash",
       "name": "CASH-USDC",
       "tokens": [
@@ -9826,6 +10012,540 @@
         }
       },
       "quarry": "7193EeecxsPPv9TMoQATTN8i1eTqEUSNU8aDLuFCQy68"
+    },
+    {
+      "id": "nirv_usdc",
+      "name": "NIRV-USDC",
+      "tokens": [
+        {
+          "name": "NIRV",
+          "symbol": "NIRV",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+          "decimals": 6,
+          "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "chainId": 101,
+          "tags": ["currency", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://nirvana.finance/",
+            "twitter": "https://twitter.com/nirvana_fi",
+            "source": "nirvana",
+            "currency": "USD",
+            "sourceUrl": "https://nirvana.finance"
+          }
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "name": "NIRV",
+          "symbol": "NIRV",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+          "decimals": 6,
+          "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "chainId": 101,
+          "tags": ["currency", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://nirvana.finance/",
+            "twitter": "https://twitter.com/nirvana_fi",
+            "source": "nirvana",
+            "currency": "USD",
+            "sourceUrl": "https://nirvana.finance"
+          }
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "name": "NIRV",
+          "symbol": "NIRV",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+          "decimals": 6,
+          "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "chainId": 101,
+          "tags": ["currency", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://nirvana.finance/",
+            "twitter": "https://twitter.com/nirvana_fi",
+            "source": "nirvana",
+            "currency": "USD",
+            "sourceUrl": "https://nirvana.finance"
+          }
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "NIRV-USDC",
+        "name": "Saber NIRV-USDC LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/pools/nirv_usdc",
+          "underlyingTokens": [
+            "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "9UvLtha3CCHWp23QjAwUxhtaLxkwf286wiuRfrxQP8kg",
+      "swap": {
+        "config": {
+          "swapAccount": "Cob4usZcpHEY7Qt4ZCwj6WVg9S44zvzYV2v9qYF65dTf",
+          "authority": "4gQzERgW7HdgfsKKbtbnDcshX75cMHYjEV5Qz2gtafwd",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
+          "adminAccount": "69UavttUJLKmn8huZQLS2WYQeRyd2v9Whk4xD3X7WTif",
+          "tokenA": {
+            "adminFeeAccount": "G3W4EjbqbeeccXWKJzZvpcLzVuZLcBFJ7B6ehfxwQ5VU",
+            "mint": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+            "reserve": "NhFM9UXE48PyNAyeyPYA3iXztqKVJwA4bTdLj4ysM8w"
+          },
+          "tokenB": {
+            "adminFeeAccount": "FYyWVpGubSiCikigo5JQxDP83fbepGUKkyPxLdpx9HEH",
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "reserve": "6TuFuynuBoeskxyR2cz4wxyidk8dpDK7kAWw3UkjQGx"
+          },
+          "initialAmpFactor": "19",
+          "targetAmpFactor": "19",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "GzoTtZx6LHqrS8Drws8f6vb66UgQb8JRe2rm4Lj9WTtA"
+    },
+    {
+      "id": "nirv_usdh",
+      "name": "NIRV-USDH",
+      "tokens": [
+        {
+          "name": "NIRV",
+          "symbol": "NIRV",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+          "decimals": 6,
+          "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "chainId": 101,
+          "tags": ["currency", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://nirvana.finance/",
+            "twitter": "https://twitter.com/nirvana_fi",
+            "source": "nirvana",
+            "currency": "USD",
+            "sourceUrl": "https://nirvana.finance"
+          }
+        },
+        {
+          "name": "USDH Hubble Stablecoin",
+          "symbol": "USDH",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
+          "decimals": 6,
+          "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://hubbleprotocol.io/",
+            "twitter": "https://twitter.com/hubbleprotocol",
+            "discord": "https://discord.gg/d44A8WvK",
+            "source": "hubble",
+            "currency": "USD",
+            "sourceUrl": "https://app.hubbleprotocol.io/"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "name": "NIRV",
+          "symbol": "NIRV",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+          "decimals": 6,
+          "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "chainId": 101,
+          "tags": ["currency", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://nirvana.finance/",
+            "twitter": "https://twitter.com/nirvana_fi",
+            "source": "nirvana",
+            "currency": "USD",
+            "sourceUrl": "https://nirvana.finance"
+          }
+        },
+        {
+          "name": "USDH Hubble Stablecoin",
+          "symbol": "USDH",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
+          "decimals": 6,
+          "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://hubbleprotocol.io/",
+            "twitter": "https://twitter.com/hubbleprotocol",
+            "discord": "https://discord.gg/d44A8WvK",
+            "source": "hubble",
+            "currency": "USD",
+            "sourceUrl": "https://app.hubbleprotocol.io/"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "name": "NIRV",
+          "symbol": "NIRV",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+          "decimals": 6,
+          "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "chainId": 101,
+          "tags": ["currency", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://nirvana.finance/",
+            "twitter": "https://twitter.com/nirvana_fi",
+            "source": "nirvana",
+            "currency": "USD",
+            "sourceUrl": "https://nirvana.finance"
+          }
+        },
+        {
+          "name": "USDH Hubble Stablecoin",
+          "symbol": "USDH",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
+          "decimals": 6,
+          "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://hubbleprotocol.io/",
+            "twitter": "https://twitter.com/hubbleprotocol",
+            "discord": "https://discord.gg/d44A8WvK",
+            "source": "hubble",
+            "currency": "USD",
+            "sourceUrl": "https://app.hubbleprotocol.io/"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "NIRV-USDH",
+        "name": "Saber NIRV-USDH LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/pools/nirv_usdh",
+          "underlyingTokens": [
+            "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+            "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "Er5HuwQx3ubznNmqcss9NacH2bGbSBPd3gvkD32Cqfkk",
+      "swap": {
+        "config": {
+          "swapAccount": "SUiuyGR7SFq3xeRVJonq84fjjeFwRSsFekcevJ53tzy",
+          "authority": "2v9Hoi5bgtAV5ZNEwS6Lbw8RkDgEusH2T1H1sBCCCzpS",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e",
+          "adminAccount": "FZ6Xp7W4JyhmyQ9278WWkQthyGtHctXiwUbcHC9NFjJp",
+          "tokenA": {
+            "adminFeeAccount": "6cXuamjji2fxCgVcQNvmNKikb1kFYbJFRomN7hU2AD2V",
+            "mint": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+            "reserve": "49GjCCPsv7fBqo6t3iKDrP1xxGDS8uWZbVCdfnp2gjMf"
+          },
+          "tokenB": {
+            "adminFeeAccount": "EBTuj3ZUL3MvHnwiszXTzEXfbistoWsB4MZpaoJ2nKaS",
+            "mint": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+            "reserve": "CEwj5xEbbJEjYqM8D6Ai8ByGz1mrh8mkAVsE5fzDSSSx"
+          },
+          "initialAmpFactor": "19",
+          "targetAmpFactor": "19",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "G5AyUriDUFzptFr2ipxfFqUxfQWz6kfdk3Wjkhxp7YKL"
+    },
+    {
+      "id": "nirv_usdt",
+      "name": "NIRV-USDT",
+      "tokens": [
+        {
+          "name": "NIRV",
+          "symbol": "NIRV",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+          "decimals": 6,
+          "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "chainId": 101,
+          "tags": ["currency", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://nirvana.finance/",
+            "twitter": "https://twitter.com/nirvana_fi",
+            "source": "nirvana",
+            "currency": "USD",
+            "sourceUrl": "https://nirvana.finance"
+          }
+        },
+        {
+          "name": "USDT",
+          "symbol": "USDT",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "decimals": 6,
+          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://tether.to/",
+            "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "tether",
+            "currency": "USD"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "name": "NIRV",
+          "symbol": "NIRV",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+          "decimals": 6,
+          "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "chainId": 101,
+          "tags": ["currency", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://nirvana.finance/",
+            "twitter": "https://twitter.com/nirvana_fi",
+            "source": "nirvana",
+            "currency": "USD",
+            "sourceUrl": "https://nirvana.finance"
+          }
+        },
+        {
+          "name": "USDT",
+          "symbol": "USDT",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "decimals": 6,
+          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://tether.to/",
+            "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "tether",
+            "currency": "USD"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "name": "NIRV",
+          "symbol": "NIRV",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+          "decimals": 6,
+          "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "chainId": 101,
+          "tags": ["currency", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://nirvana.finance/",
+            "twitter": "https://twitter.com/nirvana_fi",
+            "source": "nirvana",
+            "currency": "USD",
+            "sourceUrl": "https://nirvana.finance"
+          }
+        },
+        {
+          "name": "USDT",
+          "symbol": "USDT",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+          "decimals": 6,
+          "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://tether.to/",
+            "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "tether",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "NIRV-USDT",
+        "name": "Saber NIRV-USDT LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/pools/nirv_usdt",
+          "underlyingTokens": [
+            "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+            "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "iBgBfExNByxCP7B76esNrrgscD3TYpfbmQvpj99seak",
+      "swap": {
+        "config": {
+          "swapAccount": "KEnkcdADoLR5jS2CLLLesy8TtFsyWL37BhXNfDMzWzP",
+          "authority": "Ds612hXZJgqogMvgbBYksncZFL7ctAWmnKqACarky2ro",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y",
+          "adminAccount": "GkRcVsZSiLDqPLZJAXbkJDX23RYyieRC3P7SEAmjy4Am",
+          "tokenA": {
+            "adminFeeAccount": "4sexb33owmbcmG8mdQsAM1TrhCjrAeDg42mKUrqTmwmk",
+            "mint": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+            "reserve": "3qsjFRuw1qeLMPo4DLwaQevenGAGBj9dA3Q6rb8ax2YR"
+          },
+          "tokenB": {
+            "adminFeeAccount": "D34TcUdFdSWppzByrVBMwvVVEwBoTdVqvfJAadqCKK8A",
+            "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "reserve": "77iEv8zPQAEyCcEbvBRSB6AFcUdfkhiqnAKtPxk76rNN"
+          },
+          "initialAmpFactor": "19",
+          "targetAmpFactor": "19",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "4Z82JmmzXxz8tQPPJkbns52bWjvud8aWcTS3xAbcijk3"
     },
     {
       "id": "nirv_ust",
@@ -18539,9 +19259,9 @@
           "stopRampTimestamp": 1651285974,
           "fees": {
             "trade": {
-              "formatted": "0.0000001000",
+              "formatted": "0.0010000000",
               "numerator": "1",
-              "denominator": "1000000000"
+              "denominator": "100000"
             },
             "adminTrade": {
               "formatted": "0.0000000000",

@@ -521,6 +521,34 @@
   },
   {
     "addresses": {
+      "admin": "GsVQCAzyUViUhubyQMtphmyWFRtR58kHUidV7KLimDuY",
+      "lpTokenMint": "CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa",
+      "mergePool": "Fnd17vo6rx2Tn5oWQkmLfUu2KA3EphmjRURYcpeTGH5H",
+      "quarry": "AotTWCpKdh2GdHr1D73QYkjzu1GPDXEb6yot9q2z1h8A",
+      "reserves": [
+        "78XKqNb8wbfsMMrvo8WPUpdx7GEkfQutpNVH943aCGFa",
+        "DKYQwn4nDvFHCszi5tXbqfVMAP7DaXXp1KGTXEnYnKVH"
+      ],
+      "swapAccount": "BerKDkt6v49dT1bHRedgnpsJS263C1DSJtEGvY9Mg35V",
+      "swapAuthority": "Hwashq9x4AEy9Fq51uyQxfCa4RKrdwzuSmRx8Wn9yxQq"
+    },
+    "currency": "USD",
+    "decimals": 9,
+    "displayTokens": [
+      "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ],
+    "id": "calusd",
+    "isVerified": true,
+    "name": "calUSD-USDC",
+    "sources": ["calcifer"],
+    "underlyingTokens": [
+      "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+      "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+    ]
+  },
+  {
+    "addresses": {
       "admin": "6Wt9zummPyWcuD9r3zoNiiLcQgE1y8Lgixtko1QZitHG",
       "lpTokenMint": "xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi",
       "mergePool": "7LcgQ1RSEWaq9C8hMCWHpAZS9UGCxydBkz3NrKKtpM6W",
@@ -949,6 +977,34 @@
     "sources": ["cashio"],
     "underlyingTokens": [
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "69UavttUJLKmn8huZQLS2WYQeRyd2v9Whk4xD3X7WTif",
+      "lpTokenMint": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
+      "mergePool": "9jRRxPgNCsT8zczVrBU3s87KaPLgNtvvsjqbP9xqixu9",
+      "quarry": "GzoTtZx6LHqrS8Drws8f6vb66UgQb8JRe2rm4Lj9WTtA",
+      "reserves": [
+        "NhFM9UXE48PyNAyeyPYA3iXztqKVJwA4bTdLj4ysM8w",
+        "6TuFuynuBoeskxyR2cz4wxyidk8dpDK7kAWw3UkjQGx"
+      ],
+      "swapAccount": "Cob4usZcpHEY7Qt4ZCwj6WVg9S44zvzYV2v9qYF65dTf",
+      "swapAuthority": "4gQzERgW7HdgfsKKbtbnDcshX75cMHYjEV5Qz2gtafwd"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ],
+    "id": "nirv_usdc",
+    "isVerified": true,
+    "name": "NIRV-USDC",
+    "sources": ["nirvana"],
+    "underlyingTokens": [
+      "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ]
   },
@@ -1755,6 +1811,34 @@
     "underlyingTokens": [
       "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "GkRcVsZSiLDqPLZJAXbkJDX23RYyieRC3P7SEAmjy4Am",
+      "lpTokenMint": "NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y",
+      "mergePool": "CvpAnpa1k3CL4VXpeVA65TQWbDHwLafzuRjDgNr7kbvs",
+      "quarry": "4Z82JmmzXxz8tQPPJkbns52bWjvud8aWcTS3xAbcijk3",
+      "reserves": [
+        "3qsjFRuw1qeLMPo4DLwaQevenGAGBj9dA3Q6rb8ax2YR",
+        "77iEv8zPQAEyCcEbvBRSB6AFcUdfkhiqnAKtPxk76rNN"
+      ],
+      "swapAccount": "KEnkcdADoLR5jS2CLLLesy8TtFsyWL37BhXNfDMzWzP",
+      "swapAuthority": "Ds612hXZJgqogMvgbBYksncZFL7ctAWmnKqACarky2ro"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+      "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+    ],
+    "id": "nirv_usdt",
+    "isVerified": true,
+    "name": "NIRV-USDT",
+    "sources": ["nirvana"],
+    "underlyingTokens": [
+      "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+      "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
     ]
   },
   {
@@ -2934,6 +3018,34 @@
     "underlyingTokens": [
       "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
       "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "FZ6Xp7W4JyhmyQ9278WWkQthyGtHctXiwUbcHC9NFjJp",
+      "lpTokenMint": "NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e",
+      "mergePool": "9epDLjxBmgtMf9V1RRrnPd4vbhn3nGfE7gbTLzpjCpp4",
+      "quarry": "G5AyUriDUFzptFr2ipxfFqUxfQWz6kfdk3Wjkhxp7YKL",
+      "reserves": [
+        "49GjCCPsv7fBqo6t3iKDrP1xxGDS8uWZbVCdfnp2gjMf",
+        "CEwj5xEbbJEjYqM8D6Ai8ByGz1mrh8mkAVsE5fzDSSSx"
+      ],
+      "swapAccount": "SUiuyGR7SFq3xeRVJonq84fjjeFwRSsFekcevJ53tzy",
+      "swapAuthority": "2v9Hoi5bgtAV5ZNEwS6Lbw8RkDgEusH2T1H1sBCCCzpS"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+      "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+    ],
+    "id": "nirv_usdh",
+    "isVerified": true,
+    "name": "NIRV-USDH",
+    "sources": ["nirvana", "hubble"],
+    "underlyingTokens": [
+      "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+      "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
     ]
   },
   {

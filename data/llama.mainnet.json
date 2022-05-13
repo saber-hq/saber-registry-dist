@@ -480,6 +480,18 @@
     "decimals": 9
   },
   {
+    "id": "calusd",
+    "lpMint": "CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa",
+    "tokenA": "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+    "tokenB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+    "authority": "Hwashq9x4AEy9Fq51uyQxfCa4RKrdwzuSmRx8Wn9yxQq",
+    "reserveA": "78XKqNb8wbfsMMrvo8WPUpdx7GEkfQutpNVH943aCGFa",
+    "reserveB": "DKYQwn4nDvFHCszi5tXbqfVMAP7DaXXp1KGTXEnYnKVH",
+    "tokenACoingecko": "usd-coin",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 9
+  },
+  {
     "id": "cash",
     "lpMint": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
     "tokenA": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -730,6 +742,42 @@
     "tokenACoingecko": "msol",
     "tokenBCoingecko": "solana",
     "decimals": 9
+  },
+  {
+    "id": "nirv_usdc",
+    "lpMint": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
+    "tokenA": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+    "tokenB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "authority": "4gQzERgW7HdgfsKKbtbnDcshX75cMHYjEV5Qz2gtafwd",
+    "reserveA": "NhFM9UXE48PyNAyeyPYA3iXztqKVJwA4bTdLj4ysM8w",
+    "reserveB": "6TuFuynuBoeskxyR2cz4wxyidk8dpDK7kAWw3UkjQGx",
+    "tokenACoingecko": "nirvana-nirv",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 6
+  },
+  {
+    "id": "nirv_usdh",
+    "lpMint": "NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e",
+    "tokenA": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+    "tokenB": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+    "authority": "2v9Hoi5bgtAV5ZNEwS6Lbw8RkDgEusH2T1H1sBCCCzpS",
+    "reserveA": "49GjCCPsv7fBqo6t3iKDrP1xxGDS8uWZbVCdfnp2gjMf",
+    "reserveB": "CEwj5xEbbJEjYqM8D6Ai8ByGz1mrh8mkAVsE5fzDSSSx",
+    "tokenACoingecko": "nirvana-nirv",
+    "tokenBCoingecko": "usdh",
+    "decimals": 6
+  },
+  {
+    "id": "nirv_usdt",
+    "lpMint": "NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y",
+    "tokenA": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+    "tokenB": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "authority": "Ds612hXZJgqogMvgbBYksncZFL7ctAWmnKqACarky2ro",
+    "reserveA": "3qsjFRuw1qeLMPo4DLwaQevenGAGBj9dA3Q6rb8ax2YR",
+    "reserveB": "77iEv8zPQAEyCcEbvBRSB6AFcUdfkhiqnAKtPxk76rNN",
+    "tokenACoingecko": "nirvana-nirv",
+    "tokenBCoingecko": "tether",
+    "decimals": 6
   },
   {
     "id": "nirv_ust",
