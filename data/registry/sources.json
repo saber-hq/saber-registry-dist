@@ -1,0 +1,26 @@
+{
+  "nirvana": {
+    "auditors": ["Anchor core developers", "Solana Labs core developers"],
+    "name": "Nirvana",
+    "description": "Nirvana is a twin system of algorithmic wealth & ultra low-risk stablecoin on the Solana network.  It produces the ANA token: an algorithmic metastable token that serves as a store of wealth.  And it produces the NIRV token: a decentralized superstable store of value.",
+    "website": "https://nirvana.finance",
+    "risksURL": "https://docs.nirvana.finance/risks",
+    "iconURL": "https://nirvana.finance/Favicon.svg"
+  },
+  "uxd": {
+    "auditors": ["Bramah Systems", "Soteria"],
+    "name": "UXD",
+    "description": "UXD Protocol is an algorithmic stablecoin that is fully backed by a delta-neutral position using derivatives.",
+    "website": "https://uxd.fi/",
+    "risksURL": "https://docs.uxd.fi/uxdprotocol/overview/risks",
+    "iconURL": "https://uxd.fi/apple-touch-icon.png"
+  },
+  "calcifer": {
+    "auditors": [],
+    "name": "Calcifer",
+    "description": "Calcifer Finance is a self repaying loan suite, using a brand new synthetic asset, calUSD. The platform creates advances on your yield farming via calUSD that represents a claim on any underlying collateral in Calcifer Finance.",
+    "website": "https://calcifer.fi/",
+    "risksURL": "https://calcifer-finance.gitbook.io/calcifer-finance/calusd",
+    "iconURL": "https://calcifer.fi/experiment.gif"
+  }
+}

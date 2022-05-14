@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-05-14T19:56:27.754Z",
+  "timestamp": "2022-05-14T20:42:15.874Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -192,8 +192,8 @@
         "website": "https://app.saber.so/pools/usdc_usdt"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf.png",
-      "name": "Saber USDT-USDC LP",
-      "symbol": "USDT-USDC",
+      "name": "Saber USDC-USDT LP",
+      "symbol": "USDC-USDT",
       "tags": ["saber-stableswap-lp"]
     },
     {
@@ -957,7 +957,7 @@
           "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/aeusdc"
+        "website": "https://app.saber.so/pools/aeusdc_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz.png",
       "name": "Saber aeUSDC-USDC LP",
@@ -974,7 +974,7 @@
           "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
           "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE"
         ],
-        "website": "https://app.saber.so/pools/aeeth"
+        "website": "https://app.saber.so/pools/seth-9_aeweth"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR.png",
       "name": "Saber ETH-aeWETH LP",
@@ -1080,7 +1080,7 @@
           "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
           "So11111111111111111111111111111111111111112"
         ],
-        "website": "https://app.saber.so/pools/asol"
+        "website": "https://app.saber.so/pools/asol_sol"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV.png",
       "name": "Saber aSOL-SOL LP",
@@ -1097,7 +1097,7 @@
           "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/afusdc"
+        "website": "https://app.saber.so/pools/afusdc_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo.png",
       "name": "Saber afUSDC-USDC LP",
@@ -1131,7 +1131,7 @@
           "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
           "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
         ],
-        "website": "https://app.saber.so/pools/fei_ust"
+        "website": "https://app.saber.so/pools/aefei_sust-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik.png",
       "name": "Saber aeFEI-UST LP",
@@ -1148,7 +1148,7 @@
           "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
           "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
         ],
-        "website": "https://app.saber.so/pools/afeth"
+        "website": "https://app.saber.so/pools/afeth_seth-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e.png",
       "name": "Saber afETH-ETH LP",
@@ -1165,7 +1165,7 @@
           "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/abusdc"
+        "website": "https://app.saber.so/pools/abusdc_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P.png",
       "name": "Saber abUSDC-USDC LP",
@@ -1182,7 +1182,7 @@
           "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
           "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
         ],
-        "website": "https://app.saber.so/pools/abusdt"
+        "website": "https://app.saber.so/pools/abusdt_susdt-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ALPaPPo6xmeGv3a63Pc4S8NJFAAuchhD7XnkkWJqzvXJ.png",
       "name": "Saber abUSDT-USDT LP",
@@ -1199,7 +1199,7 @@
           "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
           "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
         ],
-        "website": "https://app.saber.so/pools/fei_cash"
+        "website": "https://app.saber.so/pools/aefei_scash-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq.png",
       "name": "Saber aeFEI-CASH LP",
@@ -1216,7 +1216,7 @@
           "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
           "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
         ],
-        "website": "https://app.saber.so/pools/abbtcb"
+        "website": "https://app.saber.so/pools/abbtcb_srenbtc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo.png",
       "name": "Saber abBTCB-renBTC LP",
@@ -1233,7 +1233,7 @@
           "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
           "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
         ],
-        "website": "https://app.saber.so/pools/mim_cash"
+        "website": "https://app.saber.so/pools/aemim_scash-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh.png",
       "name": "Saber aeMIM-CASH LP",
@@ -1250,7 +1250,7 @@
           "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
           "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
         ],
-        "website": "https://app.saber.so/pools/mim_ust"
+        "website": "https://app.saber.so/pools/aemim_sust-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky.png",
       "name": "Saber aeMIM-UST LP",
@@ -1267,7 +1267,7 @@
           "EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC",
           "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
         ],
-        "website": "https://app.saber.so/pools/abeth"
+        "website": "https://app.saber.so/pools/abeth_seth-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP.png",
       "name": "Saber abETH-ETH LP",
@@ -1284,7 +1284,7 @@
           "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
           "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
         ],
-        "website": "https://app.saber.so/pools/afbtc"
+        "website": "https://app.saber.so/pools/afbtc_srenbtc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ALPoQFUuKsoN6P4gLBiKXMSaYFP9YChniKwvKAFRPvn5.png",
       "name": "Saber afBTC-renBTC LP",
@@ -1301,7 +1301,7 @@
           "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/afdai"
+        "website": "https://app.saber.so/pools/afdai_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ALPqczrbEXS8k5JF69tEPyu6TTE8qJbiwrzADfjVfKov.png",
       "name": "Saber afDAI-USDC LP",
@@ -1335,7 +1335,7 @@
           "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "website": "https://app.saber.so/pools/apusdc"
+        "website": "https://app.saber.so/pools/apusdc_usdc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP.png",
       "name": "Saber apUSDC-USDC LP",
@@ -1385,7 +1385,7 @@
           "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
           "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
         ],
-        "website": "https://app.saber.so/pools/aawbtc"
+        "website": "https://app.saber.so/pools/aawbtc_srenbtc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39.png",
       "name": "Saber aaWBTC-renBTC LP",
@@ -1402,7 +1402,7 @@
           "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/aausdc"
+        "website": "https://app.saber.so/pools/aausdc_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv.png",
       "name": "Saber aaUSDC-USDC LP",
@@ -1419,7 +1419,7 @@
           "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/aadai"
+        "website": "https://app.saber.so/pools/aadai_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AVDuGckLavyLr5YifViaxnoveY6rwqDezHw5kiKiRQEC.png",
       "name": "Saber aaDAI-USDC LP",
@@ -1436,7 +1436,7 @@
           "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
           "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
         ],
-        "website": "https://app.saber.so/pools/aausdt"
+        "website": "https://app.saber.so/pools/aausdt_susdt-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AVTrxHq5P57fYZTYjMuCRWFqsrLmom2gGThNtgEgK1ip.png",
       "name": "Saber aaUSDT-USDT LP",
@@ -1485,7 +1485,7 @@
           "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
           "9999j2A8sXUtHtDoQdk528oVzhaKBsXyRGZ67FKGoi7H"
         ],
-        "website": "https://app.saber.so/pools/ibbtc"
+        "website": "https://app.saber.so/pools/wibbtc_v1_sbtc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BADGsQo6rTxKZuqkY1kSoqhriQwZW3ZVgyPjgDk9mvyo.png",
       "name": "Saber wibBTC_V1-BTC LP",
@@ -1532,7 +1532,7 @@
           "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
           "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
         ],
-        "website": "https://app.saber.so/pools/ibbtc_ren"
+        "website": "https://app.saber.so/pools/wibbtc_v1_srenbtc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT.png",
       "name": "Saber wibBTC_V1-renBTC LP",
@@ -1549,7 +1549,7 @@
           "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
         ],
-        "website": "https://app.saber.so/pools/webusd"
+        "website": "https://app.saber.so/pools/busdet_susdc-8"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL.png",
       "name": "Saber BUSDet-USDC LP",
@@ -1581,7 +1581,7 @@
           "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/busd"
+        "website": "https://app.saber.so/pools/wbusd_v1_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3.png",
       "name": "Saber wBUSD_v1-USDC LP",
@@ -1598,7 +1598,7 @@
           "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/abbusd"
+        "website": "https://app.saber.so/pools/abbusd_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp.png",
       "name": "Saber abBUSD-USDC LP",
@@ -1770,7 +1770,7 @@
           "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/calusd"
+        "website": "https://app.saber.so/pools/calusd_susdc-9"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber calUSD-USDC LP",
@@ -1877,7 +1877,7 @@
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "website": "https://app.saber.so/pools/cash"
+        "website": "https://app.saber.so/pools/cash_usdc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv.png",
       "name": "Saber CASH-USDC LP",
@@ -1894,7 +1894,7 @@
           "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
         ],
-        "website": "https://app.saber.so/pools/acusd_cash"
+        "website": "https://app.saber.so/pools/acusd_scash-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7.png",
       "name": "Saber acUSD-CASH LP",
@@ -1975,7 +1975,7 @@
           "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
         ],
-        "website": "https://app.saber.so/pools/wdai"
+        "website": "https://app.saber.so/pools/dai_susdc-8"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3.png",
       "name": "Saber DAI-USDC LP",
@@ -2041,7 +2041,7 @@
           "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/dai"
+        "website": "https://app.saber.so/pools/wdai_v1_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh.png",
       "name": "Saber wDAI_v1-USDC LP",
@@ -2154,7 +2154,7 @@
           "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
           "So11111111111111111111111111111111111111112"
         ],
-        "website": "https://app.saber.so/pools/everstake_sol"
+        "website": "https://app.saber.so/pools/esol_sol"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau.png",
       "name": "Saber eSOL-SOL LP",
@@ -2391,7 +2391,7 @@
           "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
         ],
-        "website": "https://app.saber.so/pools/scn_msol"
+        "website": "https://app.saber.so/pools/scnsol_msol"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE.png",
       "name": "Saber scnSOL-mSOL LP",
@@ -2426,7 +2426,7 @@
           "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/frax"
+        "website": "https://app.saber.so/pools/wfrax_v1_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK.png",
       "name": "Saber wFRAX_v1-USDC LP",
@@ -2443,7 +2443,7 @@
           "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
         ],
-        "website": "https://app.saber.so/pools/wfrax"
+        "website": "https://app.saber.so/pools/frax_susdc-8"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x.png",
       "name": "Saber FRAX-USDC LP",
@@ -2542,7 +2542,7 @@
           "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
           "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt"
         ],
-        "website": "https://app.saber.so/pools/ftt"
+        "website": "https://app.saber.so/pools/wftt_v1_ssoftt-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7.png",
       "name": "Saber wFTT_v1-soFTT LP",
@@ -2559,7 +2559,7 @@
           "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
           "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx"
         ],
-        "website": "https://app.saber.so/pools/wftt"
+        "website": "https://app.saber.so/pools/aeftt_sftt-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK.png",
       "name": "Saber aeFTT-FTT LP",
@@ -2688,7 +2688,7 @@
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
           "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui"
         ],
-        "website": "https://app.saber.so/pools/acusdc"
+        "website": "https://app.saber.so/pools/susdc-9_acusdc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC.png",
       "name": "Saber USDC-acUSDC LP",
@@ -2753,7 +2753,7 @@
           "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
           "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
         ],
-        "website": "https://app.saber.so/pools/hbtc"
+        "website": "https://app.saber.so/pools/whbtc_v1_srenbtc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo.png",
       "name": "Saber wHBTC_v1-renBTC LP",
@@ -2770,7 +2770,7 @@
           "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/ahusdt"
+        "website": "https://app.saber.so/pools/ahusdt_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR.png",
       "name": "Saber ahUSDT-USDC LP",
@@ -2787,7 +2787,7 @@
           "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
           "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
         ],
-        "website": "https://app.saber.so/pools/ahwbtc"
+        "website": "https://app.saber.so/pools/ahbtc_srenbtc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J.png",
       "name": "Saber ahBTC-renBTC LP",
@@ -2804,7 +2804,7 @@
           "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "website": "https://app.saber.so/pools/usdh"
+        "website": "https://app.saber.so/pools/usdh_usdc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS.png",
       "name": "Saber USDH-USDC LP",
@@ -2838,7 +2838,7 @@
           "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
         ],
-        "website": "https://app.saber.so/pools/husd"
+        "website": "https://app.saber.so/pools/whusd_v1_susdc-8"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS.png",
       "name": "Saber wHUSD_v1-USDC LP",
@@ -2855,7 +2855,7 @@
           "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
         ],
-        "website": "https://app.saber.so/pools/whusd"
+        "website": "https://app.saber.so/pools/husd_susdc-8"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz.png",
       "name": "Saber HUSD-USDC LP",
@@ -3019,7 +3019,7 @@
           "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
           "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
         ],
-        "website": "https://app.saber.so/pools/atust_wust"
+        "website": "https://app.saber.so/pools/atluna_sluna-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY.png",
       "name": "Saber atLUNA-LUNA LP",
@@ -3040,7 +3040,7 @@
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
           "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
         ],
-        "website": "https://app.saber.so/pools/wluna"
+        "website": "https://app.saber.so/pools/luna_renluna"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU.png",
       "name": "Saber LUNA-renLUNA LP",
@@ -3084,7 +3084,7 @@
           "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
         ],
-        "website": "https://app.saber.so/pools/xluna"
+        "website": "https://app.saber.so/pools/xluna_luna"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP.png",
       "name": "Saber xLUNA-LUNA LP",
@@ -3101,7 +3101,7 @@
           "2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV",
           "KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT"
         ],
-        "website": "https://app.saber.so/pools/luna"
+        "website": "https://app.saber.so/pools/wluna_v1_srenluna-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE.png",
       "name": "Saber wLUNA_v1-renLUNA LP",
@@ -3118,7 +3118,7 @@
           "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
           "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
         ],
-        "website": "https://app.saber.so/pools/bilira"
+        "website": "https://app.saber.so/pools/tryb_tryb"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer.png",
       "name": "Saber TRYB-TRYB LP",
@@ -3135,7 +3135,7 @@
           "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/mai"
+        "website": "https://app.saber.so/pools/mai_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC.png",
       "name": "Saber MAI-USDC LP",
@@ -3236,7 +3236,7 @@
           "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
         ],
-        "website": "https://app.saber.so/pools/apusdt"
+        "website": "https://app.saber.so/pools/apusdt_usdt"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj.png",
       "name": "Saber apUSDT-USDT LP",
@@ -3253,7 +3253,7 @@
           "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
           "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3"
         ],
-        "website": "https://app.saber.so/pools/psol"
+        "website": "https://app.saber.so/pools/psol_prtsol"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy.png",
       "name": "Saber pSOL-prtSOL LP",
@@ -3270,7 +3270,7 @@
           "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "website": "https://app.saber.so/pools/usdc_pai"
+        "website": "https://app.saber.so/pools/pai_usdc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ.png",
       "name": "Saber PAI-USDC LP",
@@ -3287,7 +3287,7 @@
           "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
           "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58"
         ],
-        "website": "https://app.saber.so/pools/port_2pool"
+        "website": "https://app.saber.so/pools/pusdt_pusdc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en.png",
       "name": "Saber pUSDT-pUSDC LP",
@@ -3304,7 +3304,7 @@
           "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
           "So11111111111111111111111111111111111111112"
         ],
-        "website": "https://app.saber.so/pools/prtsol"
+        "website": "https://app.saber.so/pools/prtsol_sol"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/PrsVdKtXDDf6kJQu5Ff6YqmjfE4TZXtBgHM4bjuvRnR.png",
       "name": "Saber prtSOL-SOL LP",
@@ -3373,11 +3373,11 @@
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
           "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv"
         ],
-        "website": "https://app.saber.so/pools/btc"
+        "website": "https://app.saber.so/pools/renbtc_sbtc-8"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs.png",
-      "name": "Saber BTC-renBTC LP",
-      "symbol": "BTC-renBTC",
+      "name": "Saber renBTC-BTC LP",
+      "symbol": "renBTC-BTC",
       "tags": ["saber-stableswap-lp"]
     },
     {
@@ -3407,7 +3407,7 @@
           "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
           "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
         ],
-        "website": "https://app.saber.so/pools/srm"
+        "website": "https://app.saber.so/pools/wsrm_v1_srm"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp.png",
       "name": "Saber wSRM_V1-SRM LP",
@@ -3441,7 +3441,7 @@
           "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
           "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h"
         ],
-        "website": "https://app.saber.so/pools/solend_sol_msol"
+        "website": "https://app.saber.so/pools/csol_cmsol"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa.png",
       "name": "Saber cSOL-cmSOL LP",
@@ -3458,7 +3458,7 @@
           "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
           "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8"
         ],
-        "website": "https://app.saber.so/pools/solend_usdc_usdt"
+        "website": "https://app.saber.so/pools/cusdc_cusdt"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1.png",
       "name": "Saber cUSDC-cUSDT LP",
@@ -3510,7 +3510,7 @@
           "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
           "So11111111111111111111111111111111111111112"
         ],
-        "website": "https://app.saber.so/pools/socean"
+        "website": "https://app.saber.so/pools/scnsol_sol"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj.png",
       "name": "Saber scnSOL-SOL LP",
@@ -3561,7 +3561,7 @@
           "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
           "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
         ],
-        "website": "https://app.saber.so/pools/scn_jsol"
+        "website": "https://app.saber.so/pools/scnsol_jsol"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca.png",
       "name": "Saber scnSOL-JSOL LP",
@@ -3612,7 +3612,7 @@
           "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "website": "https://app.saber.so/pools/weusdc"
+        "website": "https://app.saber.so/pools/usdcet_usdc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c.png",
       "name": "Saber USDCet-USDC LP",
@@ -3646,7 +3646,7 @@
           "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
         ],
-        "website": "https://app.saber.so/pools/wusdk"
+        "website": "https://app.saber.so/pools/usdk_susdc-8"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz.png",
       "name": "Saber USDK-USDC LP",
@@ -3663,7 +3663,7 @@
           "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
         ],
-        "website": "https://app.saber.so/pools/weusdt"
+        "website": "https://app.saber.so/pools/usdtet_usdt"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue.png",
       "name": "Saber USDTet-USDT LP",
@@ -3680,11 +3680,11 @@
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
           "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm"
         ],
-        "website": "https://app.saber.so/pools/ust"
+        "website": "https://app.saber.so/pools/susdc-9_wust_v1"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc.png",
-      "name": "Saber wUST_v1-USDC LP",
-      "symbol": "wUSTv1-USDC",
+      "name": "Saber USDC-wUST_v1 LP",
+      "symbol": "USDC-wUSTv1",
       "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v1"]
     },
     {
@@ -3753,7 +3753,7 @@
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "website": "https://app.saber.so/pools/wust"
+        "website": "https://app.saber.so/pools/ust_usdc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi.png",
       "name": "Saber UST-USDC LP",
@@ -3770,7 +3770,7 @@
           "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
-        "website": "https://app.saber.so/pools/solust"
+        "website": "https://app.saber.so/pools/solust_ust"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c.png",
       "name": "Saber solUST-UST LP",
@@ -3804,7 +3804,7 @@
           "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "website": "https://app.saber.so/pools/uxd"
+        "website": "https://app.saber.so/pools/uxd_usdc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ.png",
       "name": "Saber UXD-USDC LP",
@@ -3838,7 +3838,7 @@
           "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
         ],
-        "website": "https://app.saber.so/pools/wpusdt"
+        "website": "https://app.saber.so/pools/usdtpo_usdt"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj.png",
       "name": "Saber USDTpo-USDT LP",
@@ -3855,7 +3855,7 @@
           "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
           "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
         ],
-        "website": "https://app.saber.so/pools/wsrm"
+        "website": "https://app.saber.so/pools/srmet_srm"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE.png",
       "name": "Saber SRMet-SRM LP",
@@ -3872,7 +3872,7 @@
           "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
         ],
-        "website": "https://app.saber.so/pools/wibbtc"
+        "website": "https://app.saber.so/pools/wibbtc_renbtc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx.png",
       "name": "Saber wibBTC-renBTC LP",
@@ -3889,7 +3889,7 @@
           "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
         ],
-        "website": "https://app.saber.so/pools/whbtc"
+        "website": "https://app.saber.so/pools/hbtc_renbtc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm.png",
       "name": "Saber HBTC-renBTC LP",
@@ -3906,7 +3906,7 @@
           "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
           "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw"
         ],
-        "website": "https://app.saber.so/pools/wbusdt"
+        "website": "https://app.saber.so/pools/usdtbs_susdt-8"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv.png",
       "name": "Saber USDTbs-USDT LP",
@@ -3923,7 +3923,7 @@
           "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
         ],
-        "website": "https://app.saber.so/pools/frax_ust"
+        "website": "https://app.saber.so/pools/frax_sust-8"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD.png",
       "name": "Saber FRAX-UST LP",
@@ -3940,7 +3940,7 @@
           "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
           "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt"
         ],
-        "website": "https://app.saber.so/pools/aceur_ageur"
+        "website": "https://app.saber.so/pools/aceur_sageur-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz.png",
       "name": "Saber acEUR-agEUR LP",
@@ -3961,7 +3961,7 @@
           "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
         ],
-        "website": "https://app.saber.so/pools/wbusd"
+        "website": "https://app.saber.so/pools/busdbs_susdc-8"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS.png",
       "name": "Saber BUSDbs-USDC LP",
@@ -3978,7 +3978,7 @@
           "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
           "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
         ],
-        "website": "https://app.saber.so/pools/sollet_ftt"
+        "website": "https://app.saber.so/pools/ssoftt-8_ftt"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg.png",
       "name": "Saber soFTT-FTT LP",
@@ -3995,7 +3995,7 @@
           "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
         ],
-        "website": "https://app.saber.so/pools/wbusdc"
+        "website": "https://app.saber.so/pools/usdcbs_susdc-8"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs.png",
       "name": "Saber USDCbs-USDC LP",
@@ -4012,7 +4012,7 @@
           "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s"
         ],
-        "website": "https://app.saber.so/pools/frax_cash"
+        "website": "https://app.saber.so/pools/frax_scash-8"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n.png",
       "name": "Saber FRAX-CASH LP",
@@ -4029,7 +4029,7 @@
           "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "website": "https://app.saber.so/pools/wpusdc"
+        "website": "https://app.saber.so/pools/usdcpo_usdc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WLPyXq7WRfdWLiP4fvRfSisrfDzLiPmCeVTE6okKQWE.png",
       "name": "Saber USDCpo-USDC LP",
@@ -4046,7 +4046,7 @@
           "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
           "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
         ],
-        "website": "https://app.saber.so/pools/wheth"
+        "website": "https://app.saber.so/pools/ssoeth-8_eth"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA.png",
       "name": "Saber soETH-ETH LP",
@@ -4063,7 +4063,7 @@
           "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "website": "https://app.saber.so/pools/xusd"
+        "website": "https://app.saber.so/pools/xusd_usdc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n.png",
       "name": "Saber xUSD-USDC LP",
@@ -4080,7 +4080,7 @@
           "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/aedai"
+        "website": "https://app.saber.so/pools/aedai_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic.png",
       "name": "Saber aeDAI-USDC LP",
@@ -4097,7 +4097,7 @@
           "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
           "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
         ],
-        "website": "https://app.saber.so/pools/aeusdt"
+        "website": "https://app.saber.so/pools/aeusdt_susdt-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7.png",
       "name": "Saber aeUSDT-USDT LP",
@@ -4114,7 +4114,7 @@
           "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/acusd"
+        "website": "https://app.saber.so/pools/acusd_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk.png",
       "name": "Saber acUSD-USDC LP",
@@ -4168,7 +4168,7 @@
           "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
           "So11111111111111111111111111111111111111112"
         ],
-        "website": "https://app.saber.so/pools/monkedao"
+        "website": "https://app.saber.so/pools/daosol_sol"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z.png",
       "name": "Saber daoSOL-SOL LP",
@@ -4185,11 +4185,11 @@
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
           "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun"
         ],
-        "website": "https://app.saber.so/pools/pbtc"
+        "website": "https://app.saber.so/pools/renbtc_pbtc"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x.png",
-      "name": "Saber pBTC-renBTC LP",
-      "symbol": "pBTC-renBTC",
+      "name": "Saber renBTC-pBTC LP",
+      "symbol": "renBTC-pBTC",
       "tags": ["saber-stableswap-lp"]
     },
     {
@@ -4202,7 +4202,7 @@
           "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
           "So11111111111111111111111111111111111111112"
         ],
-        "website": "https://app.saber.so/pools/jsol"
+        "website": "https://app.saber.so/pools/jsol_sol"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw.png",
       "name": "Saber JSOL-SOL LP",
@@ -4219,7 +4219,7 @@
           "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
           "So11111111111111111111111111111111111111112"
         ],
-        "website": "https://app.saber.so/pools/stsol"
+        "website": "https://app.saber.so/pools/stsol_sol"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV.png",
       "name": "Saber stSOL-SOL LP",
@@ -4236,7 +4236,7 @@
           "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
-        "website": "https://app.saber.so/pools/usdk"
+        "website": "https://app.saber.so/pools/wusdk_v1_susdc-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW.png",
       "name": "Saber wUSDK_V1-USDC LP",
@@ -4253,7 +4253,7 @@
           "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
           "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi"
         ],
-        "website": "https://app.saber.so/pools/xbtc"
+        "website": "https://app.saber.so/pools/xbtc_srenbtc-10"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK.png",
       "name": "Saber xBTC-renBTC LP",
@@ -4270,7 +4270,7 @@
           "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
           "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
         ],
-        "website": "https://app.saber.so/pools/xeth"
+        "website": "https://app.saber.so/pools/xeth_seth-9"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY.png",
       "name": "Saber xETH-ETH LP",
@@ -4287,7 +4287,7 @@
           "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
           "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
         ],
-        "website": "https://app.saber.so/pools/xftt"
+        "website": "https://app.saber.so/pools/xftt_ftt"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA.png",
       "name": "Saber xFTT-FTT LP",
@@ -4304,7 +4304,7 @@
           "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
           "So11111111111111111111111111111111111111112"
         ],
-        "website": "https://app.saber.so/pools/xsol"
+        "website": "https://app.saber.so/pools/xsol_sol"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi.png",
       "name": "Saber xSOL-SOL LP",
