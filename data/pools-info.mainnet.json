@@ -6250,7 +6250,7 @@
       "lpToken": {
         "symbol": "calUSD-USDC",
         "name": "Saber calUSD-USDC LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa.png",
         "decimals": 9,
         "address": "CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa",
         "chainId": 101,
@@ -9432,7 +9432,7 @@
       "lpToken": {
         "symbol": "NIRV-USDC",
         "name": "Saber NIRV-USDC LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP.png",
         "decimals": 6,
         "address": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
         "chainId": 101,
@@ -9614,7 +9614,7 @@
       "lpToken": {
         "symbol": "NIRV-USDH",
         "name": "Saber NIRV-USDH LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e.png",
         "decimals": 6,
         "address": "NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e",
         "chainId": 101,
@@ -9790,7 +9790,7 @@
       "lpToken": {
         "symbol": "NIRV-USDT",
         "name": "Saber NIRV-USDT LP",
-        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y.png",
         "decimals": 6,
         "address": "NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y",
         "chainId": 101,

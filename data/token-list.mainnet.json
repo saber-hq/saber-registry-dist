@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-05-14T20:42:15.874Z",
+  "timestamp": "2022-05-14T20:42:43.476Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -1772,7 +1772,7 @@
         ],
         "website": "https://app.saber.so/pools/calusd_susdc-9"
       },
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa.png",
       "name": "Saber calUSD-USDC LP",
       "symbol": "calUSD-USDC",
       "tags": ["saber-stableswap-lp"]
@@ -3187,7 +3187,7 @@
         ],
         "website": "https://app.saber.so/pools/nirv_usdc"
       },
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP.png",
       "name": "Saber NIRV-USDC LP",
       "symbol": "NIRV-USDC",
       "tags": ["saber-stableswap-lp"]
@@ -3204,7 +3204,7 @@
         ],
         "website": "https://app.saber.so/pools/nirv_usdh"
       },
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e.png",
       "name": "Saber NIRV-USDH LP",
       "symbol": "NIRV-USDH",
       "tags": ["saber-stableswap-lp"]
@@ -3221,7 +3221,7 @@
         ],
         "website": "https://app.saber.so/pools/nirv_usdt"
       },
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y.png",
       "name": "Saber NIRV-USDT LP",
       "symbol": "NIRV-USDT",
       "tags": ["saber-stableswap-lp"]
