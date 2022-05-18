@@ -532,5 +532,15 @@
       "source": "nirvana",
       "coingeckoId": "nirvana-nirv"
     }
+  },
+  "testnet": {
+    "6kSNdspA9nq2ovkejCEWHEUuABPM5CbPjJQxWBoEmcCf": {
+      "market": "USD",
+      "coingeckoId": "usd-coin"
+    },
+    "DtUm3nb3tGxycrqUWUGniDXgu8Hs639Yn62J8iNaRQLU": {
+      "market": "USD",
+      "coingeckoId": "tether"
+    }
   }
 }

@@ -46,10 +46,11 @@
       "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
       "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
     ],
-    "id": "tryb_tryb",
+    "id": "bilira",
     "isVerified": true,
     "name": "TRYB-TRYB",
     "sources": ["wormhole-v2", "biLira"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
       "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
@@ -74,10 +75,12 @@
       "2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV",
       "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
     ],
-    "id": "wluna_v1_srenluna-9",
+    "id": "luna",
     "isVerified": true,
     "name": "wLUNA_v1-renLUNA",
+    "newPoolID": "wluna",
     "sources": ["wormhole-v1", "renbridge"],
+    "tags": ["wormhole-v1"],
     "underlyingTokens": [
       "2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV",
       "KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT"
@@ -158,10 +161,12 @@
       "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "wdai_v1_susdc-9",
+    "id": "dai",
     "isVerified": true,
     "name": "wDAI_v1-USDC",
+    "newPoolID": "wdai",
     "sources": ["wormhole-v1"],
+    "tags": ["wormhole-v1"],
     "underlyingTokens": [
       "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -211,13 +216,15 @@
     "currency": "USD",
     "decimals": 9,
     "displayTokens": [
-      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm"
+      "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "susdc-9_wust_v1",
+    "id": "ust",
     "isVerified": true,
-    "name": "USDC-wUST_v1",
+    "name": "wUST_v1-USDC",
+    "newPoolID": "wust",
     "sources": ["wormhole-v1"],
+    "tags": ["wormhole-v1"],
     "underlyingTokens": [
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm"
@@ -242,10 +249,12 @@
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui"
     ],
-    "id": "susdc-9_acusdc",
+    "id": "acusdc",
     "isVerified": true,
     "name": "USDC-acUSDC",
+    "newPoolID": "acusd_cash",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui"
@@ -270,10 +279,11 @@
       "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
     ],
-    "id": "apusdt_usdt",
+    "id": "apusdt",
     "isVerified": true,
     "name": "apUSDT-USDT",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
@@ -298,10 +308,11 @@
       "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
       "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE"
     ],
-    "id": "seth-9_aeweth",
+    "id": "aeeth",
     "isVerified": true,
     "name": "ETH-aeWETH",
     "sources": ["wormhole-v2", "allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
       "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE"
@@ -326,7 +337,7 @@
       "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
       "So11111111111111111111111111111111111111112"
     ],
-    "id": "asol_sol",
+    "id": "asol",
     "isVerified": true,
     "name": "aSOL-SOL",
     "sources": ["aSOL"],
@@ -354,10 +365,11 @@
       "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "ahusdt_susdc-9",
+    "id": "ahusdt",
     "isVerified": true,
     "name": "ahUSDT-USDC",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -382,10 +394,11 @@
       "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "apusdc_usdc",
+    "id": "apusdc",
     "isVerified": true,
     "name": "apUSDC-USDC",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -407,13 +420,13 @@
     "currency": "BTC",
     "decimals": 8,
     "displayTokens": [
-      "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
-      "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun"
+      "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
+      "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
     ],
-    "id": "renbtc_pbtc",
+    "id": "pbtc",
     "isVerified": true,
-    "name": "renBTC-pBTC",
-    "sources": ["renbridge", "parrot"],
+    "name": "pBTC-renBTC",
+    "sources": ["parrot", "renbridge"],
     "underlyingTokens": [
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
       "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun"
@@ -438,7 +451,7 @@
       "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "pai_usdc",
+    "id": "usdc_pai",
     "isVerified": true,
     "name": "PAI-USDC",
     "sources": ["parrot"],
@@ -466,10 +479,12 @@
       "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
     ],
-    "id": "wibbtc_v1_srenbtc-9",
+    "id": "ibbtc_ren",
     "isVerified": true,
     "name": "wibBTC_V1-renBTC",
+    "newPoolID": "ibbtc_ren",
     "sources": ["wormhole-v1", "renbridge"],
+    "tags": ["wormhole-v1"],
     "underlyingTokens": [
       "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
       "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
@@ -494,10 +509,11 @@
       "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
     ],
-    "id": "wibbtc_renbtc",
+    "id": "wibbtc",
     "isVerified": true,
     "name": "wibBTC-renBTC",
     "sources": ["wormhole-v2", "renbridge"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
@@ -522,7 +538,7 @@
       "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "calusd_susdc-9",
+    "id": "calusd",
     "isVerified": true,
     "name": "calUSD-USDC",
     "sources": ["calcifer"],
@@ -550,10 +566,11 @@
       "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
       "So11111111111111111111111111111111111111112"
     ],
-    "id": "xsol_sol",
+    "id": "xsol",
     "isVerified": true,
     "name": "xSOL-SOL",
     "sources": ["synthetify"],
+    "tags": ["synthetify"],
     "underlyingTokens": [
       "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
       "So11111111111111111111111111111111111111112"
@@ -578,10 +595,12 @@
       "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "wbusd_v1_susdc-9",
+    "id": "busd",
     "isVerified": true,
     "name": "wBUSD_v1-USDC",
+    "newPoolID": "webusd",
     "sources": ["wormhole-v1"],
+    "tags": ["wormhole-v1"],
     "underlyingTokens": [
       "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -603,13 +622,13 @@
     "currency": "BTC",
     "decimals": 8,
     "displayTokens": [
-      "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
-      "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
+      "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+      "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
     ],
-    "id": "renbtc_sbtc-8",
+    "id": "btc",
     "isVerified": true,
-    "name": "renBTC-BTC",
-    "sources": ["renbridge", "sollet"],
+    "name": "BTC-renBTC",
+    "sources": ["sollet", "renbridge"],
     "underlyingTokens": [
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
       "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv"
@@ -634,10 +653,11 @@
       "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
       "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
     ],
-    "id": "xftt_ftt",
+    "id": "xftt",
     "isVerified": true,
     "name": "xFTT-FTT",
     "sources": ["synthetify", "wormhole-v2"],
+    "tags": ["synthetify"],
     "underlyingTokens": [
       "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
       "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
@@ -662,10 +682,11 @@
       "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "abusdc_susdc-9",
+    "id": "abusdc",
     "isVerified": true,
     "name": "abUSDC-USDC",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -690,10 +711,11 @@
       "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
     ],
-    "id": "abbtcb_srenbtc-9",
+    "id": "abbtcb",
     "isVerified": true,
     "name": "abBTCB-renBTC",
     "sources": ["allbridge", "renbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
       "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
@@ -718,10 +740,11 @@
       "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "abbusd_susdc-9",
+    "id": "abbusd",
     "isVerified": true,
     "name": "abBUSD-USDC",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -746,10 +769,11 @@
       "EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC",
       "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
     ],
-    "id": "abeth_seth-9",
+    "id": "abeth",
     "isVerified": true,
     "name": "abETH-ETH",
     "sources": ["allbridge", "wormhole-v2"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC",
       "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
@@ -802,10 +826,11 @@
       "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
     ],
-    "id": "abusdt_susdt-9",
+    "id": "abusdt",
     "isVerified": true,
     "name": "abUSDT-USDT",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
       "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
@@ -830,10 +855,11 @@
       "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
     ],
-    "id": "hbtc_renbtc",
+    "id": "whbtc",
     "isVerified": true,
     "name": "HBTC-renBTC",
     "sources": ["wormhole-v2", "renbridge"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
@@ -858,10 +884,11 @@
       "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "usdcbs_susdc-8",
+    "id": "wbusdc",
     "isVerified": true,
     "name": "USDCbs-USDC",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
       "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -886,10 +913,11 @@
       "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "busdbs_susdc-8",
+    "id": "wbusd",
     "isVerified": true,
     "name": "BUSDbs-USDC",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
       "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -914,10 +942,11 @@
       "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
     ],
-    "id": "usdtbs_susdt-8",
+    "id": "wbusdt",
     "isVerified": true,
     "name": "USDTbs-USDT",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
       "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw"
@@ -942,7 +971,7 @@
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "cash_usdc",
+    "id": "cash",
     "isVerified": true,
     "name": "CASH-USDC",
     "sources": ["cashio"],
@@ -1002,6 +1031,7 @@
     "isVerified": true,
     "name": "UST-CASH",
     "sources": ["wormhole-v2", "cashio"],
+    "tags": ["cashio"],
     "underlyingTokens": [
       "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -1030,6 +1060,7 @@
     "isVerified": true,
     "name": "PAI-CASH",
     "sources": ["parrot", "cashio"],
+    "tags": ["cashio"],
     "underlyingTokens": [
       "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -1054,10 +1085,11 @@
       "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
     ],
-    "id": "acusd_scash-9",
+    "id": "acusd_cash",
     "isVerified": true,
     "name": "acUSD-CASH",
     "sources": ["allbridge", "cashio"],
+    "tags": ["cashio"],
     "underlyingTokens": [
       "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
       "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
@@ -1082,10 +1114,11 @@
       "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "busdet_susdc-8",
+    "id": "webusd",
     "isVerified": true,
     "name": "BUSDet-USDC",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
       "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -1114,6 +1147,7 @@
     "isVerified": true,
     "name": "UXD-CASH",
     "sources": ["UXD", "cashio"],
+    "tags": ["cashio"],
     "underlyingTokens": [
       "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -1138,10 +1172,11 @@
       "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "aedai_susdc-9",
+    "id": "aedai",
     "isVerified": true,
     "name": "aeDAI-USDC",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -1166,7 +1201,7 @@
       "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
       "So11111111111111111111111111111111111111112"
     ],
-    "id": "daosol_sol",
+    "id": "monkedao",
     "isVerified": true,
     "name": "daoSOL-SOL",
     "sources": ["monkedao"],
@@ -1194,10 +1229,11 @@
       "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "mai_susdc-9",
+    "id": "mai",
     "isVerified": true,
     "name": "MAI-USDC",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -1222,7 +1258,7 @@
       "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
       "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
     ],
-    "id": "scnsol_msol",
+    "id": "scn_msol",
     "isVerified": true,
     "name": "scnSOL-mSOL",
     "sources": ["socean", "marinade"],
@@ -1250,10 +1286,11 @@
       "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
     ],
-    "id": "whbtc_v1_srenbtc-9",
+    "id": "hbtc",
     "isVerified": true,
     "name": "wHBTC_v1-renBTC",
     "sources": ["wormhole-v1", "renbridge"],
+    "tags": ["wormhole-v1"],
     "underlyingTokens": [
       "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
       "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
@@ -1278,10 +1315,11 @@
       "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
       "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
     ],
-    "id": "atluna_sluna-9",
+    "id": "atust_wust",
     "isVerified": true,
     "name": "atLUNA-LUNA",
     "sources": ["allbridge", "wormhole-v2"],
+    "tags": ["allbridge", "wormhole-v2"],
     "underlyingTokens": [
       "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
       "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
@@ -1306,10 +1344,11 @@
       "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
       "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
     ],
-    "id": "aefei_sust-9",
+    "id": "fei_ust",
     "isVerified": true,
     "name": "aeFEI-UST",
     "sources": ["allbridge", "wormhole-v2"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
       "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
@@ -1334,10 +1373,11 @@
       "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
     ],
-    "id": "aefei_scash-9",
+    "id": "fei_cash",
     "isVerified": true,
     "name": "aeFEI-CASH",
     "sources": ["allbridge", "cashio"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
       "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
@@ -1362,10 +1402,11 @@
       "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
       "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1"
     ],
-    "id": "aceur_sageur-9",
+    "id": "aceur_ageur",
     "isVerified": true,
     "name": "acEUR-agEUR",
     "sources": ["allbridge", "wormhole-v2"],
+    "tags": ["allbridge", "wormhole-v2"],
     "underlyingTokens": [
       "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
       "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt"
@@ -1390,7 +1431,7 @@
       "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
       "So11111111111111111111111111111111111111112"
     ],
-    "id": "scnsol_sol",
+    "id": "socean",
     "isVerified": true,
     "name": "scnSOL-SOL",
     "sources": ["socean"],
@@ -1418,10 +1459,11 @@
       "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
       "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
     ],
-    "id": "afeth_seth-9",
+    "id": "afeth",
     "isVerified": true,
     "name": "afETH-ETH",
     "sources": ["allbridge", "wormhole-v2"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
       "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
@@ -1446,10 +1488,11 @@
       "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
     ],
-    "id": "afbtc_srenbtc-9",
+    "id": "afbtc",
     "isVerified": true,
     "name": "afBTC-renBTC",
     "sources": ["allbridge", "renbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
       "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
@@ -1474,10 +1517,11 @@
       "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "afusdc_susdc-9",
+    "id": "afusdc",
     "isVerified": true,
     "name": "afUSDC-USDC",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -1502,10 +1546,11 @@
       "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "afdai_susdc-9",
+    "id": "afdai",
     "isVerified": true,
     "name": "afDAI-USDC",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -1530,10 +1575,11 @@
       "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "usdcet_usdc",
+    "id": "weusdc",
     "isVerified": true,
     "name": "USDCet-USDC",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -1558,10 +1604,11 @@
       "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
     ],
-    "id": "ahbtc_srenbtc-9",
+    "id": "ahwbtc",
     "isVerified": true,
     "name": "ahBTC-renBTC",
     "sources": ["allbridge", "renbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
       "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
@@ -1586,7 +1633,7 @@
       "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
       "So11111111111111111111111111111111111111112"
     ],
-    "id": "prtsol_sol",
+    "id": "prtsol",
     "isVerified": true,
     "name": "prtSOL-SOL",
     "sources": ["parrot"],
@@ -1642,10 +1689,11 @@
       "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "husd_susdc-8",
+    "id": "whusd",
     "isVerified": true,
     "name": "HUSD-USDC",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
       "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -1670,10 +1718,11 @@
       "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
       "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
     ],
-    "id": "xeth_seth-9",
+    "id": "xeth",
     "isVerified": true,
     "name": "xETH-ETH",
     "sources": ["synthetify", "wormhole-v2"],
+    "tags": ["synthetify"],
     "underlyingTokens": [
       "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
       "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
@@ -1698,10 +1747,11 @@
       "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
       "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
     ],
-    "id": "luna_renluna",
+    "id": "wluna",
     "isVerified": true,
     "name": "LUNA-renLUNA",
     "sources": ["wormhole-v2", "renbridge"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
       "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
@@ -1726,7 +1776,7 @@
       "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
       "So11111111111111111111111111111111111111112"
     ],
-    "id": "jsol_sol",
+    "id": "jsol",
     "isVerified": true,
     "name": "JSOL-SOL",
     "sources": ["jpool"],
@@ -1754,7 +1804,7 @@
       "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "uxd_usdc",
+    "id": "uxd",
     "isVerified": true,
     "name": "UXD-USDC",
     "sources": ["UXD"],
@@ -1810,10 +1860,11 @@
       "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "aausdc_susdc-9",
+    "id": "aausdc",
     "isVerified": true,
     "name": "aaUSDC-USDC",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -1838,10 +1889,11 @@
       "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
       "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
     ],
-    "id": "xluna_luna",
+    "id": "xluna",
     "isVerified": true,
     "name": "xLUNA-LUNA",
     "sources": ["synthetify", "wormhole-v2"],
+    "tags": ["synthetify"],
     "underlyingTokens": [
       "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
       "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
@@ -1866,10 +1918,11 @@
       "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "ust_usdc",
+    "id": "wust",
     "isVerified": true,
     "name": "UST-USDC",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -1894,7 +1947,7 @@
       "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
       "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
     ],
-    "id": "solust_ust",
+    "id": "solust",
     "isVerified": true,
     "name": "solUST-UST",
     "sources": ["soluna", "wormhole-v2"],
@@ -1922,10 +1975,11 @@
       "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "frax_susdc-8",
+    "id": "wfrax",
     "isVerified": true,
     "name": "FRAX-USDC",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
       "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -2006,10 +2060,11 @@
       "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
       "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58"
     ],
-    "id": "pusdt_pusdc",
+    "id": "port_2pool",
     "isVerified": true,
     "name": "pUSDT-pUSDC",
     "sources": ["port", "port"],
+    "tags": ["port"],
     "underlyingTokens": [
       "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
       "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58"
@@ -2034,7 +2089,7 @@
       "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
       "So11111111111111111111111111111111111111112"
     ],
-    "id": "stsol_sol",
+    "id": "stsol",
     "isVerified": true,
     "name": "stSOL-SOL",
     "sources": ["lido"],
@@ -2066,6 +2121,7 @@
     "isVerified": true,
     "name": "USDH-CASH",
     "sources": ["hubble", "cashio"],
+    "tags": ["cashio"],
     "underlyingTokens": [
       "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -2118,7 +2174,7 @@
       "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "usdh_usdc",
+    "id": "usdh",
     "isVerified": true,
     "name": "USDH-USDC",
     "sources": ["hubble"],
@@ -2146,10 +2202,11 @@
       "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "usdcpo_usdc",
+    "id": "wpusdc",
     "isVerified": true,
     "name": "USDCpo-USDC",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -2174,10 +2231,11 @@
       "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
     ],
-    "id": "usdtpo_usdt",
+    "id": "wpusdt",
     "isVerified": true,
     "name": "USDTpo-USDT",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
@@ -2230,10 +2288,11 @@
       "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
       "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
     ],
-    "id": "aemim_sust-9",
+    "id": "mim_ust",
     "isVerified": true,
     "name": "aeMIM-UST",
     "sources": ["allbridge", "wormhole-v2"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
       "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
@@ -2258,10 +2317,11 @@
       "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
     ],
-    "id": "aemim_scash-9",
+    "id": "mim_cash",
     "isVerified": true,
     "name": "aeMIM-CASH",
     "sources": ["allbridge", "cashio"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
       "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
@@ -2314,10 +2374,12 @@
       "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "whusd_v1_susdc-8",
+    "id": "husd",
     "isVerified": true,
     "name": "wHUSD_v1-USDC",
+    "newPoolID": "whusd",
     "sources": ["wormhole-v1"],
+    "tags": ["wormhole-v1"],
     "underlyingTokens": [
       "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
       "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -2342,10 +2404,11 @@
       "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "acusd_susdc-9",
+    "id": "acusd",
     "isVerified": true,
     "name": "acUSD-USDC",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -2370,10 +2433,11 @@
       "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
     ],
-    "id": "xbtc_srenbtc-10",
+    "id": "xbtc",
     "isVerified": true,
     "name": "xBTC-renBTC",
     "sources": ["synthetify", "renbridge"],
+    "tags": ["synthetify"],
     "underlyingTokens": [
       "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
       "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi"
@@ -2398,10 +2462,11 @@
       "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "xusd_usdc",
+    "id": "xusd",
     "isVerified": true,
     "name": "xUSD-USDC",
     "sources": ["synthetify"],
+    "tags": ["synthetify"],
     "underlyingTokens": [
       "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -2426,10 +2491,12 @@
       "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "wusdk_v1_susdc-9",
+    "id": "usdk",
     "isVerified": true,
     "name": "wUSDK_V1-USDC",
+    "newPoolID": "wusdk",
     "sources": ["wormhole-v1"],
+    "tags": ["wormhole-v1"],
     "underlyingTokens": [
       "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -2454,10 +2521,11 @@
       "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "usdk_susdc-8",
+    "id": "wusdk",
     "isVerified": true,
     "name": "USDK-USDC",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
       "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -2482,7 +2550,7 @@
       "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
       "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3"
     ],
-    "id": "psol_prtsol",
+    "id": "psol",
     "isVerified": true,
     "name": "pSOL-prtSOL",
     "sources": ["parrot", "parrot"],
@@ -2510,10 +2578,11 @@
       "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "dai_susdc-8",
+    "id": "wdai",
     "isVerified": true,
     "name": "DAI-USDC",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
       "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -2566,10 +2635,11 @@
       "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
       "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h"
     ],
-    "id": "csol_cmsol",
+    "id": "solend_sol_msol",
     "isVerified": true,
     "name": "cSOL-cmSOL",
     "sources": ["solend", "solend"],
+    "tags": ["solend"],
     "underlyingTokens": [
       "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
       "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h"
@@ -2594,10 +2664,11 @@
       "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
       "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8"
     ],
-    "id": "cusdc_cusdt",
+    "id": "solend_usdc_usdt",
     "isVerified": true,
     "name": "cUSDC-cUSDT",
     "sources": ["solend", "solend"],
+    "tags": ["solend"],
     "underlyingTokens": [
       "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
       "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8"
@@ -2622,10 +2693,11 @@
       "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
       "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
     ],
-    "id": "ssoftt-8_ftt",
+    "id": "sollet_ftt",
     "isVerified": true,
     "name": "soFTT-FTT",
     "sources": ["sollet", "wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
       "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
@@ -2650,10 +2722,11 @@
       "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
       "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
     ],
-    "id": "frax_sust-8",
+    "id": "frax_ust",
     "isVerified": true,
     "name": "FRAX-UST",
     "sources": ["wormhole-v2", "wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
       "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
@@ -2678,10 +2751,11 @@
       "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
       "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
     ],
-    "id": "aawbtc_srenbtc-9",
+    "id": "aawbtc",
     "isVerified": true,
     "name": "aaWBTC-renBTC",
     "sources": ["allbridge", "renbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
       "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
@@ -2706,10 +2780,12 @@
       "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
       "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
     ],
-    "id": "wibbtc_v1_sbtc-9",
+    "id": "ibbtc",
     "isVerified": true,
     "name": "wibBTC_V1-BTC",
+    "newPoolID": "ibbtc_ren",
     "sources": ["wormhole-v1", "sollet"],
+    "tags": ["wormhole-v1"],
     "underlyingTokens": [
       "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
       "9999j2A8sXUtHtDoQdk528oVzhaKBsXyRGZ67FKGoi7H"
@@ -2734,10 +2810,12 @@
       "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
       "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
     ],
-    "id": "wftt_v1_ssoftt-9",
+    "id": "ftt",
     "isVerified": true,
     "name": "wFTT_v1-soFTT",
+    "newPoolID": "wftt",
     "sources": ["wormhole-v1", "sollet"],
+    "tags": ["wormhole-v1"],
     "underlyingTokens": [
       "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
       "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt"
@@ -2762,10 +2840,11 @@
       "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
     ],
-    "id": "aausdt_susdt-9",
+    "id": "aausdt",
     "isVerified": true,
     "name": "aaUSDT-USDT",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
       "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
@@ -2790,7 +2869,7 @@
       "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
       "So11111111111111111111111111111111111111112"
     ],
-    "id": "esol_sol",
+    "id": "everstake_sol",
     "isVerified": true,
     "name": "eSOL-SOL",
     "sources": ["everstake"],
@@ -2846,7 +2925,7 @@
       "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
       "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
     ],
-    "id": "scnsol_jsol",
+    "id": "scn_jsol",
     "isVerified": true,
     "name": "scnSOL-JSOL",
     "sources": ["socean", "jpool"],
@@ -2902,10 +2981,11 @@
       "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "aadai_susdc-9",
+    "id": "aadai",
     "isVerified": true,
     "name": "aaDAI-USDC",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -2930,10 +3010,11 @@
       "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
       "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
     ],
-    "id": "srmet_srm",
+    "id": "wsrm",
     "isVerified": true,
     "name": "SRMet-SRM",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
       "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
@@ -2986,10 +3067,11 @@
       "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
     ],
-    "id": "aeusdt_susdt-9",
+    "id": "aeusdt",
     "isVerified": true,
     "name": "aeUSDT-USDT",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
       "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
@@ -3014,10 +3096,11 @@
       "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
       "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
     ],
-    "id": "wsrm_v1_srm",
+    "id": "srm",
     "isVerified": true,
     "name": "wSRM_V1-SRM",
     "sources": ["wormhole-v1"],
+    "tags": ["wormhole-v1"],
     "underlyingTokens": [
       "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
       "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
@@ -3042,10 +3125,11 @@
       "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
       "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
     ],
-    "id": "aeftt_sftt-9",
+    "id": "wftt",
     "isVerified": true,
     "name": "aeFTT-FTT",
     "sources": ["allbridge", "wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
       "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx"
@@ -3070,10 +3154,11 @@
       "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
     ],
-    "id": "usdtet_usdt",
+    "id": "weusdt",
     "isVerified": true,
     "name": "USDTet-USDT",
     "sources": ["wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
@@ -3098,10 +3183,11 @@
       "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "aeusdc_susdc-9",
+    "id": "aeusdc",
     "isVerified": true,
     "name": "aeUSDC-USDC",
     "sources": ["allbridge"],
+    "tags": ["allbridge"],
     "underlyingTokens": [
       "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -3126,10 +3212,11 @@
       "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
       "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
     ],
-    "id": "ssoeth-8_eth",
+    "id": "wheth",
     "isVerified": true,
     "name": "soETH-ETH",
     "sources": ["sollet", "wormhole-v2"],
+    "tags": ["wormhole-v2"],
     "underlyingTokens": [
       "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
       "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
@@ -3179,12 +3266,12 @@
     "currency": "USD",
     "decimals": 6,
     "displayTokens": [
-      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+      "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
     "id": "usdc_usdt",
     "isVerified": true,
-    "name": "USDC-USDT",
+    "name": "USDT-USDC",
     "sources": [],
     "underlyingTokens": [
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -3214,6 +3301,7 @@
     "isVerified": true,
     "name": "atUST-CASH",
     "sources": ["allbridge", "cashio"],
+    "tags": ["cashio"],
     "underlyingTokens": [
       "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -3238,10 +3326,11 @@
       "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
     ],
-    "id": "frax_scash-8",
+    "id": "frax_cash",
     "isVerified": true,
     "name": "FRAX-CASH",
     "sources": ["wormhole-v2", "cashio"],
+    "tags": ["cashio"],
     "underlyingTokens": [
       "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
       "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s"
@@ -3266,10 +3355,12 @@
       "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     ],
-    "id": "wfrax_v1_susdc-9",
+    "id": "frax",
     "isVerified": true,
     "name": "wFRAX_v1-USDC",
+    "newPoolID": "wfrax",
     "sources": ["wormhole-v1"],
+    "tags": ["wormhole-v1"],
     "underlyingTokens": [
       "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
