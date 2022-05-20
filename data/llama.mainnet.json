@@ -1080,6 +1080,18 @@
     "decimals": 9
   },
   {
+    "id": "usn",
+    "lpMint": "NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot",
+    "tokenA": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
+    "tokenB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+    "authority": "9miYzKwZPcvEiuHaNowbh9Yxd5mdk9b3qXUjQR6qyPLd",
+    "reserveA": "GpugBvKWM3TVhYcZjemSdtehBWgfvuGr6uAm9iPjXT6v",
+    "reserveB": "92fMXJ3xy8tEyMUWLHKRLyhPw2nECBo77GtDiBBbYrjX",
+    "tokenACoingecko": "usn",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 9
+  },
+  {
     "id": "ust",
     "lpMint": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
     "tokenA": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",

@@ -575,6 +575,7 @@
           "DJcFPaQjyW9Xkt7sXCbnEGj1yfykGYuLRUXFyS4LLZ5F",
           "EnnjMSFttpCTywBrYNt1J5QQeoSVkvzPipJDa8Y7kJow",
           "6bjVT6JN2rSvpyn9PdfLYC8wJn4LWh49jpY47fnLDXZk",
+          "92fMXJ3xy8tEyMUWLHKRLyhPw2nECBo77GtDiBBbYrjX",
           "D9yh4KAysxt9GLacVe4Wwh2XqghhcjTCSTV9HuM7TBJd"
         ]
       }
@@ -608,6 +609,15 @@
           "7mwozKdXTVZhSxcmtqP58rQ8MQx7dmFxr7mGaYsJ8Wws",
           "5RfXYWvxR9PUaedokXVxgJHDoD4xnLLauVtdJ27shPWG"
         ]
+      }
+    ]
+  },
+  {
+    "id": "usn",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": ["GpugBvKWM3TVhYcZjemSdtehBWgfvuGr6uAm9iPjXT6v"]
       }
     ]
   },

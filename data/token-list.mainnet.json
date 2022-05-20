@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-05-20T17:14:17.002Z",
+  "timestamp": "2022-05-20T17:29:14.233Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -3190,6 +3190,23 @@
       "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
     },
     {
+      "address": "NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "website": "https://app.saber.so/pools/usn"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber USN-USDC LP",
+      "symbol": "USN-USDC",
+      "tags": ["saber-stableswap-lp"]
+    },
+    {
       "address": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
       "chainId": 101,
       "decimals": 6,
@@ -3306,6 +3323,18 @@
       "name": "Saber pSOL-prtSOL LP",
       "symbol": "pSOL-prtSOL",
       "tags": ["saber-stableswap-lp"]
+    },
+    {
+      "address": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "usn"
+      },
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY.png",
+      "name": "USN (Allbridge from Near)",
+      "symbol": "USN",
+      "tags": ["stablecoin"]
     },
     {
       "address": "PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ",

@@ -541,6 +541,11 @@
       "market": "USD",
       "source": "hedge",
       "coingeckoId": "usd-coin"
+    },
+    "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY": {
+      "market": "USD",
+      "source": "near",
+      "coingeckoId": "usd-coin"
     }
   },
   "testnet": {
