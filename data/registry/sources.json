@@ -22,5 +22,21 @@
     "website": "https://calcifer.fi/",
     "risksURL": "https://calcifer-finance.gitbook.io/calcifer-finance/calusd",
     "iconURL": "https://calcifer.fi/experiment.gif"
+  },
+  "fabric": {
+    "auditors": [],
+    "name": "Fabric",
+    "website": "https://fsynth.io",
+    "description": "Fabric's core feature is a protocol for issuing and trading synthetic assets on Solana. A synthetic (or synth) is an SPL token that tracks an external asset with the supply controlled by the protocol.",
+    "risksURL": "https://docs.fsynth.io/synthetics-protocol",
+    "iconURL": "https://uploads-ssl.webflow.com/60b35c8cd73f399dc4a8d8b9/60b370df8e7b7a8633e75b16_FABLOGO_TRANS192.png"
+  },
+  "hedge": {
+    "auditors": ["Kudelski", "Soteria", "Ottersec"],
+    "name": "Hedge",
+    "website": "https://hedge.so",
+    "description": "Hedge is a protocol that enables the minting of USH, a stablecoin soft-pegged to the US dollar. USH is minted on flexible terms and gives users instant access to the USH ecosystem.",
+    "risksURL": "https://docs.hedge.so/protocol-overview/faq",
+    "iconURL": "https://www.hedge.so/_next/static/media/hedge-on-dark.c20a90d6.svg"
   }
 }

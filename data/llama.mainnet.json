@@ -528,6 +528,18 @@
     "decimals": 9
   },
   {
+    "id": "fabric_usd",
+    "lpMint": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
+    "tokenA": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+    "tokenB": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+    "authority": "DNHbHTg5wnnHo2BwmwdcKyz4817QNqyRbb2EKXat2Ham",
+    "reserveA": "GC5zHpW5GuVdw3C7covC6viyGdLS8ZAaVGDKMeru7p78",
+    "reserveB": "F8juxtAFueW19vxkdDArUkjVWAv9QV6yy1wCXUWQiXvh",
+    "tokenACoingecko": "usd-coin",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 8
+  },
+  {
     "id": "fei_cash",
     "lpMint": "ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq",
     "tokenA": "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
@@ -1052,6 +1064,18 @@
     "reserveA": "5RfXYWvxR9PUaedokXVxgJHDoD4xnLLauVtdJ27shPWG",
     "reserveB": "DJcFPaQjyW9Xkt7sXCbnEGj1yfykGYuLRUXFyS4LLZ5F",
     "tokenACoingecko": "usdk",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 9
+  },
+  {
+    "id": "ush",
+    "lpMint": "USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi",
+    "tokenA": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+    "tokenB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+    "authority": "AF1NU49p3KBhem97xZ2SGocQt5Nqqv949Brr2KhqoTXh",
+    "reserveA": "EnnjMSFttpCTywBrYNt1J5QQeoSVkvzPipJDa8Y7kJow",
+    "reserveB": "6bjVT6JN2rSvpyn9PdfLYC8wJn4LWh49jpY47fnLDXZk",
+    "tokenACoingecko": "usd-coin",
     "tokenBCoingecko": "usd-coin",
     "decimals": 9
   },

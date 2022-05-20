@@ -531,6 +531,16 @@
       "market": "USD",
       "source": "nirvana",
       "coingeckoId": "nirvana-nirv"
+    },
+    "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee": {
+      "market": "USD",
+      "source": "fabric",
+      "coingeckoId": "usd-coin"
+    },
+    "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6": {
+      "market": "USD",
+      "source": "hedge",
+      "coingeckoId": "usd-coin"
     }
   },
   "testnet": {

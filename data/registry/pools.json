@@ -430,7 +430,11 @@
     },
     "nirv_usdh": {
       "swapAccount": "SUiuyGR7SFq3xeRVJonq84fjjeFwRSsFekcevJ53tzy"
-    }
+    },
+    "fabric_usd": {
+      "swapAccount": "DEDaBEWzMCXohXYXoLzB4jK1xqMsd3SS9izXp2xvg9pe"
+    },
+    "ush": { "swapAccount": "HEDSDjj84KS7LKhZY7ejkCACTdPen62rKhCby1wXtgxc" }
   },
   "testnet": {
     "usdc_usdt": {

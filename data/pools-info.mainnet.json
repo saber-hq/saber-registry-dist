@@ -6508,6 +6508,183 @@
       "quarry": "6yqzupus4AdYkghjsGNHxgRLNXW22oisAwCDDGGTWU4s"
     },
     {
+      "id": "fabric_usd",
+      "name": "USDC-fUSD",
+      "tokens": [
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
+          "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
+          "extensions": {
+            "website": "https://app.saber.so",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "underlyingTokens": ["EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"]
+          }
+        },
+        {
+          "name": "Synthetic USD (Fabric)",
+          "symbol": "fUSD",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+          "decimals": 8,
+          "address": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+          "chainId": 101,
+          "tags": ["fabric", "synthetics"],
+          "extensions": {
+            "website": "https://app.fsynth.io/",
+            "twitter": "https://twitter.com/official_fabric",
+            "github": "https://github.com/fabric-foundation/",
+            "medium": "https://xfabric.medium.com/"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "name": "Saber Wrapped USD Coin (8 decimals)",
+          "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "decimals": 8,
+          "symbol": "sUSDC-8",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
+          "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
+          "extensions": {
+            "website": "https://app.saber.so",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "underlyingTokens": ["EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"]
+          }
+        },
+        {
+          "name": "Synthetic USD (Fabric)",
+          "symbol": "fUSD",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+          "decimals": 8,
+          "address": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+          "chainId": 101,
+          "tags": ["fabric", "synthetics"],
+          "extensions": {
+            "website": "https://app.fsynth.io/",
+            "twitter": "https://twitter.com/official_fabric",
+            "github": "https://github.com/fabric-foundation/",
+            "medium": "https://xfabric.medium.com/"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Synthetic USD (Fabric)",
+          "symbol": "fUSD",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+          "decimals": 8,
+          "address": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+          "chainId": 101,
+          "tags": ["fabric", "synthetics"],
+          "extensions": {
+            "website": "https://app.fsynth.io/",
+            "twitter": "https://twitter.com/official_fabric",
+            "github": "https://github.com/fabric-foundation/",
+            "medium": "https://xfabric.medium.com/"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "USDC-fUSD",
+        "name": "Saber USDC-fUSD LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 8,
+        "address": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/pools/fabric_usd",
+          "underlyingTokens": [
+            "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+            "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "857x4YVXGHN4zNNyLcE3jdht3b4QHBRGAuk3FFpJPqNZ",
+      "swap": {
+        "config": {
+          "swapAccount": "DEDaBEWzMCXohXYXoLzB4jK1xqMsd3SS9izXp2xvg9pe",
+          "authority": "DNHbHTg5wnnHo2BwmwdcKyz4817QNqyRbb2EKXat2Ham",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
+          "adminAccount": "FDXCELsnp4bB1PkCPxbnP914mvFwbR9CvPaoGsR3H2Hy",
+          "tokenA": {
+            "adminFeeAccount": "GDSsjnL3rFjVnkCSTnegk7MsJeDSpw5DjPoqkogAyDSG",
+            "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+            "reserve": "GC5zHpW5GuVdw3C7covC6viyGdLS8ZAaVGDKMeru7p78"
+          },
+          "tokenB": {
+            "adminFeeAccount": "HVi87EnZeejoSucbhSkg4tCrLUgDe2YYzrzSXMjSbURG",
+            "mint": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+            "reserve": "F8juxtAFueW19vxkdDArUkjVWAv9QV6yy1wCXUWQiXvh"
+          },
+          "initialAmpFactor": "19",
+          "targetAmpFactor": "19",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "9oPMBb3uUEmF5ow2sYdwmQ9jRCs3zmy2z43gDfpk6D97"
+    },
+    {
       "id": "fei_cash",
       "name": "aeFEI-CASH",
       "tokens": [
@@ -14153,15 +14330,15 @@
             "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "reserve": "EnTrdMMpdhugeH6Ban6gYZWXughWxKtVGfCwFn78ZmY3"
           },
-          "initialAmpFactor": "03e8",
-          "targetAmpFactor": "05dc",
-          "startRampTimestamp": 1650924268,
-          "stopRampTimestamp": 1651529048,
+          "initialAmpFactor": "05dc",
+          "targetAmpFactor": "1388",
+          "startRampTimestamp": 1652992259,
+          "stopRampTimestamp": 1653251456,
           "fees": {
             "trade": {
-              "formatted": "0.0000001000",
+              "formatted": "0.0010000000",
               "numerator": "1",
-              "denominator": "1000000000"
+              "denominator": "100000"
             },
             "adminTrade": {
               "formatted": "0.0000000000",
@@ -14935,6 +15112,183 @@
       "newPoolID": "wusdk"
     },
     {
+      "id": "ush",
+      "name": "USH-USDC",
+      "tokens": [
+        {
+          "name": "Hedge USD",
+          "symbol": "USH",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6.png",
+          "decimals": 9,
+          "address": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+          "chainId": 101,
+          "tags": ["stablecoin"],
+          "extensions": {
+            "website": "https://www.hedge.so/",
+            "twitter": "https://twitter.com/HedgeLabs",
+            "discord": "https://discord.gg/hedge",
+            "serumV3Usdc": "6aRwQtvTcHeRTtGxQRhqViwMF1XPEn271CgGEx3YAyEY"
+          }
+        },
+        {
+          "name": "Saber Wrapped USD Coin (9 decimals)",
+          "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "decimals": 9,
+          "symbol": "sUSDC-9",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
+          "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
+          "extensions": {
+            "website": "https://app.saber.so",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "underlyingTokens": ["EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"]
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "name": "Hedge USD",
+          "symbol": "USH",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6.png",
+          "decimals": 9,
+          "address": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+          "chainId": 101,
+          "tags": ["stablecoin"],
+          "extensions": {
+            "website": "https://www.hedge.so/",
+            "twitter": "https://twitter.com/HedgeLabs",
+            "discord": "https://discord.gg/hedge",
+            "serumV3Usdc": "6aRwQtvTcHeRTtGxQRhqViwMF1XPEn271CgGEx3YAyEY"
+          }
+        },
+        {
+          "name": "Saber Wrapped USD Coin (9 decimals)",
+          "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "decimals": 9,
+          "symbol": "sUSDC-9",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
+          "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"],
+          "extensions": {
+            "website": "https://app.saber.so",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "underlyingTokens": ["EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"]
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "name": "Hedge USD",
+          "symbol": "USH",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6.png",
+          "decimals": 9,
+          "address": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+          "chainId": 101,
+          "tags": ["stablecoin"],
+          "extensions": {
+            "website": "https://www.hedge.so/",
+            "twitter": "https://twitter.com/HedgeLabs",
+            "discord": "https://discord.gg/hedge",
+            "serumV3Usdc": "6aRwQtvTcHeRTtGxQRhqViwMF1XPEn271CgGEx3YAyEY"
+          }
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "USH-USDC",
+        "name": "Saber USH-USDC LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/pools/ush",
+          "underlyingTokens": [
+            "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "B8wwbsdwvwFANhEzpCijKjS3cyZZEtCegS8ZdU6CyiMY",
+      "swap": {
+        "config": {
+          "swapAccount": "HEDSDjj84KS7LKhZY7ejkCACTdPen62rKhCby1wXtgxc",
+          "authority": "AF1NU49p3KBhem97xZ2SGocQt5Nqqv949Brr2KhqoTXh",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 252,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi",
+          "adminAccount": "B5VQPdHQT148Tc4Q3wWWrpiSobaDnYYfgh1A7SGtda5v",
+          "tokenA": {
+            "adminFeeAccount": "EU7m6z3nGQmxqPhcjAxp5Jq12NuW8hKFRbeU89VhaeGN",
+            "mint": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+            "reserve": "EnnjMSFttpCTywBrYNt1J5QQeoSVkvzPipJDa8Y7kJow"
+          },
+          "tokenB": {
+            "adminFeeAccount": "CvSQWoxVSNCNeWrGFpYZCaSBbSQJsE38vohfxn4XccL3",
+            "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+            "reserve": "6bjVT6JN2rSvpyn9PdfLYC8wJn4LWh49jpY47fnLDXZk"
+          },
+          "initialAmpFactor": "64",
+          "targetAmpFactor": "64",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "6SUsK6XFMK3E1f7a1P8JGwUrxXNDiEL1wTM15ozghVJ1"
+    },
+    {
       "id": "ust",
       "name": "wUST_v1-USDC",
       "tokens": [
@@ -15488,10 +15842,10 @@
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "CwQDG1MWunn9cLNwcZLd8YBacweSR7ARo32w4mLua1Yr"
           },
-          "initialAmpFactor": "64",
-          "targetAmpFactor": "c8",
-          "startRampTimestamp": 1651016640,
-          "stopRampTimestamp": 1651189427,
+          "initialAmpFactor": "c8",
+          "targetAmpFactor": "0190",
+          "startRampTimestamp": 1652902818,
+          "stopRampTimestamp": 1653075542,
           "fees": {
             "trade": {
               "formatted": "0.0010000000",
