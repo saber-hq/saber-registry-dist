@@ -23,7 +23,7 @@
       "name": "stablecoin"
     }
   },
-  "timestamp": "2022-05-20T17:29:17.109Z",
+  "timestamp": "2022-05-21T19:28:28.944Z",
   "tokens": [
     {
       "address": "22Ni6MmCu5UdQiuVjptqrZWJDen245hmojAfgChbDa1P",
@@ -78,6 +78,7 @@
       "chainId": 103,
       "decimals": 6,
       "extensions": {
+        "coingeckoId": "usd-coin",
         "currency": "USD"
       },
       "logoURI": "https://registry.saber.so/token-icons/candy-usd.png",
@@ -107,6 +108,7 @@
       "chainId": 103,
       "decimals": 6,
       "extensions": {
+        "coingeckoId": "parrot-usd",
         "currency": "USD"
       },
       "logoURI": "https://registry.saber.so/token-icons/pai.svg",
@@ -171,6 +173,7 @@
       "decimals": 8,
       "extensions": {
         "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
+        "coingeckoId": "wrapped-bitcoin",
         "currency": "BTC",
         "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"],
         "website": "https://app.saber.so"
@@ -320,6 +323,7 @@
       "chainId": 103,
       "decimals": 8,
       "extensions": {
+        "coingeckoId": "renbtc",
         "currency": "BTC"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png",
@@ -342,6 +346,7 @@
       "chainId": 103,
       "decimals": 6,
       "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
         "currency": "BTC"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",

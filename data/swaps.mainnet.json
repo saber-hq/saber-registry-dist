@@ -1232,7 +1232,7 @@
     "id": "fabric_usd",
     "isVerified": true,
     "name": "USDC-fUSD",
-    "sources": [],
+    "sources": ["fabric"],
     "underlyingTokens": [
       "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
       "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee"
@@ -1664,7 +1664,7 @@
     "id": "ush",
     "isVerified": true,
     "name": "USH-USDC",
-    "sources": [],
+    "sources": ["hedge"],
     "underlyingTokens": [
       "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"

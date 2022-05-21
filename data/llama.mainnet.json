@@ -1087,7 +1087,7 @@
     "authority": "9miYzKwZPcvEiuHaNowbh9Yxd5mdk9b3qXUjQR6qyPLd",
     "reserveA": "GpugBvKWM3TVhYcZjemSdtehBWgfvuGr6uAm9iPjXT6v",
     "reserveB": "92fMXJ3xy8tEyMUWLHKRLyhPw2nECBo77GtDiBBbYrjX",
-    "tokenACoingecko": "usn",
+    "tokenACoingecko": "usd-coin",
     "tokenBCoingecko": "usd-coin",
     "decimals": 9
   },

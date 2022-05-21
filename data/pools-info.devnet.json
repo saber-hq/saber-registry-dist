@@ -22,7 +22,8 @@
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png",
           "tags": ["saber-mkt-btc"],
           "extensions": {
-            "currency": "BTC"
+            "currency": "BTC",
+            "coingeckoId": "renbtc"
           }
         },
         {
@@ -35,6 +36,7 @@
           "tags": ["saber-mkt-btc", "saber-dec-wrapped"],
           "extensions": {
             "currency": "BTC",
+            "coingeckoId": "wrapped-bitcoin",
             "website": "https://app.saber.so",
             "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
             "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"]
@@ -51,7 +53,8 @@
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png",
           "tags": ["saber-mkt-btc"],
           "extensions": {
-            "currency": "BTC"
+            "currency": "BTC",
+            "coingeckoId": "renbtc"
           }
         },
         {
@@ -64,6 +67,7 @@
           "tags": ["saber-mkt-btc", "saber-dec-wrapped"],
           "extensions": {
             "currency": "BTC",
+            "coingeckoId": "wrapped-bitcoin",
             "website": "https://app.saber.so",
             "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
             "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"]
@@ -80,7 +84,8 @@
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png",
           "tags": ["saber-mkt-btc"],
           "extensions": {
-            "currency": "BTC"
+            "currency": "BTC",
+            "coingeckoId": "renbtc"
           }
         },
         {
@@ -92,7 +97,8 @@
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
           "tags": ["saber-mkt-btc"],
           "extensions": {
-            "currency": "BTC"
+            "currency": "BTC",
+            "coingeckoId": "wrapped-bitcoin"
           }
         }
       ],
@@ -379,7 +385,8 @@
           "chainId": 103,
           "tags": ["saber-mkt-usd"],
           "extensions": {
-            "currency": "USD"
+            "currency": "USD",
+            "coingeckoId": "parrot-usd"
           }
         }
       ],
@@ -407,7 +414,8 @@
           "chainId": 103,
           "tags": ["saber-mkt-usd"],
           "extensions": {
-            "currency": "USD"
+            "currency": "USD",
+            "coingeckoId": "parrot-usd"
           }
         }
       ],
@@ -435,7 +443,8 @@
           "chainId": 103,
           "tags": ["saber-mkt-usd"],
           "extensions": {
-            "currency": "USD"
+            "currency": "USD",
+            "coingeckoId": "parrot-usd"
           }
         }
       ],
@@ -526,7 +535,8 @@
           "chainId": 103,
           "tags": ["saber-mkt-usd"],
           "extensions": {
-            "currency": "USD"
+            "currency": "USD",
+            "coingeckoId": "usd-coin"
           }
         },
         {
@@ -554,7 +564,8 @@
           "chainId": 103,
           "tags": ["saber-mkt-usd"],
           "extensions": {
-            "currency": "USD"
+            "currency": "USD",
+            "coingeckoId": "usd-coin"
           }
         },
         {
@@ -582,7 +593,8 @@
           "chainId": 103,
           "tags": ["saber-mkt-usd"],
           "extensions": {
-            "currency": "USD"
+            "currency": "USD",
+            "coingeckoId": "usd-coin"
           }
         },
         {
