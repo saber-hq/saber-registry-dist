@@ -38,5 +38,13 @@
     "description": "Hedge is a protocol that enables the minting of USH, a stablecoin soft-pegged to the US dollar. USH is minted on flexible terms and gives users instant access to the USH ecosystem.",
     "risksURL": "https://docs.hedge.so/protocol-overview/faq",
     "iconURL": "https://www.hedge.so/_next/static/media/hedge-on-dark.c20a90d6.svg"
+  },
+  "blazestake": {
+    "auditors": ["Quantstamp", "Neodyme", "Kudelski"],
+    "name": "BlazeStake",
+    "website": "https://stake.solblaze.org",
+    "description": "BlazeStake is a non-custodial liquid staking protocol that helps decentralize the Solana network while providing more consistent staking rewards. The protocol stakes SOL across many validators and provides a more liquid bSOL token to users to represent staked SOL. BlazeStake also offers additional features including airdrops for extra rewards and a treasury for supporting Solana ecosystem projects.",
+    "risksURL": "https://stake-docs.solblaze.org",
+    "iconURL": "https://stake.solblaze.org/assets/icon.png"
   }
 }

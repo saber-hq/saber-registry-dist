@@ -456,6 +456,18 @@
     "decimals": 6
   },
   {
+    "id": "blazesol",
+    "lpMint": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv",
+    "tokenA": "So11111111111111111111111111111111111111112",
+    "tokenB": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+    "authority": "6xbPfZF7qUvXMKF7WxHDeE96LPKG8GN5zuL5fgHL2m7Q",
+    "reserveA": "6TYyD5fUmDe6N65avW1Ny2RxzRNobw2RRgKwH9CTzSAU",
+    "reserveB": "54zDfk4cx2vGrEajPtodWpArNe5eUurytyxd4X3aZAxK",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana",
+    "decimals": 9
+  },
+  {
     "id": "btc",
     "lpMint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
     "tokenA": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
@@ -1004,6 +1016,18 @@
     "reserveA": "4DYwgJtxwuJdAjkj5RJSNH4e7U329V5cNp7d3a1nLrZv",
     "reserveB": "EXNW64GEf1ACC6xY9BtKRiunrs6GoJSXBdxWN2eTPmrF",
     "tokenACoingecko": "parrot-usd",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 6
+  },
+  {
+    "id": "usdc_secret",
+    "lpMint": "FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ",
+    "tokenA": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "tokenB": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
+    "authority": "8MZNKEYqBPCy5HdDxKr5hbXVVzxC3poHHfwwJfyg97QE",
+    "reserveA": "FVoNijdQ6k9FA5LPX1RWVe73YJJvz3Q48iYjd85Yz3Ln",
+    "reserveB": "HsorcrEakUPvUfxc4L3DB43YUS7oFeHa2JC1HtmEJVxi",
+    "tokenACoingecko": "usd-coin",
     "tokenBCoingecko": "usd-coin",
     "decimals": 6
   },

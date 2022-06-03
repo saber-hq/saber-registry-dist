@@ -1413,6 +1413,34 @@
   },
   {
     "addresses": {
+      "admin": "3f3ERfr8rxZWoP1DbiMVUEvT1DMQJcn27SsrHfuaGWfK",
+      "lpTokenMint": "FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ",
+      "mergePool": "75V2shEJWRXiywksBVeT5oCdNG97CQfhRmd4ZCnsxYyW",
+      "quarry": "BgPiaXp9pd5Lc2oJutPQB3NfiBrwmtPYsxd1CYrJ6i2L",
+      "reserves": [
+        "FVoNijdQ6k9FA5LPX1RWVe73YJJvz3Q48iYjd85Yz3Ln",
+        "HsorcrEakUPvUfxc4L3DB43YUS7oFeHa2JC1HtmEJVxi"
+      ],
+      "swapAccount": "FLUY35bdRBEtuiBaRNgxvhnZsdnCjSfTjZtKbCpgnJuF",
+      "swapAuthority": "8MZNKEYqBPCy5HdDxKr5hbXVVzxC3poHHfwwJfyg97QE"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv"
+    ],
+    "id": "usdc_secret",
+    "isVerified": true,
+    "name": "USDC-SECRET",
+    "sources": [],
+    "underlyingTokens": [
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv"
+    ]
+  },
+  {
+    "addresses": {
       "admin": "4YDTr9smZzkHefThBa9HqLJFpoHcYZdvw5MwYcyMT7ac",
       "lpTokenMint": "WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz",
       "mergePool": "FsmbYKRdQTMBtt73xZv937HFGULu8JbWWL4K2LKvKHSX",
@@ -3102,6 +3130,34 @@
     "underlyingTokens": [
       "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
       "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "CPf1u8o45ExTFHgSWY5KxcBhGMyWoTF6SfLVfoqHVwNr",
+      "lpTokenMint": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv",
+      "mergePool": "3gViZJwN91AhwGMb8ydG5q6pd6ErPzrWUiGqyD86p5WJ",
+      "quarry": "82F6LccTs6gHZmziytaT4AX6yLBNjaxtfadJAoap3TwK",
+      "reserves": [
+        "6TYyD5fUmDe6N65avW1Ny2RxzRNobw2RRgKwH9CTzSAU",
+        "54zDfk4cx2vGrEajPtodWpArNe5eUurytyxd4X3aZAxK"
+      ],
+      "swapAccount": "STK75uPSyBnEhGTTzb1nwmP3n427XoXmfRhXxxhyady",
+      "swapAuthority": "6xbPfZF7qUvXMKF7WxHDeE96LPKG8GN5zuL5fgHL2m7Q"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "So11111111111111111111111111111111111111112",
+      "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1"
+    ],
+    "id": "blazesol",
+    "isVerified": true,
+    "name": "SOL-bSOL",
+    "sources": ["blazestake"],
+    "underlyingTokens": [
+      "So11111111111111111111111111111111111111112",
+      "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1"
     ]
   },
   {

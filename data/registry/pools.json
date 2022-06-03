@@ -435,7 +435,8 @@
       "swapAccount": "DEDaBEWzMCXohXYXoLzB4jK1xqMsd3SS9izXp2xvg9pe"
     },
     "ush": { "swapAccount": "HEDSDjj84KS7LKhZY7ejkCACTdPen62rKhCby1wXtgxc" },
-    "usn": { "swapAccount": "iLiUBQ7Z7im6Ew3b4ewwPcehzWgEQRJ1iQz7g6D62NW" }
+    "usn": { "swapAccount": "iLiUBQ7Z7im6Ew3b4ewwPcehzWgEQRJ1iQz7g6D62NW" },
+    "blazesol": { "swapAccount": "STK75uPSyBnEhGTTzb1nwmP3n427XoXmfRhXxxhyady" }
   },
   "testnet": {
     "usdc_usdt": {

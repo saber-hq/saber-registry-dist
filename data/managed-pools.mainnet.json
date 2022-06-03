@@ -3601,6 +3601,86 @@
   },
   {
     "pool": {
+      "bump": 254,
+      "index": 111,
+      "key": "3f3ERfr8rxZWoP1DbiMVUEvT1DMQJcn27SsrHfuaGWfK",
+      "lpMint": "FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "mintA": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "mintB": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
+      "permissionlessImport": true,
+      "swap": "FLUY35bdRBEtuiBaRNgxvhnZsdnCjSfTjZtKbCpgnJuF",
+      "tokenAFees": "F6LK9xmbXXXYGp9fEutQ9pwNfCinQLeqq64tBn9orTLU",
+      "tokenBFees": "Hmm8UTCd1BspuLADp6AonNM5StXQmU7XQxRdpzpRfKTt",
+      "tokenDecimals": 6
+    },
+    "state": {
+      "adminAccount": "3f3ERfr8rxZWoP1DbiMVUEvT1DMQJcn27SsrHfuaGWfK",
+      "fees": {
+        "adminTrade": {
+          "denominator": "10000",
+          "formatted": "0.0000000000",
+          "numerator": "0"
+        },
+        "adminWithdraw": {
+          "denominator": "10000",
+          "formatted": "0.0000000000",
+          "numerator": "0"
+        },
+        "trade": {
+          "denominator": "10000",
+          "formatted": "0.0400000000",
+          "numerator": "4"
+        },
+        "withdraw": {
+          "denominator": "10000",
+          "formatted": "0.0000000000",
+          "numerator": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "0a",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 254,
+      "poolTokenMint": "FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "0a",
+      "tokenA": {
+        "adminFeeAccount": "F6LK9xmbXXXYGp9fEutQ9pwNfCinQLeqq64tBn9orTLU",
+        "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "reserve": "FVoNijdQ6k9FA5LPX1RWVe73YJJvz3Q48iYjd85Yz3Ln"
+      },
+      "tokenB": {
+        "adminFeeAccount": "Hmm8UTCd1BspuLADp6AonNM5StXQmU7XQxRdpzpRfKTt",
+        "mint": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
+        "reserve": "HsorcrEakUPvUfxc4L3DB43YUS7oFeHa2JC1HtmEJVxi"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "3f3ERfr8rxZWoP1DbiMVUEvT1DMQJcn27SsrHfuaGWfK",
+        "lpTokenMint": "FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ",
+        "mergePool": "75V2shEJWRXiywksBVeT5oCdNG97CQfhRmd4ZCnsxYyW",
+        "quarry": "BgPiaXp9pd5Lc2oJutPQB3NfiBrwmtPYsxd1CYrJ6i2L",
+        "reserves": [
+          "FVoNijdQ6k9FA5LPX1RWVe73YJJvz3Q48iYjd85Yz3Ln",
+          "HsorcrEakUPvUfxc4L3DB43YUS7oFeHa2JC1HtmEJVxi"
+        ],
+        "swapAccount": "FLUY35bdRBEtuiBaRNgxvhnZsdnCjSfTjZtKbCpgnJuF",
+        "swapAuthority": "8MZNKEYqBPCy5HdDxKr5hbXVVzxC3poHHfwwJfyg97QE"
+      },
+      "decimals": 6,
+      "underlyingTokens": [
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv"
+      ]
+    }
+  },
+  {
+    "pool": {
       "bump": 253,
       "index": 9,
       "key": "4YDTr9smZzkHefThBa9HqLJFpoHcYZdvw5MwYcyMT7ac",
@@ -7996,6 +8076,86 @@
       "underlyingTokens": [
         "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
         "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 255,
+      "index": 112,
+      "key": "CPf1u8o45ExTFHgSWY5KxcBhGMyWoTF6SfLVfoqHVwNr",
+      "lpMint": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv",
+      "manager": "XD5s9eMuSibXzczBysd8VmG6nVe7DjqMQK1iZMQjANd",
+      "mintA": "So11111111111111111111111111111111111111112",
+      "mintB": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+      "permissionlessImport": true,
+      "swap": "STK75uPSyBnEhGTTzb1nwmP3n427XoXmfRhXxxhyady",
+      "tokenAFees": "6BVQ861sMH1jckZoBhL4pzTZsVJjmQ8MLT1k8TxFip2x",
+      "tokenBFees": "DYvbmehrnyUpxJAWfg3QtYCK4ighJ4PkVhUNe3cU7ybP",
+      "tokenDecimals": 9
+    },
+    "state": {
+      "adminAccount": "CPf1u8o45ExTFHgSWY5KxcBhGMyWoTF6SfLVfoqHVwNr",
+      "fees": {
+        "adminTrade": {
+          "denominator": "10000",
+          "formatted": "0.0000000000",
+          "numerator": "0"
+        },
+        "adminWithdraw": {
+          "denominator": "10000",
+          "formatted": "0.0000000000",
+          "numerator": "0"
+        },
+        "trade": {
+          "denominator": "10000",
+          "formatted": "0.0400000000",
+          "numerator": "4"
+        },
+        "withdraw": {
+          "denominator": "10000",
+          "formatted": "0.0000000000",
+          "numerator": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "0a",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 252,
+      "poolTokenMint": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "0a",
+      "tokenA": {
+        "adminFeeAccount": "6BVQ861sMH1jckZoBhL4pzTZsVJjmQ8MLT1k8TxFip2x",
+        "mint": "So11111111111111111111111111111111111111112",
+        "reserve": "6TYyD5fUmDe6N65avW1Ny2RxzRNobw2RRgKwH9CTzSAU"
+      },
+      "tokenB": {
+        "adminFeeAccount": "DYvbmehrnyUpxJAWfg3QtYCK4ighJ4PkVhUNe3cU7ybP",
+        "mint": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+        "reserve": "54zDfk4cx2vGrEajPtodWpArNe5eUurytyxd4X3aZAxK"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "CPf1u8o45ExTFHgSWY5KxcBhGMyWoTF6SfLVfoqHVwNr",
+        "lpTokenMint": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv",
+        "mergePool": "3gViZJwN91AhwGMb8ydG5q6pd6ErPzrWUiGqyD86p5WJ",
+        "quarry": "82F6LccTs6gHZmziytaT4AX6yLBNjaxtfadJAoap3TwK",
+        "reserves": [
+          "6TYyD5fUmDe6N65avW1Ny2RxzRNobw2RRgKwH9CTzSAU",
+          "54zDfk4cx2vGrEajPtodWpArNe5eUurytyxd4X3aZAxK"
+        ],
+        "swapAccount": "STK75uPSyBnEhGTTzb1nwmP3n427XoXmfRhXxxhyady",
+        "swapAuthority": "6xbPfZF7qUvXMKF7WxHDeE96LPKG8GN5zuL5fgHL2m7Q"
+      },
+      "decimals": 9,
+      "underlyingTokens": [
+        "So11111111111111111111111111111111111111112",
+        "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1"
       ]
     }
   },

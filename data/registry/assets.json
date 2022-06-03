@@ -546,6 +546,11 @@
       "market": "USD",
       "source": "near",
       "coingeckoId": "usd-coin"
+    },
+    "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1": {
+      "market": "SOL",
+      "source": "blazestake",
+      "coingeckoId": "solana"
     }
   },
   "testnet": {

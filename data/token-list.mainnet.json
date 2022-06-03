@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-05-21T19:28:26.521Z",
+  "timestamp": "2022-06-03T23:31:32.472Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -1572,6 +1572,23 @@
       "tags": ["saber-mkt-ftt"]
     },
     {
+      "address": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "So11111111111111111111111111111111111111112",
+          "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1"
+        ],
+        "website": "https://app.saber.so/pools/blazesol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber SOL-bSOL LP",
+      "symbol": "SOL-bSOL",
+      "tags": ["saber-stableswap-lp"]
+    },
+    {
       "address": "BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT",
       "chainId": 101,
       "decimals": 9,
@@ -2345,6 +2362,17 @@
       "tags": ["saber-mkt-eth"]
     },
     {
+      "address": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin"
+      },
+      "name": "Secret Stablecoin",
+      "symbol": "SECRET",
+      "tags": []
+    },
+    {
       "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
       "chainId": 101,
       "decimals": 8,
@@ -2637,6 +2665,23 @@
       "name": "Saber aeFTT-FTT LP",
       "symbol": "aeFTT-FTT",
       "tags": ["saber-stableswap-lp", "saber-lp-wormhole-v2"]
+    },
+    {
+      "address": "FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv"
+        ],
+        "website": "https://app.saber.so/pools/usdc_secret"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber USDC-SECRET LP",
+      "symbol": "USDC-SECRET",
+      "tags": ["saber-stableswap-lp"]
     },
     {
       "address": "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
@@ -4229,6 +4274,24 @@
       "name": "Saber aeUSDT-USDT LP",
       "symbol": "aeUSDT-USDT",
       "tags": ["saber-stableswap-lp", "saber-lp-allbridge"]
+    },
+    {
+      "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "github": "https://github.com/SolBlazeOrg",
+        "source": "blazestake",
+        "sourceUrl": "https://stake.solblaze.org",
+        "twitter": "https://twitter.com/solblaze_org",
+        "website": "https://stake.solblaze.org/"
+      },
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1.png",
+      "name": "BlazeStake Staked SOL (bSOL)",
+      "symbol": "bSOL",
+      "tags": ["utility-token", "stake-pool", "stake-pool-token"]
     },
     {
       "address": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",
