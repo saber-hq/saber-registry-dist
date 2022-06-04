@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-06-03T23:31:32.472Z",
+  "timestamp": "2022-06-04T00:45:44.468Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -848,7 +848,7 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6.png",
       "name": "Hedge USD",
       "symbol": "USH",
-      "tags": ["stablecoin"]
+      "tags": ["stablecoin", "saber-mkt-usd"]
     },
     {
       "address": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
@@ -1522,7 +1522,7 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
       "name": "Synthetic USD (Fabric)",
       "symbol": "fUSD",
-      "tags": ["fabric", "synthetics"]
+      "tags": ["fabric", "synthetics", "saber-mkt-usd"]
     },
     {
       "address": "BADGsQo6rTxKZuqkY1kSoqhriQwZW3ZVgyPjgDk9mvyo",
@@ -3410,7 +3410,7 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY.png",
       "name": "USN (Allbridge from Near)",
       "symbol": "USN",
-      "tags": ["stablecoin"]
+      "tags": ["stablecoin", "saber-mkt-usd"]
     },
     {
       "address": "PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ",
@@ -4291,7 +4291,12 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1.png",
       "name": "BlazeStake Staked SOL (bSOL)",
       "symbol": "bSOL",
-      "tags": ["utility-token", "stake-pool", "stake-pool-token"]
+      "tags": [
+        "utility-token",
+        "stake-pool",
+        "stake-pool-token",
+        "saber-mkt-sol"
+      ]
     },
     {
       "address": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",

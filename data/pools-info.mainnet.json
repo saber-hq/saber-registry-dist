@@ -5420,7 +5420,12 @@
           "decimals": 9,
           "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
           "chainId": 101,
-          "tags": ["utility-token", "stake-pool", "stake-pool-token"],
+          "tags": [
+            "utility-token",
+            "stake-pool",
+            "stake-pool-token",
+            "saber-mkt-sol"
+          ],
           "extensions": {
             "website": "https://stake.solblaze.org/",
             "twitter": "https://twitter.com/solblaze_org",
@@ -5456,7 +5461,12 @@
           "decimals": 9,
           "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
           "chainId": 101,
-          "tags": ["utility-token", "stake-pool", "stake-pool-token"],
+          "tags": [
+            "utility-token",
+            "stake-pool",
+            "stake-pool-token",
+            "saber-mkt-sol"
+          ],
           "extensions": {
             "website": "https://stake.solblaze.org/",
             "twitter": "https://twitter.com/solblaze_org",
@@ -5492,7 +5502,12 @@
           "decimals": 9,
           "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
           "chainId": 101,
-          "tags": ["utility-token", "stake-pool", "stake-pool-token"],
+          "tags": [
+            "utility-token",
+            "stake-pool",
+            "stake-pool-token",
+            "saber-mkt-sol"
+          ],
           "extensions": {
             "website": "https://stake.solblaze.org/",
             "twitter": "https://twitter.com/solblaze_org",
@@ -6744,7 +6759,7 @@
           "decimals": 8,
           "address": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
           "chainId": 101,
-          "tags": ["fabric", "synthetics"],
+          "tags": ["fabric", "synthetics", "saber-mkt-usd"],
           "extensions": {
             "website": "https://app.fsynth.io/",
             "twitter": "https://twitter.com/official_fabric",
@@ -6782,7 +6797,7 @@
           "decimals": 8,
           "address": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
           "chainId": 101,
-          "tags": ["fabric", "synthetics"],
+          "tags": ["fabric", "synthetics", "saber-mkt-usd"],
           "extensions": {
             "website": "https://app.fsynth.io/",
             "twitter": "https://twitter.com/official_fabric",
@@ -6818,7 +6833,7 @@
           "decimals": 8,
           "address": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
           "chainId": 101,
-          "tags": ["fabric", "synthetics"],
+          "tags": ["fabric", "synthetics", "saber-mkt-usd"],
           "extensions": {
             "website": "https://app.fsynth.io/",
             "twitter": "https://twitter.com/official_fabric",
@@ -15591,7 +15606,7 @@
           "decimals": 9,
           "address": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
           "chainId": 101,
-          "tags": ["stablecoin"],
+          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "website": "https://www.hedge.so/",
             "twitter": "https://twitter.com/HedgeLabs",
@@ -15629,7 +15644,7 @@
           "decimals": 9,
           "address": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
           "chainId": 101,
-          "tags": ["stablecoin"],
+          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "website": "https://www.hedge.so/",
             "twitter": "https://twitter.com/HedgeLabs",
@@ -15667,7 +15682,7 @@
           "decimals": 9,
           "address": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
           "chainId": 101,
-          "tags": ["stablecoin"],
+          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "website": "https://www.hedge.so/",
             "twitter": "https://twitter.com/HedgeLabs",
@@ -15780,7 +15795,7 @@
           "decimals": 9,
           "address": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
           "chainId": 101,
-          "tags": ["stablecoin"],
+          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "usd-coin",
             "currency": "USD"
@@ -15812,7 +15827,7 @@
           "decimals": 9,
           "address": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
           "chainId": 101,
-          "tags": ["stablecoin"],
+          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "usd-coin",
             "currency": "USD"
@@ -15844,7 +15859,7 @@
           "decimals": 9,
           "address": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
           "chainId": 101,
-          "tags": ["stablecoin"],
+          "tags": ["stablecoin", "saber-mkt-usd"],
           "extensions": {
             "coingeckoId": "usd-coin",
             "currency": "USD"
