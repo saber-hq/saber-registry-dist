@@ -45,6 +45,15 @@
     "website": "https://stake.solblaze.org",
     "description": "BlazeStake is a non-custodial liquid staking protocol that helps decentralize the Solana network while providing more consistent staking rewards. The protocol stakes SOL across many validators and provides a more liquid bSOL token to users to represent staked SOL. BlazeStake also offers additional features including airdrops for extra rewards and a treasury for supporting Solana ecosystem projects.",
     "risksURL": "https://stake-docs.solblaze.org",
-    "iconURL": "https://stake.solblaze.org/assets/icon.png"
+    "iconURL": "https://stake.solblaze.org/assets/icon.png",
+    "sourceURL": "https://stake-docs.solblaze.org/developers/open-source-code"
+  },
+  "coin98": {
+    "auditors": ["\"Highly trusted auditors\""],
+    "name": "Coin98",
+    "website": "https://coin98.com/dollar",
+    "description": "CUSD is designed to be the bloodline of the Coin98 Ecosystem, bringing a seamless unified cross-chain liquidity flow to the existing/upcoming infrastructures.",
+    "risksURL": "https://blog.coin98.com/introducing-cusd/",
+    "iconURL": "https://coin98.com/static/media/cusdBall.12b6d308.svg"
   }
 }

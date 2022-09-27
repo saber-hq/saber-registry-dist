@@ -551,6 +551,11 @@
       "market": "SOL",
       "source": "blazestake",
       "coingeckoId": "solana"
+    },
+    "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL": {
+      "market": "USD",
+      "source": "coin98",
+      "coingeckoId": "coin98-dollar"
     }
   },
   "testnet": {

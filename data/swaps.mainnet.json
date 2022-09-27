@@ -954,6 +954,34 @@
   },
   {
     "addresses": {
+      "admin": "FvKFEg3Fov4TXqQ5az4ZENpkCnLtnixuhF7P8gpTv1X4",
+      "lpTokenMint": "C9U671d1LZPaB8Mdo3ymJ66FB7qmzNXKcuH5raGRsj6v",
+      "mergePool": "AkhQN4Gg7pJnyLkHEQrPwbZgZqQkjGPGAwev9xxifxEs",
+      "quarry": "Gvzxpd6TUR8xy6uTSK3uDBX7QoZDZkXnfYb4mKEKPUZA",
+      "reserves": [
+        "CSqgQJurPCzGxb4Cgwx5R61hWQUiaoUHcShNc8r1cKEL",
+        "6S2CR5EnukPhC914XkAns8m5GixjMAoUuZMsS5ubHuWc"
+      ],
+      "swapAccount": "C98Sspw7XqnMsgxea3SLQVdbMDL8pKUc3RE82UvX9eq2",
+      "swapAuthority": "JCiSMqfYeoyHdyrzwN5PPyvaWaVzD6P1vD5YUwQdMsAT"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ],
+    "id": "c98usd",
+    "isVerified": true,
+    "name": "CUSD-USDC",
+    "sources": ["coin98"],
+    "underlyingTokens": [
+      "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ]
+  },
+  {
+    "addresses": {
       "admin": "4a8uewMhD5ZzhtfKLJfL7SkJ3wUAoKNNQnVzmZJ2UPWH",
       "lpTokenMint": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
       "mergePool": "2ZuDp78p74j5WLnSiRHU8KEVaqdrkKXgDwRWbgNc7Acj",
@@ -2988,6 +3016,34 @@
     "underlyingTokens": [
       "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
       "So11111111111111111111111111111111111111112"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "F7GUNThdGdrW58fX8G1BZgPWY2mQsD3FkLQ4HR6yx56k",
+      "lpTokenMint": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
+      "mergePool": "51p13kMUkr4dAgEs9XUqyk2FdnvbT75ME2CD5H2iRBNC",
+      "quarry": "26hLV1ucDAzaZa6bbQ3o5H8txM8yBAWYRmbb8prHCJdz",
+      "reserves": [
+        "BKJWe131yeNE594dMwrLyT25RPsytUgcTdMpph8rbuda",
+        "EreMRai79gFEuXwrMnj6kpV4pvVAUqukjSuy87XQTT8K"
+      ],
+      "swapAccount": "SHRJZYZxBfNz1SL5puXfaymPnndnJTY6MJrTrzpsYMc",
+      "swapAuthority": "28nE7d3QVFZ17D3e5FiGFZCVmADxCeQ5qUqBX5yjmLiN"
+    },
+    "currency": "USD",
+    "decimals": 6,
+    "displayTokens": [
+      "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+      "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM"
+    ],
+    "id": "usdcet_usdh",
+    "isVerified": true,
+    "name": "USDH-USDCet",
+    "sources": ["hubble", "wormhole-v2"],
+    "underlyingTokens": [
+      "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+      "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM"
     ]
   },
   {

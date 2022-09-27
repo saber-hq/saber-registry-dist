@@ -113,6 +113,15 @@
     ]
   },
   {
+    "id": "coin98-dollar",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": ["CSqgQJurPCzGxb4Cgwx5R61hWQUiaoUHcShNc8r1cKEL"]
+      }
+    ]
+  },
+  {
     "id": "dai",
     "accounts": [
       {
@@ -511,6 +520,7 @@
           "Hb4gYexeZMbPY3yg1AM35HSWDyPfk4QyprYtvwHZx2C1",
           "4xkyD7AfGQDwsQMy9MosRRNGoVJ1zosNinesxg1TzHG7",
           "Cbm5gsQe3nSiCsFrvepVzMCD9xLK3ri9g3ypS2hdmVJ7",
+          "6S2CR5EnukPhC914XkAns8m5GixjMAoUuZMsS5ubHuWc",
           "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr",
           "6TuFuynuBoeskxyR2cz4wxyidk8dpDK7kAWw3UkjQGx",
           "DLkWGoaeXw4oeGPnr2ecJze541HVKFhrhaW4iVSFEwET",
@@ -519,6 +529,7 @@
           "FVoNijdQ6k9FA5LPX1RWVe73YJJvz3Q48iYjd85Yz3Ln",
           "HsorcrEakUPvUfxc4L3DB43YUS7oFeHa2JC1HtmEJVxi",
           "CfWX7o2TswwbxusJ4hCaPobu2jLCb1hfXuXJQjVq3jQF",
+          "EreMRai79gFEuXwrMnj6kpV4pvVAUqukjSuy87XQTT8K",
           "F8GSmi3vA8M8TsybLya1LQ4n1aFHCRbZ6k437PeTdXtg",
           "CwQDG1MWunn9cLNwcZLd8YBacweSR7ARo32w4mLua1Yr",
           "3YB7hfpBdbQEuZqLGWVDpRPmeZWCUsrrWyqGXegnQ6Cg",
@@ -594,6 +605,7 @@
         "addresses": [
           "CEwj5xEbbJEjYqM8D6Ai8ByGz1mrh8mkAVsE5fzDSSSx",
           "6rkPHSqZb7StM4HwS9EuVrmfkV7tRdc7dnsFhyB6cefE",
+          "BKJWe131yeNE594dMwrLyT25RPsytUgcTdMpph8rbuda",
           "6YjT74rmcfCpw8LSjPNx5JTmZoYLGrTKnf9arfSgZ4SR",
           "9KvCDR1hzYS6ziAR7acAsX7yU2mSBWnhXgdyobma2fNq",
           "6qG7GUhER8Cg9gDEgnebph9LdS6eu2eoWcA4R7z9uizK"

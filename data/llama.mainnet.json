@@ -492,6 +492,18 @@
     "decimals": 9
   },
   {
+    "id": "c98usd",
+    "lpMint": "C9U671d1LZPaB8Mdo3ymJ66FB7qmzNXKcuH5raGRsj6v",
+    "tokenA": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+    "tokenB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "authority": "JCiSMqfYeoyHdyrzwN5PPyvaWaVzD6P1vD5YUwQdMsAT",
+    "reserveA": "CSqgQJurPCzGxb4Cgwx5R61hWQUiaoUHcShNc8r1cKEL",
+    "reserveB": "6S2CR5EnukPhC914XkAns8m5GixjMAoUuZMsS5ubHuWc",
+    "tokenACoingecko": "coin98-dollar",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 6
+  },
+  {
     "id": "calusd",
     "lpMint": "CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa",
     "tokenA": "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
@@ -1041,6 +1053,18 @@
     "reserveB": "EnTrdMMpdhugeH6Ban6gYZWXughWxKtVGfCwFn78ZmY3",
     "tokenACoingecko": "usd-coin",
     "tokenBCoingecko": "tether",
+    "decimals": 6
+  },
+  {
+    "id": "usdcet_usdh",
+    "lpMint": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
+    "tokenA": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+    "tokenB": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+    "authority": "28nE7d3QVFZ17D3e5FiGFZCVmADxCeQ5qUqBX5yjmLiN",
+    "reserveA": "BKJWe131yeNE594dMwrLyT25RPsytUgcTdMpph8rbuda",
+    "reserveB": "EreMRai79gFEuXwrMnj6kpV4pvVAUqukjSuy87XQTT8K",
+    "tokenACoingecko": "usdh",
+    "tokenBCoingecko": "usd-coin",
     "decimals": 6
   },
   {

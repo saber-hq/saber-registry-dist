@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-06-04T00:45:44.468Z",
+  "timestamp": "2022-09-27T22:53:30.712Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -1808,6 +1808,23 @@
       "tags": ["saber-mkt-btc", "wormhole-v2"]
     },
     {
+      "address": "C9U671d1LZPaB8Mdo3ymJ66FB7qmzNXKcuH5raGRsj6v",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "website": "https://app.saber.so/pools/c98usd"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber CUSD-USDC LP",
+      "symbol": "CUSD-USDC",
+      "tags": ["saber-stableswap-lp"]
+    },
+    {
       "address": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
       "chainId": 101,
       "decimals": 9,
@@ -1988,6 +2005,24 @@
       "name": "Saber UST-CASH LP",
       "symbol": "UST-CASH",
       "tags": ["saber-stableswap-lp", "saber-lp-cashio"]
+    },
+    {
+      "address": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "coin98-dollar",
+        "currency": "USD",
+        "description": "The Next Liquidity Solution for The Cross-chain Economy",
+        "source": "coin98",
+        "sourceUrl": "https://coin98.com/dollar",
+        "twitter": "https://twitter.com/Coin98Dollar",
+        "website": "https://coin98.com/dollar"
+      },
+      "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+      "name": "Coin98 Dollar",
+      "symbol": "CUSD",
+      "tags": ["saber-mkt-usd"]
     },
     {
       "address": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
@@ -3754,6 +3789,23 @@
       "name": "Saber Wrapped USDT (8 decimals)",
       "symbol": "sUSDT-8",
       "tags": ["stablecoin", "saber-mkt-usd", "saber-dec-wrapped"]
+    },
+    {
+      "address": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM"
+        ],
+        "website": "https://app.saber.so/pools/usdcet_usdh"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber USDH-USDCet LP",
+      "symbol": "USDH-USDCet",
+      "tags": ["saber-stableswap-lp"]
     },
     {
       "address": "USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c",

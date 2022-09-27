@@ -436,7 +436,13 @@
     },
     "ush": { "swapAccount": "HEDSDjj84KS7LKhZY7ejkCACTdPen62rKhCby1wXtgxc" },
     "usn": { "swapAccount": "iLiUBQ7Z7im6Ew3b4ewwPcehzWgEQRJ1iQz7g6D62NW" },
-    "blazesol": { "swapAccount": "STK75uPSyBnEhGTTzb1nwmP3n427XoXmfRhXxxhyady" }
+    "blazesol": {
+      "swapAccount": "STK75uPSyBnEhGTTzb1nwmP3n427XoXmfRhXxxhyady"
+    },
+    "usdcet_usdh": {
+      "swapAccount": "SHRJZYZxBfNz1SL5puXfaymPnndnJTY6MJrTrzpsYMc"
+    },
+    "c98usd": { "swapAccount": "C98Sspw7XqnMsgxea3SLQVdbMDL8pKUc3RE82UvX9eq2" }
   },
   "testnet": {
     "usdc_usdt": {

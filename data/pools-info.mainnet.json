@@ -5431,8 +5431,8 @@
             "twitter": "https://twitter.com/solblaze_org",
             "github": "https://github.com/SolBlazeOrg",
             "coingeckoId": "solana",
-            "currency": "SOL",
             "source": "blazestake",
+            "currency": "SOL",
             "sourceUrl": "https://stake.solblaze.org"
           }
         }
@@ -5472,8 +5472,8 @@
             "twitter": "https://twitter.com/solblaze_org",
             "github": "https://github.com/SolBlazeOrg",
             "coingeckoId": "solana",
-            "currency": "SOL",
             "source": "blazestake",
+            "currency": "SOL",
             "sourceUrl": "https://stake.solblaze.org"
           }
         }
@@ -5513,8 +5513,8 @@
             "twitter": "https://twitter.com/solblaze_org",
             "github": "https://github.com/SolBlazeOrg",
             "coingeckoId": "solana",
-            "currency": "SOL",
             "source": "blazestake",
+            "currency": "SOL",
             "sourceUrl": "https://stake.solblaze.org"
           }
         }
@@ -5984,6 +5984,188 @@
       },
       "quarry": "FdefcL2FRLhz9bDnjyypuV8qRJ5p2TRKV2yUDxqFcFRN",
       "newPoolID": "webusd"
+    },
+    {
+      "id": "c98usd",
+      "name": "CUSD-USDC",
+      "tokens": [
+        {
+          "address": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+          "name": "Coin98 Dollar",
+          "decimals": 6,
+          "chainId": 101,
+          "symbol": "CUSD",
+          "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+          "extensions": {
+            "description": "The Next Liquidity Solution for The Cross-chain Economy",
+            "coingeckoId": "coin98-dollar",
+            "twitter": "https://twitter.com/Coin98Dollar",
+            "website": "https://coin98.com/dollar",
+            "currency": "USD",
+            "source": "coin98",
+            "sourceUrl": "https://coin98.com/dollar"
+          },
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+          "name": "Coin98 Dollar",
+          "decimals": 6,
+          "chainId": 101,
+          "symbol": "CUSD",
+          "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+          "extensions": {
+            "description": "The Next Liquidity Solution for The Cross-chain Economy",
+            "coingeckoId": "coin98-dollar",
+            "twitter": "https://twitter.com/Coin98Dollar",
+            "website": "https://coin98.com/dollar",
+            "currency": "USD",
+            "source": "coin98",
+            "sourceUrl": "https://coin98.com/dollar"
+          },
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+          "name": "Coin98 Dollar",
+          "decimals": 6,
+          "chainId": 101,
+          "symbol": "CUSD",
+          "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+          "extensions": {
+            "description": "The Next Liquidity Solution for The Cross-chain Economy",
+            "coingeckoId": "coin98-dollar",
+            "twitter": "https://twitter.com/Coin98Dollar",
+            "website": "https://coin98.com/dollar",
+            "currency": "USD",
+            "source": "coin98",
+            "sourceUrl": "https://coin98.com/dollar"
+          },
+          "tags": ["saber-mkt-usd"]
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "CUSD-USDC",
+        "name": "Saber CUSD-USDC LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "C9U671d1LZPaB8Mdo3ymJ66FB7qmzNXKcuH5raGRsj6v",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/pools/c98usd",
+          "underlyingTokens": [
+            "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "FLR1vsLUkXsGcr7qimwq9Qe5zYrXvDiXnVQrphn7UECq",
+      "swap": {
+        "config": {
+          "swapAccount": "C98Sspw7XqnMsgxea3SLQVdbMDL8pKUc3RE82UvX9eq2",
+          "authority": "JCiSMqfYeoyHdyrzwN5PPyvaWaVzD6P1vD5YUwQdMsAT",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "C9U671d1LZPaB8Mdo3ymJ66FB7qmzNXKcuH5raGRsj6v",
+          "adminAccount": "FvKFEg3Fov4TXqQ5az4ZENpkCnLtnixuhF7P8gpTv1X4",
+          "tokenA": {
+            "adminFeeAccount": "895Tox6bAXCyvtahAFBSTAHQBTpUEqyTh6xegFbrJ2HY",
+            "mint": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+            "reserve": "CSqgQJurPCzGxb4Cgwx5R61hWQUiaoUHcShNc8r1cKEL"
+          },
+          "tokenB": {
+            "adminFeeAccount": "AMPcHtVT3tM8MrYNqynk7GLj1ij8W3AeMAoy4DWoVvQ4",
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "reserve": "6S2CR5EnukPhC914XkAns8m5GixjMAoUuZMsS5ubHuWc"
+          },
+          "initialAmpFactor": "64",
+          "targetAmpFactor": "64",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "Gvzxpd6TUR8xy6uTSK3uDBX7QoZDZkXnfYb4mKEKPUZA"
     },
     {
       "id": "calusd",
@@ -14518,15 +14700,15 @@
           }
         },
         {
-          "address": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
-          "symbol": "SECRET",
           "name": "Secret Stablecoin",
+          "symbol": "SECRET",
           "decimals": 6,
+          "address": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
           "chainId": 101,
+          "tags": [],
           "extensions": {
             "coingeckoId": "usd-coin"
-          },
-          "tags": []
+          }
         }
       ],
       "tokenIcons": [
@@ -14546,15 +14728,15 @@
           }
         },
         {
-          "address": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
-          "symbol": "SECRET",
           "name": "Secret Stablecoin",
+          "symbol": "SECRET",
           "decimals": 6,
+          "address": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
           "chainId": 101,
+          "tags": [],
           "extensions": {
             "coingeckoId": "usd-coin"
-          },
-          "tags": []
+          }
         }
       ],
       "underlyingIcons": [
@@ -14574,15 +14756,15 @@
           }
         },
         {
-          "address": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
-          "symbol": "SECRET",
           "name": "Secret Stablecoin",
+          "symbol": "SECRET",
           "decimals": 6,
+          "address": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
           "chainId": 101,
+          "tags": [],
           "extensions": {
             "coingeckoId": "usd-coin"
-          },
-          "tags": []
+          }
         }
       ],
       "currency": "USD",
@@ -14833,6 +15015,197 @@
       "quarry": "Hs1X5YtXwZACueUtS9azZyXFDWVxAMLvm3tttubpK7ph"
     },
     {
+      "id": "usdcet_usdh",
+      "name": "USDH-USDCet",
+      "tokens": [
+        {
+          "name": "USDH Hubble Stablecoin",
+          "symbol": "USDH",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
+          "decimals": 6,
+          "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://hubbleprotocol.io/",
+            "twitter": "https://twitter.com/hubbleprotocol",
+            "discord": "https://discord.gg/d44A8WvK",
+            "coingeckoId": "usdh",
+            "source": "hubble",
+            "currency": "USD",
+            "sourceUrl": "https://app.hubbleprotocol.io/"
+          }
+        },
+        {
+          "name": "USD Coin (Wormhole from Ethereum)",
+          "symbol": "USDCet",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM.png",
+          "decimals": 6,
+          "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+          "chainId": 101,
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"],
+          "extensions": {
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "assetContract": "https://etherscan.io/address/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "coingeckoId": "usd-coin",
+            "source": "wormhole-v2",
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "currency": "USD",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "name": "USDH Hubble Stablecoin",
+          "symbol": "USDH",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
+          "decimals": 6,
+          "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://hubbleprotocol.io/",
+            "twitter": "https://twitter.com/hubbleprotocol",
+            "discord": "https://discord.gg/d44A8WvK",
+            "coingeckoId": "usdh",
+            "source": "hubble",
+            "currency": "USD",
+            "sourceUrl": "https://app.hubbleprotocol.io/"
+          }
+        },
+        {
+          "name": "USD Coin (Wormhole from Ethereum)",
+          "symbol": "USDCet",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM.png",
+          "decimals": 6,
+          "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+          "chainId": 101,
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"],
+          "extensions": {
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "assetContract": "https://etherscan.io/address/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "coingeckoId": "usd-coin",
+            "source": "wormhole-v2",
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "currency": "USD",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "name": "USDH Hubble Stablecoin",
+          "symbol": "USDH",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
+          "decimals": 6,
+          "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "chainId": 101,
+          "tags": ["stablecoin", "saber-mkt-usd"],
+          "extensions": {
+            "website": "https://hubbleprotocol.io/",
+            "twitter": "https://twitter.com/hubbleprotocol",
+            "discord": "https://discord.gg/d44A8WvK",
+            "coingeckoId": "usdh",
+            "source": "hubble",
+            "currency": "USD",
+            "sourceUrl": "https://app.hubbleprotocol.io/"
+          }
+        },
+        {
+          "name": "USD Coin (Wormhole from Ethereum)",
+          "symbol": "USDCet",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM.png",
+          "decimals": 6,
+          "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+          "chainId": 101,
+          "tags": ["wrapped", "saber-mkt-usd", "wormhole-v2"],
+          "extensions": {
+            "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+            "assetContract": "https://etherscan.io/address/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "coingeckoId": "usd-coin",
+            "source": "wormhole-v2",
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "currency": "USD",
+            "sourceUrl": "https://wormholebridge.com/#/transfer"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "USDH-USDCet",
+        "name": "Saber USDH-USDCet LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/pools/usdcet_usdh",
+          "underlyingTokens": [
+            "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+            "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "GdmbDSqv6Wf7jAFBAha4HphNG99dG4r5drNs2bKLxV7N",
+      "swap": {
+        "config": {
+          "swapAccount": "SHRJZYZxBfNz1SL5puXfaymPnndnJTY6MJrTrzpsYMc",
+          "authority": "28nE7d3QVFZ17D3e5FiGFZCVmADxCeQ5qUqBX5yjmLiN",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
+          "adminAccount": "F7GUNThdGdrW58fX8G1BZgPWY2mQsD3FkLQ4HR6yx56k",
+          "tokenA": {
+            "adminFeeAccount": "D7nJth2TMzHEgUMMrdZamLfD17KjzhTsG1nQPP8ER7ek",
+            "mint": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+            "reserve": "BKJWe131yeNE594dMwrLyT25RPsytUgcTdMpph8rbuda"
+          },
+          "tokenB": {
+            "adminFeeAccount": "CCVNwaKNiYXzYJrVzfSCwRtu5cjMt2kW5Ck3ZSr7kYb3",
+            "mint": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+            "reserve": "EreMRai79gFEuXwrMnj6kpV4pvVAUqukjSuy87XQTT8K"
+          },
+          "initialAmpFactor": "64",
+          "targetAmpFactor": "64",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "26hLV1ucDAzaZa6bbQ3o5H8txM8yBAWYRmbb8prHCJdz"
+    },
+    {
       "id": "usdh",
       "name": "USDH-USDC",
       "tokens": [
@@ -14990,9 +15363,9 @@
           "stopRampTimestamp": 0,
           "fees": {
             "trade": {
-              "formatted": "0.0010000000",
-              "numerator": "1",
-              "denominator": "100000"
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
             },
             "adminTrade": {
               "formatted": "0.0000000000",
