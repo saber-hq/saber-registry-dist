@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2023-04-17T03:35:49.419Z",
+  "timestamp": "2023-04-17T04:19:35.805Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -3689,6 +3689,21 @@
       "tags": ["saber-mkt-sol"]
     },
     {
+      "address": "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "source": "lpfinance",
+        "sourceUrl": "https://lp.finance"
+      },
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/zSOL.png",
+      "name": "zSOL",
+      "symbol": "zSOL",
+      "tags": ["saber-mkt-sol"]
+    },
+    {
       "address": "SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj",
       "chainId": 101,
       "decimals": 9,
@@ -4575,6 +4590,23 @@
       "name": "Serum (Wormhole from Ethereum)",
       "symbol": "SRMet",
       "tags": ["wrapped", "wormhole", "saber-mkt-srm", "wormhole-v2"]
+    },
+    {
+      "address": "zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "So11111111111111111111111111111111111111112",
+          "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA"
+        ],
+        "website": "https://app.saber.so/pools/zsol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber SOL-zSOL LP",
+      "symbol": "SOL-zSOL",
+      "tags": ["saber-stableswap-lp"]
     }
   ]
 }

@@ -1486,5 +1486,17 @@
     "tokenACoingecko": "usd-coin",
     "tokenBCoingecko": "usd-coin",
     "decimals": 6
+  },
+  {
+    "id": "zsol",
+    "lpMint": "zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W",
+    "tokenA": "So11111111111111111111111111111111111111112",
+    "tokenB": "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
+    "authority": "852JH5TaVXoAC8z5NxsmViA6ym7LoW1tpApQuBbWNMUp",
+    "reserveA": "CMRhskR2Eg6V42RTSdRTXGdozyPbWB8U9dVpijPWb9T4",
+    "reserveB": "7TKLLgrWswt6ZJ1pXhVR3FyufHGjJFqiEXxvWJfDcgRm",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana",
+    "decimals": 9
   }
 ]
