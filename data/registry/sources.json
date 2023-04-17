@@ -55,5 +55,13 @@
     "description": "CUSD is designed to be the bloodline of the Coin98 Ecosystem, bringing a seamless unified cross-chain liquidity flow to the existing/upcoming infrastructures.",
     "risksURL": "https://blog.coin98.com/introducing-cusd/",
     "iconURL": "https://coin98.com/static/media/cusdBall.12b6d308.svg"
+  },
+  "lpfinance": {
+    "auditors": [],
+    "name": "LP Finance",
+    "website": "https://lp.finance",
+    "description": "LP Finance is a synthetic asset issuance protocol on Solana",
+    "risksURL": "https://docs.lp.finance/",
+    "iconURL": "https://www.lp.finance/logo192.png"
   }
 }

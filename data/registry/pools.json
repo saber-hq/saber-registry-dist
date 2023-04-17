@@ -442,7 +442,8 @@
     "usdcet_usdh": {
       "swapAccount": "SHRJZYZxBfNz1SL5puXfaymPnndnJTY6MJrTrzpsYMc"
     },
-    "c98usd": { "swapAccount": "C98Sspw7XqnMsgxea3SLQVdbMDL8pKUc3RE82UvX9eq2" }
+    "c98usd": { "swapAccount": "C98Sspw7XqnMsgxea3SLQVdbMDL8pKUc3RE82UvX9eq2" },
+    "zsol": { "swapAccount": "ercAoEmXjQzEvAFbdjAo81KtMxRGn9AW1ju882upmPH" }
   },
   "testnet": {
     "usdc_usdt": {

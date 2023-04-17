@@ -5990,22 +5990,22 @@
       "name": "CUSD-USDC",
       "tokens": [
         {
-          "address": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
           "name": "Coin98 Dollar",
-          "decimals": 6,
-          "chainId": 101,
           "symbol": "CUSD",
           "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+          "decimals": 6,
+          "address": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+          "chainId": 101,
+          "tags": ["saber-mkt-usd"],
           "extensions": {
-            "description": "The Next Liquidity Solution for The Cross-chain Economy",
-            "coingeckoId": "coin98-dollar",
-            "twitter": "https://twitter.com/Coin98Dollar",
             "website": "https://coin98.com/dollar",
-            "currency": "USD",
+            "twitter": "https://twitter.com/Coin98Dollar",
+            "coingeckoId": "coin98-dollar",
+            "description": "The Next Liquidity Solution for The Cross-chain Economy",
             "source": "coin98",
+            "currency": "USD",
             "sourceUrl": "https://coin98.com/dollar"
-          },
-          "tags": ["saber-mkt-usd"]
+          }
         },
         {
           "name": "USD Coin",
@@ -6025,22 +6025,22 @@
       ],
       "tokenIcons": [
         {
-          "address": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
           "name": "Coin98 Dollar",
-          "decimals": 6,
-          "chainId": 101,
           "symbol": "CUSD",
           "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+          "decimals": 6,
+          "address": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+          "chainId": 101,
+          "tags": ["saber-mkt-usd"],
           "extensions": {
-            "description": "The Next Liquidity Solution for The Cross-chain Economy",
-            "coingeckoId": "coin98-dollar",
-            "twitter": "https://twitter.com/Coin98Dollar",
             "website": "https://coin98.com/dollar",
-            "currency": "USD",
+            "twitter": "https://twitter.com/Coin98Dollar",
+            "coingeckoId": "coin98-dollar",
+            "description": "The Next Liquidity Solution for The Cross-chain Economy",
             "source": "coin98",
+            "currency": "USD",
             "sourceUrl": "https://coin98.com/dollar"
-          },
-          "tags": ["saber-mkt-usd"]
+          }
         },
         {
           "name": "USD Coin",
@@ -6060,22 +6060,22 @@
       ],
       "underlyingIcons": [
         {
-          "address": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
           "name": "Coin98 Dollar",
-          "decimals": 6,
-          "chainId": 101,
           "symbol": "CUSD",
           "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+          "decimals": 6,
+          "address": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
+          "chainId": 101,
+          "tags": ["saber-mkt-usd"],
           "extensions": {
-            "description": "The Next Liquidity Solution for The Cross-chain Economy",
-            "coingeckoId": "coin98-dollar",
-            "twitter": "https://twitter.com/Coin98Dollar",
             "website": "https://coin98.com/dollar",
-            "currency": "USD",
+            "twitter": "https://twitter.com/Coin98Dollar",
+            "coingeckoId": "coin98-dollar",
+            "description": "The Next Liquidity Solution for The Cross-chain Economy",
             "source": "coin98",
+            "currency": "USD",
             "sourceUrl": "https://coin98.com/dollar"
-          },
-          "tags": ["saber-mkt-usd"]
+          }
         },
         {
           "name": "USD Coin",
@@ -21829,6 +21829,182 @@
         }
       },
       "quarry": "9XAGs2YwvRqCLupFAQQyH1XnP1MP3dp9PL6JaBD7yCZp"
+    },
+    {
+      "id": "zsol",
+      "name": "SOL-zSOL",
+      "tokens": [
+        {
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/So11111111111111111111111111111111111111112.png",
+          "decimals": 9,
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "tags": ["saber-mkt-sol"],
+          "extensions": {
+            "website": "https://solana.com/",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          }
+        },
+        {
+          "address": "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
+          "name": "zSOL",
+          "decimals": 9,
+          "chainId": 101,
+          "symbol": "zSOL",
+          "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/zSOL.png",
+          "extensions": {
+            "coingeckoId": "solana",
+            "currency": "SOL",
+            "source": "lpfinance",
+            "sourceUrl": "https://lp.finance"
+          },
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/So11111111111111111111111111111111111111112.png",
+          "decimals": 9,
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "tags": ["saber-mkt-sol"],
+          "extensions": {
+            "website": "https://solana.com/",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          }
+        },
+        {
+          "address": "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
+          "name": "zSOL",
+          "decimals": 9,
+          "chainId": 101,
+          "symbol": "zSOL",
+          "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/zSOL.png",
+          "extensions": {
+            "coingeckoId": "solana",
+            "currency": "SOL",
+            "source": "lpfinance",
+            "sourceUrl": "https://lp.finance"
+          },
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/So11111111111111111111111111111111111111112.png",
+          "decimals": 9,
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "tags": ["saber-mkt-sol"],
+          "extensions": {
+            "website": "https://solana.com/",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          }
+        },
+        {
+          "address": "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
+          "name": "zSOL",
+          "decimals": 9,
+          "chainId": 101,
+          "symbol": "zSOL",
+          "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/zSOL.png",
+          "extensions": {
+            "coingeckoId": "solana",
+            "currency": "SOL",
+            "source": "lpfinance",
+            "sourceUrl": "https://lp.finance"
+          },
+          "tags": ["saber-mkt-sol"]
+        }
+      ],
+      "currency": "SOL",
+      "lpToken": {
+        "symbol": "SOL-zSOL",
+        "name": "Saber SOL-zSOL LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W",
+        "chainId": 101,
+        "tags": ["saber-stableswap-lp"],
+        "extensions": {
+          "website": "https://app.saber.so/pools/zsol",
+          "underlyingTokens": [
+            "So11111111111111111111111111111111111111112",
+            "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "G58hRdDpSUzptGgHxFHWxEGbqCtjS1Wiqaiq83g2p4gX",
+      "swap": {
+        "config": {
+          "swapAccount": "ercAoEmXjQzEvAFbdjAo81KtMxRGn9AW1ju882upmPH",
+          "authority": "852JH5TaVXoAC8z5NxsmViA6ym7LoW1tpApQuBbWNMUp",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W",
+          "adminAccount": "A24DdFH22BCV5JQ7QzugD6VjR9fm6gior1P8tYGXrLk5",
+          "tokenA": {
+            "adminFeeAccount": "DViotfHDbbgLjNrKYN1JQdZKQCEvGYBdr2DMLN4RZnKj",
+            "mint": "So11111111111111111111111111111111111111112",
+            "reserve": "CMRhskR2Eg6V42RTSdRTXGdozyPbWB8U9dVpijPWb9T4"
+          },
+          "tokenB": {
+            "adminFeeAccount": "6qe47SXgZF2iRAjnYzXxLMAqQpFBTYGkhwg7bfgpsUUC",
+            "mint": "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
+            "reserve": "7TKLLgrWswt6ZJ1pXhVR3FyufHGjJFqiEXxvWJfDcgRm"
+          },
+          "initialAmpFactor": "0a",
+          "targetAmpFactor": "0a",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "formatted": "0.0400000000",
+              "numerator": "4",
+              "denominator": "10000"
+            },
+            "adminTrade": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "withdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            },
+            "adminWithdraw": {
+              "formatted": "0.0000000000",
+              "numerator": "0",
+              "denominator": "10000"
+            }
+          }
+        }
+      },
+      "quarry": "2SzSajfsCQysfUQa95GVMdbcaCNeXWSYbQhdzuuwprko"
     }
   ]
 }

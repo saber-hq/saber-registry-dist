@@ -556,6 +556,11 @@
       "market": "USD",
       "source": "coin98",
       "coingeckoId": "coin98-dollar"
+    },
+    "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA": {
+      "market": "SOL",
+      "source": "lpfinance",
+      "coingeckoId": "solana"
     }
   },
   "testnet": {
