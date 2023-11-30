@@ -3396,8 +3396,8 @@
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "5",
-              "denominatorStr": "100000",
+              "numeratorStr": "1",
+              "denominatorStr": "10000",
               "isPercent": true
             },
             "adminTrade": {
@@ -5071,8 +5071,8 @@
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "5",
-              "denominatorStr": "100000",
+              "numeratorStr": "1",
+              "denominatorStr": "10000",
               "isPercent": true
             },
             "adminTrade": {
@@ -6359,14 +6359,14 @@
             "mint": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
             "reserve": "54zDfk4cx2vGrEajPtodWpArNe5eUurytyxd4X3aZAxK"
           },
-          "initialAmpFactor": "0a",
-          "targetAmpFactor": "0a",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
+          "initialAmpFactor": "14",
+          "targetAmpFactor": "28",
+          "startRampTimestamp": 1684310644,
+          "stopRampTimestamp": 1684405681,
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "4",
+              "numeratorStr": "1",
               "denominatorStr": "10000",
               "isPercent": true
             },
@@ -11053,6 +11053,210 @@
       "quarry": "GfhJbBiT4Yfv3FvnGY42EBGReCJpbLgQZbaZ8KuPydK5"
     },
     {
+      "id": "mds",
+      "name": "MDS-USDC",
+      "tokens": [
+        {
+          "address": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+          "name": "MIDAS Token",
+          "decimals": 9,
+          "chainId": 101,
+          "symbol": "MDS",
+          "logoURI": "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw",
+          "extensions": {
+            "coingeckoId": "midas-token",
+            "currency": "USD",
+            "source": "midas",
+            "sourceUrl": "https://mds.hadeswap.com/"
+          },
+          "tags": [
+            "saber-mkt-usd"
+          ]
+        },
+        {
+          "name": "Saber Wrapped USD Coin (9 decimals)",
+          "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "decimals": 9,
+          "symbol": "sUSDC-9",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
+          "tags": [
+            "stablecoin",
+            "saber-mkt-usd",
+            "saber-dec-wrapped"
+          ],
+          "extensions": {
+            "website": "https://app.saber.so",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "underlyingTokens": [
+              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ]
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+          "name": "MIDAS Token",
+          "decimals": 9,
+          "chainId": 101,
+          "symbol": "MDS",
+          "logoURI": "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw",
+          "extensions": {
+            "coingeckoId": "midas-token",
+            "currency": "USD",
+            "source": "midas",
+            "sourceUrl": "https://mds.hadeswap.com/"
+          },
+          "tags": [
+            "saber-mkt-usd"
+          ]
+        },
+        {
+          "name": "Saber Wrapped USD Coin (9 decimals)",
+          "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "decimals": 9,
+          "symbol": "sUSDC-9",
+          "chainId": 101,
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
+          "tags": [
+            "stablecoin",
+            "saber-mkt-usd",
+            "saber-dec-wrapped"
+          ],
+          "extensions": {
+            "website": "https://app.saber.so",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD",
+            "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "underlyingTokens": [
+              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ]
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+          "name": "MIDAS Token",
+          "decimals": 9,
+          "chainId": 101,
+          "symbol": "MDS",
+          "logoURI": "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw",
+          "extensions": {
+            "coingeckoId": "midas-token",
+            "currency": "USD",
+            "source": "midas",
+            "sourceUrl": "https://mds.hadeswap.com/"
+          },
+          "tags": [
+            "saber-mkt-usd"
+          ]
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "decimals": 6,
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "chainId": 101,
+          "tags": [
+            "stablecoin",
+            "saber-mkt-usd"
+          ],
+          "extensions": {
+            "website": "https://www.centre.io/",
+            "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+            "coingeckoId": "usd-coin",
+            "currency": "USD"
+          }
+        }
+      ],
+      "currency": "USD",
+      "lpToken": {
+        "symbol": "MDS-USDC",
+        "name": "Saber MDS-USDC LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "MDS8YuLqbMS8vsuEevcDNku2BPUTDUyLgfT2nmFvwvg",
+        "chainId": 101,
+        "tags": [
+          "saber-stableswap-lp"
+        ],
+        "extensions": {
+          "website": "https://app.saber.so/pools/mds",
+          "underlyingTokens": [
+            "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "2SGM8w4xwMbQP6WZbShfXEiRUVjUyWJRUZLJczpzgzFk",
+      "swap": {
+        "config": {
+          "swapAccount": "HDSBGqAuMRr6X2AfmmbXQPpRgU6VEhtfNVVZ3wUTZXg",
+          "authority": "6ko3VDC2apYwLHCt2rwyvRKHMc4tdR1qZMWxkzqnU7eb",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 254,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "MDS8YuLqbMS8vsuEevcDNku2BPUTDUyLgfT2nmFvwvg",
+          "adminAccount": "Gs8bWsU3ZScPfvZuCpjXAMaFZwUaoXSLhTDe2UycuotX",
+          "tokenA": {
+            "adminFeeAccount": "572zwE6d1C8Djmub54jis8qTsXueBBajuMiWMDvQccz6",
+            "mint": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+            "reserve": "DCZ1d8kNLgDcdSd99y4udLgwq46mfDXNS9KXj96kQf5L"
+          },
+          "tokenB": {
+            "adminFeeAccount": "FTktH1QaB8iBiND12TY22onsQx1FKGt1q17oh2BpiPGh",
+            "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+            "reserve": "Fq8GGYQM5Pz3q7LmVMbrXHJgsxA5ev86kTq8yGgGuYsa"
+          },
+          "initialAmpFactor": "0a",
+          "targetAmpFactor": "0a",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "isFraction": true,
+              "numeratorStr": "4",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "adminTrade": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "withdraw": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "adminWithdraw": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            }
+          }
+        }
+      },
+      "quarry": "4ckcLbhxLPKAt2jeKarBRaW1b7osNqh19xaAkXcj6yWd"
+    },
+    {
       "id": "mim_cash",
       "name": "aeMIM-CASH",
       "tokens": [
@@ -12119,7 +12323,7 @@
             "trade": {
               "isFraction": true,
               "numeratorStr": "1",
-              "denominatorStr": "100000",
+              "denominatorStr": "10000",
               "isPercent": true
             },
             "adminTrade": {
@@ -15831,8 +16035,8 @@
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "5",
-              "denominatorStr": "100000",
+              "numeratorStr": "1",
+              "denominatorStr": "10000",
               "isPercent": true
             },
             "adminTrade": {
@@ -16236,7 +16440,7 @@
             "trade": {
               "isFraction": true,
               "numeratorStr": "1",
-              "denominatorStr": "100000",
+              "denominatorStr": "10000",
               "isPercent": true
             },
             "adminTrade": {
@@ -16672,7 +16876,7 @@
             "trade": {
               "isFraction": true,
               "numeratorStr": "1",
-              "denominatorStr": "100000",
+              "denominatorStr": "10000",
               "isPercent": true
             },
             "adminTrade": {
@@ -17045,7 +17249,7 @@
             "trade": {
               "isFraction": true,
               "numeratorStr": "1",
-              "denominatorStr": "100000",
+              "denominatorStr": "10000",
               "isPercent": true
             },
             "adminTrade": {
@@ -17056,8 +17260,8 @@
             },
             "withdraw": {
               "isFraction": true,
-              "numeratorStr": "50000",
-              "denominatorStr": "10000000",
+              "numeratorStr": "0",
+              "denominatorStr": "1000000000",
               "isPercent": true
             },
             "adminWithdraw": {
@@ -19205,7 +19409,7 @@
             "trade": {
               "isFraction": true,
               "numeratorStr": "1",
-              "denominatorStr": "100000",
+              "denominatorStr": "10000",
               "isPercent": true
             },
             "adminTrade": {
@@ -19872,8 +20076,8 @@
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "5",
-              "denominatorStr": "100000",
+              "numeratorStr": "1",
+              "denominatorStr": "10000",
               "isPercent": true
             },
             "adminTrade": {
@@ -20095,8 +20299,8 @@
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "5",
-              "denominatorStr": "100000",
+              "numeratorStr": "1",
+              "denominatorStr": "10000",
               "isPercent": true
             },
             "adminTrade": {
@@ -20749,7 +20953,7 @@
             "trade": {
               "isFraction": true,
               "numeratorStr": "1",
-              "denominatorStr": "100000",
+              "denominatorStr": "10000",
               "isPercent": true
             },
             "adminTrade": {
@@ -20958,8 +21162,8 @@
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "5",
-              "denominatorStr": "100000",
+              "numeratorStr": "1",
+              "denominatorStr": "10000",
               "isPercent": true
             },
             "adminTrade": {
@@ -23582,7 +23786,7 @@
             "trade": {
               "isFraction": true,
               "numeratorStr": "1",
-              "denominatorStr": "100000",
+              "denominatorStr": "10000",
               "isPercent": true
             },
             "adminTrade": {
@@ -25054,10 +25258,10 @@
             "mint": "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
             "reserve": "7TKLLgrWswt6ZJ1pXhVR3FyufHGjJFqiEXxvWJfDcgRm"
           },
-          "initialAmpFactor": "0a",
-          "targetAmpFactor": "0a",
-          "startRampTimestamp": 0,
-          "stopRampTimestamp": 0,
+          "initialAmpFactor": "28",
+          "targetAmpFactor": "50",
+          "startRampTimestamp": 1691738966,
+          "stopRampTimestamp": 1691834004,
           "fees": {
             "trade": {
               "isFraction": true,
