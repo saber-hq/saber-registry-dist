@@ -18,24 +18,28 @@
       "adminAccount": "EfYCi3Uv4zg4PZqrnzXpWDbow3UuBKTudb4PdB5g9n1R",
       "fees": {
         "adminTrade": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         },
         "adminWithdraw": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         },
         "trade": {
-          "denominator": "10000",
-          "formatted": "0.0400000000",
-          "numerator": "4"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
         },
         "withdraw": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -98,24 +102,28 @@
       "adminAccount": "8U8GbmSKjygwdqmFH9rYaWxkD9G13T1RsCYfcxqkHaiy",
       "fees": {
         "adminTrade": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         },
         "adminWithdraw": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         },
         "trade": {
-          "denominator": "10000",
-          "formatted": "0.0400000000",
-          "numerator": "4"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
         },
         "withdraw": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -178,24 +186,28 @@
       "adminAccount": "AgsR6hUZitMsT7EXkJ5ahxSSui3dAtQReKsyxs2nUwNH",
       "fees": {
         "adminTrade": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         },
         "adminWithdraw": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         },
         "trade": {
-          "denominator": "10000",
-          "formatted": "0.0400000000",
-          "numerator": "4"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
         },
         "withdraw": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -258,24 +270,28 @@
       "adminAccount": "76aXqx2d2u4yDtwA1AujKtPsTTxRi5hKVAbHGtH2uYqd",
       "fees": {
         "adminTrade": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         },
         "adminWithdraw": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         },
         "trade": {
-          "denominator": "10000",
-          "formatted": "0.0400000000",
-          "numerator": "4"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
         },
         "withdraw": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -338,24 +354,28 @@
       "adminAccount": "HRSUYmvwyhy8SEYvvBvwpjpTdmRiYGAEqGDbWUKT2QY",
       "fees": {
         "adminTrade": {
-          "denominator": "100",
-          "formatted": "50.0000000000",
-          "numerator": "50"
+          "denominatorStr": "100",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "50"
         },
         "adminWithdraw": {
-          "denominator": "100",
-          "formatted": "50.0000000000",
-          "numerator": "50"
+          "denominatorStr": "100",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "50"
         },
         "trade": {
-          "denominator": "10000",
-          "formatted": "0.2000000000",
-          "numerator": "20"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "20"
         },
         "withdraw": {
-          "denominator": "10000",
-          "formatted": "0.5000000000",
-          "numerator": "50"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "50"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -418,24 +438,28 @@
       "adminAccount": "2Wdnp1YTGwfiDLLgZ7wJFs6ySThFbMqRJzsbZCw2XcMR",
       "fees": {
         "adminTrade": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         },
         "adminWithdraw": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         },
         "trade": {
-          "denominator": "10000",
-          "formatted": "0.0400000000",
-          "numerator": "4"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
         },
         "withdraw": {
-          "denominator": "10000",
-          "formatted": "0.0000000000",
-          "numerator": "0"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",
@@ -498,24 +522,28 @@
       "adminAccount": "8stm1cGSc85QL9yJKphHvkZsHRXX7aFp5FhyhnMun1KN",
       "fees": {
         "adminTrade": {
-          "denominator": "100",
-          "formatted": "50.0000000000",
-          "numerator": "50"
+          "denominatorStr": "100",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "50"
         },
         "adminWithdraw": {
-          "denominator": "100",
-          "formatted": "50.0000000000",
-          "numerator": "50"
+          "denominatorStr": "100",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "50"
         },
         "trade": {
-          "denominator": "10000",
-          "formatted": "0.2000000000",
-          "numerator": "20"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "20"
         },
         "withdraw": {
-          "denominator": "10000",
-          "formatted": "0.5000000000",
-          "numerator": "50"
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "50"
         }
       },
       "futureAdminAccount": "11111111111111111111111111111111",

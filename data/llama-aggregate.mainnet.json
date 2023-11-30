@@ -269,6 +269,17 @@
     ]
   },
   {
+    "id": "midas-token",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "DCZ1d8kNLgDcdSd99y4udLgwq46mfDXNS9KXj96kQf5L"
+        ]
+      }
+    ]
+  },
+  {
     "id": "mimatic",
     "accounts": [
       {
@@ -615,6 +626,7 @@
           "PhfHJ2Yu99BsEjZrefhApqUnLUiExcECcUT1YLoNUUv",
           "H8VggnHmuwd1wvwpT8eg9cUJFEfZ7HAaeYjgXrSm7A2u",
           "2K2kkXsouBHtWVjtcgkyiXd8eP3oVBvq1bTJzcVdLLr2",
+          "Fq8GGYQM5Pz3q7LmVMbrXHJgsxA5ev86kTq8yGgGuYsa",
           "DJcFPaQjyW9Xkt7sXCbnEGj1yfykGYuLRUXFyS4LLZ5F",
           "EnnjMSFttpCTywBrYNt1J5QQeoSVkvzPipJDa8Y7kJow",
           "6bjVT6JN2rSvpyn9PdfLYC8wJn4LWh49jpY47fnLDXZk",

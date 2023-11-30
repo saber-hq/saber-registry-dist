@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2023-11-30T15:13:58.837Z",
+  "timestamp": "2023-11-30T15:15:58.635Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -978,6 +978,23 @@
         "wrapped",
         "saber-mkt-try",
         "wormhole-v2"
+      ]
+    },
+    {
+      "address": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "midas-token",
+        "currency": "USD",
+        "source": "midas",
+        "sourceUrl": "https://mds.hadeswap.com/"
+      },
+      "logoURI": "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw",
+      "name": "MIDAS Token",
+      "symbol": "MDS",
+      "tags": [
+        "saber-mkt-usd"
       ]
     },
     {
@@ -3865,6 +3882,25 @@
       "tags": [
         "saber-stableswap-lp",
         "saber-lp-allbridge"
+      ]
+    },
+    {
+      "address": "MDS8YuLqbMS8vsuEevcDNku2BPUTDUyLgfT2nmFvwvg",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "website": "https://app.saber.so/pools/mds"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber MDS-USDC LP",
+      "symbol": "MDS-USDC",
+      "tags": [
+        "saber-stableswap-lp"
       ]
     },
     {

@@ -720,6 +720,18 @@
     "decimals": 9
   },
   {
+    "id": "mds",
+    "lpMint": "MDS8YuLqbMS8vsuEevcDNku2BPUTDUyLgfT2nmFvwvg",
+    "tokenA": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+    "tokenB": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+    "authority": "6ko3VDC2apYwLHCt2rwyvRKHMc4tdR1qZMWxkzqnU7eb",
+    "reserveA": "DCZ1d8kNLgDcdSd99y4udLgwq46mfDXNS9KXj96kQf5L",
+    "reserveB": "Fq8GGYQM5Pz3q7LmVMbrXHJgsxA5ev86kTq8yGgGuYsa",
+    "tokenACoingecko": "midas-token",
+    "tokenBCoingecko": "usd-coin",
+    "decimals": 9
+  },
+  {
     "id": "mim_cash",
     "lpMint": "ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh",
     "tokenA": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
