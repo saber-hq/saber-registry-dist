@@ -133,7 +133,9 @@
     "id": "usdc_cash",
     "isVerified": true,
     "name": "USDC-CASH",
-    "sources": ["cashio"],
+    "sources": [
+      "cashio"
+    ],
     "underlyingTokens": [
       "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -413,7 +415,9 @@
     "id": "usdt_cash",
     "isVerified": true,
     "name": "USDT-CASH",
-    "sources": ["cashio"],
+    "sources": [
+      "cashio"
+    ],
     "underlyingTokens": [
       "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
       "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"

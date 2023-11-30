@@ -20,7 +20,9 @@
           "chainId": 103,
           "symbol": "renBTC",
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png",
-          "tags": ["saber-mkt-btc"],
+          "tags": [
+            "saber-mkt-btc"
+          ],
           "extensions": {
             "currency": "BTC",
             "coingeckoId": "renbtc"
@@ -33,13 +35,18 @@
           "symbol": "sWBTC-8",
           "chainId": 103,
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
-          "tags": ["saber-mkt-btc", "saber-dec-wrapped"],
+          "tags": [
+            "saber-mkt-btc",
+            "saber-dec-wrapped"
+          ],
           "extensions": {
             "currency": "BTC",
             "coingeckoId": "wrapped-bitcoin",
             "website": "https://app.saber.so",
             "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
-            "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"]
+            "underlyingTokens": [
+              "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"
+            ]
           }
         }
       ],
@@ -51,7 +58,9 @@
           "chainId": 103,
           "symbol": "renBTC",
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png",
-          "tags": ["saber-mkt-btc"],
+          "tags": [
+            "saber-mkt-btc"
+          ],
           "extensions": {
             "currency": "BTC",
             "coingeckoId": "renbtc"
@@ -64,13 +73,18 @@
           "symbol": "sWBTC-8",
           "chainId": 103,
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
-          "tags": ["saber-mkt-btc", "saber-dec-wrapped"],
+          "tags": [
+            "saber-mkt-btc",
+            "saber-dec-wrapped"
+          ],
           "extensions": {
             "currency": "BTC",
             "coingeckoId": "wrapped-bitcoin",
             "website": "https://app.saber.so",
             "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
-            "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"]
+            "underlyingTokens": [
+              "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"
+            ]
           }
         }
       ],
@@ -82,7 +96,9 @@
           "chainId": 103,
           "symbol": "renBTC",
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png",
-          "tags": ["saber-mkt-btc"],
+          "tags": [
+            "saber-mkt-btc"
+          ],
           "extensions": {
             "currency": "BTC",
             "coingeckoId": "renbtc"
@@ -95,7 +111,9 @@
           "chainId": 103,
           "symbol": "WBTC",
           "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
-          "tags": ["saber-mkt-btc"],
+          "tags": [
+            "saber-mkt-btc"
+          ],
           "extensions": {
             "currency": "BTC",
             "coingeckoId": "wrapped-bitcoin"
@@ -110,7 +128,9 @@
         "decimals": 8,
         "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
         "chainId": 103,
-        "tags": ["saber-stableswap-lp"],
+        "tags": [
+          "saber-stableswap-lp"
+        ],
         "extensions": {
           "website": "https://app.saber.so/pools/btc",
           "underlyingTokens": [
@@ -152,24 +172,28 @@
           "stopRampTimestamp": 0,
           "fees": {
             "trade": {
-              "formatted": "0.0400000000",
-              "numerator": "4",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "4",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "adminTrade": {
-              "formatted": "0.0000000000",
-              "numerator": "0",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "withdraw": {
-              "formatted": "0.0000000000",
-              "numerator": "0",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "adminWithdraw": {
-              "formatted": "0.0000000000",
-              "numerator": "0",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
             }
           }
         }
@@ -187,7 +211,10 @@
           "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -211,7 +238,10 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
           "name": "Cashio Dollar",
           "symbol": "CASH",
-          "tags": ["stablecoin", "saber-mkt-usd"]
+          "tags": [
+            "stablecoin",
+            "saber-mkt-usd"
+          ]
         }
       ],
       "tokenIcons": [
@@ -222,7 +252,10 @@
           "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -246,7 +279,10 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
           "name": "Cashio Dollar",
           "symbol": "CASH",
-          "tags": ["stablecoin", "saber-mkt-usd"]
+          "tags": [
+            "stablecoin",
+            "saber-mkt-usd"
+          ]
         }
       ],
       "underlyingIcons": [
@@ -257,7 +293,10 @@
           "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -281,7 +320,10 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
           "name": "Cashio Dollar",
           "symbol": "CASH",
-          "tags": ["stablecoin", "saber-mkt-usd"]
+          "tags": [
+            "stablecoin",
+            "saber-mkt-usd"
+          ]
         }
       ],
       "currency": "USD",
@@ -292,7 +334,9 @@
         "decimals": 6,
         "address": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ",
         "chainId": 103,
-        "tags": ["saber-stableswap-lp"],
+        "tags": [
+          "saber-stableswap-lp"
+        ],
         "extensions": {
           "website": "https://app.saber.so/pools/usdc_cash",
           "underlyingTokens": [
@@ -334,24 +378,28 @@
           "stopRampTimestamp": 0,
           "fees": {
             "trade": {
-              "formatted": "0.0400000000",
-              "numerator": "4",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "4",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "adminTrade": {
-              "formatted": "0.0000000000",
-              "numerator": "0",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "withdraw": {
-              "formatted": "0.0000000000",
-              "numerator": "0",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "adminWithdraw": {
-              "formatted": "0.0000000000",
-              "numerator": "0",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
             }
           }
         }
@@ -369,7 +417,10 @@
           "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -383,7 +434,9 @@
           "address": "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd"],
+          "tags": [
+            "saber-mkt-usd"
+          ],
           "extensions": {
             "currency": "USD",
             "coingeckoId": "parrot-usd"
@@ -398,7 +451,10 @@
           "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -412,7 +468,9 @@
           "address": "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd"],
+          "tags": [
+            "saber-mkt-usd"
+          ],
           "extensions": {
             "currency": "USD",
             "coingeckoId": "parrot-usd"
@@ -427,7 +485,10 @@
           "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -441,7 +502,9 @@
           "address": "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd"],
+          "tags": [
+            "saber-mkt-usd"
+          ],
           "extensions": {
             "currency": "USD",
             "coingeckoId": "parrot-usd"
@@ -456,7 +519,9 @@
         "decimals": 6,
         "address": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J",
         "chainId": 103,
-        "tags": ["saber-stableswap-lp"],
+        "tags": [
+          "saber-stableswap-lp"
+        ],
         "extensions": {
           "website": "https://app.saber.so/pools/usdc_pai",
           "underlyingTokens": [
@@ -498,24 +563,28 @@
           "stopRampTimestamp": 0,
           "fees": {
             "trade": {
-              "formatted": "0.2000000000",
-              "numerator": "20",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "20",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "adminTrade": {
-              "formatted": "50.0000000000",
-              "numerator": "50",
-              "denominator": "100"
+              "isFraction": true,
+              "numeratorStr": "50",
+              "denominatorStr": "100",
+              "isPercent": true
             },
             "withdraw": {
-              "formatted": "0.5000000000",
-              "numerator": "50",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "50",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "adminWithdraw": {
-              "formatted": "50.0000000000",
-              "numerator": "50",
-              "denominator": "100"
+              "isFraction": true,
+              "numeratorStr": "50",
+              "denominatorStr": "100",
+              "isPercent": true
             }
           }
         }
@@ -533,7 +602,9 @@
           "address": "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd"],
+          "tags": [
+            "saber-mkt-usd"
+          ],
           "extensions": {
             "currency": "USD",
             "coingeckoId": "usd-coin"
@@ -546,7 +617,10 @@
           "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -562,7 +636,9 @@
           "address": "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd"],
+          "tags": [
+            "saber-mkt-usd"
+          ],
           "extensions": {
             "currency": "USD",
             "coingeckoId": "usd-coin"
@@ -575,7 +651,10 @@
           "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -591,7 +670,9 @@
           "address": "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd"],
+          "tags": [
+            "saber-mkt-usd"
+          ],
           "extensions": {
             "currency": "USD",
             "coingeckoId": "usd-coin"
@@ -604,7 +685,10 @@
           "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -620,7 +704,9 @@
         "decimals": 6,
         "address": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo",
         "chainId": 103,
-        "tags": ["saber-stableswap-lp"],
+        "tags": [
+          "saber-stableswap-lp"
+        ],
         "extensions": {
           "website": "https://app.saber.so/pools/usdc_test",
           "underlyingTokens": [
@@ -662,24 +748,28 @@
           "stopRampTimestamp": 0,
           "fees": {
             "trade": {
-              "formatted": "0.0400000000",
-              "numerator": "4",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "4",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "adminTrade": {
-              "formatted": "0.0000000000",
-              "numerator": "0",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "withdraw": {
-              "formatted": "0.0000000000",
-              "numerator": "0",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "adminWithdraw": {
-              "formatted": "0.0000000000",
-              "numerator": "0",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
             }
           }
         }
@@ -697,7 +787,10 @@
           "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -711,7 +804,10 @@
           "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -727,7 +823,10 @@
           "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -741,7 +840,10 @@
           "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -757,7 +859,10 @@
           "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -771,7 +876,10 @@
           "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -787,7 +895,9 @@
         "decimals": 6,
         "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
         "chainId": 103,
-        "tags": ["saber-stableswap-lp"],
+        "tags": [
+          "saber-stableswap-lp"
+        ],
         "extensions": {
           "website": "https://app.saber.so/pools/usdc_usdt",
           "underlyingTokens": [
@@ -829,24 +939,28 @@
           "stopRampTimestamp": 0,
           "fees": {
             "trade": {
-              "formatted": "0.2000000000",
-              "numerator": "20",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "20",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "adminTrade": {
-              "formatted": "50.0000000000",
-              "numerator": "50",
-              "denominator": "100"
+              "isFraction": true,
+              "numeratorStr": "50",
+              "denominatorStr": "100",
+              "isPercent": true
             },
             "withdraw": {
-              "formatted": "0.5000000000",
-              "numerator": "50",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "50",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "adminWithdraw": {
-              "formatted": "50.0000000000",
-              "numerator": "50",
-              "denominator": "100"
+              "isFraction": true,
+              "numeratorStr": "50",
+              "denominatorStr": "100",
+              "isPercent": true
             }
           }
         }
@@ -864,7 +978,10 @@
           "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -888,7 +1005,10 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
           "name": "Cashio Dollar",
           "symbol": "CASH",
-          "tags": ["stablecoin", "saber-mkt-usd"]
+          "tags": [
+            "stablecoin",
+            "saber-mkt-usd"
+          ]
         }
       ],
       "tokenIcons": [
@@ -899,7 +1019,10 @@
           "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -923,7 +1046,10 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
           "name": "Cashio Dollar",
           "symbol": "CASH",
-          "tags": ["stablecoin", "saber-mkt-usd"]
+          "tags": [
+            "stablecoin",
+            "saber-mkt-usd"
+          ]
         }
       ],
       "underlyingIcons": [
@@ -934,7 +1060,10 @@
           "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
           "decimals": 6,
           "chainId": 103,
-          "tags": ["saber-mkt-usd", "stablecoin"],
+          "tags": [
+            "saber-mkt-usd",
+            "stablecoin"
+          ],
           "extensions": {
             "currency": "USD",
             "website": "https://saber.so/",
@@ -958,7 +1087,10 @@
           "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
           "name": "Cashio Dollar",
           "symbol": "CASH",
-          "tags": ["stablecoin", "saber-mkt-usd"]
+          "tags": [
+            "stablecoin",
+            "saber-mkt-usd"
+          ]
         }
       ],
       "currency": "USD",
@@ -969,7 +1101,9 @@
         "decimals": 6,
         "address": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4",
         "chainId": 103,
-        "tags": ["saber-stableswap-lp"],
+        "tags": [
+          "saber-stableswap-lp"
+        ],
         "extensions": {
           "website": "https://app.saber.so/pools/usdt_cash",
           "underlyingTokens": [
@@ -1011,24 +1145,28 @@
           "stopRampTimestamp": 0,
           "fees": {
             "trade": {
-              "formatted": "0.0400000000",
-              "numerator": "4",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "4",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "adminTrade": {
-              "formatted": "0.0000000000",
-              "numerator": "0",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "withdraw": {
-              "formatted": "0.0000000000",
-              "numerator": "0",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
             },
             "adminWithdraw": {
-              "formatted": "0.0000000000",
-              "numerator": "0",
-              "denominator": "10000"
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
             }
           }
         }

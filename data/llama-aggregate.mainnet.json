@@ -4,7 +4,9 @@
     "accounts": [
       {
         "decimals": 9,
-        "addresses": ["DuSWTAh1SC43EY86daS2Cq6PNBGGujVjLyEmc5AmQKzC"]
+        "addresses": [
+          "DuSWTAh1SC43EY86daS2Cq6PNBGGujVjLyEmc5AmQKzC"
+        ]
       }
     ]
   },
@@ -59,7 +61,9 @@
       },
       {
         "decimals": 10,
-        "addresses": ["C82XDu1d1UjtuUwnkSTwVuWyH3AqpJ3ftb9W7en8rEUu"]
+        "addresses": [
+          "C82XDu1d1UjtuUwnkSTwVuWyH3AqpJ3ftb9W7en8rEUu"
+        ]
       }
     ]
   },
@@ -79,7 +83,9 @@
       },
       {
         "decimals": 8,
-        "addresses": ["GQ2YPKtfdjPJexWKFak1m4T16yHyWtbqkoGGh52QGmRX"]
+        "addresses": [
+          "GQ2YPKtfdjPJexWKFak1m4T16yHyWtbqkoGGh52QGmRX"
+        ]
       },
       {
         "decimals": 9,
@@ -108,7 +114,9 @@
     "accounts": [
       {
         "decimals": 9,
-        "addresses": ["G5KhoiuhRBEYmX89PuZMmpG3fLdomzMJZ3yEG13hVYPD"]
+        "addresses": [
+          "G5KhoiuhRBEYmX89PuZMmpG3fLdomzMJZ3yEG13hVYPD"
+        ]
       }
     ]
   },
@@ -117,7 +125,9 @@
     "accounts": [
       {
         "decimals": 6,
-        "addresses": ["CSqgQJurPCzGxb4Cgwx5R61hWQUiaoUHcShNc8r1cKEL"]
+        "addresses": [
+          "CSqgQJurPCzGxb4Cgwx5R61hWQUiaoUHcShNc8r1cKEL"
+        ]
       }
     ]
   },
@@ -126,7 +136,9 @@
     "accounts": [
       {
         "decimals": 8,
-        "addresses": ["725ZA3fhyBAKb5iopNRrcbSuQa3LXA1656Q3mBvYPxeg"]
+        "addresses": [
+          "725ZA3fhyBAKb5iopNRrcbSuQa3LXA1656Q3mBvYPxeg"
+        ]
       },
       {
         "decimals": 9,
@@ -184,7 +196,9 @@
       },
       {
         "decimals": 9,
-        "addresses": ["7eEYpq6ShaJ9opZWMxitRFrdCHh6vfyHhGfoSvFht3N2"]
+        "addresses": [
+          "7eEYpq6ShaJ9opZWMxitRFrdCHh6vfyHhGfoSvFht3N2"
+        ]
       }
     ]
   },
@@ -216,11 +230,15 @@
     "accounts": [
       {
         "decimals": 8,
-        "addresses": ["59vRbFfiA5NoGvuPjDpNE399pm4yNWVH28yfSrWH6bL2"]
+        "addresses": [
+          "59vRbFfiA5NoGvuPjDpNE399pm4yNWVH28yfSrWH6bL2"
+        ]
       },
       {
         "decimals": 9,
-        "addresses": ["GsizhiRtCs4QDKd2LnSQ9BpzvG8CqERMDtHZcQPDkFQB"]
+        "addresses": [
+          "GsizhiRtCs4QDKd2LnSQ9BpzvG8CqERMDtHZcQPDkFQB"
+        ]
       }
     ]
   },
@@ -255,7 +273,9 @@
     "accounts": [
       {
         "decimals": 9,
-        "addresses": ["DhgiEgiNdqZdRdo195UUHnoEJUtefK8buko8nU97XJUZ"]
+        "addresses": [
+          "DhgiEgiNdqZdRdo195UUHnoEJUtefK8buko8nU97XJUZ"
+        ]
       }
     ]
   },
@@ -320,7 +340,9 @@
     "accounts": [
       {
         "decimals": 8,
-        "addresses": ["DKjqWWgrtDRPKrnMWtZ4UiJk4sGQVCQgFjSo7BvfngvK"]
+        "addresses": [
+          "DKjqWWgrtDRPKrnMWtZ4UiJk4sGQVCQgFjSo7BvfngvK"
+        ]
       }
     ]
   },
@@ -349,7 +371,9 @@
       },
       {
         "decimals": 10,
-        "addresses": ["F7cZoYpWQSFuYJzW2UUFw6sVbTtaihyD5upeeHRUPABk"]
+        "addresses": [
+          "F7cZoYpWQSFuYJzW2UUFw6sVbTtaihyD5upeeHRUPABk"
+        ]
       }
     ]
   },
@@ -460,7 +484,9 @@
       },
       {
         "decimals": 8,
-        "addresses": ["Cj9ECoDmxsHTDzCY5ZA6RWrPbg9uFzEC1Qc2kso2vJG6"]
+        "addresses": [
+          "Cj9ECoDmxsHTDzCY5ZA6RWrPbg9uFzEC1Qc2kso2vJG6"
+        ]
       },
       {
         "decimals": 9,
@@ -620,7 +646,9 @@
     "accounts": [
       {
         "decimals": 8,
-        "addresses": ["CMR2J7CwfW98RpvnJmFBgRFTLAd3x8CJ1SWs8Bt3uunG"]
+        "addresses": [
+          "CMR2J7CwfW98RpvnJmFBgRFTLAd3x8CJ1SWs8Bt3uunG"
+        ]
       },
       {
         "decimals": 9,
@@ -675,7 +703,9 @@
     "accounts": [
       {
         "decimals": 9,
-        "addresses": ["Au5zcSost9sXpH8AQQjULRXJ9QCJ3kdKehUr1zYzTr6G"]
+        "addresses": [
+          "Au5zcSost9sXpH8AQQjULRXJ9QCJ3kdKehUr1zYzTr6G"
+        ]
       }
     ]
   }

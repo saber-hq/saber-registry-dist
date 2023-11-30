@@ -23,7 +23,7 @@
       "name": "stablecoin"
     }
   },
-  "timestamp": "2023-04-17T04:19:37.877Z",
+  "timestamp": "2023-11-30T14:14:18.970Z",
   "tokens": [
     {
       "address": "22Ni6MmCu5UdQiuVjptqrZWJDen245hmojAfgChbDa1P",
@@ -40,7 +40,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
       "symbol": "USDC-USDT",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "2bKoPgFDwG2zkcJaS8Nd6q8igzVpgRkJFotmesrz287T",
@@ -57,7 +59,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
       "symbol": "USDC-USDT",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
@@ -71,7 +75,10 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/103/2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8.png",
       "name": "USD Coin (Saber Devnet)",
       "symbol": "USDC",
-      "tags": ["saber-mkt-usd", "stablecoin"]
+      "tags": [
+        "saber-mkt-usd",
+        "stablecoin"
+      ]
     },
     {
       "address": "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
@@ -84,7 +91,9 @@
       "logoURI": "https://registry.saber.so/token-icons/candy-usd.png",
       "name": "Test USD",
       "symbol": "TEST",
-      "tags": ["saber-mkt-usd"]
+      "tags": [
+        "saber-mkt-usd"
+      ]
     },
     {
       "address": "4h8wwJedyC6EVUhMAzK8bZLqDrXneRFEs4KqqbfrJ3Qu",
@@ -101,7 +110,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
       "symbol": "USDC-USDT",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL",
@@ -114,7 +125,9 @@
       "logoURI": "https://registry.saber.so/token-icons/pai.svg",
       "name": "PAI",
       "symbol": "PAI",
-      "tags": ["saber-mkt-usd"]
+      "tags": [
+        "saber-mkt-usd"
+      ]
     },
     {
       "address": "6RjgoAXop28rWbngWmgkhn9B5QDYzgxvx6yuMA2zFUPC",
@@ -131,7 +144,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
       "symbol": "USDC-USDT",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "AAASPHk9YENqJy2fnd8hbc2FgcAeavvFUCz7pvWY5UHx",
@@ -148,7 +163,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
       "symbol": "USDC-USDT",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "BTCtvyQH7yVBZ1kD4ucauLyJTWYgbbhRsXZAhf4QUE13",
@@ -165,7 +182,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber WBTC-renBTC LP",
       "symbol": "WBTC-renBTC",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs",
@@ -175,13 +194,18 @@
         "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
         "coingeckoId": "wrapped-bitcoin",
         "currency": "BTC",
-        "underlyingTokens": ["Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"],
+        "underlyingTokens": [
+          "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"
+        ],
         "website": "https://app.saber.so"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
       "name": "Saber Wrapped Test WBTC (8 decimals)",
       "symbol": "sWBTC-8",
-      "tags": ["saber-mkt-btc", "saber-dec-wrapped"]
+      "tags": [
+        "saber-mkt-btc",
+        "saber-dec-wrapped"
+      ]
     },
     {
       "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -200,7 +224,10 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
       "name": "Cashio Dollar",
       "symbol": "CASH",
-      "tags": ["stablecoin", "saber-mkt-usd"]
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
     },
     {
       "address": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ",
@@ -217,7 +244,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-CASH LP",
       "symbol": "USDC-CASH",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo",
@@ -234,7 +263,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber TEST-USDC LP",
       "symbol": "TEST-USDC",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
@@ -248,7 +279,10 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/103/EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS.svg",
       "name": "USDT (Saber Devnet)",
       "symbol": "USDT",
-      "tags": ["saber-mkt-usd", "stablecoin"]
+      "tags": [
+        "saber-mkt-usd",
+        "stablecoin"
+      ]
     },
     {
       "address": "FeKq4jkPt8YtNg12GRR5CtW2MP4eGYG1gBWK1nGuc1V",
@@ -265,7 +299,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-SBR LP",
       "symbol": "USDC-SBR",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J",
@@ -282,7 +318,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-PAI LP",
       "symbol": "USDC-PAI",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "J9wWG8PRe7JbHJYkCDEf5xpr6Vs7hzFsnLbCWLuLtN1C",
@@ -299,7 +337,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber WBTC-renBTC LP",
       "symbol": "WBTC-renBTC",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4",
@@ -316,7 +356,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDT-CASH LP",
       "symbol": "USDT-CASH",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
@@ -329,7 +371,9 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png",
       "name": "Test RenBTC",
       "symbol": "renBTC",
-      "tags": ["saber-mkt-btc"]
+      "tags": [
+        "saber-mkt-btc"
+      ]
     },
     {
       "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
@@ -352,7 +396,9 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
       "name": "Test WBTC",
       "symbol": "WBTC",
-      "tags": ["saber-mkt-btc"]
+      "tags": [
+        "saber-mkt-btc"
+      ]
     },
     {
       "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
@@ -369,7 +415,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
       "symbol": "USDC-USDT",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "aaaVjWhPtRD12TRDeNyYS23Tu9EPukoL7qSjg1JhQpV",
@@ -386,7 +434,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber USDC-USDT LP",
       "symbol": "USDC-USDT",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
@@ -403,7 +453,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber renBTC-WBTC LP",
       "symbol": "renBTC-WBTC",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "btssMDn48kE9K8H18ckd9QWV74dyFtoGAUStYJPHkhY",
@@ -420,7 +472,9 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber WBTC-renBTC LP",
       "symbol": "WBTC-renBTC",
-      "tags": ["saber-stableswap-lp"]
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     }
   ]
 }
