@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2024-03-27T07:21:57.536Z",
+  "timestamp": "2024-03-27T07:28:38.513Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -4788,8 +4788,8 @@
         "website": "https://app.saber.so/pools/vsol"
       },
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
-      "name": "Saber SOL-vSoLx LP",
-      "symbol": "SOL-vSoLx",
+      "name": "Saber SOL-vSOL LP",
+      "symbol": "SOL-vSOL",
       "tags": [
         "saber-stableswap-lp"
       ]
@@ -5307,8 +5307,9 @@
         "source": "vault",
         "sourceUrl": "https://thevault.finance"
       },
-      "name": "Token vSoL",
-      "symbol": "vSoLx",
+      "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
+      "name": "The Vault",
+      "symbol": "vSOL",
       "tags": [
         "saber-mkt-sol"
       ]
