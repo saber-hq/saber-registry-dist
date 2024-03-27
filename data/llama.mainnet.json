@@ -1200,6 +1200,18 @@
     "decimals": 6
   },
   {
+    "id": "vsol",
+    "lpMint": "VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx",
+    "tokenA": "So11111111111111111111111111111111111111112",
+    "tokenB": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+    "authority": "Gmc5agcQCxqt2v6Xp3DYJ8Qvr6b2aQUXRJ6wkvpKnmMv",
+    "reserveA": "J9bYNuDpY1d1T86gLaw7DGk5D3CsUAf2tzUwxMvb6FTv",
+    "reserveB": "A2NGvvPrMGzsJ4jb52KEnSBVmsA7C34dV1GC7PerdgvG",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana",
+    "decimals": 9
+  },
+  {
     "id": "wbusd",
     "lpMint": "WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS",
     "tokenA": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",

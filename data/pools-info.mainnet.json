@@ -11057,21 +11057,21 @@
       "name": "MDS-USDC",
       "tokens": [
         {
-          "address": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
           "name": "MIDAS Token",
-          "decimals": 9,
-          "chainId": 101,
           "symbol": "MDS",
           "logoURI": "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw",
-          "extensions": {
-            "coingeckoId": "midas-token",
-            "currency": "USD",
-            "source": "midas",
-            "sourceUrl": "https://mds.hadeswap.com/"
-          },
+          "decimals": 9,
+          "address": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+          "chainId": 101,
           "tags": [
             "saber-mkt-usd"
-          ]
+          ],
+          "extensions": {
+            "coingeckoId": "midas-token",
+            "source": "midas",
+            "currency": "USD",
+            "sourceUrl": "https://mds.hadeswap.com/"
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (9 decimals)",
@@ -11099,21 +11099,21 @@
       ],
       "tokenIcons": [
         {
-          "address": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
           "name": "MIDAS Token",
-          "decimals": 9,
-          "chainId": 101,
           "symbol": "MDS",
           "logoURI": "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw",
-          "extensions": {
-            "coingeckoId": "midas-token",
-            "currency": "USD",
-            "source": "midas",
-            "sourceUrl": "https://mds.hadeswap.com/"
-          },
+          "decimals": 9,
+          "address": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+          "chainId": 101,
           "tags": [
             "saber-mkt-usd"
-          ]
+          ],
+          "extensions": {
+            "coingeckoId": "midas-token",
+            "source": "midas",
+            "currency": "USD",
+            "sourceUrl": "https://mds.hadeswap.com/"
+          }
         },
         {
           "name": "Saber Wrapped USD Coin (9 decimals)",
@@ -11141,21 +11141,21 @@
       ],
       "underlyingIcons": [
         {
-          "address": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
           "name": "MIDAS Token",
-          "decimals": 9,
-          "chainId": 101,
           "symbol": "MDS",
           "logoURI": "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw",
-          "extensions": {
-            "coingeckoId": "midas-token",
-            "currency": "USD",
-            "source": "midas",
-            "sourceUrl": "https://mds.hadeswap.com/"
-          },
+          "decimals": 9,
+          "address": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+          "chainId": 101,
           "tags": [
             "saber-mkt-usd"
-          ]
+          ],
+          "extensions": {
+            "coingeckoId": "midas-token",
+            "source": "midas",
+            "currency": "USD",
+            "sourceUrl": "https://mds.hadeswap.com/"
+          }
         },
         {
           "name": "USD Coin",
@@ -19656,6 +19656,197 @@
         }
       },
       "quarry": "Fp3eynmHDXTkCtosY9g7fhhfG3HFsCepyKP2UgaZBFAG"
+    },
+    {
+      "id": "vsol",
+      "name": "SOL-vSoLx",
+      "tokens": [
+        {
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/So11111111111111111111111111111111111111112.png",
+          "decimals": 9,
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "tags": [
+            "saber-mkt-sol"
+          ],
+          "extensions": {
+            "website": "https://solana.com/",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          }
+        },
+        {
+          "name": "Token vSoL",
+          "symbol": "vSoLx",
+          "decimals": 9,
+          "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+          "chainId": 101,
+          "tags": [
+            "saber-mkt-sol"
+          ],
+          "extensions": {
+            "coingeckoId": "solana",
+            "currency": "SOL",
+            "source": "vault",
+            "sourceUrl": "https://thevault.finance"
+          }
+        }
+      ],
+      "tokenIcons": [
+        {
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/So11111111111111111111111111111111111111112.png",
+          "decimals": 9,
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "tags": [
+            "saber-mkt-sol"
+          ],
+          "extensions": {
+            "website": "https://solana.com/",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          }
+        },
+        {
+          "name": "Token vSoL",
+          "symbol": "vSoLx",
+          "decimals": 9,
+          "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+          "chainId": 101,
+          "tags": [
+            "saber-mkt-sol"
+          ],
+          "extensions": {
+            "coingeckoId": "solana",
+            "currency": "SOL",
+            "source": "vault",
+            "sourceUrl": "https://thevault.finance"
+          }
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/So11111111111111111111111111111111111111112.png",
+          "decimals": 9,
+          "address": "So11111111111111111111111111111111111111112",
+          "chainId": 101,
+          "tags": [
+            "saber-mkt-sol"
+          ],
+          "extensions": {
+            "website": "https://solana.com/",
+            "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+            "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+            "coingeckoId": "solana",
+            "currency": "SOL"
+          }
+        },
+        {
+          "name": "Token vSoL",
+          "symbol": "vSoLx",
+          "decimals": 9,
+          "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+          "chainId": 101,
+          "tags": [
+            "saber-mkt-sol"
+          ],
+          "extensions": {
+            "coingeckoId": "solana",
+            "currency": "SOL",
+            "source": "vault",
+            "sourceUrl": "https://thevault.finance"
+          }
+        }
+      ],
+      "currency": "SOL",
+      "lpToken": {
+        "symbol": "SOL-vSoLx",
+        "name": "Saber SOL-vSoLx LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 9,
+        "address": "VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx",
+        "chainId": 101,
+        "tags": [
+          "saber-stableswap-lp"
+        ],
+        "extensions": {
+          "website": "https://app.saber.so/pools/vsol",
+          "underlyingTokens": [
+            "So11111111111111111111111111111111111111112",
+            "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "FSP7LkcKmoTNzeK7g7FZtMMCxfyUFdMP9fncLit3YbHS",
+      "swap": {
+        "config": {
+          "swapAccount": "C2ypsDADXcCRz8HbV2zX1AXPSja7a1P3xZtRC91xGhJh",
+          "authority": "Gmc5agcQCxqt2v6Xp3DYJ8Qvr6b2aQUXRJ6wkvpKnmMv",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 255,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx",
+          "adminAccount": "HKbhafCiAVaMwV5NzwDkQhp95t7qug7vB7DPehBcszcB",
+          "tokenA": {
+            "adminFeeAccount": "8UkzM4qGgzXGtJhB23Y4Sec5m8mJeXTKqNGaP8EED4wU",
+            "mint": "So11111111111111111111111111111111111111112",
+            "reserve": "J9bYNuDpY1d1T86gLaw7DGk5D3CsUAf2tzUwxMvb6FTv"
+          },
+          "tokenB": {
+            "adminFeeAccount": "7UBPswYWUrLvGtYEGBHtayrTge7A9n41XF8K83puzqeB",
+            "mint": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+            "reserve": "A2NGvvPrMGzsJ4jb52KEnSBVmsA7C34dV1GC7PerdgvG"
+          },
+          "initialAmpFactor": "64",
+          "targetAmpFactor": "64",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "isFraction": true,
+              "numeratorStr": "4",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "adminTrade": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "withdraw": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "adminWithdraw": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            }
+          }
+        }
+      },
+      "quarry": "CTqNqRcptBDJsNpyk1GGSzwhjWYdjQSawzUTPSBkqpUE"
     },
     {
       "id": "wbusd",

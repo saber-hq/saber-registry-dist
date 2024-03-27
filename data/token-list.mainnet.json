@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2023-11-30T15:17:06.305Z",
+  "timestamp": "2024-03-27T07:21:57.536Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -4776,6 +4776,25 @@
       ]
     },
     {
+      "address": "VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "So11111111111111111111111111111111111111112",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+        ],
+        "website": "https://app.saber.so/pools/vsol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber SOL-vSoLx LP",
+      "symbol": "SOL-vSoLx",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    {
       "address": "WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj",
       "chainId": 101,
       "decimals": 6,
@@ -5276,6 +5295,22 @@
       "tags": [
         "saber-stableswap-lp",
         "saber-lp-wormhole-v1"
+      ]
+    },
+    {
+      "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "source": "vault",
+        "sourceUrl": "https://thevault.finance"
+      },
+      "name": "Token vSoL",
+      "symbol": "vSoLx",
+      "tags": [
+        "saber-mkt-sol"
       ]
     },
     {
