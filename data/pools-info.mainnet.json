@@ -7698,6 +7698,197 @@
       "newPoolID": "wdai"
     },
     {
+      "id": "euroe_eurc",
+      "name": "EUROe-EURC",
+      "tokens": [
+        {
+          "address": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+          "name": "EUROe Stablecoin",
+          "decimals": 6,
+          "chainId": 101,
+          "symbol": "EUROe",
+          "logoURI": "https://dev.euroe.com/persistent/token-icon/png/256x256.png",
+          "extensions": {
+            "coingeckoId": "euroe-stablecoin",
+            "currency": "EUR",
+            "source": "euroe",
+            "sourceUrl": "https://euroe.com/"
+          },
+          "tags": [
+            "saber-mkt-eur"
+          ]
+        },
+        {
+          "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+          "name": "EURC",
+          "decimals": 6,
+          "chainId": 101,
+          "symbol": "EURC",
+          "logoURI": "https://www.circle.com/hubfs/Brand/EURC/EURC-icon_128x128.png",
+          "extensions": {
+            "coingeckoId": "eurc",
+            "currency": "EUR",
+            "source": "eurc",
+            "sourceUrl": "https://www.circle.com/en/eurc/"
+          },
+          "tags": [
+            "saber-mkt-eur"
+          ]
+        }
+      ],
+      "tokenIcons": [
+        {
+          "address": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+          "name": "EUROe Stablecoin",
+          "decimals": 6,
+          "chainId": 101,
+          "symbol": "EUROe",
+          "logoURI": "https://dev.euroe.com/persistent/token-icon/png/256x256.png",
+          "extensions": {
+            "coingeckoId": "euroe-stablecoin",
+            "currency": "EUR",
+            "source": "euroe",
+            "sourceUrl": "https://euroe.com/"
+          },
+          "tags": [
+            "saber-mkt-eur"
+          ]
+        },
+        {
+          "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+          "name": "EURC",
+          "decimals": 6,
+          "chainId": 101,
+          "symbol": "EURC",
+          "logoURI": "https://www.circle.com/hubfs/Brand/EURC/EURC-icon_128x128.png",
+          "extensions": {
+            "coingeckoId": "eurc",
+            "currency": "EUR",
+            "source": "eurc",
+            "sourceUrl": "https://www.circle.com/en/eurc/"
+          },
+          "tags": [
+            "saber-mkt-eur"
+          ]
+        }
+      ],
+      "underlyingIcons": [
+        {
+          "address": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+          "name": "EUROe Stablecoin",
+          "decimals": 6,
+          "chainId": 101,
+          "symbol": "EUROe",
+          "logoURI": "https://dev.euroe.com/persistent/token-icon/png/256x256.png",
+          "extensions": {
+            "coingeckoId": "euroe-stablecoin",
+            "currency": "EUR",
+            "source": "euroe",
+            "sourceUrl": "https://euroe.com/"
+          },
+          "tags": [
+            "saber-mkt-eur"
+          ]
+        },
+        {
+          "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+          "name": "EURC",
+          "decimals": 6,
+          "chainId": 101,
+          "symbol": "EURC",
+          "logoURI": "https://www.circle.com/hubfs/Brand/EURC/EURC-icon_128x128.png",
+          "extensions": {
+            "coingeckoId": "eurc",
+            "currency": "EUR",
+            "source": "eurc",
+            "sourceUrl": "https://www.circle.com/en/eurc/"
+          },
+          "tags": [
+            "saber-mkt-eur"
+          ]
+        }
+      ],
+      "currency": "EUR",
+      "lpToken": {
+        "symbol": "EUROe-EURC",
+        "name": "Saber EUROe-EURC LP",
+        "logoURI": "https://registry.saber.so/token-icons/slp.png",
+        "decimals": 6,
+        "address": "HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq",
+        "chainId": 101,
+        "tags": [
+          "saber-stableswap-lp"
+        ],
+        "extensions": {
+          "website": "https://app.saber.so/pools/euroe_eurc",
+          "underlyingTokens": [
+            "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+            "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr"
+          ],
+          "source": "saber"
+        }
+      },
+      "plotKey": "52DJm2LrMSe9hTpSSUptvDmA6EDUqEubveRGf74zv2fB",
+      "swap": {
+        "config": {
+          "swapAccount": "BJo5DwH4YWExpZ1Zu1FdZaM6jcqHwXSR5DkHBEwb3AbM",
+          "authority": "28pkz6HLzeq7G8euJ5WDXM8SyTpRhQAQQAwEhNompUYh",
+          "swapProgramID": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+          "tokenProgramID": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        },
+        "state": {
+          "isInitialized": true,
+          "isPaused": false,
+          "nonce": 253,
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
+          "poolTokenMint": "HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq",
+          "adminAccount": "EvzneXfvqdqV8CnBwSj7j6TACBaCV3og6v3XtJHtijVt",
+          "tokenA": {
+            "adminFeeAccount": "DkUYfaRmYEnHjKUKq5QpmH5uBcGDdcMcH39ApTmUGPGs",
+            "mint": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+            "reserve": "59yKfuVhpj25V6szKvxj6g9fPnT2SzoEMinSPZuoQ79R"
+          },
+          "tokenB": {
+            "adminFeeAccount": "C224XyrKy44bAher8Ah15VVYHfMJ1VUP3X7sjqPm1Kvk",
+            "mint": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+            "reserve": "6NFcMVYq2TCU9f8yy7nSXst2m1LFqq9idqa9vg3SSTZh"
+          },
+          "initialAmpFactor": "64",
+          "targetAmpFactor": "64",
+          "startRampTimestamp": 0,
+          "stopRampTimestamp": 0,
+          "fees": {
+            "trade": {
+              "isFraction": true,
+              "numeratorStr": "4",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "adminTrade": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "withdraw": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            },
+            "adminWithdraw": {
+              "isFraction": true,
+              "numeratorStr": "0",
+              "denominatorStr": "10000",
+              "isPercent": true
+            }
+          }
+        }
+      },
+      "quarry": "9d2KfvKrPeCoeqm66AqQY1MUDY8gDfRcRgHnndEi1pK6"
+    },
+    {
       "id": "everstake_sol",
       "name": "eSOL-SOL",
       "tokens": [
@@ -19682,19 +19873,19 @@
         {
           "name": "The Vault",
           "symbol": "vSOL",
+          "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
           "decimals": 9,
           "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
           "chainId": 101,
-          "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
-          "extensions": {
-            "coingeckoId": "solana",
-            "currency": "SOL",
-            "source": "vault",
-            "sourceUrl": "https://thevault.finance"
-          },
           "tags": [
             "saber-mkt-sol"
-          ]
+          ],
+          "extensions": {
+            "coingeckoId": "solana",
+            "source": "vault",
+            "currency": "SOL",
+            "sourceUrl": "https://thevault.finance"
+          }
         }
       ],
       "tokenIcons": [
@@ -19719,19 +19910,19 @@
         {
           "name": "The Vault",
           "symbol": "vSOL",
+          "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
           "decimals": 9,
           "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
           "chainId": 101,
-          "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
-          "extensions": {
-            "coingeckoId": "solana",
-            "currency": "SOL",
-            "source": "vault",
-            "sourceUrl": "https://thevault.finance"
-          },
           "tags": [
             "saber-mkt-sol"
-          ]
+          ],
+          "extensions": {
+            "coingeckoId": "solana",
+            "source": "vault",
+            "currency": "SOL",
+            "sourceUrl": "https://thevault.finance"
+          }
         }
       ],
       "underlyingIcons": [
@@ -19756,19 +19947,19 @@
         {
           "name": "The Vault",
           "symbol": "vSOL",
+          "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
           "decimals": 9,
           "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
           "chainId": 101,
-          "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
-          "extensions": {
-            "coingeckoId": "solana",
-            "currency": "SOL",
-            "source": "vault",
-            "sourceUrl": "https://thevault.finance"
-          },
           "tags": [
             "saber-mkt-sol"
-          ]
+          ],
+          "extensions": {
+            "coingeckoId": "solana",
+            "source": "vault",
+            "currency": "SOL",
+            "sourceUrl": "https://thevault.finance"
+          }
         }
       ],
       "currency": "SOL",

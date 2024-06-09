@@ -172,6 +172,28 @@
     ]
   },
   {
+    "id": "eurc",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "6NFcMVYq2TCU9f8yy7nSXst2m1LFqq9idqa9vg3SSTZh"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "euroe-stablecoin",
+    "accounts": [
+      {
+        "decimals": 6,
+        "addresses": [
+          "59yKfuVhpj25V6szKvxj6g9fPnT2SzoEMinSPZuoQ79R"
+        ]
+      }
+    ]
+  },
+  {
     "id": "fei-usd",
     "accounts": [
       {

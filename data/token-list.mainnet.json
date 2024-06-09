@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2024-03-27T07:28:38.513Z",
+  "timestamp": "2024-06-09T15:12:26.784Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -118,6 +118,23 @@
         "wrapped-sollet",
         "ethereum",
         "saber-mkt-eth"
+      ]
+    },
+    {
+      "address": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "euroe-stablecoin",
+        "currency": "EUR",
+        "source": "euroe",
+        "sourceUrl": "https://euroe.com/"
+      },
+      "logoURI": "https://dev.euroe.com/persistent/token-icon/png/256x256.png",
+      "name": "EUROe Stablecoin",
+      "symbol": "EUROe",
+      "tags": [
+        "saber-mkt-eur"
       ]
     },
     {
@@ -3635,6 +3652,42 @@
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+          "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr"
+        ],
+        "website": "https://app.saber.so/pools/euroe_eurc"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber EUROe-EURC LP",
+      "symbol": "EUROe-EURC",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    {
+      "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "eurc",
+        "currency": "EUR",
+        "source": "eurc",
+        "sourceUrl": "https://www.circle.com/en/eurc/"
+      },
+      "logoURI": "https://www.circle.com/hubfs/Brand/EURC/EURC-icon_128x128.png",
+      "name": "EURC",
+      "symbol": "EURC",
+      "tags": [
+        "saber-mkt-eur"
       ]
     },
     {

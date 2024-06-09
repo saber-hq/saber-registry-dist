@@ -540,6 +540,18 @@
     "decimals": 9
   },
   {
+    "id": "euroe_eurc",
+    "lpMint": "HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq",
+    "tokenA": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+    "tokenB": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+    "authority": "28pkz6HLzeq7G8euJ5WDXM8SyTpRhQAQQAwEhNompUYh",
+    "reserveA": "59yKfuVhpj25V6szKvxj6g9fPnT2SzoEMinSPZuoQ79R",
+    "reserveB": "6NFcMVYq2TCU9f8yy7nSXst2m1LFqq9idqa9vg3SSTZh",
+    "tokenACoingecko": "euroe-stablecoin",
+    "tokenBCoingecko": "eurc",
+    "decimals": 6
+  },
+  {
     "id": "everstake_sol",
     "lpMint": "ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau",
     "tokenA": "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
