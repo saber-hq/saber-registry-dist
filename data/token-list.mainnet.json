@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2024-06-09T15:12:26.784Z",
+  "timestamp": "2024-08-07T09:11:23.188Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -536,6 +536,25 @@
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "6uda2yUDpEHUudCAxRy5mukRFSiiHxrBg9nN8GETk66x",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+          "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn"
+        ],
+        "website": "https://app.saber.so/pools/cgntsol_jitosol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber cgntSOL-jitoSOL LP",
+      "symbol": "cgntSOL-jitoSOL",
+      "tags": [
+        "saber-stableswap-lp"
       ]
     },
     {
@@ -2095,6 +2114,23 @@
       ]
     },
     {
+      "address": "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "bonk-staked-sol",
+        "currency": "SOL",
+        "source": "bonksol",
+        "sourceUrl": "https://bonkcoin.com/"
+      },
+      "logoURI": "https://api.degencdn.com/v1/nfts/BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs/image.jpg",
+      "name": "bonkSOL",
+      "symbol": "bonkSOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
+    },
+    {
       "address": "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi",
       "chainId": 101,
       "decimals": 10,
@@ -2467,6 +2503,23 @@
       ]
     },
     {
+      "address": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "cogent-sol",
+        "currency": "SOL",
+        "source": "cogentsol",
+        "sourceUrl": "https://cogentcrypto.io/"
+      },
+      "logoURI": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png",
+      "name": "cgntSOL",
+      "symbol": "cgntSOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
+    },
+    {
       "address": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
       "chainId": 101,
       "decimals": 8,
@@ -2606,6 +2659,25 @@
       ]
     },
     {
+      "address": "Dnsi7JaXXiohSsw4mPjbSoc1L9FyYmBnkw8gdnJZzKpY",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
+          "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v"
+        ],
+        "website": "https://app.saber.so/pools/lntrnsol_jupsol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber lanternSOL-jupSOL LP",
+      "symbol": "lanternSOL-jupSOL",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    {
       "address": "Dt1Cuau5m5CSmun8hZstjEh9RszxAmejnq7ZaHNcuXfA",
       "chainId": 101,
       "decimals": 6,
@@ -2648,6 +2720,25 @@
       ]
     },
     {
+      "address": "E3qo5YUXub3qFqoguhBPPzWxnvGagDa4vvua21xHCQYU",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+        ],
+        "website": "https://app.saber.so/pools/vsol_jupsol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber jupSOL-vSOL LP",
+      "symbol": "jupSOL-vSOL",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    {
       "address": "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
       "chainId": 101,
       "decimals": 9,
@@ -2681,6 +2772,25 @@
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "EPtVHqDnDDtG7SuREPtTMcwBJjzz7eCfr1g4DqGub74v",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+          "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX"
+        ],
+        "website": "https://app.saber.so/pools/picosol_jupsol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber jupSOL-picoSOL LP",
+      "symbol": "jupSOL-picoSOL",
+      "tags": [
+        "saber-stableswap-lp"
       ]
     },
     {
@@ -3303,6 +3413,25 @@
       ]
     },
     {
+      "address": "FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+        ],
+        "website": "https://app.saber.so/pools/bsol_vsol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber bSOL-vSOL LP",
+      "symbol": "bSOL-vSOL",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    {
       "address": "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
       "chainId": 101,
       "decimals": 8,
@@ -3539,6 +3668,23 @@
       ]
     },
     {
+      "address": "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solanahub-staked-sol",
+        "currency": "SOL",
+        "source": "hubsol",
+        "sourceUrl": "https://www.solanahub.app/"
+      },
+      "logoURI": "https://solanahub.app/assets/images/solanahub-logo.png",
+      "name": "hubSOL",
+      "symbol": "hubSOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
+    },
+    {
       "address": "HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS",
       "chainId": 101,
       "decimals": 8,
@@ -3655,6 +3801,25 @@
       ]
     },
     {
+      "address": "HnrhvF3afyzepJCMUaLChzfZrq6aPLKuEoXmMNHYr1MW",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
+          "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v"
+        ],
+        "website": "https://app.saber.so/pools/bonksol_jupsol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber bonkSOL-jupSOL LP",
+      "symbol": "bonkSOL-jupSOL",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    {
       "address": "HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq",
       "chainId": 101,
       "decimals": 6,
@@ -3688,6 +3853,23 @@
       "symbol": "EURC",
       "tags": [
         "saber-mkt-eur"
+      ]
+    },
+    {
+      "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "jito-staked-sol",
+        "currency": "SOL",
+        "source": "jitosol",
+        "sourceUrl": "https://jito.network/"
+      },
+      "logoURI": "https://api.degencdn.com/v1/nfts/J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn/image.jpg",
+      "name": "jitoSOL",
+      "symbol": "jitoSOL",
+      "tags": [
+        "saber-mkt-sol"
       ]
     },
     {
@@ -3915,6 +4097,23 @@
       "tags": [
         "saber-stableswap-lp",
         "saber-lp-wormhole-v2"
+      ]
+    },
+    {
+      "address": "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "lantern-staked-sol",
+        "currency": "SOL",
+        "source": "lanternsol",
+        "sourceUrl": "https://www.lantern.one/"
+      },
+      "logoURI": "https://arweave.net/juI8rxciTff6pljaDiXMEq5klSOngQol_8lvyokGGwY",
+      "name": "lanternSOL",
+      "symbol": "lanternSOL",
+      "tags": [
+        "saber-mkt-sol"
       ]
     },
     {
@@ -5230,6 +5429,23 @@
       ]
     },
     {
+      "address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "jupiter-staked-sol",
+        "currency": "SOL",
+        "source": "jupsol",
+        "sourceUrl": "https://jup.ag"
+      },
+      "logoURI": "https://static.jup.ag/jupSOL/icon.png",
+      "name": "jupSOL",
+      "symbol": "jupSOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
+    },
+    {
       "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
       "chainId": 101,
       "decimals": 9,
@@ -5293,6 +5509,23 @@
       ]
     },
     {
+      "address": "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "pico-staked-sol",
+        "currency": "SOL",
+        "source": "picosol",
+        "sourceUrl": "https://www.pico-sol.com/"
+      },
+      "logoURI": "https://arweave.net/zR2ZKXpwmG4hMpqhGXlvz-B7PMs34cXxVb2gC1DmlDo",
+      "name": "picoSOL",
+      "symbol": "picoSOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
+    },
+    {
       "address": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
       "chainId": 101,
       "decimals": 9,
@@ -5348,6 +5581,25 @@
       "tags": [
         "saber-stableswap-lp",
         "saber-lp-wormhole-v1"
+      ]
+    },
+    {
+      "address": "uitHwGt7Z7ZHbrxNZoTxcufWvEMSUK4LcirXsecffMz",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+          "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX"
+        ],
+        "website": "https://app.saber.so/pools/hubsol_jupsol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber jupSOL-hubSOL LP",
+      "symbol": "jupSOL-hubSOL",
+      "tags": [
+        "saber-stableswap-lp"
       ]
     },
     {

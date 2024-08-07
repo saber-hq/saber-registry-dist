@@ -1,6 +1,37 @@
 [
   {
     "addresses": {
+      "admin": "3rZ2ZSGhHW6XaGo4MKCFs8rVUXxrv3o4Z5eBZmUwhrGf",
+      "lpTokenMint": "E3qo5YUXub3qFqoguhBPPzWxnvGagDa4vvua21xHCQYU",
+      "mergePool": "HmySWgdCUkg6wpdbVeo5JKzXViLbi32xMBCexfbtw4RV",
+      "quarry": "6TMqTdsXuHh2M1CdeRD6T3MN382HvG26wHurpVhcSjeT",
+      "reserves": [
+        "7e2rCFQ6W4399moCnwpL5jZq8fVMFag4opEzv5gT26VC",
+        "FoZGth8DqDxLwF4yZNVt5XRaW8HcxLbxG7K9bjYncJGm"
+      ],
+      "swapAccount": "2fidLKA6qoidEBGk5k53Vj5UeLB1C2269hPgvfLzT7kn",
+      "swapAuthority": "4RL1kuXnfQ6UkX1trqfyTRijsveCxbJmgbm1rjdc5Zpg"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+      "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+    ],
+    "id": "vsol_jupsol",
+    "isVerified": true,
+    "name": "jupSOL-vSOL",
+    "sources": [
+      "jupsol",
+      "vault"
+    ],
+    "underlyingTokens": [
+      "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+      "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+    ]
+  },
+  {
+    "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "AZD7BcwEPbSoVYYJ9QXjdjRpMRg7gJ81c83gU7RRtrvV",
       "mergePool": "Awu1YsGY3GGMxsLNKmUzT2GwuheHK7kHXywFikPUvHGC",
@@ -130,6 +161,37 @@
   },
   {
     "addresses": {
+      "admin": "GDgiPu6s7rxD61vxcXB9ehVsLXzHZmyq7jasa5w8pPBh",
+      "lpTokenMint": "EPtVHqDnDDtG7SuREPtTMcwBJjzz7eCfr1g4DqGub74v",
+      "mergePool": "A1ZarmqX74R5KP98KXqhawPS7cfGjd31QT71n8nRCh2F",
+      "quarry": "9m6NshG97VvxvSLpMoxWrfrUPvTpDJ5KKm2JNTSnxj6q",
+      "reserves": [
+        "4BmHbQz5oHKJBodgVw6i26gb9TyFCHziLCQe9qqYKHm8",
+        "6U6oZid7w1k5U6XQcfnVLnHrNrosrbryfar41KpcNH81"
+      ],
+      "swapAccount": "4kVS9bcBy7uorCy5tBCSzJkRoHuqJfsDJ2BKCaaqif5B",
+      "swapAuthority": "FemHtuQoSqGJPsdUGsdzda1umZu3a7rZsHJvQsTE51i7"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+      "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX"
+    ],
+    "id": "picosol_jupsol",
+    "isVerified": true,
+    "name": "jupSOL-picoSOL",
+    "sources": [
+      "jupsol",
+      "picosol"
+    ],
+    "underlyingTokens": [
+      "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+      "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX"
+    ]
+  },
+  {
+    "addresses": {
       "admin": "H9XuKqszWYirDmXDQ12TZXGtxqUYYn4oi7FKzAm7RHGc",
       "lpTokenMint": "SPaiZAYyJBQHaSjtxFBKtLtQiCuG328r1mTfmvvydR5",
       "mergePool": "HqfPEd7KabDGiBrsf2jozi8UpuDg6dpvJeajj5sruUZV",
@@ -255,6 +317,37 @@
     "underlyingTokens": [
       "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "HnweCCwu8hEhtFbkLDy6WWEWiXKYiZaRnJ9bJpduobtv",
+      "lpTokenMint": "uitHwGt7Z7ZHbrxNZoTxcufWvEMSUK4LcirXsecffMz",
+      "mergePool": "3M65kVTWxH7yEvEtQxNrYUabcsCiqecfrgvuSLb24wKT",
+      "quarry": "4sEhdSpmB8izqvv1GqF4mKJBRzDNUFZEk8x29KdNLRqz",
+      "reserves": [
+        "By8AdBf9fLoVfvdASk22faoUCfSSUgiErLDBorUxgN6B",
+        "GS7bJwBmHiMS5joEcC4gUvUNoYZDoX4srq4DqUTEKEWo"
+      ],
+      "swapAccount": "8MgrW6UFJRuZMNA44286yL8hCYmsmEvSfBZ5Zv5q6rVe",
+      "swapAuthority": "2DBiP7TwvPvRVm74DPsnoU3c3e1K9SRXKUpprp519jUm"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+      "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX"
+    ],
+    "id": "hubsol_jupsol",
+    "isVerified": true,
+    "name": "jupSOL-hubSOL",
+    "sources": [
+      "jupsol",
+      "hubsol"
+    ],
+    "underlyingTokens": [
+      "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+      "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX"
     ]
   },
   {
@@ -1589,6 +1682,37 @@
   },
   {
     "addresses": {
+      "admin": "8WcKsbM6jQ9Qa4hDhiRvC2WBZWMY7Y7BfrKPedLeZDVN",
+      "lpTokenMint": "Dnsi7JaXXiohSsw4mPjbSoc1L9FyYmBnkw8gdnJZzKpY",
+      "mergePool": "6maXnkWcr7a4sQhDteSUqtFSC8AfWM69e5jPfxtRXye2",
+      "quarry": "HiQTx5UTNsESxzji96hiLUeujqqVQSqrmH64i1ec912V",
+      "reserves": [
+        "EryJ8EQ7BWsqidkhA7sN3mYC5qbnaZ3G4zHMVw766SPv",
+        "D6tfvn7hg7AZeYjpZKe55BS4kkZfcvTzBAoddvdbPx4E"
+      ],
+      "swapAccount": "DjwR6TuqVQB8tWMLNwKSnSG6k5WjXUBTRHn6s1YFhVQf",
+      "swapAuthority": "5kpqLWNp15TjT59XsatxfN2n874H3SdeqmHULX8oQrPf"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
+      "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v"
+    ],
+    "id": "lntrnsol_jupsol",
+    "isVerified": true,
+    "name": "lanternSOL-jupSOL",
+    "sources": [
+      "lanternsol",
+      "jupsol"
+    ],
+    "underlyingTokens": [
+      "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
+      "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v"
+    ]
+  },
+  {
+    "addresses": {
       "admin": "8cdnPMjDsQPLCtg5ry3Bb72VUmhDa3LTFUtDoFVY73hy",
       "lpTokenMint": "KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY",
       "mergePool": "CYiMrPWEYV3uzFcmB7wHVidfvhmrwYa4HUxURYD6yyA8",
@@ -1722,6 +1846,37 @@
   },
   {
     "addresses": {
+      "admin": "FhTaetT2MJ3GkDeAWeFe9mb7RMbWxrbUqrL8uzJH7iYW",
+      "lpTokenMint": "HnrhvF3afyzepJCMUaLChzfZrq6aPLKuEoXmMNHYr1MW",
+      "mergePool": "5AZ3CGpSWrJe2T5TGzvSrx3oUMWfdiJ2abzi9QtdoSVc",
+      "quarry": "C3gVUf8sG3uk6pHmQPDVEUMcnxMEWk3ak5Cmyo2LmsEb",
+      "reserves": [
+        "6f5RDJQaTYNyaryUtiz1pDBa1vJ43xbpLkNTUPcTDmX7",
+        "GUcn8gaZetXg1U38DKcH4RrNpobis5dtMoSx8iVdk5Sq"
+      ],
+      "swapAccount": "FLMk9DsznFvjQPQ1avBVbfX1VyWknUpxFJ7T15eoFef2",
+      "swapAuthority": "7ut7t2dQAMbBwS7s7HEYRh14FWd9GohwqfMq29PQutnE"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
+      "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v"
+    ],
+    "id": "bonksol_jupsol",
+    "isVerified": true,
+    "name": "bonkSOL-jupSOL",
+    "sources": [
+      "bonksol",
+      "jupsol"
+    ],
+    "underlyingTokens": [
+      "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
+      "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v"
+    ]
+  },
+  {
+    "addresses": {
       "admin": "3f3ERfr8rxZWoP1DbiMVUEvT1DMQJcn27SsrHfuaGWfK",
       "lpTokenMint": "FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ",
       "mergePool": "75V2shEJWRXiywksBVeT5oCdNG97CQfhRmd4ZCnsxYyW",
@@ -1746,6 +1901,37 @@
     "underlyingTokens": [
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "3x399mmjZ874n7yS5TCUMfXNHNbHm55ktDtKaLihXTH3",
+      "lpTokenMint": "6uda2yUDpEHUudCAxRy5mukRFSiiHxrBg9nN8GETk66x",
+      "mergePool": "CRwi2XbbWeEDEQfhxxWZoUwoju49xt2cMdpMvPa8Dh84",
+      "quarry": "E54ywWFzHuftAPcjtg5okNeczFZpHEJK7UYeCPBe7zkN",
+      "reserves": [
+        "8dw8Z9RWNAThEERmbT4Rt7yPg3vPh5Ppiqod415D455J",
+        "9u5iUP7wTUvMbAWAccwXETndPqGmDHm9QQaxqTB84WLc"
+      ],
+      "swapAccount": "FMFdmexvUSwby1Y2xiVr76mKwDQ3M3aTZ5kFCrsBc819",
+      "swapAuthority": "7uYqg4K9oc8CQmxDLF5QPzRyWFex7S6Yw1xHmmzpyd2F"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+      "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn"
+    ],
+    "id": "cgntsol_jitosol",
+    "isVerified": true,
+    "name": "cgntSOL-jitoSOL",
+    "sources": [
+      "cogentsol",
+      "jitosol"
+    ],
+    "underlyingTokens": [
+      "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+      "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn"
     ]
   },
   {
@@ -1978,6 +2164,37 @@
     "underlyingTokens": [
       "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    ]
+  },
+  {
+    "addresses": {
+      "admin": "3BCM299s5LYCiAxydKNkcNFY6b5bUpiCexvtsQikpTwn",
+      "lpTokenMint": "FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d",
+      "mergePool": "GMA9fpbkhgy5ybDqawDKn2BMywxC3NutbePAiys2zJm8",
+      "quarry": "DLAtMUr3ug7daM7nfTxxQk8gJHdAtVhuDqMbjbv3Vv1N",
+      "reserves": [
+        "EpzdShjkVvVN3Kh2fiEPULZgurotDMeFCx5yaJMtUWCX",
+        "ChKCREZDUVRtZizKU5UFxLjuu6oRo3vBG5DsdMZvA4ak"
+      ],
+      "swapAccount": "H5xvm23yMWMvXCXsvLD5tXtdc4y4fpu3nnRbsWUybcjH",
+      "swapAuthority": "3vRE3E3LniNJJ4MNJTmcWQRopiCHK4gDqRLJWzqR58V5"
+    },
+    "currency": "SOL",
+    "decimals": 9,
+    "displayTokens": [
+      "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+      "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+    ],
+    "id": "bsol_vsol",
+    "isVerified": true,
+    "name": "bSOL-vSOL",
+    "sources": [
+      "blazestake",
+      "vault"
+    ],
+    "underlyingTokens": [
+      "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+      "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
     ]
   },
   {

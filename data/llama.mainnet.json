@@ -468,6 +468,30 @@
     "decimals": 9
   },
   {
+    "id": "bonksol_jupsol",
+    "lpMint": "HnrhvF3afyzepJCMUaLChzfZrq6aPLKuEoXmMNHYr1MW",
+    "tokenA": "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
+    "tokenB": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+    "authority": "7ut7t2dQAMbBwS7s7HEYRh14FWd9GohwqfMq29PQutnE",
+    "reserveA": "6f5RDJQaTYNyaryUtiz1pDBa1vJ43xbpLkNTUPcTDmX7",
+    "reserveB": "GUcn8gaZetXg1U38DKcH4RrNpobis5dtMoSx8iVdk5Sq",
+    "tokenACoingecko": "bonk-staked-sol",
+    "tokenBCoingecko": "jupiter-staked-sol",
+    "decimals": 9
+  },
+  {
+    "id": "bsol_vsol",
+    "lpMint": "FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d",
+    "tokenA": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+    "tokenB": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+    "authority": "3vRE3E3LniNJJ4MNJTmcWQRopiCHK4gDqRLJWzqR58V5",
+    "reserveA": "EpzdShjkVvVN3Kh2fiEPULZgurotDMeFCx5yaJMtUWCX",
+    "reserveB": "ChKCREZDUVRtZizKU5UFxLjuu6oRo3vBG5DsdMZvA4ak",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana",
+    "decimals": 9
+  },
+  {
     "id": "btc",
     "lpMint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
     "tokenA": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
@@ -526,6 +550,18 @@
     "tokenACoingecko": "cashio-dollar",
     "tokenBCoingecko": "usd-coin",
     "decimals": 6
+  },
+  {
+    "id": "cgntsol_jitosol",
+    "lpMint": "6uda2yUDpEHUudCAxRy5mukRFSiiHxrBg9nN8GETk66x",
+    "tokenA": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+    "tokenB": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+    "authority": "7uYqg4K9oc8CQmxDLF5QPzRyWFex7S6Yw1xHmmzpyd2F",
+    "reserveA": "8dw8Z9RWNAThEERmbT4Rt7yPg3vPh5Ppiqod415D455J",
+    "reserveB": "9u5iUP7wTUvMbAWAccwXETndPqGmDHm9QQaxqTB84WLc",
+    "tokenACoingecko": "cogent-sol",
+    "tokenBCoingecko": "jito-staked-sol",
+    "decimals": 9
   },
   {
     "id": "dai",
@@ -660,6 +696,18 @@
     "decimals": 9
   },
   {
+    "id": "hubsol_jupsol",
+    "lpMint": "uitHwGt7Z7ZHbrxNZoTxcufWvEMSUK4LcirXsecffMz",
+    "tokenA": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+    "tokenB": "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX",
+    "authority": "2DBiP7TwvPvRVm74DPsnoU3c3e1K9SRXKUpprp519jUm",
+    "reserveA": "By8AdBf9fLoVfvdASk22faoUCfSSUgiErLDBorUxgN6B",
+    "reserveB": "GS7bJwBmHiMS5joEcC4gUvUNoYZDoX4srq4DqUTEKEWo",
+    "tokenACoingecko": "jupiter-staked-sol",
+    "tokenBCoingecko": "solanahub-staked-sol",
+    "decimals": 9
+  },
+  {
     "id": "husd",
     "lpMint": "HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS",
     "tokenA": "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
@@ -705,6 +753,18 @@
     "reserveB": "BVR6WgfhsRr9Lob4QDnkEAiNGgAbv7ZieKcY9kSg3QYR",
     "tokenACoingecko": "solana",
     "tokenBCoingecko": "solana",
+    "decimals": 9
+  },
+  {
+    "id": "lntrnsol_jupsol",
+    "lpMint": "Dnsi7JaXXiohSsw4mPjbSoc1L9FyYmBnkw8gdnJZzKpY",
+    "tokenA": "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
+    "tokenB": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+    "authority": "5kpqLWNp15TjT59XsatxfN2n874H3SdeqmHULX8oQrPf",
+    "reserveA": "EryJ8EQ7BWsqidkhA7sN3mYC5qbnaZ3G4zHMVw766SPv",
+    "reserveB": "D6tfvn7hg7AZeYjpZKe55BS4kkZfcvTzBAoddvdbPx4E",
+    "tokenACoingecko": "lantern-staked-sol",
+    "tokenBCoingecko": "jupiter-staked-sol",
     "decimals": 9
   },
   {
@@ -874,6 +934,18 @@
     "tokenACoingecko": "renbtc",
     "tokenBCoingecko": "ptokens-btc",
     "decimals": 8
+  },
+  {
+    "id": "picosol_jupsol",
+    "lpMint": "EPtVHqDnDDtG7SuREPtTMcwBJjzz7eCfr1g4DqGub74v",
+    "tokenA": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+    "tokenB": "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX",
+    "authority": "FemHtuQoSqGJPsdUGsdzda1umZu3a7rZsHJvQsTE51i7",
+    "reserveA": "4BmHbQz5oHKJBodgVw6i26gb9TyFCHziLCQe9qqYKHm8",
+    "reserveB": "6U6oZid7w1k5U6XQcfnVLnHrNrosrbryfar41KpcNH81",
+    "tokenACoingecko": "jupiter-staked-sol",
+    "tokenBCoingecko": "pico-staked-sol",
+    "decimals": 9
   },
   {
     "id": "port_2pool",
@@ -1220,6 +1292,18 @@
     "reserveA": "J9bYNuDpY1d1T86gLaw7DGk5D3CsUAf2tzUwxMvb6FTv",
     "reserveB": "A2NGvvPrMGzsJ4jb52KEnSBVmsA7C34dV1GC7PerdgvG",
     "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana",
+    "decimals": 9
+  },
+  {
+    "id": "vsol_jupsol",
+    "lpMint": "E3qo5YUXub3qFqoguhBPPzWxnvGagDa4vvua21xHCQYU",
+    "tokenA": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+    "tokenB": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+    "authority": "4RL1kuXnfQ6UkX1trqfyTRijsveCxbJmgbm1rjdc5Zpg",
+    "reserveA": "7e2rCFQ6W4399moCnwpL5jZq8fVMFag4opEzv5gT26VC",
+    "reserveB": "FoZGth8DqDxLwF4yZNVt5XRaW8HcxLbxG7K9bjYncJGm",
+    "tokenACoingecko": "jupiter-staked-sol",
     "tokenBCoingecko": "solana",
     "decimals": 9
   },

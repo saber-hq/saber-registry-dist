@@ -68,6 +68,17 @@
     ]
   },
   {
+    "id": "bonk-staked-sol",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "6f5RDJQaTYNyaryUtiz1pDBa1vJ43xbpLkNTUPcTDmX7"
+        ]
+      }
+    ]
+  },
+  {
     "id": "cashio-dollar",
     "accounts": [
       {
@@ -116,6 +127,17 @@
         "decimals": 9,
         "addresses": [
           "G5KhoiuhRBEYmX89PuZMmpG3fLdomzMJZ3yEG13hVYPD"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cogent-sol",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "8dw8Z9RWNAThEERmbT4Rt7yPg3vPh5Ppiqod415D455J"
         ]
       }
     ]
@@ -277,6 +299,43 @@
     ]
   },
   {
+    "id": "jito-staked-sol",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "9u5iUP7wTUvMbAWAccwXETndPqGmDHm9QQaxqTB84WLc"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jupiter-staked-sol",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "GUcn8gaZetXg1U38DKcH4RrNpobis5dtMoSx8iVdk5Sq",
+          "By8AdBf9fLoVfvdASk22faoUCfSSUgiErLDBorUxgN6B",
+          "D6tfvn7hg7AZeYjpZKe55BS4kkZfcvTzBAoddvdbPx4E",
+          "4BmHbQz5oHKJBodgVw6i26gb9TyFCHziLCQe9qqYKHm8",
+          "7e2rCFQ6W4399moCnwpL5jZq8fVMFag4opEzv5gT26VC"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lantern-staked-sol",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "EryJ8EQ7BWsqidkhA7sN3mYC5qbnaZ3G4zHMVw766SPv"
+        ]
+      }
+    ]
+  },
+  {
     "id": "magic-internet-money",
     "accounts": [
       {
@@ -369,6 +428,17 @@
     ]
   },
   {
+    "id": "pico-staked-sol",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "6U6oZid7w1k5U6XQcfnVLnHrNrosrbryfar41KpcNH81"
+        ]
+      }
+    ]
+  },
+  {
     "id": "ptokens-btc",
     "accounts": [
       {
@@ -450,6 +520,8 @@
           "A5Ww74HVrkj9nPeC7pHKLfgeDMEhBCpW1efQdz3TGLEg",
           "6TYyD5fUmDe6N65avW1Ny2RxzRNobw2RRgKwH9CTzSAU",
           "54zDfk4cx2vGrEajPtodWpArNe5eUurytyxd4X3aZAxK",
+          "EpzdShjkVvVN3Kh2fiEPULZgurotDMeFCx5yaJMtUWCX",
+          "ChKCREZDUVRtZizKU5UFxLjuu6oRo3vBG5DsdMZvA4ak",
           "AJfM2GZ2tTB8UtN2krcyR9xufRJEx2mhSCbJyMgPo3GU",
           "F4yRYkufQvERZcEKnKjJwRLU1btiMBUuEwq46hfm11QD",
           "xG4wXczA7Dk4hccJ61CHKpDHW4NrNfQwgmWgkb9BuF2",
@@ -471,10 +543,22 @@
           "CquVr6atkvwueDYficKjn6SSEWq4F4rH4VSiBbW4GBWU",
           "J9bYNuDpY1d1T86gLaw7DGk5D3CsUAf2tzUwxMvb6FTv",
           "A2NGvvPrMGzsJ4jb52KEnSBVmsA7C34dV1GC7PerdgvG",
+          "FoZGth8DqDxLwF4yZNVt5XRaW8HcxLbxG7K9bjYncJGm",
           "GSt31U8nF6WJBRG7j2EALfNTMd3J8jmotGX9szVTrzvN",
           "7WEqRDS5Dk6kVXFZHrsW5EtdPhy4v6jWK9P5jHhi9oz",
           "CMRhskR2Eg6V42RTSdRTXGdozyPbWB8U9dVpijPWb9T4",
           "7TKLLgrWswt6ZJ1pXhVR3FyufHGjJFqiEXxvWJfDcgRm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "solanahub-staked-sol",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "GS7bJwBmHiMS5joEcC4gUvUNoYZDoX4srq4DqUTEKEWo"
         ]
       }
     ]
