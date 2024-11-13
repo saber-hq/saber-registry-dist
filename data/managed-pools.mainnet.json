@@ -42,8 +42,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381688,
       "initialAmpFactor": "64",
       "isInitialized": true,
       "isPaused": false,
@@ -210,8 +210,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381713,
       "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
@@ -378,8 +378,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
@@ -714,8 +714,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -882,8 +882,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381688,
       "initialAmpFactor": "0320",
       "isInitialized": true,
       "isPaused": false,
@@ -920,6 +920,90 @@
       "underlyingTokens": [
         "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
         "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 253,
+      "index": 0,
+      "key": "1ct1hF44HdABxpyC8ZaTMTfxYf7CtZqYJp36Y57kWhY",
+      "lpMint": "ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+      "mintB": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+      "permissionlessImport": true,
+      "swap": "ASj3vyqLZekfGjBgWVHhzPAgJLSB7XZYGaW6VWn6sbjr",
+      "tokenAFees": "GgKPAneUQpjetMg9B3hvVEwTYZeBRRFG6gRu2XgbFV3B",
+      "tokenBFees": "2CGWAvk6fPcsXGWyfTq1ySzKk9PwYuqQ19FotAKFhCcN",
+      "tokenDecimals": 9
+    },
+    "state": {
+      "adminAccount": "1ct1hF44HdABxpyC8ZaTMTfxYf7CtZqYJp36Y57kWhY",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "64",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 255,
+      "poolTokenMint": "ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "64",
+      "tokenA": {
+        "adminFeeAccount": "GgKPAneUQpjetMg9B3hvVEwTYZeBRRFG6gRu2XgbFV3B",
+        "mint": "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+        "reserve": "jswLzRGdPxNcvkg9xJbXynBoNgGCnoXdbiDZwMRdQnR"
+      },
+      "tokenB": {
+        "adminFeeAccount": "2CGWAvk6fPcsXGWyfTq1ySzKk9PwYuqQ19FotAKFhCcN",
+        "mint": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+        "reserve": "2BEVwYW2KyfPwmGKN8EaLnbnY98VAdHFKpRSiamjDtiy"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "1ct1hF44HdABxpyC8ZaTMTfxYf7CtZqYJp36Y57kWhY",
+        "lpTokenMint": "ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J",
+        "mergePool": "3KDKwDnM6UyNiZfLK7xypFXEQfNM1ihLCa11u6axPeRD",
+        "quarry": "EKVQgUWCkSDpnSXTrHR82DkngRMjd6sb15LyR7wfZkuU",
+        "reserves": [
+          "jswLzRGdPxNcvkg9xJbXynBoNgGCnoXdbiDZwMRdQnR",
+          "2BEVwYW2KyfPwmGKN8EaLnbnY98VAdHFKpRSiamjDtiy"
+        ],
+        "swapAccount": "ASj3vyqLZekfGjBgWVHhzPAgJLSB7XZYGaW6VWn6sbjr",
+        "swapAuthority": "CswV8CXtKyoFRRGwGhthnLV5fFu5oYCevakFEycstsSu"
+      },
+      "decimals": 9,
+      "underlyingTokens": [
+        "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+        "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
       ]
     }
   },
@@ -966,8 +1050,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381719,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -1050,8 +1134,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "7d",
       "isInitialized": true,
       "isPaused": false,
@@ -1134,8 +1218,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381709,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -1302,8 +1386,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381703,
       "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
@@ -1722,8 +1806,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381689,
       "initialAmpFactor": "64",
       "isInitialized": true,
       "isPaused": false,
@@ -1806,8 +1890,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381719,
       "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
@@ -1974,8 +2058,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381719,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -2226,8 +2310,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
@@ -2310,8 +2394,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
@@ -2394,8 +2478,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381688,
       "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
@@ -2562,8 +2646,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
@@ -2814,8 +2898,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381689,
       "initialAmpFactor": "64",
       "isInitialized": true,
       "isPaused": false,
@@ -2982,8 +3066,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381703,
       "initialAmpFactor": "01f4",
       "isInitialized": true,
       "isPaused": true,
@@ -3234,8 +3318,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381719,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": true,
@@ -3318,8 +3402,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381688,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": true,
@@ -3402,8 +3486,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381709,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -3486,8 +3570,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381715,
       "initialAmpFactor": "64",
       "isInitialized": true,
       "isPaused": true,
@@ -3654,8 +3738,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381688,
       "initialAmpFactor": "1e",
       "isInitialized": true,
       "isPaused": false,
@@ -3738,8 +3822,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381688,
       "initialAmpFactor": "19",
       "isInitialized": true,
       "isPaused": false,
@@ -3990,8 +4074,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381715,
       "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
@@ -4074,8 +4158,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381715,
       "initialAmpFactor": "0f",
       "isInitialized": true,
       "isPaused": false,
@@ -4158,8 +4242,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381713,
       "initialAmpFactor": "03e8",
       "isInitialized": true,
       "isPaused": false,
@@ -4196,6 +4280,90 @@
       "underlyingTokens": [
         "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
         "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 255,
+      "index": 2,
+      "key": "8s2SK4LtBkUrQ2EWwpzdCowdJ2AZ5MvMYoc7Fp8CGFgC",
+      "lpMint": "AYhn8MrLPMyD1goVmAA5CfxpvGsyEbSJXCUApThVKVxH",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+      "mintB": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+      "permissionlessImport": true,
+      "swap": "DVJ9mtgcaxuoYg1EJb6DmyR3sYbBShUWvvYfP8GKyutS",
+      "tokenAFees": "4Kjq778AEaXWS255uGr7w2tGdx5U8LKPakwhMGiR61mT",
+      "tokenBFees": "HHmspQwDf5bthUkxSQFZeS42iJocAVdG9LGJ3S9HRQxh",
+      "tokenDecimals": 8
+    },
+    "state": {
+      "adminAccount": "8s2SK4LtBkUrQ2EWwpzdCowdJ2AZ5MvMYoc7Fp8CGFgC",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "64",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 254,
+      "poolTokenMint": "AYhn8MrLPMyD1goVmAA5CfxpvGsyEbSJXCUApThVKVxH",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "64",
+      "tokenA": {
+        "adminFeeAccount": "4Kjq778AEaXWS255uGr7w2tGdx5U8LKPakwhMGiR61mT",
+        "mint": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+        "reserve": "i3y6UA8XJJ3S75qzSgV69sUZDUdguqxSDsQMTuv3Ane"
+      },
+      "tokenB": {
+        "adminFeeAccount": "HHmspQwDf5bthUkxSQFZeS42iJocAVdG9LGJ3S9HRQxh",
+        "mint": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+        "reserve": "7ouZ76ceqDgfddMSgX9MubMDAN6nnMJPsRjWY7AoKP9o"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "8s2SK4LtBkUrQ2EWwpzdCowdJ2AZ5MvMYoc7Fp8CGFgC",
+        "lpTokenMint": "AYhn8MrLPMyD1goVmAA5CfxpvGsyEbSJXCUApThVKVxH",
+        "mergePool": "655FybukKv2RdEjHKcoETuwCVvpASTLS4FdBcnUvbweA",
+        "quarry": "CZQRfYfHSJPCLpFhTLLgoGQmP6wV6CtSJwuNiPBAXR4T",
+        "reserves": [
+          "i3y6UA8XJJ3S75qzSgV69sUZDUdguqxSDsQMTuv3Ane",
+          "7ouZ76ceqDgfddMSgX9MubMDAN6nnMJPsRjWY7AoKP9o"
+        ],
+        "swapAccount": "DVJ9mtgcaxuoYg1EJb6DmyR3sYbBShUWvvYfP8GKyutS",
+        "swapAuthority": "3x5UU3QhjNuHsbSeUw3hA9v7BmK5r41sDJw6QmUHhhNB"
+      },
+      "decimals": 8,
+      "underlyingTokens": [
+        "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+        "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh"
       ]
     }
   },
@@ -4326,8 +4494,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381719,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -4494,8 +4662,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381719,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -4662,8 +4830,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381688,
       "initialAmpFactor": "50",
       "isInitialized": true,
       "isPaused": false,
@@ -4746,8 +4914,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "4b",
       "isInitialized": true,
       "isPaused": false,
@@ -4830,8 +4998,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381715,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -5166,8 +5334,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381688,
       "initialAmpFactor": "c8",
       "isInitialized": true,
       "isPaused": false,
@@ -5204,6 +5372,90 @@
       "underlyingTokens": [
         "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
         "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+      ]
+    }
+  },
+  {
+    "pool": {
+      "bump": 253,
+      "index": 1,
+      "key": "CV7GYyYPb2XFov5S2TP3oanCyeZmC95thhAMyMMcm78k",
+      "lpMint": "4Fmc7FRAZbCxsebJRvXMrEB47UjG71bTad4uqjiDdcbd",
+      "manager": "GXYhWZo1yk9UFCfVYFu1QMZuEcDds8jTGEATci7y36zS",
+      "mintA": "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+      "mintB": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+      "permissionlessImport": true,
+      "swap": "gDizHuSV8Bk787c6pWAUHFMALwpX4hYeqEwvV75PiDd",
+      "tokenAFees": "7oktwtGrxhreXCMUzycugBa9P7ohCjutBSrvNosXMYC5",
+      "tokenBFees": "xc14EaH6rZQ4aovzdppP5hfRRrZzDVAeizfKw4JMJUt",
+      "tokenDecimals": 9
+    },
+    "state": {
+      "adminAccount": "CV7GYyYPb2XFov5S2TP3oanCyeZmC95thhAMyMMcm78k",
+      "fees": {
+        "adminTrade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "adminWithdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        },
+        "trade": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "4"
+        },
+        "withdraw": {
+          "denominatorStr": "10000",
+          "isFraction": true,
+          "isPercent": true,
+          "numeratorStr": "0"
+        }
+      },
+      "futureAdminAccount": "11111111111111111111111111111111",
+      "futureAdminDeadline": 0,
+      "initialAmpFactor": "64",
+      "isInitialized": true,
+      "isPaused": false,
+      "nonce": 252,
+      "poolTokenMint": "4Fmc7FRAZbCxsebJRvXMrEB47UjG71bTad4uqjiDdcbd",
+      "startRampTimestamp": 0,
+      "stopRampTimestamp": 0,
+      "targetAmpFactor": "64",
+      "tokenA": {
+        "adminFeeAccount": "7oktwtGrxhreXCMUzycugBa9P7ohCjutBSrvNosXMYC5",
+        "mint": "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+        "reserve": "i1ewfwxjZygF4HyqCUFHiYDLzXpgP36NFSykzABXAbk"
+      },
+      "tokenB": {
+        "adminFeeAccount": "xc14EaH6rZQ4aovzdppP5hfRRrZzDVAeizfKw4JMJUt",
+        "mint": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+        "reserve": "4pUkMJNce8VsyzPgRjW43zbatSoLUb6v7DArzpTnnP5j"
+      }
+    },
+    "summary": {
+      "addresses": {
+        "admin": "CV7GYyYPb2XFov5S2TP3oanCyeZmC95thhAMyMMcm78k",
+        "lpTokenMint": "4Fmc7FRAZbCxsebJRvXMrEB47UjG71bTad4uqjiDdcbd",
+        "mergePool": "5pZuhEWGvbNBwaNVicr1KFc675gumFSyPfJseXRjPYXd",
+        "quarry": "CPfGEQotWf342skmEkGvLeYTPdhJgNi8QAcvxuK2TvzB",
+        "reserves": [
+          "i1ewfwxjZygF4HyqCUFHiYDLzXpgP36NFSykzABXAbk",
+          "4pUkMJNce8VsyzPgRjW43zbatSoLUb6v7DArzpTnnP5j"
+        ],
+        "swapAccount": "gDizHuSV8Bk787c6pWAUHFMALwpX4hYeqEwvV75PiDd",
+        "swapAuthority": "HV6JPbGsX979gLxv8Mx1snHHKTr2TVCWAKYL4EuqxAFN"
+      },
+      "decimals": 9,
+      "underlyingTokens": [
+        "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+        "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
       ]
     }
   },
@@ -5418,8 +5670,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381719,
       "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
@@ -5670,8 +5922,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "64",
       "isInitialized": true,
       "isPaused": false,
@@ -5754,8 +6006,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381713,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -6006,8 +6258,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381688,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -6090,8 +6342,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "03e8",
       "isInitialized": true,
       "isPaused": false,
@@ -6174,8 +6426,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381709,
       "initialAmpFactor": "4b",
       "isInitialized": true,
       "isPaused": false,
@@ -6258,8 +6510,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381688,
       "initialAmpFactor": "c8",
       "isInitialized": true,
       "isPaused": false,
@@ -6426,8 +6678,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381715,
       "initialAmpFactor": "03e8",
       "isInitialized": true,
       "isPaused": false,
@@ -6594,8 +6846,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381719,
       "initialAmpFactor": "c8",
       "isInitialized": true,
       "isPaused": false,
@@ -6762,8 +7014,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381703,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -7434,8 +7686,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381703,
       "initialAmpFactor": "012c",
       "isInitialized": true,
       "isPaused": false,
@@ -7518,8 +7770,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381713,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -7686,8 +7938,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
@@ -7938,8 +8190,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -8022,8 +8274,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381689,
       "initialAmpFactor": "96",
       "isInitialized": true,
       "isPaused": false,
@@ -8106,8 +8358,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -8190,8 +8442,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381688,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -8274,8 +8526,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381713,
       "initialAmpFactor": "02ee",
       "isInitialized": true,
       "isPaused": false,
@@ -8442,8 +8694,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381688,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": false,
@@ -8610,8 +8862,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381709,
       "initialAmpFactor": "012c",
       "isInitialized": true,
       "isPaused": false,
@@ -9282,8 +9534,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "0a",
       "isInitialized": true,
       "isPaused": false,
@@ -9366,8 +9618,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381709,
       "initialAmpFactor": "19",
       "isInitialized": true,
       "isPaused": false,
@@ -9702,8 +9954,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "14",
       "isInitialized": true,
       "isPaused": false,
@@ -9786,8 +10038,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381689,
       "initialAmpFactor": "19",
       "isInitialized": true,
       "isPaused": false,
@@ -10038,8 +10290,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381719,
       "initialAmpFactor": "03e8",
       "isInitialized": true,
       "isPaused": false,
@@ -10122,8 +10374,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381698,
       "initialAmpFactor": "03e8",
       "isInitialized": true,
       "isPaused": false,
@@ -10458,8 +10710,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381719,
       "initialAmpFactor": "012c",
       "isInitialized": true,
       "isPaused": true,
@@ -10542,8 +10794,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381703,
       "initialAmpFactor": "32",
       "isInitialized": true,
       "isPaused": true,
@@ -10626,8 +10878,8 @@
           "numeratorStr": "0"
         }
       },
-      "futureAdminAccount": "11111111111111111111111111111111",
-      "futureAdminDeadline": 0,
+      "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+      "futureAdminDeadline": 1730381689,
       "initialAmpFactor": "64",
       "isInitialized": true,
       "isPaused": false,

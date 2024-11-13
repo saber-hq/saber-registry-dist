@@ -1080,6 +1080,18 @@
     "decimals": 6
   },
   {
+    "id": "soulsol_vsol",
+    "lpMint": "ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J",
+    "tokenA": "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+    "tokenB": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+    "authority": "CswV8CXtKyoFRRGwGhthnLV5fFu5oYCevakFEycstsSu",
+    "reserveA": "jswLzRGdPxNcvkg9xJbXynBoNgGCnoXdbiDZwMRdQnR",
+    "reserveB": "2BEVwYW2KyfPwmGKN8EaLnbnY98VAdHFKpRSiamjDtiy",
+    "tokenACoingecko": "solana",
+    "tokenBCoingecko": "solana",
+    "decimals": 9
+  },
+  {
     "id": "srm",
     "lpMint": "SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp",
     "tokenA": "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
@@ -1090,6 +1102,18 @@
     "tokenACoingecko": "serum",
     "tokenBCoingecko": "serum",
     "decimals": 6
+  },
+  {
+    "id": "strongsol_vsol",
+    "lpMint": "4Fmc7FRAZbCxsebJRvXMrEB47UjG71bTad4uqjiDdcbd",
+    "tokenA": "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+    "tokenB": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+    "authority": "HV6JPbGsX979gLxv8Mx1snHHKTr2TVCWAKYL4EuqxAFN",
+    "reserveA": "i1ewfwxjZygF4HyqCUFHiYDLzXpgP36NFSykzABXAbk",
+    "reserveB": "4pUkMJNce8VsyzPgRjW43zbatSoLUb6v7DArzpTnnP5j",
+    "tokenACoingecko": "stronghold-staked-sol",
+    "tokenBCoingecko": "solana",
+    "decimals": 9
   },
   {
     "id": "stsol",
@@ -1306,6 +1330,18 @@
     "tokenACoingecko": "jupiter-staked-sol",
     "tokenBCoingecko": "solana",
     "decimals": 9
+  },
+  {
+    "id": "wbtc_cbbtc",
+    "lpMint": "AYhn8MrLPMyD1goVmAA5CfxpvGsyEbSJXCUApThVKVxH",
+    "tokenA": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+    "tokenB": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+    "authority": "3x5UU3QhjNuHsbSeUw3hA9v7BmK5r41sDJw6QmUHhhNB",
+    "reserveA": "i3y6UA8XJJ3S75qzSgV69sUZDUdguqxSDsQMTuv3Ane",
+    "reserveB": "7ouZ76ceqDgfddMSgX9MubMDAN6nnMJPsRjWY7AoKP9o",
+    "tokenACoingecko": "coinbase-wrapped-btc",
+    "tokenBCoingecko": "wrapped-bitcoin",
+    "decimals": 8
   },
   {
     "id": "wbusd",

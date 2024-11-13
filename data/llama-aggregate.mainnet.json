@@ -154,6 +154,17 @@
     ]
   },
   {
+    "id": "coinbase-wrapped-btc",
+    "accounts": [
+      {
+        "decimals": 8,
+        "addresses": [
+          "i3y6UA8XJJ3S75qzSgV69sUZDUdguqxSDsQMTuv3Ane"
+        ]
+      }
+    ]
+  },
+  {
     "id": "dai",
     "accounts": [
       {
@@ -538,6 +549,9 @@
           "9rvDPJLAng4uVVqnnSoEXgNDFhBZQTny9AoQioYDZbQX",
           "DAizXCPHT5ATkKoW9XAGTdrA7Lbj3cNygjD8RQFH8nZJ",
           "Gh4iXm7PAHjAbagz9FfbpLSuuRE8rdKkDcSukp8Dzq9R",
+          "jswLzRGdPxNcvkg9xJbXynBoNgGCnoXdbiDZwMRdQnR",
+          "2BEVwYW2KyfPwmGKN8EaLnbnY98VAdHFKpRSiamjDtiy",
+          "4pUkMJNce8VsyzPgRjW43zbatSoLUb6v7DArzpTnnP5j",
           "4PgzyzLtds9bKZ2to9PMnKqJzKEUpjvNUaeN23phegax",
           "AtymwxoVN9peZo7EXTcDz9jKVc4vRmisJKKrNfe3ewBa",
           "CquVr6atkvwueDYficKjn6SSEWq4F4rH4VSiBbW4GBWU",
@@ -559,6 +573,17 @@
         "decimals": 9,
         "addresses": [
           "GS7bJwBmHiMS5joEcC4gUvUNoYZDoX4srq4DqUTEKEWo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stronghold-staked-sol",
+    "accounts": [
+      {
+        "decimals": 9,
+        "addresses": [
+          "i1ewfwxjZygF4HyqCUFHiYDLzXpgP36NFSykzABXAbk"
         ]
       }
     ]
@@ -807,6 +832,12 @@
   {
     "id": "wrapped-bitcoin",
     "accounts": [
+      {
+        "decimals": 8,
+        "addresses": [
+          "7ouZ76ceqDgfddMSgX9MubMDAN6nnMJPsRjWY7AoKP9o"
+        ]
+      },
       {
         "decimals": 9,
         "addresses": [

@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2024-09-26T11:35:45.098Z",
+  "timestamp": "2024-11-13T15:31:04.887Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -296,6 +296,24 @@
       ]
     },
     {
+      "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "assetContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+        "coingeckoId": "wrapped-bitcoin"
+      },
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh.png",
+      "name": "Wrapped BTC (Portal)",
+      "symbol": "WBTC",
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ]
+    },
+    {
       "address": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
       "chainId": 101,
       "decimals": 6,
@@ -371,6 +389,25 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF.png",
       "name": "Saber stSOL-mSOL LP",
       "symbol": "stSOL-mSOL",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    {
+      "address": "4Fmc7FRAZbCxsebJRvXMrEB47UjG71bTad4uqjiDdcbd",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+        ],
+        "website": "https://app.saber.so/pools/strongsol_vsol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber strongSOL-vSOL LP",
+      "symbol": "strongSOL-vSOL",
       "tags": [
         "saber-stableswap-lp"
       ]
@@ -1786,6 +1823,25 @@
       ]
     },
     {
+      "address": "AYhn8MrLPMyD1goVmAA5CfxpvGsyEbSJXCUApThVKVxH",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+          "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh"
+        ],
+        "website": "https://app.saber.so/pools/wbtc_cbbtc"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber cbBTC-WBTC LP",
+      "symbol": "cbBTC-WBTC",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    {
       "address": "AZD7BcwEPbSoVYYJ9QXjdjRpMRg7gJ81c83gU7RRtrvV",
       "chainId": 101,
       "decimals": 9,
@@ -2789,6 +2845,25 @@
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
       "name": "Saber jupSOL-picoSOL LP",
       "symbol": "jupSOL-picoSOL",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    {
+      "address": "ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+        ],
+        "website": "https://app.saber.so/pools/soulsol_vsol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber soulSOL-vSOL LP",
+      "symbol": "soulSOL-vSOL",
       "tags": [
         "saber-stableswap-lp"
       ]
@@ -4709,6 +4784,23 @@
       ]
     },
     {
+      "address": "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "source": "soulsol",
+        "sourceUrl": "https://soulana.fans/"
+      },
+      "logoURI": "https://arweave.net/vpzWGiKensrUILB4dX4awTIoBFeLMqjnnZGjEepEq2E",
+      "name": "soulSOL",
+      "symbol": "soulSOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
+    },
+    {
       "address": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw",
       "chainId": 101,
       "decimals": 8,
@@ -5411,6 +5503,23 @@
       ]
     },
     {
+      "address": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "coinbase-wrapped-btc",
+        "currency": "BTC",
+        "source": "cbbtc",
+        "sourceUrl": "https://www.coinbase.com/cbbtc/"
+      },
+      "logoURI": "https://ipfs.io/ipfs/QmZ7L8yd5j36oXXydUiYFiFsRHbi3EdgC4RuFwvM7dcqge",
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "tags": [
+        "saber-mkt-btc"
+      ]
+    },
+    {
       "address": "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
       "chainId": 101,
       "decimals": 6,
@@ -5561,6 +5670,23 @@
       "symbol": "stSOL-SOL",
       "tags": [
         "saber-stableswap-lp"
+      ]
+    },
+    {
+      "address": "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "stronghold-staked-sol",
+        "currency": "SOL",
+        "source": "strongsol",
+        "sourceUrl": "https://thesixnine.one/"
+      },
+      "logoURI": "https://shdw-drive.genesysgo.net/CqCTE2k6ext17JLE7EFk6pXAznS7m1rLJaN9nHxUAwpc/stronghold.png",
+      "name": "Stronghold LST",
+      "symbol": "strongSOL",
+      "tags": [
+        "saber-mkt-sol"
       ]
     },
     {
