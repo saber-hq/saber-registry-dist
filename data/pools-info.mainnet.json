@@ -172,14 +172,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "AVDuGckLavyLr5YifViaxnoveY6rwqDezHw5kiKiRQEC",
-          "adminAccount": "AUMZDG77zj4G4Ex9bfB3TsNaCQLb1m3WTRM9Dmb6VUgU",
+          "adminAccount": "8BNAsQ8B3MVUHRe7eJx3eH1kqiUarzZgKnEtRzGd8qox",
           "tokenA": {
-            "adminFeeAccount": "nukUCjiUHV3XxsQGfigvxAHRLrJprpB45oQ2PHB1Bue",
+            "adminFeeAccount": "GYHrm2fomhbSB21gxMFcU7NMpws8oqyzQssVvDcj1UB",
             "mint": "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
             "reserve": "GiehZ4X2uQjhEKuxSm3ACmEFrabxh3RTvjbLfLjw1xGX"
           },
           "tokenB": {
-            "adminFeeAccount": "EjFDsYacwgvHNWQR8eBRA4cFTDWxfeNrkgmdV3cjrMXH",
+            "adminFeeAccount": "BFCL6U489YAd9kUmchiUZz2TjT42p6NmpkUprMU2NXL4",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "rxDQYV77NKRKYxCjq4cECX3QQsiSyLv1T1FT2X3zNA2"
           },
@@ -377,17 +377,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381715,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv",
-          "adminAccount": "6ybivegrcHWjN6ec3pMos33wEpGCoM4xTFvXTewQPm7q",
+          "adminAccount": "3MNa6Kpoh1GN9c72haYfXdZmjps2LF4CUKf88VTQ7KqJ",
           "tokenA": {
-            "adminFeeAccount": "CNTMofwvbkcHKHKbmXBPZ6Vur81QzUPmkkt5a9KSnVvm",
+            "adminFeeAccount": "nVhAcWUTqyrDJXzbECWKgkTPNEMQdV3Gf6k4L3gwAvV",
             "mint": "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
             "reserve": "2bPenuBYfqzD8p5dFjCcggwkHDsc2RQDnx9AoyYGUBjA"
           },
           "tokenB": {
-            "adminFeeAccount": "8WUjnjugE72SZp9xpNu9VBLiXk9qLxGcMV1eRUvxmVhN",
+            "adminFeeAccount": "4AKXBPijLMAN6xb59txJqHDDki3hytPJiL9DZT3r4Fc2",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "AE6n6iLuX8oYu61vt5hoDYkjswpnxFxrhSehxrnQTnbx"
           },
@@ -588,14 +588,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "AVTrxHq5P57fYZTYjMuCRWFqsrLmom2gGThNtgEgK1ip",
-          "adminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "adminAccount": "CKb4ydVgJEvxPQECiuUJRn1PEtc6kGpxAxk8QuGYrxSS",
           "tokenA": {
-            "adminFeeAccount": "BBi8KR5tMQDVzTdRBXq36nGSnYLTiTumyKtBfuDhzopA",
+            "adminFeeAccount": "9aFPWnvreiUUrNRdqXLSuYpjHWmKrNokMrexRi7XQ3d6",
             "mint": "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
             "reserve": "3dFMPj4r9mMmPHF32mz1gNDX7f8ftidWof7S8YiYTs1j"
           },
           "tokenB": {
-            "adminFeeAccount": "53QXsoLfDjY6P2njBCx85zLVJZGTH6nmnZhzyYHXkvHC",
+            "adminFeeAccount": "5Vdst4ZChNdU3cD54wiTZNDtacSnoJjnuNMdnmDh7oUH",
             "mint": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
             "reserve": "Fc1ED3YPeQfXQosHbd8DTaBd2AV5gHQtwiSAL5C5pUhi"
           },
@@ -796,14 +796,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39",
-          "adminAccount": "Af5NSDP2twSYUYqapmgXCEW6x72AzGNEomjaybn4WVYG",
+          "adminAccount": "EekrmWg52sTq5m9kagHrhDkBwuUDs6orsg6yWGKKbCPh",
           "tokenA": {
-            "adminFeeAccount": "RtzSS4SK88PUSUmajnevo7gUs7zDnYU8qFBfLicaWpm",
+            "adminFeeAccount": "3MfEvtTKBwJ8qJoV9KqgZvTVU6dRMEPPj3YDVpXCfUJS",
             "mint": "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
             "reserve": "bDVSLHopvEo45R3rR7JXoRRAcnUXKD7r14ijj1apALb"
           },
           "tokenB": {
-            "adminFeeAccount": "EPXkgmVmpNPnrT2hZgaQwxWpnDYynvUP3n8fhPSRf581",
+            "adminFeeAccount": "93SABwp1QZtSFdiu4RmeqUDobvSRuRSkFVVCQxPiaC5q",
             "mint": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
             "reserve": "33QrhvkyroiTxp21hbXPRowPhsgVHmrgEQbY7eHPp1h4"
           },
@@ -1004,14 +1004,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo",
-          "adminAccount": "YjkXQ6dYeZ9rVmFDvmZSbMJTZDVX881ambsYMmEhwQY",
+          "adminAccount": "CtzJ1u2j3eeeyb5F3Z2otPdMEhFQXvjzfpZPVFdaip46",
           "tokenA": {
-            "adminFeeAccount": "3znpKzaBHybUfyo96z9jf1D38Ciadzwrrku6iDhsdkKA",
+            "adminFeeAccount": "E5Zifo5Wo86gnQg4gRD9yGaBkjxtRqcj6xNe2PRqqg4z",
             "mint": "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
             "reserve": "3aQn9HbPXwxCLEd71x81K1whfHvMe18bEwPtqPArA68d"
           },
           "tokenB": {
-            "adminFeeAccount": "7qN4wY2ZqQQJY5PvafJFQTtzWnCvVEcD8vDpJL9P3Rfg",
+            "adminFeeAccount": "EEg1njurHEfbTWhNPMxTENj1PCd1Za259sb8Hkbyj3xa",
             "mint": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
             "reserve": "5KMjfTVueu78hnEaUNKPTQmKkEnUrwTGD9r8YFKXXxy7"
           },
@@ -1209,17 +1209,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 254,
-          "futureAdminDeadline": 1730381698,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp",
-          "adminAccount": "EwgFFpLxc4GX8NW3FkFg6z1sZNrUdxxGG9wNZFzfoNpq",
+          "adminAccount": "2y5R9qysHqEoAJqsCiT6xA8qcdD7E7mkbyUUbe6nFXrr",
           "tokenA": {
-            "adminFeeAccount": "fBhDGfJFCDJKe3mra22UP2Twkbh6WQQkqkafLaYgY71",
+            "adminFeeAccount": "GJHjG71eMjVQqAUF2odq6vyXwECCpBGZRUrSAwPyxn9C",
             "mint": "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
             "reserve": "7n9kgNL633yGzCYksgnzHyjG73ZLBAwvEae5sbAekbzW"
           },
           "tokenB": {
-            "adminFeeAccount": "2DbTjbNJmfRNhTcajqpCQDPef3gKZN2deURXam7T2KRh",
+            "adminFeeAccount": "8KAzRP3drUTX6NDQkMQqMW94wwuCNAgLDo5zkrQp3jNs",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "SscdxE99omdG9AiMVwmaEMQySQnCgeAh1sPj2Leutm2"
           },
@@ -1435,17 +1435,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381698,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP",
-          "adminAccount": "Gg3592hMiqEwGn8q3RmQ4Jfwpz82CKBRVSzh8ibmNRbF",
+          "adminAccount": "CixvUEXHKHf8n4hiQsmWJ6BnKs7pxKHZGTQZzos5DsU9",
           "tokenA": {
-            "adminFeeAccount": "CmAmwGXwhRuBqUHzJcxghhAiw48rgiDyzA2ERt4RDWfp",
+            "adminFeeAccount": "7v9fXaUEVgnJak9rq4HrYcCjgQ5qTaBoEE1cvmyzXiKP",
             "mint": "EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC",
             "reserve": "FfSySSbVJPvEo5a5AvrP3nySoXpRE2QPn1uUMpJJ1x7v"
           },
           "tokenB": {
-            "adminFeeAccount": "Fyx1ydTc4mFKibx64xdqLbxcvmknTRXU466BzvV13m3A",
+            "adminFeeAccount": "7THn9M3V6DwcwA2sKCRfY9w5yu2gFugB2Ym8FatmPhLs",
             "mint": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
             "reserve": "HL7Vcj6838ZmvBHDbQxXfjBNckNi83WvPiZQoMQLFeRM"
           },
@@ -1646,14 +1646,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P",
-          "adminAccount": "EmQPm3GhtohMAEji2fLNChYCzQQLTeby4ezRgRSWrkuk",
+          "adminAccount": "3FsBrsZH8KVmyuhdaKij8ZgD7nRARS15bBByoXszX7WR",
           "tokenA": {
-            "adminFeeAccount": "CEyUANqRyrsnxGFotH8QvfYibCU5PBWGGciWd9BqyLAN",
+            "adminFeeAccount": "46rUpgkJQ3QRqQcX4qG2cMu7e8MCvnn7B7WhEzkPRNMA",
             "mint": "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
             "reserve": "AZjEH1zWVx1UJ6udMyRijGTzPteuLnaY18yNNmprJEsh"
           },
           "tokenB": {
-            "adminFeeAccount": "GMFegvR5GGMtddaainUXQgwctFdEWuzcWq7iPHQmXpLp",
+            "adminFeeAccount": "6huxYNMnpHjhYXGTmNquX1jtfsqZHYN5wg31wZpiNesa",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "Caf8ypkSVR8xYnXNhjvfvdGCC7mrM3C11rz8Xi6NA6aK"
           },
@@ -1851,17 +1851,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 254,
-          "futureAdminDeadline": 1730381688,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALPaPPo6xmeGv3a63Pc4S8NJFAAuchhD7XnkkWJqzvXJ",
-          "adminAccount": "CTYdY7w4DHkXH8QqE4a1cBMTrhm5wzY6kcHigMUzBfFt",
+          "adminAccount": "BBR4pVDrHqXRUxrvTM2BfKxkguqPAtrarMz8k1Xzpsgi",
           "tokenA": {
-            "adminFeeAccount": "CVhgD36UCXPz581ZhGRwcX4tgQtTWeEkJHwCztSjZMAP",
+            "adminFeeAccount": "AMJZr5m2VVNwYrxbMDAvpTUSGJiMzbesnjKVg5EFDLyz",
             "mint": "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
             "reserve": "GnKpRj5kBVPMJfiwZtEuD9GYApLzPdW5JFuZTcyX4BTc"
           },
           "tokenB": {
-            "adminFeeAccount": "CHKcqWS3v9wL4RRXZAMHj359Kiy2DnFLwsNhzjRntnkF",
+            "adminFeeAccount": "ByyerWQ4k2Qjw5EwhTa44r7KJXnkJEeQqVX1Q42Zu1sF",
             "mint": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
             "reserve": "3dmwD9okkomV9nDwyuh4UMhKdUR13QpuKxRo89ycZB5t"
           },
@@ -2088,17 +2088,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 254,
-          "futureAdminDeadline": 1730381698,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz",
-          "adminAccount": "4YDTr9smZzkHefThBa9HqLJFpoHcYZdvw5MwYcyMT7ac",
+          "adminAccount": "Cp6aT4uN86wdhuqwoH5jL5QZ8PdSbREdGZVyxq54Pzjo",
           "tokenA": {
-            "adminFeeAccount": "FD781t6F5JVPHcyvqS7g1s39hG6byboswoSS86euEVAB",
+            "adminFeeAccount": "Csh1y4xpWUZoo5pFEeRSx3kuQ8XHCVNAcBnJ9LQ8UiqS",
             "mint": "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
             "reserve": "G5KhoiuhRBEYmX89PuZMmpG3fLdomzMJZ3yEG13hVYPD"
           },
           "tokenB": {
-            "adminFeeAccount": "3ZBk25cxRZocKJHW9qB1XoMi9LC8DpJt5yA2mwjHyHup",
+            "adminFeeAccount": "ADAd7TiasFETSHWSnJT1UNMTgcguEvT2yTNpwatSYV4a",
             "mint": "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt",
             "reserve": "DuSWTAh1SC43EY86daS2Cq6PNBGGujVjLyEmc5AmQKzC"
           },
@@ -2299,14 +2299,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",
-          "adminAccount": "GxrTN2EFpAXtPhgUf4CJio2nvfUycWX3mNcXp1TC3Gzg",
+          "adminAccount": "AHa1HnT1GHyhzRayydn7KW472Xdtzrf3uLykjPQt7jph",
           "tokenA": {
-            "adminFeeAccount": "CUqZMfuGbFuk511eytYs23Kw2Vge5fvDeR4GHsUHPNkd",
+            "adminFeeAccount": "3LGteiT1njS2Z6azesmBQqcQZkFrv3V31y8pjNBx8ceV",
             "mint": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
             "reserve": "44ALBrpqi9PfZkBRTvbtRNtFJGsatfY4QydjtMbFWq8S"
           },
           "tokenB": {
-            "adminFeeAccount": "GuBiPcG1V9nXZEjKi6mrigZ18UTLnMB4Z9cCJJVmdea5",
+            "adminFeeAccount": "Cr7Px5yVkNJPpZkjoH4b6w9J9NqVZi2HtaamdW45RdTN",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "2ho8qEEie1UjVwWNBo9y4oAJZMyMLx8zPj9bxyUz6uWs"
           },
@@ -2519,14 +2519,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7",
-          "adminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "adminAccount": "55trr3v5qBk4GYYPxmFKnieq6iJy2x7AbZazJPkn8rSE",
           "tokenA": {
-            "adminFeeAccount": "FAY42f8thVtwmhTpXy3GMFJ2h919BgwqqXS9z5PFD2BW",
+            "adminFeeAccount": "8j7EJqXCcR9h4ti4ieHwWMAWHEF6ZtuTFsMJ8Ayhubf",
             "mint": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
             "reserve": "49EQuSDQNz7L4a22CcnWUxExSpYW4UXSKG985S2drLsR"
           },
           "tokenB": {
-            "adminFeeAccount": "3bAmnJxUMK5vS28edX3KQPNkMstHhkg8KgPm9kUFc3QQ",
+            "adminFeeAccount": "4wQ252Q4N86NLDertkz4W1WjvaVgiaxENsxhnpeRib4C",
             "mint": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
             "reserve": "7DH5gc5Hj1Kq4Y9z8ybEmAX1WPoHcunwiav1Za4A5J3J"
           },
@@ -2724,17 +2724,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381698,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC",
-          "adminAccount": "58Z22rkZWuGhYxW4ddKtEntZZjhDMxaMuwCVst3a8NXv",
+          "adminAccount": "98KM8AzKATj1YADG2WLbQpcBEi1jcNTUN3xgCDesoLN1",
           "tokenA": {
-            "adminFeeAccount": "A6SMziGsMPKFFyS3uEHFvmvD7pbLuq32dKFh3H4JMhhq",
+            "adminFeeAccount": "7ayfP1oq4qG7TQWAUTBeWdj9dD9dxbgooZpyFZaHaNyM",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "AhFPQdu8GKBsxuhiH46UmCu1YpaLgNpoP325HnYtsgas"
           },
           "tokenB": {
-            "adminFeeAccount": "25ZZsLmP2xRsVA6BeNeeQFmfjR2RbXY48bKLhXj3qSyB",
+            "adminFeeAccount": "DaaEL1u3UGMNp69aj17fdcg6qAESXBAVkqegLaDua7nR",
             "mint": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
             "reserve": "A8wxWpT3aFEr2XqZp1kDmbxbFfcBE95UUmdsNTDBJYbT"
           },
@@ -2941,14 +2941,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
-          "adminAccount": "3xwhFjJR71bi44zFYwpzmRYf9AzDHJwPCRfk3ckn3PcJ",
+          "adminAccount": "p2r1Utrsy933tRW3GfNx6gzoE8mp9gZoXVxWD5T4tEy",
           "tokenA": {
-            "adminFeeAccount": "9ZWsx7cNVrQ3X8vVmqJ2X8K37U8tWBFHhX7VuWHQeXM8",
+            "adminFeeAccount": "A68vGJmAqGSj8yb8X7ZFM8cY2YHMWi2nuSt3SGZW6V9m",
             "mint": "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
             "reserve": "B4UtLRZND3D83CitRCBUyeiNr7H8m7YFRqBmiPmXjhW4"
           },
           "tokenB": {
-            "adminFeeAccount": "CpzjDRacBu1ZddeaT2CXQy8jDGZm4Agx61aiifhjJAFW",
+            "adminFeeAccount": "6KjxLscj82eyKiUPoLJqys5ko2p3AFRhSuiuK67ZLW8C",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "AAmpYbuixWiSqDaJBCqYEs1pb5SrbdPr9mgXrB58Q2e"
           },
@@ -3167,17 +3167,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 254,
-          "futureAdminDeadline": 1730381688,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR",
-          "adminAccount": "4co23umizDKQscKkeLoY5hCP6xMkd61FGb9irUANrnhg",
+          "adminAccount": "3dM9ttZRfoAU6STgmLWDE9EZFTA5Bi9D5ykoQ2W9r5HN",
           "tokenA": {
-            "adminFeeAccount": "3YtJRF3L5gzAr42sA8n5FaNqC64haw3j8c7tL78b7Ksm",
+            "adminFeeAccount": "6Mb8nmJHsh5n9UzJMPyY4gGLQEnmnZV6Vp2WmKdDxPWb",
             "mint": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
             "reserve": "CGoM82Hbz7QVqTgvQatYtjvDWBvoUJp5qm21P8iMs9yb"
           },
           "tokenB": {
-            "adminFeeAccount": "DqbBwHR6s7BmmK3wJ3ZD4YVXjZd748hCTefScH2dWGWj",
+            "adminFeeAccount": "BNGE59ZcTRZsgnWZj8cokSEfovK956JJHZ6pQgHhoWQZ",
             "mint": "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE",
             "reserve": "3dxNNww8TivyN5FMy5dCNdi3Zcxv6e4kUfSPxfFwpdNq"
           },
@@ -3378,14 +3378,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz",
-          "adminAccount": "HQCkcKVCRApHYnwcoDR85UisF5Qy6sPAuc17cZgCPGnT",
+          "adminAccount": "B8HFRnUo3nXSCWXx1sBjajBQB54VteAGJEWg6LqSS4Nr",
           "tokenA": {
-            "adminFeeAccount": "C9k9hNxh8ov1E7GRjipQigN6YpbrncEhYPmPRqK2FGZ5",
+            "adminFeeAccount": "9xvVybdvsEW1aMDtMJwa6Uwmzew2azJFVD9Z2fCUngMt",
             "mint": "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
             "reserve": "3S2jpqSYxho6wiz3cafhjXruVY8cg4HYa2v3BqBHYFSj"
           },
           "tokenB": {
-            "adminFeeAccount": "ERK2MLK2UrZtpjJkqPeYNScqJrhBkjknghfu83KeV86H",
+            "adminFeeAccount": "4fDAdynCovu3b7VmiWXBnZB84vmyicJeCQ48CXq4VwtN",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "Dfe67M6TfrG74gKRtdqys4e6E9QirPD53BkF4FujFjuv"
           },
@@ -3586,14 +3586,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7",
-          "adminAccount": "2MGooqMi8pKNYcj6ZLHirpqVxokv9jYeSQsyHsb1s6rD",
+          "adminAccount": "84nSKFf7K6MaMLV7vopgjRZ52VSEtAttNMGuUEN27kvu",
           "tokenA": {
-            "adminFeeAccount": "36aMFXACrfUkLVgpQFti8iPTEbcrAN2dvQLraVB9ZQi5",
+            "adminFeeAccount": "8nMprLLNMoaMPULncc6kq8dN9Y6oFMxVGbtLaYWgCDpL",
             "mint": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
             "reserve": "Eu1Ze6Z84LWNkq7SNoAHBJbXx5t1P95EwyqYohrfCRFV"
           },
           "tokenB": {
-            "adminFeeAccount": "FTa81yB333ifUUxFNfw9xrAhJm19sdSwYFNJZMGzA538",
+            "adminFeeAccount": "6nJiQwwqY4LM4Vom1Yds22gUWUqhDL56qVkXKBmhsU6b",
             "mint": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
             "reserve": "ASMbv7WNu3qe4pkhREmvyEdwFNDZQ6B6iSrjkj4u8bdC"
           },
@@ -3794,14 +3794,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALPoQFUuKsoN6P4gLBiKXMSaYFP9YChniKwvKAFRPvn5",
-          "adminAccount": "7zkZzAfs6Z658j17LvLZaK8A9woJ6A8CPNbU1np7gzv2",
+          "adminAccount": "CxHgE3hwEqq526DYPHiVeMn2qvtHdNvovwTu8oufe1Bf",
           "tokenA": {
-            "adminFeeAccount": "6UiebXq7Ko1MLHddwMfFhZkmeVmBmvzu8xVSzjr6rT3t",
+            "adminFeeAccount": "Gi3pim6pxqSDWCzYCADeDx22wDBWuNRKdWRhpEqmiBv1",
             "mint": "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
             "reserve": "D7W9WJBdwThYLCEczsxwRrHoCApqEzCXSJvWVkMs3ekH"
           },
           "tokenB": {
-            "adminFeeAccount": "AteYRhHHM7mdX51kStXkDcF4RjhJ5JarTQaHxYdyfrBQ",
+            "adminFeeAccount": "7uV2ypiJoysF4ZqA5ijCi1Ex5cK9tE8uXXQku5Ridhh2",
             "mint": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
             "reserve": "HF2pNCfTMvrHXcXXb8jJU245yRx9ZtK1M76ChMW3pJht"
           },
@@ -3999,17 +3999,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381688,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALPqczrbEXS8k5JF69tEPyu6TTE8qJbiwrzADfjVfKov",
-          "adminAccount": "FrxgCbQ5eSvmyr1VA1Wwmw2i7FmygMR9Q9vnFPFFyGSW",
+          "adminAccount": "9PVC8W8cExs5EaGg28JUDAPADNkux8QjnrvjfsogN2WB",
           "tokenA": {
-            "adminFeeAccount": "EmhWry6gUH5DqHSM5VAv7BFT1mqeHehnheijrQnHWS77",
+            "adminFeeAccount": "Fmd9pre98RAvwwoykjcn68kaY7TVZaw9m5unX35jZM8K",
             "mint": "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
             "reserve": "GJX9po4C8XxeHctdhfhwunXZ6mjXCKJ9XLMqcC2edncv"
           },
           "tokenB": {
-            "adminFeeAccount": "8LCeXKvE8JGkaib7x3gD1eYGq49nfruxpXaQS6mpsSE2",
+            "adminFeeAccount": "3P1wvyv3PGSQKHExz8B68eomA1Fuii2gUymsfLQoe3VK",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "2Aq6otuvoyZLtFSQKtbnNSU8MvPPYZu86bT7TbbQbK6V"
           },
@@ -4228,14 +4228,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e",
-          "adminAccount": "Ff8S8C5U7nsLrBHhj8R9UR5zRjMrCa1uMU2FqkupRp46",
+          "adminAccount": "FYwv1hq22snd4ZH93c3PoCgLBX5b3XeRFSRkGTbV8DAN",
           "tokenA": {
-            "adminFeeAccount": "3GujuQyQump2sz3mZjHqvqZ4nCDXapMnLGqjaTRyh1PL",
+            "adminFeeAccount": "2kmW6BXDxxpnqXNa132YyrwEQ2hYU7oHqon3qejjHKA8",
             "mint": "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
             "reserve": "8NPZUW1Fa5DKAmc3fZwjm8LbVjQxxt7PbcbBTVMCwGM1"
           },
           "tokenB": {
-            "adminFeeAccount": "2hN8unYV8aWAu2Ui8XcjJnoWcNWgLwxNEwyVcbVE6f99",
+            "adminFeeAccount": "Ap1nozoSHjrhmUq1MNFJeCBRzeChiw6nHpV67wCX7x11",
             "mint": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
             "reserve": "AHMstoohNmj2eJf32GjG19nSAMM1CTVdxTjVG3hhrHJp"
           },
@@ -4436,14 +4436,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo",
-          "adminAccount": "GGdMo6Cxjhttt91hmpYCxc9Bduad2ccDY7KrmBUbMpgP",
+          "adminAccount": "L2z2PPUK7TYx9rek9w33xYQNN1mVoBj19dG825khFYX",
           "tokenA": {
-            "adminFeeAccount": "C3YoucrCvkSpCxiHZr6jYhGq5GDh9qLdvv2DrxBAVBVW",
+            "adminFeeAccount": "CkKCRaT9Da5QrFcQ69oQ6edGZZA2pT2GgW9Hhw7y6AZW",
             "mint": "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
             "reserve": "2n895yX1VzrWuwrMCixUcD3SkRysj51jigxtV5N81vk6"
           },
           "tokenB": {
-            "adminFeeAccount": "3XocEah4G5SmjLgHcGqgP4KB5zVuvVVGLcA5g6w1qrs6",
+            "adminFeeAccount": "6tRsquyLGNMX33JQJuWFnKbjaHW5XhuX9WSVvEuALkUo",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "HuEnD3eWBSuJtTCZMDG3P74sHPhi5UyVRV4SVefva6jS"
           },
@@ -4641,17 +4641,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381698,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR",
-          "adminAccount": "C289DKSGj3MjPsBDUacb538TPUGTyoEion1299uGLbze",
+          "adminAccount": "7PErMFq2NwNm5vPGLGCoozPkwiYR5Du2PC4cyrCqdYgW",
           "tokenA": {
-            "adminFeeAccount": "6SK6Pi8juWs3ucEHM6fdSKQpXM1Jx6JRFejZRosxSHFs",
+            "adminFeeAccount": "Eb1W4JbNXqYwAur7LKszYtfgQ3ETTXX9nW6Dc1tZjwWz",
             "mint": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
             "reserve": "DyBGrZkGJHrgbxQXo3sh5KKz7YTzYK9gN8fhRSXN2whK"
           },
           "tokenB": {
-            "adminFeeAccount": "CnuUeP3wLSAvEBAMMdcwYnRarzw3fD5xQ5Y2FiY8nHBf",
+            "adminFeeAccount": "9mCbCtHGAAz3TzBBxhBqW5HaLLwHSnpdDBypdMqo2exs",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "DRr3h3DF9wupahxh6vHMFCm6WGfmJWMrrBHoBvWAweAQ"
           },
@@ -4852,17 +4852,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381719,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J",
-          "adminAccount": "FTAc9jevVeED7boiRJKWErCLV9ZqekEDPAPgPvotbSXq",
+          "adminAccount": "HnhUVPEZJN4uPEozuhWHZzJ3N1TPNE6GA7k7fBusWhxp",
           "tokenA": {
-            "adminFeeAccount": "6meUxJVjXp7UuVtX9jMZVMsqgmvy52PJS6t1P8aiBypX",
+            "adminFeeAccount": "HFEGCnijsehtSwK9sEvTRqyscTwYGRS3kURz8bdkuvV",
             "mint": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
             "reserve": "56TsbS21JcCVgD8x7HDivK371QPWhNWPvH5QPA6oqmTX"
           },
           "tokenB": {
-            "adminFeeAccount": "BgkC6okBiNua5EhLYNQxz13EUT528QvCMPzkzZpdN6zu",
+            "adminFeeAccount": "5cDvNLTWtxz9NUwjU41rfPuCWZzEXcJdRmCiM7mLEVVp",
             "mint": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
             "reserve": "LRiFt5Sa2dCx2njaRMTVtkxKbiH2EJV2KN1b7FjMube"
           },
@@ -5050,17 +5050,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 254,
-          "futureAdminDeadline": 1730381709,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP",
-          "adminAccount": "8sMyrCKaPcwAV1RCkG2L7nZXoXrNfeX7V6h7hq49TPrf",
+          "adminAccount": "EdAznJQTjbyAnPZFQmyhwjx4u6tXLDW7RnTRo7R393m7",
           "tokenA": {
-            "adminFeeAccount": "2ckZv6RqJuU9wjYGgMd4h9ZD4qBdiU7TC3sdsEdNR8fY",
+            "adminFeeAccount": "Hi1ack2fcPpQumVVtxcyh8Fsypt7Kbwk8tSQZWFfapxD",
             "mint": "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
             "reserve": "4xkyD7AfGQDwsQMy9MosRRNGoVJ1zosNinesxg1TzHG7"
           },
           "tokenB": {
-            "adminFeeAccount": "EP7vfnJedUyTAVeUxDc64UFGFBupY11DWiTB3p846EfU",
+            "adminFeeAccount": "3Zs4rZj81e8UV7jX5uuVSk5aS7LpNFKadXxU4fxeRNQv",
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "Cbm5gsQe3nSiCsFrvepVzMCD9xLK3ri9g3ypS2hdmVJ7"
           },
@@ -5251,14 +5251,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
-          "adminAccount": "3mTb5EuFPHfbsNN7rTRzDCB6LykbDZKGiCpCLL6mNmSw",
+          "adminAccount": "6kRtv4YLcoGG2KZBN5Yricr2tvQtCeq9nJw4jgf6YfN2",
           "tokenA": {
-            "adminFeeAccount": "FyDHogJW1qWbhKYekKwd9EQSJrwZKAZN3vT6KwwnmT77",
+            "adminFeeAccount": "6e8yMTdZav8yFNfxbLzkSkMvVe2HPeLKdVjxoBkZWeyB",
             "mint": "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
             "reserve": "D6d156U1bPiJpDYRLextvDRccgFk7QzkQbJg42ceKEu5"
           },
           "tokenB": {
-            "adminFeeAccount": "8FDK1MfsDpGLvWdinWRShnyvT28Q37xttHTrofgSUnNJ",
+            "adminFeeAccount": "2re6UnzsjobMxLmE3B4iNVKzXX7hiuBM8uffotCdpV35",
             "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "reserve": "GNcM8U5g8RwTZffwwm3kSQqUNPSwv5d2fbN9sLxPJqt2"
           },
@@ -5454,17 +5454,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 253,
-          "futureAdminDeadline": 1730381719,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV",
-          "adminAccount": "GedWR7tUUKy9aMmA4dH3sd9MZmhLAB7RrbbDtKQnw2if",
+          "adminAccount": "Dm6Kg3SGL8sfWGCmRsYQZVVGE6U7gWL3tT2SXCKgMvbN",
           "tokenA": {
-            "adminFeeAccount": "4e7K1sRxauEPf6XnTnnnbSKi4zjda2LyChpQB4qPJYTd",
+            "adminFeeAccount": "9eeEiq5zN8RtvpZhehMrqijZ483w5YGEyGfV62whuqiP",
             "mint": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
             "reserve": "BKWm4TRnTeKwfWXRyuzjRHU7iZDkPuXBX5b5V5jSVfGJ"
           },
           "tokenB": {
-            "adminFeeAccount": "BTJxL7z9CzGEvNo9oN2keWykFfErcVnBqMMZa1BNU31J",
+            "adminFeeAccount": "FcR7AbLq21PCM17B6QWFo4BLzHgRgLssT8X7vTCQgFue",
             "mint": "So11111111111111111111111111111111111111112",
             "reserve": "A5Ww74HVrkj9nPeC7pHKLfgeDMEhBCpW1efQdz3TGLEg"
           },
@@ -5664,17 +5664,17 @@
           "isInitialized": true,
           "isPaused": true,
           "nonce": 253,
-          "futureAdminDeadline": 1730381719,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA",
-          "adminAccount": "DqUEupEqoS89CLiGLQm7JDxvAfG7VPQoN9TnPmMpwSYi",
+          "adminAccount": "AXbP3iebe9an86RiG2ErZSC28BTe3LEy2j6Sk625jETW",
           "tokenA": {
-            "adminFeeAccount": "C73kp9FLqEC4ez8zZaLyuPiC9yHpt22Hixezcy8C5TeT",
+            "adminFeeAccount": "J5TrytePzomx7uWHTiYjMLDswgsGAVwbrDaFGrWGQoZP",
             "mint": "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
             "reserve": "3k54TvpQN5R1MactdGnJSnXzu1Wozx76Pqvi1k6mQYPz"
           },
           "tokenB": {
-            "adminFeeAccount": "3Q3MPaCVMK45Cfsd64PjytECaF2Zk3awUGewqsDYEkz7",
+            "adminFeeAccount": "EGdXjyzkYMjoFCPsCJoheADKLWX72C5VDTZXrTP9QPTY",
             "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "reserve": "417JcbvTQCRk2yowySN8MjtJuHSU8dTsGtVcFL4ECNCA"
           },
@@ -5887,17 +5887,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 250,
-          "futureAdminDeadline": 1730381713,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY",
-          "adminAccount": "8cdnPMjDsQPLCtg5ry3Bb72VUmhDa3LTFUtDoFVY73hy",
+          "adminAccount": "6JGwTTnby67E6d4J1tATMPbWL8gaweZ5USdRnwBFncsU",
           "tokenA": {
-            "adminFeeAccount": "6syQtWWchQyWVxmm4aFWGYjhePT3GapZU3g2P6rdDeQV",
+            "adminFeeAccount": "93atppqNN81mBaJSmPdypCtxFDYcDLCvwLD8m3T8ozm5",
             "mint": "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
             "reserve": "C5MQPbuYwVKN5VNCYkSLC8iaUkgWbM2yPxpeMhhsXukm"
           },
           "tokenB": {
-            "adminFeeAccount": "BykDcrejZUBjkyYnrcCjvZv14rkiusJLTuSFSmLGL2pB",
+            "adminFeeAccount": "zDitKkv2s1Ao7jYL9R8C8KRnM7ogg5Uex9N6PhTBWfX",
             "mint": "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB",
             "reserve": "svkSYboqedQUS7zLxKx7VZjPJ6QAcpBQixFDdUkRCfq"
           },
@@ -6136,14 +6136,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer",
-          "adminAccount": "8Lvn3TqvTdHqk9ZsrErsXyGgCfz7AA7zPfxvCeARkNHX",
+          "adminAccount": "EqQaEP7HuzhVrPebp2f8RThkArAkewXbyhEzMYrQYKHh",
           "tokenA": {
-            "adminFeeAccount": "EJHrPrSogaFUehHo1hWWM9ii1ZZbABE9MLd3kBCo8CVY",
+            "adminFeeAccount": "8afw2U3h9dptpMVSM2LGiF6cVrL7CMC4xf2o1QYkYuvY",
             "mint": "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
             "reserve": "GA7UoHChxwpLd1Sx4pK5jVA575zWAxNveJPPkayrvJV7"
           },
           "tokenB": {
-            "adminFeeAccount": "D9N4wzL1JhBbPbW2UoWQuxQ3uu6DvYUnCMYwT6QFemWf",
+            "adminFeeAccount": "DUz4sfmXcyYNpK1exwJ3VrmH3CkXduZWxr9qfcaLgELZ",
             "mint": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf",
             "reserve": "5rSTM7rrLvoWerY897n3KhbpuQyHV8ZMuS1pHJNAwMnQ"
           },
@@ -6345,17 +6345,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 252,
-          "futureAdminDeadline": 1730381698,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv",
-          "adminAccount": "CPf1u8o45ExTFHgSWY5KxcBhGMyWoTF6SfLVfoqHVwNr",
+          "adminAccount": "4bssT1y3NLH432znMFjL7BndPyuksCr3m4qQ3aiCSgJ5",
           "tokenA": {
-            "adminFeeAccount": "6BVQ861sMH1jckZoBhL4pzTZsVJjmQ8MLT1k8TxFip2x",
+            "adminFeeAccount": "4KT3dBSkWctjn4QRBzVeEEr8GMaErDErBBaRKuykN3HA",
             "mint": "So11111111111111111111111111111111111111112",
             "reserve": "6TYyD5fUmDe6N65avW1Ny2RxzRNobw2RRgKwH9CTzSAU"
           },
           "tokenB": {
-            "adminFeeAccount": "DYvbmehrnyUpxJAWfg3QtYCK4ighJ4PkVhUNe3cU7ybP",
+            "adminFeeAccount": "DUdMQP8KcDPFcy4p6s4QxxXrVYBsFTjps72A6QNZvhFg",
             "mint": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
             "reserve": "54zDfk4cx2vGrEajPtodWpArNe5eUurytyxd4X3aZAxK"
           },
@@ -6536,17 +6536,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381719,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "HnrhvF3afyzepJCMUaLChzfZrq6aPLKuEoXmMNHYr1MW",
-          "adminAccount": "FhTaetT2MJ3GkDeAWeFe9mb7RMbWxrbUqrL8uzJH7iYW",
+          "adminAccount": "6kpNbgYQMNf9oTqmoLwZ6mCdjgR7J2u8xT3Y96ZqzQPv",
           "tokenA": {
-            "adminFeeAccount": "By6Hu6VLx3mKG1ssYwNB2cEx4STrVyF9SzVRv3Y9qgYm",
+            "adminFeeAccount": "5yrFADJ61xWN4WdjDLRXYAWoyT8Q8DDquitR1ADfNdJZ",
             "mint": "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
             "reserve": "6f5RDJQaTYNyaryUtiz1pDBa1vJ43xbpLkNTUPcTDmX7"
           },
           "tokenB": {
-            "adminFeeAccount": "BVEe3vPWs8v8ZwsXfsN4fPHFANGbUimjSNkTgrkUxecC",
+            "adminFeeAccount": "74ghCuMAfWYfDJMcnkq8p8gsHrhiZo4p5y5z8ED89ph",
             "mint": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
             "reserve": "GUcn8gaZetXg1U38DKcH4RrNpobis5dtMoSx8iVdk5Sq"
           },
@@ -6748,14 +6748,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d",
-          "adminAccount": "3BCM299s5LYCiAxydKNkcNFY6b5bUpiCexvtsQikpTwn",
+          "adminAccount": "HKMKTBJsVkav2NiGgpdZEW7yJgyrPYzDiwa69tFFwvuS",
           "tokenA": {
-            "adminFeeAccount": "EUQeMoWC4Vyg9GiXHA4JpXyLbtdKdhXDrwcnSHESjANn",
+            "adminFeeAccount": "2RSR9yAENBgSUJbG1ALyFchvz9aHRRmU4FkoqBosrkLk",
             "mint": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
             "reserve": "EpzdShjkVvVN3Kh2fiEPULZgurotDMeFCx5yaJMtUWCX"
           },
           "tokenB": {
-            "adminFeeAccount": "4d3tLPUTKKqkSqYUuKQUgb1SojumrWoVrHakzjdZxio2",
+            "adminFeeAccount": "3gwm9sHiXAZLCkAbRkT9sYfdQLPZKjasfpajyrUP2Krf",
             "mint": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
             "reserve": "ChKCREZDUVRtZizKU5UFxLjuu6oRo3vBG5DsdMZvA4ak"
           },
@@ -6973,14 +6973,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
-          "adminAccount": "E2gajrH3ztUMEiGZeqWCqaXMsWNzW6yidAb6Jiu9GKJS",
+          "adminAccount": "Dz7V5tp7ce6826LvTVsKGi4c6AEaANyuVuViJPkctrHq",
           "tokenA": {
-            "adminFeeAccount": "BtWyCxodyYWEXED61iSZoD4cng7E7rCRuuHJj52CRcBv",
+            "adminFeeAccount": "QxTVo5qavyWk2Q72Mc53kMdmoLqDrCQdJCP8ENj9kd1",
             "mint": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "reserve": "35yX27bmurdebhfAb8EPmjLETDiUaEUCn9zHaDPbakH2"
           },
           "tokenB": {
-            "adminFeeAccount": "A94zn3axQ1PyMsrFzSH6KHKkmTMkKHPwJxsczVjShu9u",
+            "adminFeeAccount": "3dchdDDZ7XisK5C2u77bdPYJqg3G9etetTDrCoShyxw5",
             "mint": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
             "reserve": "2CxECn1ZJFoESyUnQysQU8rRgT3iJ5GRs2Mdd6gZjx5g"
           },
@@ -7193,17 +7193,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381719,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
-          "adminAccount": "8GAo2n3E7jcrZeK9SyXvX7TG8xYx71U6BWRk91s4qcMQ",
+          "adminAccount": "3L4zzVvGnvNkAK7Rz33F9XpooHKBDcBK7xKN3BGAiaX2",
           "tokenA": {
-            "adminFeeAccount": "3WmdrG1ESnSDYes4ENnXzyp6bbHjP8badDe2qaUf2iRG",
+            "adminFeeAccount": "J8SCPZ2cbYPYPByMbEhmjn751heWUjAxjv6cczhinV4D",
             "mint": "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
             "reserve": "5uerVwBnZQsuVhZ15igs7ZgmcqhHnYWbwoRtLyRqLvR"
           },
           "tokenB": {
-            "adminFeeAccount": "DoEoomAbK5aFkzSF1QmdN7HAToQYGsUy6MVthUM67hzT",
+            "adminFeeAccount": "FEu78sWJD8ShYtKshX54kUMfumf7CXyMzmL16SBL7Kt1",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "9YWiQh5d4jCtgMdzcGLv9bWgnLaFtzvDDh2nnhJdzhBX"
           },
@@ -7400,14 +7400,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "C9U671d1LZPaB8Mdo3ymJ66FB7qmzNXKcuH5raGRsj6v",
-          "adminAccount": "FvKFEg3Fov4TXqQ5az4ZENpkCnLtnixuhF7P8gpTv1X4",
+          "adminAccount": "DPHAy1fiFDj4M5XJ6NV5QwzMo5pLRmS9Z5jyM2i12Tvg",
           "tokenA": {
-            "adminFeeAccount": "895Tox6bAXCyvtahAFBSTAHQBTpUEqyTh6xegFbrJ2HY",
+            "adminFeeAccount": "CbqucVNSqYg8Sao2R5AYJNgDtiX1x7eiayZbAvc7PrxD",
             "mint": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
             "reserve": "CSqgQJurPCzGxb4Cgwx5R61hWQUiaoUHcShNc8r1cKEL"
           },
           "tokenB": {
-            "adminFeeAccount": "AMPcHtVT3tM8MrYNqynk7GLj1ij8W3AeMAoy4DWoVvQ4",
+            "adminFeeAccount": "93DDFTCgEmeuCqdVNGsZcEUoG9gVZLNqEZS6pB4KwUQu",
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "6S2CR5EnukPhC914XkAns8m5GixjMAoUuZMsS5ubHuWc"
           },
@@ -7619,14 +7619,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa",
-          "adminAccount": "GsVQCAzyUViUhubyQMtphmyWFRtR58kHUidV7KLimDuY",
+          "adminAccount": "vVPaZdiEGhWz8M8TphoFSUq7sepuESZqsVwyTU4bPDu",
           "tokenA": {
-            "adminFeeAccount": "4rhNyLHLCkfJ1DJQqt5cUcAfWd6oNJCUNsuni4QT5YYz",
+            "adminFeeAccount": "9NnFiptKSvuLe6Gom8bLnJ8hGXuufCjaqAMAVWBLR8Xv",
             "mint": "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
             "reserve": "78XKqNb8wbfsMMrvo8WPUpdx7GEkfQutpNVH943aCGFa"
           },
           "tokenB": {
-            "adminFeeAccount": "HHVkZP3R6vi2wfuDc2RgNpKxqW3rJF9qdr56LhaotsL9",
+            "adminFeeAccount": "4iuciWVbagqb4vbnjxbUhGjLgLoNya5LtfzPQJSfhxar",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "DKYQwn4nDvFHCszi5tXbqfVMAP7DaXXp1KGTXEnYnKVH"
           },
@@ -7825,17 +7825,17 @@
           "isInitialized": true,
           "isPaused": true,
           "nonce": 254,
-          "futureAdminDeadline": 1730381703,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
-          "adminAccount": "4a8uewMhD5ZzhtfKLJfL7SkJ3wUAoKNNQnVzmZJ2UPWH",
+          "adminAccount": "5t5pZFis39UkoJFirDV8E6t1p8ByrM6tB4AUsE8qqmNK",
           "tokenA": {
-            "adminFeeAccount": "6gGA2BqJqABm7pXYLp1QS8fLm9jqn88PgbFor7P3ZiQj",
+            "adminFeeAccount": "85JZT9Zonb4w87vamd87c9oMXFyUpdvJWXHYsAwE3kZx",
             "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "reserve": "7EifTDGz2nEU7DiE2UuuBX9Efkbdfad47mgr7Bqrqo8Y"
           },
           "tokenB": {
-            "adminFeeAccount": "8jga6BnwF9aNmv7FZ9dzVNZZZjBTLJMoJHRzqk77rQD5",
+            "adminFeeAccount": "8K7ZcsQWiq1H4qprW6qXrERAHAfzoVoKCk3W5cX5QuSt",
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "FoL4JKwgaRUnf5c8wZDYdSam98NepnZ6oJDNFqPLuRvr"
           },
@@ -8016,17 +8016,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381688,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "6uda2yUDpEHUudCAxRy5mukRFSiiHxrBg9nN8GETk66x",
-          "adminAccount": "3x399mmjZ874n7yS5TCUMfXNHNbHm55ktDtKaLihXTH3",
+          "adminAccount": "EC9a37R6UWpBA4evDogWAKbRHYgaapr6744XypWLW7K6",
           "tokenA": {
-            "adminFeeAccount": "GN6LGMaGt8pgGgPrv1kWAxMohDvycMev52UKDX6JbSym",
+            "adminFeeAccount": "DwYEdLN4tQZZrrUtzfkNxrqPFWq2qRRwmB4U7pMLeo3P",
             "mint": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
             "reserve": "8dw8Z9RWNAThEERmbT4Rt7yPg3vPh5Ppiqod415D455J"
           },
           "tokenB": {
-            "adminFeeAccount": "AoTstBiVz6oo6cgu2AvwPrUVCtiM7gU7DRKaMS2PnFY7",
+            "adminFeeAccount": "9LLLVqYaWqj9mYQtvHNCdnoewMafJcmRibiH6wcDKY57",
             "mint": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
             "reserve": "9u5iUP7wTUvMbAWAccwXETndPqGmDHm9QQaxqTB84WLc"
           },
@@ -8242,14 +8242,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh",
-          "adminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "adminAccount": "o7wyadXGjaZuj9owNmiA1WxDizhod7wx3esLk1oF7KX",
           "tokenA": {
-            "adminFeeAccount": "6Z89E44paaBKP5cvpbUjznhs5eLmUdvSKnJdASZMEu3v",
+            "adminFeeAccount": "CdmgBjxC67K5DzGYK1hGgM7FL3w24KzekD9MEMHUqAPD",
             "mint": "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
             "reserve": "A7VkMFrnCCyeZFUrQ3TzDr4xFep7PZtxvy3jJnBjLB2a"
           },
           "tokenB": {
-            "adminFeeAccount": "4cDRUtsATQBmK63FXYRVnS4TD16vpcf5HJiZrQW3dQNE",
+            "adminFeeAccount": "zFQDzWKhE8rE8QCJZD5FSnwgd3MNDjsbVpEifZpSNRg",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "PhfHJ2Yu99BsEjZrefhApqUnLUiExcECcUT1YLoNUUv"
           },
@@ -8431,17 +8431,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 253,
-          "futureAdminDeadline": 1730381689,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq",
-          "adminAccount": "EvzneXfvqdqV8CnBwSj7j6TACBaCV3og6v3XtJHtijVt",
+          "adminAccount": "GQSLjzwjESHRJo25KmGZHdtGwnSX6mPf7QLcubtaHxmZ",
           "tokenA": {
-            "adminFeeAccount": "DkUYfaRmYEnHjKUKq5QpmH5uBcGDdcMcH39ApTmUGPGs",
+            "adminFeeAccount": "5mEy4826uuQppiocNszaeHbgRdRWiLKJyP4TtopdxNXr",
             "mint": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
             "reserve": "59yKfuVhpj25V6szKvxj6g9fPnT2SzoEMinSPZuoQ79R"
           },
           "tokenB": {
-            "adminFeeAccount": "C224XyrKy44bAher8Ah15VVYHfMJ1VUP3X7sjqPm1Kvk",
+            "adminFeeAccount": "EBg7QgGDJTwY8aqgLTeZ5UGvA8zaBR6KxNnry1jfZqr7",
             "mint": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
             "reserve": "6NFcMVYq2TCU9f8yy7nSXst2m1LFqq9idqa9vg3SSTZh"
           },
@@ -8637,14 +8637,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau",
-          "adminAccount": "HaktMS5oHXg6uABCe9nQN647HUsUMsZRYw4PHZLd3jq7",
+          "adminAccount": "QUDyBesKnLgvz27Ywz91FDmsqta3uDpdcc5QDX1qm3f",
           "tokenA": {
-            "adminFeeAccount": "ADD6MDiJru8GkJuML8BgRy4sviw1C9fRfPZdVbfiXw1J",
+            "adminFeeAccount": "4uZZsbKGaHrxG44wsPonLPPb8LDdfSz4Zfm1EithsDjH",
             "mint": "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
             "reserve": "AJfM2GZ2tTB8UtN2krcyR9xufRJEx2mhSCbJyMgPo3GU"
           },
           "tokenB": {
-            "adminFeeAccount": "pbE3un9N2fP8CtJDH6iKkuKghLgGxq1gEytkW25sD7T",
+            "adminFeeAccount": "A13uAGqQG4gaPa5jStACU8fPtbrzYqhekCPPnaFFUJQP",
             "mint": "So11111111111111111111111111111111111111112",
             "reserve": "F4yRYkufQvERZcEKnKjJwRLU1btiMBUuEwq46hfm11QD"
           },
@@ -8655,7 +8655,7 @@
           "fees": {
             "trade": {
               "isFraction": true,
-              "numeratorStr": "4",
+              "numeratorStr": "1",
               "denominatorStr": "10000",
               "isPercent": true
             },
@@ -8856,17 +8856,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381688,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
-          "adminAccount": "FDXCELsnp4bB1PkCPxbnP914mvFwbR9CvPaoGsR3H2Hy",
+          "adminAccount": "HPeSJf749XeFAHg9pkQEwwaLWmzK8BYjZf8qUKf3JyA2",
           "tokenA": {
-            "adminFeeAccount": "GDSsjnL3rFjVnkCSTnegk7MsJeDSpw5DjPoqkogAyDSG",
+            "adminFeeAccount": "6mBA3h3PEw6NfaDBdB6w2QYt1NbFpQTJbfCjDrbjH8Bo",
             "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
             "reserve": "GC5zHpW5GuVdw3C7covC6viyGdLS8ZAaVGDKMeru7p78"
           },
           "tokenB": {
-            "adminFeeAccount": "HVi87EnZeejoSucbhSkg4tCrLUgDe2YYzrzSXMjSbURG",
+            "adminFeeAccount": "6MSZujPWKbDt46bDZo48j7fqFa4xShwSgKWTNUAjLkXZ",
             "mint": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
             "reserve": "F8juxtAFueW19vxkdDArUkjVWAv9QV6yy1wCXUWQiXvh"
           },
@@ -9076,14 +9076,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq",
-          "adminAccount": "AqD6LzqqdX6YJDdfKTLPUhddNC8HRW3Esdn35UK4qMsM",
+          "adminAccount": "HrV9KdQjKrwjRu4xDz5Td1Ra3VYNXmQtnYzX4W7mnPE",
           "tokenA": {
-            "adminFeeAccount": "3GqC6iqnZEP6pVsEsCcTgrpcFbjwuJZYExU5Tk4fv7rN",
+            "adminFeeAccount": "7pRkYR5g4W9eCvX8YR6FCiNsQWZnTqDvE72frabS8MXV",
             "mint": "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
             "reserve": "2jLa3LzFouE27ZQDnuHWUMs7ZMtkCNj8uatotPdi4Weg"
           },
           "tokenB": {
-            "adminFeeAccount": "CQgePXshqxWW2fZEpd31nLvyAWTDNtvhmsMYv6kn8wpB",
+            "adminFeeAccount": "BobumWmnAAsgWuBrfD42JsYRZjiQEXqb26FdZx9eoWiX",
             "mint": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
             "reserve": "7KFPJ4VJp9MYsHXpdm1QJhkNEdq5dFqLm6Z17gVsWTW2"
           },
@@ -9298,17 +9298,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381719,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik",
-          "adminAccount": "DhpsqCN3Z5Kfp2DLnF4C2Qk623EncpFxrL3UzGnumMi4",
+          "adminAccount": "4fFnzWV62vyTMXe7NhXLbibmApGYc5wxLnhNUwGjQce4",
           "tokenA": {
-            "adminFeeAccount": "J5S6FLKL4kCxmtFc3vXQtuZT6rLyC9cDvYzTs9xq4bhN",
+            "adminFeeAccount": "FRFW9mSbdxdmZehxamSP62C4g7fYArp8ruHWYj9jSb2o",
             "mint": "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
             "reserve": "5DjHcTbdZ567fzf21YgDhKDKAu7HYoYsMW3fEx3fqDWJ"
           },
           "tokenB": {
-            "adminFeeAccount": "7xppk4QcFD2vUpVfePKug8Ut4fB9A5NLzvvAsUkG6PPJ",
+            "adminFeeAccount": "8fiKpJcz94D5x3DjbwvAPG9wx1P9FmEcwsGwr13KNf6",
             "mint": "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW",
             "reserve": "Co2UdQpmfKcYqUkCBB7FBpiSbtq8woMhzmFpNhxEk2N1"
           },
@@ -9524,14 +9524,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK",
-          "adminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "adminAccount": "5DTzgjrB1JfsmhjYuFdkCg9eCHunijugHG5v2mirdxVV",
           "tokenA": {
-            "adminFeeAccount": "6zDvg7GVQuddPkhyT1wBHYanXEUchDkaiigzQgY1BGa6",
+            "adminFeeAccount": "8x3FCEioDL4vNNDgcqTdo5HozswCZr2fyPQkk4XJ1saB",
             "mint": "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
             "reserve": "7eEYpq6ShaJ9opZWMxitRFrdCHh6vfyHhGfoSvFht3N2"
           },
           "tokenB": {
-            "adminFeeAccount": "GYJ4r6sSE4eMevkhpGxoYXG92W2xb1khCQF7uLaMsm3o",
+            "adminFeeAccount": "Eie9SagKW9MdR8fnWTFbm8iLeQqGbeNmd9q2hSNr3p7w",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "H8VggnHmuwd1wvwpT8eg9cUJFEfZ7HAaeYjgXrSm7A2u"
           },
@@ -9757,17 +9757,17 @@
           "isInitialized": true,
           "isPaused": true,
           "nonce": 254,
-          "futureAdminDeadline": 1730381703,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n",
-          "adminAccount": "6rsCTVDP9nAi8AqpEy5hEYVMSFczgpeeoZuD7JacrSiQ",
+          "adminAccount": "6zEYiuoGeThTE6AhgKF7EqYNw2v7yXkjcYRRMPEepusv",
           "tokenA": {
-            "adminFeeAccount": "GU872PMSGjvg8ei27EutvQepH7nwX9i7Uf4JSuDXizgu",
+            "adminFeeAccount": "412fY1vAgJ8Z6ic9YHWS5umqFpmcMzfk2zX5zg1c5wPi",
             "mint": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
             "reserve": "DJZorZYrYhSwyw4oCBksDZVaUKvQtiaf5H1g285VPgqg"
           },
           "tokenB": {
-            "adminFeeAccount": "5xzeGWjFvmavCuh7TesqLnSarq596yC5FfzWGA3cxsNx",
+            "adminFeeAccount": "FBbys2ZTNwz35Mma4KGjL8Pki7inVZGprcBQaEsz1oM9",
             "mint": "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s",
             "reserve": "GQ2YPKtfdjPJexWKFak1m4T16yHyWtbqkoGGh52QGmRX"
           },
@@ -10003,14 +10003,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
-          "adminAccount": "9FqHS2BhCQH5Wy6ACjHXbktCbEN4RsBaVhiCBrf4hPKM",
+          "adminAccount": "4vZYBYR9ovVaNCA4t1j4XDisZKoAAiK1p3TCWM9hjgC1",
           "tokenA": {
-            "adminFeeAccount": "F8Bk1ZaBJz4FkMwXq8X1WiCB9wiRATiPMu37kkje7gJB",
+            "adminFeeAccount": "7AfSQaLnLVbJnfRVDYB87gh6KwRTwoS8phxjHcXPquDU",
             "mint": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
             "reserve": "6jPzm5TFfquvgm25sTyN3MMGBfufRaFHMxobDWv6hMFW"
           },
           "tokenB": {
-            "adminFeeAccount": "A2JY3iRfCZrkJaZs2dUkuvpEvoMFCpQgjcyE4sV2zZDw",
+            "adminFeeAccount": "8WSx8zd2xdu2JFyfUMhPBxpmyZ2Fg5CpEnVGHVUcAbLu",
             "mint": "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7",
             "reserve": "Cj9ECoDmxsHTDzCY5ZA6RWrPbg9uFzEC1Qc2kso2vJG6"
           },
@@ -10244,14 +10244,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7",
-          "adminAccount": "6wBsm3V8jaYohknfs2wdhuiBEHcRdyzppCrb6QMJt8Sd",
+          "adminAccount": "CDJ3hLj4wUB3XuZWH4wj7bNJHinFVmNpEwrLpBvkPbQm",
           "tokenA": {
-            "adminFeeAccount": "w3F7sdqZNgMGhcdoA4xY5ZXtjU9WZW8xUbGpyP768GJ",
+            "adminFeeAccount": "BVpiybgGKndo3CQdBaBDHZ5N6LUdCTDK9h75XT7UoBUj",
             "mint": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
             "reserve": "46xwHtnXoQR3wCHUbm2eCAbPYWbioDQ59Te1Db8M5DDL"
           },
           "tokenB": {
-            "adminFeeAccount": "9QGAnZgkoJTTD2i3njtmzeW4yMVSSk4kUA53pQP2NbRY",
+            "adminFeeAccount": "GZWrTsEZhA2KUULr1HD45msFTZvgHFdCdGWFekZaiZrJ",
             "mint": "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt",
             "reserve": "FC38fiikZwFvDt5zTjNtGfKd7LjaPz2uUAzLwKP5pRJY"
           },
@@ -10468,17 +10468,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381715,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo",
-          "adminAccount": "92H7ecfzcHGqoDzpg68baUFeE4NADmCGQonQxKkuu1r",
+          "adminAccount": "3Gi42JNd6FCARPomHqjQhDmEZE7rQg1BcnWKEqBSvi2Q",
           "tokenA": {
-            "adminFeeAccount": "FmAFsnakh4SncY4FhLFa7CdAycpUA6pMqa8ifePPpWUf",
+            "adminFeeAccount": "G6Ur6axvwSE3mCUYPzCeH49MengrDG2ibrD8NrLJtZrD",
             "mint": "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
             "reserve": "GsizhiRtCs4QDKd2LnSQ9BpzvG8CqERMDtHZcQPDkFQB"
           },
           "tokenB": {
-            "adminFeeAccount": "Gtv8pLuiNrYkfZnpwdPkhteETXfjo28gu8PLbKTU4JBg",
+            "adminFeeAccount": "xLGzeXNPgUatMod9bqu927gYXJJue2YC9c9iNFx1fd8",
             "mint": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
             "reserve": "CRaJHfCry6JShmF4tMr6siR2D2QNNfcUrLawTqPVCTTJ"
           },
@@ -10662,14 +10662,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "uitHwGt7Z7ZHbrxNZoTxcufWvEMSUK4LcirXsecffMz",
-          "adminAccount": "HnweCCwu8hEhtFbkLDy6WWEWiXKYiZaRnJ9bJpduobtv",
+          "adminAccount": "7Yzk4WuWgkivCfKyQxAHsmxfTxUpTP6DPQSHwdPYAMyQ",
           "tokenA": {
-            "adminFeeAccount": "5fosjTdUgwaehKPpEfJBasZM3K8kdEAynaAzCdh8ELNX",
+            "adminFeeAccount": "C8Xu8t2CXmViSHY9Jo2MtkVDv3kDZSegUN4KGvwHWGp6",
             "mint": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
             "reserve": "By8AdBf9fLoVfvdASk22faoUCfSSUgiErLDBorUxgN6B"
           },
           "tokenB": {
-            "adminFeeAccount": "Cbuts3c1nYef7mVkTSkDX1xe1s7TBqGecF6tWf7nvs3N",
+            "adminFeeAccount": "5NzKmAnGcQHdHpN3biAFzxedhhTDKtUSrA6f6cgD7uNP",
             "mint": "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX",
             "reserve": "GS7bJwBmHiMS5joEcC4gUvUNoYZDoX4srq4DqUTEKEWo"
           },
@@ -10885,17 +10885,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381698,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS",
-          "adminAccount": "7aWsoASuLaK5QqKZS8A3TGib8wx5w1XfKSAGRqPapdKu",
+          "adminAccount": "3abqzVAvohQCbPauJvs5vEwoSRifRi92TA5p4zHvPzf4",
           "tokenA": {
-            "adminFeeAccount": "8BRDKte3z6zq2MoNJNStbNZuuV63oeSkXNXcjLKNbsL",
+            "adminFeeAccount": "HT6qYShpvs15M4xLKn29gCXD19Ks4FyvYC4fBUEPPfqd",
             "mint": "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
             "reserve": "2mUxDu8NrhSKhQJMgKfYLxJqZzeEbmwhQdHeHMyohyuk"
           },
           "tokenB": {
-            "adminFeeAccount": "7EkNdJnxsCMHJ7eFaZuzCCoVpwbCPg8NaCUwgGhNkEQ",
+            "adminFeeAccount": "xfzwmDKkrVwJgqi4b4sjasPn3XzzmwqYHq52hPiWSSH",
             "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
             "reserve": "AZCBmDBcFsA2jHHhfFJBTsWCHx9XnnKmGfFsue3ZVW1t"
           },
@@ -11111,14 +11111,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "BADGsQo6rTxKZuqkY1kSoqhriQwZW3ZVgyPjgDk9mvyo",
-          "adminAccount": "GYy4BUnHozWRxjKP8mz2T1AXv981cBvXUfZYwXDKfWph",
+          "adminAccount": "BaW8m1SMk2E4yJRdePzd6JXtNX82i4aVXitekSHYfsKp",
           "tokenA": {
-            "adminFeeAccount": "4S4qeth7kHVRKNHo6RbmVyBgeYGK4SSvWLUY5sPDHqQV",
+            "adminFeeAccount": "8U9HZ5jJ3PqVxAA1ivzJs7xtukFZuWL9Pmevn2TrA9Ht",
             "mint": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
             "reserve": "Fb2Zdo7hWjMmwMXn7589WbPbjVPxVUQgPgs5cAcStJm8"
           },
           "tokenB": {
-            "adminFeeAccount": "BFV1kpikR9gCzM8KakXLN25cfMP8VsgVBFyqEHNkRStG",
+            "adminFeeAccount": "F6E4PEHrgifotbnKnnqe2uyEJBeMDJwLgMUh5LhdLRbu",
             "mint": "9999j2A8sXUtHtDoQdk528oVzhaKBsXyRGZ67FKGoi7H",
             "reserve": "AjVXZPzFEShWkGASQv5dBp9r4Xf6V1mvyHWfH5UWF9c3"
           },
@@ -11323,14 +11323,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT",
-          "adminAccount": "4UaNQKQBPzBVrJhjfqtv4bHmcrL6DTy6KN5H6W2grNg1",
+          "adminAccount": "3x3Yy9LvkmJFswoXKGMu4zmKcWjgrYj5tVfe4tjR7xSL",
           "tokenA": {
-            "adminFeeAccount": "4mj3SDyGGMpWGmECFiwY38CA6sLxBgLqjERJShC3B9By",
+            "adminFeeAccount": "8CAUfJ3cGeAAYX7YEAUC7VEB3dPMXs2sZAuti2mi1hXz",
             "mint": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
             "reserve": "CZ48nQQ6GK8Z7hGBPdxTtMzRBA8werj5iciVJnc3vz1S"
           },
           "tokenB": {
-            "adminFeeAccount": "DEtSQshR5MTo2wzgwACG5SjwmpAUqRTyMeqKxiRgbgCY",
+            "adminFeeAccount": "73omECErRK6P3vrVgAFBpc8rRQjuuyreV1ShqRtMGUed",
             "mint": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
             "reserve": "G3nLYyvP46npva5MEobZVJhcDNzJ4rrHgLGJMtvyad5c"
           },
@@ -11533,17 +11533,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 251,
-          "futureAdminDeadline": 1730381709,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
-          "adminAccount": "3EXaPffAJVAfvyo8mAvGs6YkLv5VTygQDK7kdNf8hLmZ",
+          "adminAccount": "CV9GTHKP6o9DC2CmkP34inFTrt2bg43PkXcvTeJgsuvW",
           "tokenA": {
-            "adminFeeAccount": "L654oTbsHiU6suMLKmqrsCTDiurqgBmYPkbkHFTtFr6",
+            "adminFeeAccount": "Avhfi1j2d5zApwwS4acsa9aXm5dH9GCDcb5dm2zogzBV",
             "mint": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
             "reserve": "xG4wXczA7Dk4hccJ61CHKpDHW4NrNfQwgmWgkb9BuF2"
           },
           "tokenB": {
-            "adminFeeAccount": "7EADztM7KHFSXoZVshPGLSjBDm8jnoshM5gwqZqzBsbV",
+            "adminFeeAccount": "9d93kobesDAdABQPTT6GLq73N329sdJU5K3fjpdiwdxn",
             "mint": "So11111111111111111111111111111111111111112",
             "reserve": "BVR6WgfhsRr9Lob4QDnkEAiNGgAbv7ZieKcY9kSg3QYR"
           },
@@ -11724,17 +11724,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 253,
-          "futureAdminDeadline": 1730381715,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "Dnsi7JaXXiohSsw4mPjbSoc1L9FyYmBnkw8gdnJZzKpY",
-          "adminAccount": "8WcKsbM6jQ9Qa4hDhiRvC2WBZWMY7Y7BfrKPedLeZDVN",
+          "adminAccount": "786iCiDiSyDDMsCJ6oBL7maomXKcW9HwBTAK4KttJRwY",
           "tokenA": {
-            "adminFeeAccount": "AZ2TzqAJLh9MtcZdRVbxQyZ8mYKL4MB5W2bARNBn6bDi",
+            "adminFeeAccount": "522wAEZjydud5e4tgmucnEwqRpcyniuiD2kJFc8zC41y",
             "mint": "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
             "reserve": "EryJ8EQ7BWsqidkhA7sN3mYC5qbnaZ3G4zHMVw766SPv"
           },
           "tokenB": {
-            "adminFeeAccount": "EkEZthhXDMhDcCoKaBWx44nQ4MaE7M4kiVXLpHmdU3xu",
+            "adminFeeAccount": "AK4qCGigPAHrmqhs96LSMTWb2Ka7LaXvpVFvM5fSSBCj",
             "mint": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
             "reserve": "D6tfvn7hg7AZeYjpZKe55BS4kkZfcvTzBAoddvdbPx4E"
           },
@@ -11950,17 +11950,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 254,
-          "futureAdminDeadline": 1730381713,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE",
-          "adminAccount": "7fzNsrhQwGqr5Lob4YsqdzTRd9KHBNptyWmEGRFrqncf",
+          "adminAccount": "3uwFnEefwtesvDEYa3rkBCseLSSaxvVMJEzkC75ywSja",
           "tokenA": {
-            "adminFeeAccount": "EEzYzTTAPxa67vwozPfyf5Q1pFbzhhkktPAFYkQg9Jdv",
+            "adminFeeAccount": "B9fGKPwwkPzmL4NWYmU5RdUYZko7yTMRUPSEBDF6S7Yu",
             "mint": "2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV",
             "reserve": "Au5zcSost9sXpH8AQQjULRXJ9QCJ3kdKehUr1zYzTr6G"
           },
           "tokenB": {
-            "adminFeeAccount": "4KysWyKdL5xrziKL2m4k5AXTAsiBSGVz38bapcCcdaWT",
+            "adminFeeAccount": "E5EeFsme82Gt8tbWc14gpAsGA8MrhmBWXegqRnP4zgXf",
             "mint": "KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT",
             "reserve": "Gx1L7n1YhDWLNfUyCeZfzKvwHJSxhppnk4DS5cZLqyd"
           },
@@ -12171,14 +12171,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
-          "adminAccount": "34hMvpVYhYvWM6wSffNB4h1mTXkjTRXkbNDFTbkjLyUD",
+          "adminAccount": "8owDcuov6jGpKcp4c5VGBL59AoJRdApxwLWBvt1Rg71",
           "tokenA": {
-            "adminFeeAccount": "2tR1oPw113ZYpjFXfAGDqS8AYUd3LwYRoYCojJWHL1P2",
+            "adminFeeAccount": "A7hVrbXjFBqV2p6Jgs5vF8uDm6NKn8rWwgfRC7eeWxNU",
             "mint": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
             "reserve": "DhgiEgiNdqZdRdo195UUHnoEJUtefK8buko8nU97XJUZ"
           },
           "tokenB": {
-            "adminFeeAccount": "2Ufi3AsrUeiJHfW1H56ifNzzaVXPovzoEvG9xPipL6MV",
+            "adminFeeAccount": "F2GEQZUUBRMUd4foSYX171r86jUvo3Zhpx7sgZqkjLZz",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "2K2kkXsouBHtWVjtcgkyiXd8eP3oVBvq1bTJzcVdLLr2"
           },
@@ -12375,14 +12375,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "MDS8YuLqbMS8vsuEevcDNku2BPUTDUyLgfT2nmFvwvg",
-          "adminAccount": "Gs8bWsU3ZScPfvZuCpjXAMaFZwUaoXSLhTDe2UycuotX",
+          "adminAccount": "FAzEvLBxsasqzqtUehRZbk2JRX4Qzp4gzow7NqRJ2QSa",
           "tokenA": {
-            "adminFeeAccount": "572zwE6d1C8Djmub54jis8qTsXueBBajuMiWMDvQccz6",
+            "adminFeeAccount": "Ghyd3TaAMVBBCqMKUC8Senq2EgUDF7WGLGBsoY9AvccR",
             "mint": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
             "reserve": "DCZ1d8kNLgDcdSd99y4udLgwq46mfDXNS9KXj96kQf5L"
           },
           "tokenB": {
-            "adminFeeAccount": "FTktH1QaB8iBiND12TY22onsQx1FKGt1q17oh2BpiPGh",
+            "adminFeeAccount": "BNahbaPpTN1oirUm6ijFWCmvu464Z4LBdSuRKWPR9TRj",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "Fq8GGYQM5Pz3q7LmVMbrXHJgsxA5ev86kTq8yGgGuYsa"
           },
@@ -12592,14 +12592,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh",
-          "adminAccount": "ATbJTL2m8jqXn6YPJSvD3RWZZBzBLcLsTbGZ7ggefJ3z",
+          "adminAccount": "Gvv4jrayMyoWyZ1TaM17jERPFqYpCPbFFaQ9UJLPb3Tr",
           "tokenA": {
-            "adminFeeAccount": "7SnAjVy9YeEoDDHS4U2N2rD9Lcyex3ppaMvCQRUDvPS7",
+            "adminFeeAccount": "8BoCwkzNEmS2ryuLUTFLPg8HWiSxMbCjsVU2df3QKsyz",
             "mint": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
             "reserve": "BDd5iphdX4nf3ZbTuERZpzqApDyBXDYF4DF51KHihT5n"
           },
           "tokenB": {
-            "adminFeeAccount": "BJsLRUj8osHJEm7NsCUGTrrCeuSbhmQAKLRFivr8M7SK",
+            "adminFeeAccount": "34UzJEaLgVRRXT6vDb1JktD6Co41iepQsSEWnNCmFbUL",
             "mint": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
             "reserve": "13XGEQDqaKt7texUGawxfTGnz2j6pTt3k9HsosfJ9uZH"
           },
@@ -12814,17 +12814,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381713,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky",
-          "adminAccount": "8miP3vq3BuAYBa6i7bKTEzjTRzhhXon9CbfXJv5QsCqH",
+          "adminAccount": "2bQA7drNQvaRqE3u7W6gypWCRZ2q8ru19JcFvNonuxMK",
           "tokenA": {
-            "adminFeeAccount": "CibroeQ5Y8ezKTb9LKDZ7SnwrjgVEVUTxbQkUgW6rFgZ",
+            "adminFeeAccount": "3wAWSrX9t2jLeo6QABuEqjG277sy2YCWDPzmnLMSzNWv",
             "mint": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
             "reserve": "Afy2q2hh6Y474pshJa5fnQ6PfEchGyTbKrQpCZw2hr3m"
           },
           "tokenB": {
-            "adminFeeAccount": "9DNEgGo4KxrJKb3ocaJxsHooyYmLsJtfoTQ6cuFZhMaA",
+            "adminFeeAccount": "8rwyJ1qmJr3cidNuWTNVHpZBBq7bsbMqHawCdEuhCaYn",
             "mint": "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW",
             "reserve": "5pXz9ksgjeL8Wgb37bksUaBFMLdFfsNNY3FQnikkCPtS"
           },
@@ -13020,17 +13020,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381688,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z",
-          "adminAccount": "9jLXonhzpyFbTT7t73jD8WNjQyiZYyUNqUntv3DB3r8u",
+          "adminAccount": "7VMiDyaTBE4iFwTSnhN2PmERFUeifnXFjcEsd14GhAkD",
           "tokenA": {
-            "adminFeeAccount": "6dwzNdDgk51HgEWH1Wfe4mikWkZjYiE3AP3JAE16bAQJ",
+            "adminFeeAccount": "7WJLeP9hhnvFvzEnDvpoqn8oPWh1CaJjAH8LMjTSiDey",
             "mint": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
             "reserve": "6VW5GQNyj4LStgmxEHLr5zUfW92vQnmbw8jTnCH7a38F"
           },
           "tokenB": {
-            "adminFeeAccount": "51SdDqP9xXhj9HzcGQenKEPSQymHfebWD1Cy2WakRY1e",
+            "adminFeeAccount": "Aoar5seBKCnnxLxCAoUg95u8ZQAnEnyrd8F9VJg86LvD",
             "mint": "So11111111111111111111111111111111111111112",
             "reserve": "4VPCCUifPeBA1c7HWK358CHn2nyjm8pdTRk6Ps3KmnMQ"
           },
@@ -13253,14 +13253,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "SoLWs9Av7ss1jHXqVLDVCBiDaAYuT4o5uRNMMuBFhB9",
-          "adminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "adminAccount": "HKGExZNK6EJwBf2PKc3aK6R1ULET5wGU9tJ7fqLpqhzY",
           "tokenA": {
-            "adminFeeAccount": "Cq87v8cJhxJki9pzhMDHvnSEysU52u9ioDdokjrnVkDa",
+            "adminFeeAccount": "92bxUq3oPfxTzu73QfRzTJYxHoHHK6PuSKhxG6ySrCH1",
             "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
             "reserve": "8ivTTid27jZnYNc4w3CTA1Z6QS2twsFb8WMwUabeDJgc"
           },
           "tokenB": {
-            "adminFeeAccount": "6x9A5DBHLttZa4CWtqtEY7SLgDJtctfaKX3NYgFtx7vE",
+            "adminFeeAccount": "Hir9SRmeYas4vTHRyTP4Rdm4dAUSy7CaRnrrLynjrU4s",
             "mint": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
             "reserve": "CyXm53PMvHCbeXJBykU46Rcbo28xk5srhMZFg7gv6EYB"
           },
@@ -13468,14 +13468,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
-          "adminAccount": "ApyjTYZ1354YUPnjXM6KKRyrgpjMiYitbYAxFmFNJ28r",
+          "adminAccount": "CLQM1dKMHaLC6aLdrisGcQmGEAsbLuR93hFkPAsKU5ZT",
           "tokenA": {
-            "adminFeeAccount": "HzZRDMiJSqS5oxzfu17c35DChnkx58LZtas16Pgmuunn",
+            "adminFeeAccount": "AgnHsYW4svu3AVqSK5VTTEDT56oyzjpDsFaHmeWgwQ3H",
             "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
             "reserve": "9DgFSWkPDGijNKcLGbr3p5xoJbHsPgXUTr6QvGBJ5vGN"
           },
           "tokenB": {
-            "adminFeeAccount": "3oebZVvPqba2egfdcbNXa1uS13SfSebxMaNVE82FMk7R",
+            "adminFeeAccount": "AeFmCZ4PrKNYFaxnt3fAe4pm8frsPFGpdxGJz286AmaF",
             "mint": "So11111111111111111111111111111111111111112",
             "reserve": "2hNHZg7XBhuhHVZ3JDEi4buq2fPQwuWBdQ9xkH7t1GQX"
           },
@@ -13671,14 +13671,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
-          "adminAccount": "69UavttUJLKmn8huZQLS2WYQeRyd2v9Whk4xD3X7WTif",
+          "adminAccount": "3cVPXybwY8NVSxt41fBsUfftsksWH8XjQKxGGFJGXsB8",
           "tokenA": {
-            "adminFeeAccount": "G3W4EjbqbeeccXWKJzZvpcLzVuZLcBFJ7B6ehfxwQ5VU",
+            "adminFeeAccount": "BPB54YRbScsU6vv9HqgEKH7RUknmch1Mnsvwk8odBESn",
             "mint": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
             "reserve": "NhFM9UXE48PyNAyeyPYA3iXztqKVJwA4bTdLj4ysM8w"
           },
           "tokenB": {
-            "adminFeeAccount": "FYyWVpGubSiCikigo5JQxDP83fbepGUKkyPxLdpx9HEH",
+            "adminFeeAccount": "3oEWjFCezPU93tMnMgqAvCLaFH941acTj8uaKQuZwEd8",
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "6TuFuynuBoeskxyR2cz4wxyidk8dpDK7kAWw3UkjQGx"
           },
@@ -13880,17 +13880,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 254,
-          "futureAdminDeadline": 1730381689,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e",
-          "adminAccount": "FZ6Xp7W4JyhmyQ9278WWkQthyGtHctXiwUbcHC9NFjJp",
+          "adminAccount": "8phkdYfbRjCPSeo3BeCrFvMJcRtWTcYrXTR7HHCe29Jg",
           "tokenA": {
-            "adminFeeAccount": "6cXuamjji2fxCgVcQNvmNKikb1kFYbJFRomN7hU2AD2V",
+            "adminFeeAccount": "9wn3EGSAivu9nSSytfAmSpf4KxiQ93QhBNtjQ4nHfyEh",
             "mint": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
             "reserve": "49GjCCPsv7fBqo6t3iKDrP1xxGDS8uWZbVCdfnp2gjMf"
           },
           "tokenB": {
-            "adminFeeAccount": "EBTuj3ZUL3MvHnwiszXTzEXfbistoWsB4MZpaoJ2nKaS",
+            "adminFeeAccount": "FeaWAfkGSgX1fuFaovAUs4RXBNE3WMRDvkqbjGYAspny",
             "mint": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
             "reserve": "CEwj5xEbbJEjYqM8D6Ai8ByGz1mrh8mkAVsE5fzDSSSx"
           },
@@ -14086,14 +14086,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y",
-          "adminAccount": "GkRcVsZSiLDqPLZJAXbkJDX23RYyieRC3P7SEAmjy4Am",
+          "adminAccount": "F4p2xjkeVNqYFRH6KVVvYWoH62HL6a1fswU2oVDrdh18",
           "tokenA": {
-            "adminFeeAccount": "4sexb33owmbcmG8mdQsAM1TrhCjrAeDg42mKUrqTmwmk",
+            "adminFeeAccount": "EdvF4eksjyqRvd2JvY33C2oV6JApm5763aqAAmMMDjM1",
             "mint": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
             "reserve": "3qsjFRuw1qeLMPo4DLwaQevenGAGBj9dA3Q6rb8ax2YR"
           },
           "tokenB": {
-            "adminFeeAccount": "D34TcUdFdSWppzByrVBMwvVVEwBoTdVqvfJAadqCKK8A",
+            "adminFeeAccount": "Chj6ob991JuMf7avHJGMW6WLHVfqttEs32zJtzci199a",
             "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "reserve": "77iEv8zPQAEyCcEbvBRSB6AFcUdfkhiqnAKtPxk76rNN"
           },
@@ -14304,17 +14304,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381698,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
-          "adminAccount": "6XJsoWaKwZ6nR2aR5Yt3GU7etWUWBXoVVvrYWrQtTrtS",
+          "adminAccount": "9fcdrC3SVxk3nNPHRtg2t4R3gEEshuLz9SP3ZeBReGf9",
           "tokenA": {
-            "adminFeeAccount": "uoKx14yxomFBRHwAedyBKd7MurvUQf8gi7wZu6fG4hA",
+            "adminFeeAccount": "2zPwqMH4DSBrUNMGQC6bVUeaiYEmDuAvXk4iz4wBN9zG",
             "mint": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
             "reserve": "GP7KB8o1bv527HG8kTzzzf4wJ5aEGHvcMQvVhLziUfmT"
           },
           "tokenB": {
-            "adminFeeAccount": "54VfH6GnmaTcxsz9Q1F3uh6aRUvs4kWCBkNUmrjfXDzX",
+            "adminFeeAccount": "35LNuwMUqKFBhPDnBfzwZ8uUJ1shdMfMM1uhky2ykMAQ",
             "mint": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
             "reserve": "9gYxhAZ1M9wu5pxr8SBoa5NDm21gi3s9vMHaYTME77sa"
           },
@@ -14532,17 +14532,17 @@
           "isInitialized": true,
           "isPaused": true,
           "nonce": 255,
-          "futureAdminDeadline": 1730381719,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY",
-          "adminAccount": "FHWBxWnmDJKJCKAGPWW625vvi6xvWZR34YzDnD3vVSfr",
+          "adminAccount": "5u4P684HDgmDb87sHySrvH9cQ9uc7KhKzme9KU1PVatQ",
           "tokenA": {
-            "adminFeeAccount": "3y3DvKYguQidNubfhGhWsRuYUe5Ltn7Whv7VsU5G9x7S",
+            "adminFeeAccount": "CenzXHqaaGkEDsgqmSyadyhMnqKQxLiqD4ENP3zxBpFc",
             "mint": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
             "reserve": "F36eiDG64zYoAA9vtTvV4EWcTqYNUku7hzhUyTYcQSin"
           },
           "tokenB": {
-            "adminFeeAccount": "BxEp68dJAAiDZjj6vCX7tDdg44bCWTpFidbyEGuWVnKP",
+            "adminFeeAccount": "Hr2zC8vBzRK1EMVZMXKaryMAs8PSoqhVfsXVMRjwDCmu",
             "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "reserve": "FXJq5PZ8XshMvhcfX2y3khJyWK6S5W7ftLeMgbuFgwDG"
           },
@@ -14751,14 +14751,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x",
-          "adminAccount": "CRfwCxffJNVdA1uXtj19MmWpEJJQW5BhJ5VmPJBDwmtw",
+          "adminAccount": "9ezeu4XA2DWXdAF8FiPhA6aiksmo6fxooJqj8xPR5utG",
           "tokenA": {
-            "adminFeeAccount": "GT1dBu8tzgKuTTicMjffuHPPx4QkvCaatzdU9T4iCCF1",
+            "adminFeeAccount": "4QxSCGFce9q82pZRpaH3SobE5uYqANQhGPynZ75ZBDbq",
             "mint": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "reserve": "DvHVapj4g2Y1tJVSw2ubSPkPBsJPb8fW387ZWXwaKmZq"
           },
           "tokenB": {
-            "adminFeeAccount": "8CjejbrxQu2GVFdP1zgCVA6NWGBBANB4ro1aHow14HxA",
+            "adminFeeAccount": "HjRo5GW8g5mRVakV7agGiDp4yinMszPnR655Z1vPpRe6",
             "mint": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
             "reserve": "DKjqWWgrtDRPKrnMWtZ4UiJk4sGQVCQgFjSo7BvfngvK"
           },
@@ -14942,14 +14942,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "EPtVHqDnDDtG7SuREPtTMcwBJjzz7eCfr1g4DqGub74v",
-          "adminAccount": "GDgiPu6s7rxD61vxcXB9ehVsLXzHZmyq7jasa5w8pPBh",
+          "adminAccount": "43hkCD3RvETQxAnMmD274bMdCAUeC9s5HRmdk9rEKYM8",
           "tokenA": {
-            "adminFeeAccount": "kmyXU7vVA2qzxqydR1vxXvx3fQuVb1HiEYKkeTcbbje",
+            "adminFeeAccount": "DAAyxgMmhQJpjD4pBowCDdCSQJ1gc5nKZrcxyz8Hhej7",
             "mint": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
             "reserve": "4BmHbQz5oHKJBodgVw6i26gb9TyFCHziLCQe9qqYKHm8"
           },
           "tokenB": {
-            "adminFeeAccount": "CdCo6gP5QezgudmDKWbU2NUEDSRKN6HVhfBYct616Sm5",
+            "adminFeeAccount": "4ZL5hGVr8jxCYmdfcydZcSgKx97RrR7bndTHupKTGdYD",
             "mint": "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX",
             "reserve": "6U6oZid7w1k5U6XQcfnVLnHrNrosrbryfar41KpcNH81"
           },
@@ -15158,14 +15158,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
-          "adminAccount": "Gz5H44p8aHShJLu4qCJ8g7knfDvsxgEBb948J44Vw7Zc",
+          "adminAccount": "Gr3tyQvFabqD441dacdWSGkEXHSp4WUjEUbpj9h7LJJZ",
           "tokenA": {
-            "adminFeeAccount": "6fXQcVF5jgTtdChX7RpS7U8vhkJps8YPWwd5usN9PYc8",
+            "adminFeeAccount": "HFJBGYCKpJFzPaAGoiZpHmDyXY32E8Kk6EpJtU9Wn1VS",
             "mint": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
             "reserve": "2tBpLvzYBCs7e4DrRocEnssoJANB8rDh2jt5FbeCAeK1"
           },
           "tokenB": {
-            "adminFeeAccount": "H8y51WqpZ629U8XhB9H81xptHAyeUTLbtCdNZS58RrX4",
+            "adminFeeAccount": "EmGWHaUBEYmoP99LUwyxJwAfcRs2V1JKKeaZRpVnKa9t",
             "mint": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
             "reserve": "DLkWGoaeXw4oeGPnr2ecJze541HVKFhrhaW4iVSFEwET"
           },
@@ -15364,17 +15364,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 253,
-          "futureAdminDeadline": 1730381713,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "PrsVdKtXDDf6kJQu5Ff6YqmjfE4TZXtBgHM4bjuvRnR",
-          "adminAccount": "DJVX3zF7jj8tSjJQyEsNAte8b2BhF5Pni1sYNJP7Re7a",
+          "adminAccount": "CoU88nkDGyr1N2QJm1ASvTsbaA6ndpasFXs8CU2RfCDL",
           "tokenA": {
-            "adminFeeAccount": "26cyBk9bU1t8aDNNmnDgGDNHgvVbfuPnsXRzPfMyZfAg",
+            "adminFeeAccount": "CBnkjHJKDNv897mcU4Dn9cEUPkkGMLAPtV7sCQojfQGu",
             "mint": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
             "reserve": "9ZDpBKPqMABtGfq66FbVribaArMvtk63xxy91onZAtDt"
           },
           "tokenB": {
-            "adminFeeAccount": "9SfQeZ7QLL7vJEDcqV2jxyFpfgJVgrhzocBCuuLNV3Hq",
+            "adminFeeAccount": "rpxTd6uTiRXaAgh2qcash7x61tewqQL8K8MLoBdHS1F",
             "mint": "So11111111111111111111111111111111111111112",
             "reserve": "DaTP4s6N7xxSPinbNZ3FB52EpRDRt87QShTuN3VPCW52"
           },
@@ -15588,17 +15588,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 254,
-          "futureAdminDeadline": 1730381688,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy",
-          "adminAccount": "9Sd6u4j8eZwpYdEPkSk6mHeUprGhMMx6JGYnTbvXgqqn",
+          "adminAccount": "CFWkTRfxHPWbNECrLTc4me9KzTUSeMhZRdd6HQ7HuqAA",
           "tokenA": {
-            "adminFeeAccount": "d9bL6dHqbxsV8QVstmrgqWfNzn62eo2krm1YHfb8mkJ",
+            "adminFeeAccount": "DcrzpcDzUXyve1KQxpNq2pu5FXNjT16CLcsabjsQQNDC",
             "mint": "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
             "reserve": "3oyc6hpjYSJEquK6dSvG72NXyz3pqLZz5D8AC71pwgQb"
           },
           "tokenB": {
-            "adminFeeAccount": "6nJUBLpf7VkZUvaeBdPFeX5pS1a9vyh315uJ5z4VPaTF",
+            "adminFeeAccount": "HqxDT77pamVx7U1rYYjqQEiVpLpkvh92VtyfUDt74knk",
             "mint": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
             "reserve": "Di2vordgFJVZ1aj1aBpvzXtLfZgJsuLLXawGtVFwX6Rz"
           },
@@ -15815,17 +15815,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 252,
-          "futureAdminDeadline": 1730381709,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca",
-          "adminAccount": "3AdFUq4bb9A6z7S3jQTiknK9CgTZrcTQNdEadMpimXAV",
+          "adminAccount": "2xzaus6tEFmcK81tbQtvqy9DxpDvV2sEwSozneKhY6Sf",
           "tokenA": {
-            "adminFeeAccount": "5fmcaC3D7EdvhtvCgpg1255iqWCGzyQ66RjkDnHBkFaY",
+            "adminFeeAccount": "H4soxgZcVVtfYVMT8oTKMva9cc3oM1GAVDzKpmaNGHaU",
             "mint": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
             "reserve": "9kZ9iS68ViMPtoeqtnhAKuF2iqVyfHPdZHoUNdwCELr"
           },
           "tokenB": {
-            "adminFeeAccount": "GHGUr2qVSgcfTfw2549qYyVA6Uve6apJ3JdcRRwBs7aD",
+            "adminFeeAccount": "7uLuZ69Ej91jT9LJVxun7JHH1a3N3YgecFdZbpu92B7g",
             "mint": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
             "reserve": "BBhm5fJLjw3HRzjtKB8uMEYjGhY6EDm9co3cqpjrSzB9"
           },
@@ -16048,14 +16048,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
-          "adminAccount": "DG4HvjNx2FaE4QDx5VTXwVXdnffJpg8nDYrknjFVkQkd",
+          "adminAccount": "EC5p8xBMMqmUvsxPBXgZT769GaJHAykN1rnNeRtP7hVP",
           "tokenA": {
-            "adminFeeAccount": "EzzhPP4AYACdAvjmiPwwkjACzNzJBYVtvoF8ZkrRoVg",
+            "adminFeeAccount": "qijQGWaLHBzAKXA9zPZPhtsjM14cxvJ4JazeE8Ru85E",
             "mint": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
             "reserve": "EATxwd8YA2wV93VJcKMmH2Kn2Y9XfJVUB9hHVu3udwEy"
           },
           "tokenB": {
-            "adminFeeAccount": "BXF2ucBNZcHtSuoAcTY3rGV4PLeEijPpkKiHHoL7TZ3J",
+            "adminFeeAccount": "3Xn5iHCUbks7HKnsgUFk8DfozYQJFyQ6V1VZ7VJsNVDA",
             "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
             "reserve": "GiGvrRi7NMHfHKanG2B8xyCEqe8jaafWins8bhrLVEaa"
           },
@@ -16257,17 +16257,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 253,
-          "futureAdminDeadline": 1730381715,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj",
-          "adminAccount": "D1kZL7xTYGfwV8qB9mheeHjRDi3Z14n9op4mzhNFJhDz",
+          "adminAccount": "98GC8kGar525Lsm6pECmjLy7tFZVmU8WB23k3T4CrFbF",
           "tokenA": {
-            "adminFeeAccount": "9Db5SCJNbf8oMBnb832xix6NicCCjQrZ91j3BwJDBYGW",
+            "adminFeeAccount": "AA4jjST3CHVQTAMfC36xPP6StXQUhNWAA6Bv4YjehBZL",
             "mint": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
             "reserve": "DjvZuMZ46fxKBoBpGMPcRcos4xdTtHFxwMh69DpA2ZFY"
           },
           "tokenB": {
-            "adminFeeAccount": "5H71UbsXCZgoskXeBhEF2XpY5Kdj2AYUddMmfvfmNg3h",
+            "adminFeeAccount": "7PadcvsoRweJPR3Z9rcmoUoneNN26bUvRvjCPBSfmQQp",
             "mint": "So11111111111111111111111111111111111111112",
             "reserve": "9rvDPJLAng4uVVqnnSoEXgNDFhBZQTny9AoQioYDZbQX"
           },
@@ -16473,17 +16473,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 254,
-          "futureAdminDeadline": 1730381688,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa",
-          "adminAccount": "5joKg3wtysaUiTRw1k3JshYHEpK2ws1vSdAt17acPwf2",
+          "adminAccount": "BYcouz3DktScWFhQ8FtsvwAc2pGoWFjbgVY9RZJkVSUH",
           "tokenA": {
-            "adminFeeAccount": "8hJHEfc6YJRsngLtRAZAR7uKUgkgnR5YFQvtSVE6aCcJ",
+            "adminFeeAccount": "4DH9t2tLTsYLhG92ZhQMKiDrpyoZBBEEwWfda27Zezdt",
             "mint": "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
             "reserve": "DAizXCPHT5ATkKoW9XAGTdrA7Lbj3cNygjD8RQFH8nZJ"
           },
           "tokenB": {
-            "adminFeeAccount": "5SECXwa7A4f7h5gdGDsV2BrkB5dUJJJzGcKp85jmZahb",
+            "adminFeeAccount": "GVYYPFWeToecpdXZVF4tAVhMCH69vxB3iYNkzY2aAfh4",
             "mint": "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h",
             "reserve": "Gh4iXm7PAHjAbagz9FfbpLSuuRE8rdKkDcSukp8Dzq9R"
           },
@@ -16692,14 +16692,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1",
-          "adminAccount": "G95sdzNFamfvuK2HDeskhKvBcriCSUXEpy1EF768dePf",
+          "adminAccount": "LYVEf49XEajvyJYR2vcKqCLWJ8NMVUAXk9mzUXeKtVd",
           "tokenA": {
-            "adminFeeAccount": "97c3ygVrAhE4wvg8vXzud7FSryKvPwUypsVN5GF7E8vU",
+            "adminFeeAccount": "6xyhanJpYqbkANWCYNg5ErVG7NTFodp9Whmyti2XgJKj",
             "mint": "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
             "reserve": "4XqU6QN4QJKva4fF4eyCnPtJG99pKecuUuCPDax5BEqU"
           },
           "tokenB": {
-            "adminFeeAccount": "5rXtWfRPrELaK9kWK8DGfBt8CeeL6MvWHzfsCvZjef2M",
+            "adminFeeAccount": "4isHo7A93EyS38m4QmobtBwMDp21JNfg3v1JqA1TG6K2",
             "mint": "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8",
             "reserve": "F7k8DuuawVEZ3new4A9ahWVojCkEG8BrLsCwyhRvmEHa"
           },
@@ -16936,17 +16936,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381709,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
-          "adminAccount": "6eqHBuXjU1ip4bAh69fpK7FSnus6dRoc7ZyLwdGmFHS8",
+          "adminAccount": "HCFQX9f1ufGzr8b26nPPSdGVpK6Va3EvYT5439dJ8PtX",
           "tokenA": {
-            "adminFeeAccount": "XHz8BySeNPKKXhuvHfwEWBysiu5utuMo1aMkkVDmWF5",
+            "adminFeeAccount": "CGXetWbscARUgTUdCbxGhDUpcFmSWCrQCmaAJAMPqM7p",
             "mint": "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
             "reserve": "9U9TnkHD3jXMAVZtynCVLgDruuqN4pTvLJTmVHCLWS8g"
           },
           "tokenB": {
-            "adminFeeAccount": "BCVqpUsN9MrkfzvsyFoEgLaZoN1BGesXLBoeENCxgp5N",
+            "adminFeeAccount": "5aN764X5csDWp8B5Ew3MkP1PE9pdW4C7t5RMY9pnWqE2",
             "mint": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
             "reserve": "C6zoEbvqSknmi96QWq96UBiPCyNW3YSTvKhavR2BfifE"
           },
@@ -17160,14 +17160,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c",
-          "adminAccount": "EFJ6QxsKK99r2PvddLfZyK7snu5Jrr4rkhmy3TRpQooq",
+          "adminAccount": "DF6vy3euMJf3DQWM4C2fMtXPnJwfZVr7tzULWyJLf2YH",
           "tokenA": {
-            "adminFeeAccount": "CTVfkfM9fJw2kvSBxPzfieUuZUN6m2GNXqyZ1hAbW3AJ",
+            "adminFeeAccount": "C9StmFySAcL6pfwYrF1DsAMX1pMNSVe8UMMwbr3eT5mD",
             "mint": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
             "reserve": "B8ka2V21TH3x64dFV8ETcjuQcwmrciJ2qzy1mJUttRew"
           },
           "tokenB": {
-            "adminFeeAccount": "DYHhVuT3656hv3HFCXgQSkM9yrn3YwqSprGhdDvJYrro",
+            "adminFeeAccount": "2LtnUyQUhHGdbiHcbcnoz33sg35TsV5iFXx2kPvMUnuk",
             "mint": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
             "reserve": "7fSf7EYxBANyxzk2s5pymFgshA91tFYQNKKs5UnLWcYS"
           },
@@ -17372,14 +17372,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9",
-          "adminAccount": "Hpga6gPvXgivAqMTa72uzZVhcHp585SFFodQVqtyfz4F",
+          "adminAccount": "6NLaLGUorNoYQp4otT9ij3kx9FCeLRVnvQLrjG7s2o31",
           "tokenA": {
-            "adminFeeAccount": "5RQ1xehqqPnkVyL6scVnzPp7f4XwshKtD3GuCLwimivs",
+            "adminFeeAccount": "Fw4YU5tUA8352ZGA3nonuesouVWnGWank7HU22uGsHLq",
             "mint": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
             "reserve": "ExiHJxM7qPAcy27NDHAF6G7vnW7muNHi2sVJpnaNynGQ"
           },
           "tokenB": {
-            "adminFeeAccount": "Hyb9mqkm8SaBUtPTWkFGPM9DTZGfGwdP2fYSFDmVqgvW",
+            "adminFeeAccount": "GTTF4zAU83t7c5HXVqD6YLBQumjVvLYDWsEAubPFF689",
             "mint": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
             "reserve": "6rkPHSqZb7StM4HwS9EuVrmfkV7tRdc7dnsFhyB6cefE"
           },
@@ -17764,14 +17764,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp",
-          "adminAccount": "Jq12qPsaWQPppWisRUQVA9ekT4ELTwsXWzKQHFBSiyC",
+          "adminAccount": "CrvNywwt1ESCYk8LHR68q9LesiHkuVxfr4UGk7euvPT7",
           "tokenA": {
-            "adminFeeAccount": "88mcRBksAPnYM74JCiyVKMmEqDKRDFRJ1Ey1wuLBaujT",
+            "adminFeeAccount": "FV4ZoV31XXw9GxW9kvYEyJGcKxYcL1JvQMdXj9X1okQ8",
             "mint": "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
             "reserve": "C5uYkVHiFduEFq8S3fr4pgUS24oYj1sjZ8WW2cb4j8SU"
           },
           "tokenB": {
-            "adminFeeAccount": "2MaiPeRjPZc9gqG3MzeKp9DUMabbJYfV2b9M7YkV8tue",
+            "adminFeeAccount": "9t5xPpUrYzMhuWYkgu4pmt5w9xxVwMQJ7LgAnykZFrcd",
             "mint": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
             "reserve": "3F5DPU5ScgHiFzePYUHZovvgh3uqmM5keNvbavx2ERqV"
           },
@@ -18158,14 +18158,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV",
-          "adminAccount": "9BDboo12wEhsNr673sS9CSXtqdX7eCrykepsMZZeMhiX",
+          "adminAccount": "irfJMT6tPr5h79vaKdGcdpEwWKJQD1eEaQiBA9nkcyn",
           "tokenA": {
-            "adminFeeAccount": "2AbLYRQa7PV6gG6XgMjaey18RtPh85sXFmMmP4HsDdQK",
+            "adminFeeAccount": "6Ge3gbJ8Wto8MeqPCqktUPxAvxMmw5CRZLiDjjXNy85u",
             "mint": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
             "reserve": "4PgzyzLtds9bKZ2to9PMnKqJzKEUpjvNUaeN23phegax"
           },
           "tokenB": {
-            "adminFeeAccount": "Cv3YNq8iY1ttMS3iDgwBxd7QxnMC2pwcXUomtR7CTD8W",
+            "adminFeeAccount": "FqzgZM35TgGt9y9EEWxKCfeqUYzocmJ3CdhctH3d6qKY",
             "mint": "So11111111111111111111111111111111111111112",
             "reserve": "AtymwxoVN9peZo7EXTcDz9jKVc4vRmisJKKrNfe3ewBa"
           },
@@ -18379,14 +18379,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF",
-          "adminAccount": "4Xvjkg3fPAkKHD3zRSGH3u7DfKbQCFxHuYYQ8or2Yc86",
+          "adminAccount": "GLF6LNrhB5qgaTdUR7qVwVqL4XPTRj8jd3GYebBWNwpF",
           "tokenA": {
-            "adminFeeAccount": "GfQjypXeKEe7vzR1skMshCZpTswHsj6XHkFGfTyzJPVB",
+            "adminFeeAccount": "HnTYrfGhvDBDA2GYfUbmtnNW6beXszVNZqwPfeyxqxYR",
             "mint": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
             "reserve": "CquVr6atkvwueDYficKjn6SSEWq4F4rH4VSiBbW4GBWU"
           },
           "tokenB": {
-            "adminFeeAccount": "7tGC2mWMjFTzV4EdF2Hr81bSivD3FdTfkboqEsea5yqx",
+            "adminFeeAccount": "9r1QrKdtdvVT9DqsEuXU8WC6iDqnTjACxUMTsvxUj9qf",
             "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
             "reserve": "8BCa6ge3b7ho3TfZuM64Vk1hgbrJ3J7EPiAb9uP86CGd"
           },
@@ -18591,17 +18591,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381703,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ",
-          "adminAccount": "2NGhdqVQJbt8vkKEr7faxjok8p1NEQ9o1p2FQWAuthLS",
+          "adminAccount": "GVe8qgZsxqPWDuJZavFte8FLYQnPAh7aRgQqFMXLStEA",
           "tokenA": {
-            "adminFeeAccount": "ECA38NDxPqwo5997B34JL7UkC3VZSQMzRGHThetgFDwC",
+            "adminFeeAccount": "Hf7ipJemZfbHerRgdxdwqNBmnzBSjbUJjx9nNRFRuyu8",
             "mint": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
             "reserve": "4DYwgJtxwuJdAjkj5RJSNH4e7U329V5cNp7d3a1nLrZv"
           },
           "tokenB": {
-            "adminFeeAccount": "qRMfgjGkq7ribEdJtWm3FUCpzCkS2Mguh7WXshChttR",
+            "adminFeeAccount": "CEfAK383Tq2hRihxKjvRZG6GCtyL5duY5q9QEbbHnwX5",
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "EXNW64GEf1ACC6xY9BtKRiunrs6GoJSXBdxWN2eTPmrF"
           },
@@ -18770,14 +18770,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ",
-          "adminAccount": "3f3ERfr8rxZWoP1DbiMVUEvT1DMQJcn27SsrHfuaGWfK",
+          "adminAccount": "5h7oo7WKzEvX7dwm7L1GEFqfdWBjjEyKzJCjkt9RM83D",
           "tokenA": {
-            "adminFeeAccount": "F6LK9xmbXXXYGp9fEutQ9pwNfCinQLeqq64tBn9orTLU",
+            "adminFeeAccount": "8DUjqRiUfGWqGctZ5iaHoZGjivyTNaJYxTuNwB7cWhRr",
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "FVoNijdQ6k9FA5LPX1RWVe73YJJvz3Q48iYjd85Yz3Ln"
           },
           "tokenB": {
-            "adminFeeAccount": "Hmm8UTCd1BspuLADp6AonNM5StXQmU7XQxRdpzpRfKTt",
+            "adminFeeAccount": "BRgCTgAVVCqJZgzLL3XUsXf6RFuA7HiBCPSJejeePVQT",
             "mint": "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
             "reserve": "HsorcrEakUPvUfxc4L3DB43YUS7oFeHa2JC1HtmEJVxi"
           },
@@ -18967,14 +18967,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf",
-          "adminAccount": "7tpzQQEQFJTi32eo89yFuV4ST41NSC7c6xd9Sny36iXW",
+          "adminAccount": "41b3h69PNTwnhhzVuiyi2AUsTegiSRhvpWrGg7ENaq1q",
           "tokenA": {
-            "adminFeeAccount": "XZuQG7CQrAA6y6tHM9CLrDjDUWwuUU2SBoV7pLaGDQT",
+            "adminFeeAccount": "2kc8pwM79bnFuwuz5UiZL9AJx4dMF9wJ8v4xLoYu6Kno",
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "CfWX7o2TswwbxusJ4hCaPobu2jLCb1hfXuXJQjVq3jQF"
           },
           "tokenB": {
-            "adminFeeAccount": "63aJYYuZddSnCGyE8FNrCVQWnXhjh6CQSRwcDeSMhdVC",
+            "adminFeeAccount": "4Bf4PFW6gBcUHoG2tja3aA82pwB1etXh2YoJXP4Cm41A",
             "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "reserve": "EnTrdMMpdhugeH6Ban6gYZWXughWxKtVGfCwFn78ZmY3"
           },
@@ -19185,14 +19185,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
-          "adminAccount": "F7GUNThdGdrW58fX8G1BZgPWY2mQsD3FkLQ4HR6yx56k",
+          "adminAccount": "B2d71gXEPASWcVFYLhycytK6trWWXFXtyLh6u8UYawK1",
           "tokenA": {
-            "adminFeeAccount": "D7nJth2TMzHEgUMMrdZamLfD17KjzhTsG1nQPP8ER7ek",
+            "adminFeeAccount": "GC8rVxwftc13CygpdJqVAzVpTu92iBSmXMeNGThCAT8r",
             "mint": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
             "reserve": "BKJWe131yeNE594dMwrLyT25RPsytUgcTdMpph8rbuda"
           },
           "tokenB": {
-            "adminFeeAccount": "CCVNwaKNiYXzYJrVzfSCwRtu5cjMt2kW5Ck3ZSr7kYb3",
+            "adminFeeAccount": "7miYLLETe1cJfW3C7CHMCmDZcXDUMcV6vXKezKUX722X",
             "mint": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
             "reserve": "EreMRai79gFEuXwrMnj6kpV4pvVAUqukjSuy87XQTT8K"
           },
@@ -19391,14 +19391,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS",
-          "adminAccount": "9pNMXt8biJLY94RthJooJWvxmQszD5nig6By67yzdV6x",
+          "adminAccount": "GqUVEei3jo3brsCAxzkM137q2KFCQx6oxcG3vQf9VTF7",
           "tokenA": {
-            "adminFeeAccount": "EtjTwkeqBHoX9s9PVeDszVSFkmaSY6nsfRtDzoqc3c5U",
+            "adminFeeAccount": "3P17qcqAeuDcNaDtrte1ev9g619eBD7JYF41TjPoeYQb",
             "mint": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
             "reserve": "6YjT74rmcfCpw8LSjPNx5JTmZoYLGrTKnf9arfSgZ4SR"
           },
           "tokenB": {
-            "adminFeeAccount": "9fLmntYbe6E4CP1A23NMSZSpzfWx7HASybaNfAQ8GTXt",
+            "adminFeeAccount": "C6ACReELh5GBjBG1BReocpRcbAnAyQQHjFW7tn1RcwYQ",
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "F8GSmi3vA8M8TsybLya1LQ4n1aFHCRbZ6k437PeTdXtg"
           },
@@ -19610,14 +19610,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59",
-          "adminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "adminAccount": "fXroxLU8hQcMQ6RasmiYt1MFHMyYukEsScArzGopsD1",
           "tokenA": {
-            "adminFeeAccount": "F2EqFwoRmdJD7KK8mSn8z5XAqxLYmeDHG2mhNjNFn1tL",
+            "adminFeeAccount": "HokAUZGYkKcyHdyEZCGnGbXmeBqJeMmL8iRsHDTk6noX",
             "mint": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
             "reserve": "9KvCDR1hzYS6ziAR7acAsX7yU2mSBWnhXgdyobma2fNq"
           },
           "tokenB": {
-            "adminFeeAccount": "BXo1XsK1CZNpfEsqsnpw9M2XTddNfxY5RunsZ6BpsQhy",
+            "adminFeeAccount": "Hw9LebwcGYgaTUTJvqUGZzRgox3sxqA6vHJL8paeznj7",
             "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "reserve": "732AKGENciwszwAC876DDfTL5vPN3FTzgy5CB7xmXn8v"
           },
@@ -19834,14 +19834,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "HUTcohdsuStHyqTx6RnCrvbgeMCY1QR8eRprBMFRQaRH",
-          "adminAccount": "AHzjZuadHeUn5ABtDi3kcktkuijxGMEoUeFB7PC39d3N",
+          "adminAccount": "132NXdoWzC3TTFHnMehPwawkmpwuM2NUSFmozTqEtgq6",
           "tokenA": {
-            "adminFeeAccount": "79V5Azs1Rp3iqJCFTJ4Dp8X5sc8ZnJNmGYBLSUhMAkXD",
+            "adminFeeAccount": "FzJCmpMRnXYAZq8Rd9MFaayPh76UVF7mG379RMPVh9bs",
             "mint": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
             "reserve": "6qG7GUhER8Cg9gDEgnebph9LdS6eu2eoWcA4R7z9uizK"
           },
           "tokenB": {
-            "adminFeeAccount": "2vb4XMHSB7UgPc7eP9S4XM2wgSCf2xyakTn81Fzh2PMv",
+            "adminFeeAccount": "94UhiuctinnTVy4whebcyxhj3YgqfvUn8GduQFUFVKF9",
             "mint": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
             "reserve": "4QV4CwRXVMY227KkFF9voNAfwWHVvVajXSXDKbUHkWZR"
           },
@@ -20039,17 +20039,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381689,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW",
-          "adminAccount": "13gDSjF5jwfkAvQ3pQ3YNZTvo79NWVXcCmLXJWk7cL6F",
+          "adminAccount": "4QqvmwApBYJ312Ga8D1aMBhSN3yTxc8upSuf5CQvLLqK",
           "tokenA": {
-            "adminFeeAccount": "4Yc7KHvZx58i6gnbSbStvufKKuEVHmrGeMGNdCQ5R1H8",
+            "adminFeeAccount": "EstWkFK5h7iAN2uvomDwauWb9bGdubjE3oWEmCpys6qw",
             "mint": "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
             "reserve": "5RfXYWvxR9PUaedokXVxgJHDoD4xnLLauVtdJ27shPWG"
           },
           "tokenB": {
-            "adminFeeAccount": "En5CJmgeXCAmSrxUY3wMzVYcq4EwQLkzN47t1nzVZ7m9",
+            "adminFeeAccount": "C3L9rWAvEEW536FTbu89UyJR2dcqDCK1KCtmMu7XfCsU",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "DJcFPaQjyW9Xkt7sXCbnEGj1yfykGYuLRUXFyS4LLZ5F"
           },
@@ -20262,14 +20262,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi",
-          "adminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "adminAccount": "5CbnQW6aC9ubqMNW6PHzcmRdGNt2JK7DwsZdqsRVhkjz",
           "tokenA": {
-            "adminFeeAccount": "EU7m6z3nGQmxqPhcjAxp5Jq12NuW8hKFRbeU89VhaeGN",
+            "adminFeeAccount": "FXTR5hmch5fSmLrD3oNWtUMuzBdHE1eTCGWg2Vi5V2Aq",
             "mint": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
             "reserve": "EnnjMSFttpCTywBrYNt1J5QQeoSVkvzPipJDa8Y7kJow"
           },
           "tokenB": {
-            "adminFeeAccount": "CvSQWoxVSNCNeWrGFpYZCaSBbSQJsE38vohfxn4XccL3",
+            "adminFeeAccount": "DqgqrbMA5pHTM7QG11G2TcLjzTyK2xvghcjNEJRgfj6k",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "6bjVT6JN2rSvpyn9PdfLYC8wJn4LWh49jpY47fnLDXZk"
           },
@@ -20463,14 +20463,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot",
-          "adminAccount": "BuaGV3P6Tb8Mg7Wx78kga6zQFgc1Vt4MQv58WDTD2ydV",
+          "adminAccount": "DLb4cSaeNvobwbEPY4JKNtNhqrXtuYYcTA92A16mmhfr",
           "tokenA": {
-            "adminFeeAccount": "Ag9QvRDFHMeDHgwApqrpsgpJYqDoNofJMR97ZsPsrmzQ",
+            "adminFeeAccount": "5YMdo8BgYHH18Jg9ZFNYwvJnVKy5BL2NbmyX1ZMBrwiA",
             "mint": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
             "reserve": "GpugBvKWM3TVhYcZjemSdtehBWgfvuGr6uAm9iPjXT6v"
           },
           "tokenB": {
-            "adminFeeAccount": "FNKABfFJUtaP4xzPWr9A4SxzCcdfCFp3oTdiXXD4Csvv",
+            "adminFeeAccount": "AGZK9NNNUPrhrD8UCSddd8ETw2kYSUyFjQRucuACoAaF",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "92fMXJ3xy8tEyMUWLHKRLyhPw2nECBo77GtDiBBbYrjX"
           },
@@ -20689,14 +20689,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
-          "adminAccount": "R7BqdWNUoqf5gHLVLJmmcw5ddaGbftLiy181QEX5SUn",
+          "adminAccount": "AnbCaJG8X7bnndUK2ArXxEtiG5bYCcszuzARueuAKs73",
           "tokenA": {
-            "adminFeeAccount": "2TrJ87SzxmnfvFq7feKesoFwuxki1SxDLxrXJPpygwvN",
+            "adminFeeAccount": "CWALeuU6vcGSrb3fqEXZ2pwwL744n9KfxkUwHbgtQFqm",
             "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
             "reserve": "D9yh4KAysxt9GLacVe4Wwh2XqghhcjTCSTV9HuM7TBJd"
           },
           "tokenB": {
-            "adminFeeAccount": "GYiQ2bwkcTcM1FZuC5YevpXCnKyKHXfoDQfxh8XxMFce",
+            "adminFeeAccount": "637ofc32FpRU7n1ELLUQA4rPSWayTaKXNSYJA3ajzcvW",
             "mint": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
             "reserve": "HDYfJLpZKaMFb84jM4mRytn7XLR8UFZUnQpSfhJJaNEy"
           },
@@ -20918,14 +20918,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
-          "adminAccount": "BKzRpj4ARHLgEKBpKCAR1bA2bZQHTB93oiPXTtGiSDKM",
+          "adminAccount": "6KdoeBEXP9wxLJjQfEGSkQ5Z4MwpA3mhT1PerFnyQS7r",
           "tokenA": {
-            "adminFeeAccount": "GLQ4xxVZKt3H8eo9EbUahPZhDnP94paHUZTQPtgE5QVm",
+            "adminFeeAccount": "3A3wTuzLumQJgH3PBi7ovzYjmnnfz4QaZgQk6cq9bCAm",
             "mint": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
             "reserve": "JAjt8kZkTsxKA3VKnmszKHQwzuNSAXXhN3Y4NZ2kEoLU"
           },
           "tokenB": {
-            "adminFeeAccount": "5cuGao2ULuvCUEYp161e21joadLYRsrFkdTSzYc76z84",
+            "adminFeeAccount": "2zFdedwRtEwfftbocgtkVTFh9ze5xwx5sneon7CqUFkE",
             "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "reserve": "F2NtJ1kcLLvQZ6RMH5sApf12BpGpAeGwio3WWPRZWUDu"
           },
@@ -21124,17 +21124,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381688,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ",
-          "adminAccount": "6mTaTmKgKey4i8NpYX1WwNmDTHVZjMJr8Q12jRkW7psC",
+          "adminAccount": "4tG6v7VY6zrXcj2UpnvhuJFmsmYsFiUJh1TLuDd1XG9j",
           "tokenA": {
-            "adminFeeAccount": "3czPMjjuHNb1yAahyQVmGiN7AQAGaws8xpFcSskCj2oe",
+            "adminFeeAccount": "BNvdM2w5RRAQDSpaDjFAu9tPs7xK3nS793XPDHHXutXd",
             "mint": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
             "reserve": "9zj4aX38Uxf3h6AUjS4EipWS8mwbEofasHAf3a1uKGds"
           },
           "tokenB": {
-            "adminFeeAccount": "5BEZbHQMLGyLsVTG77UoJqNsuF7PJUfeNmxwDfe6v4jy",
+            "adminFeeAccount": "EuHauTF25WEpP5PoZmCuZ6fDYa65xibm7rk7sdBwswLV",
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "CwQDG1MWunn9cLNwcZLd8YBacweSR7ARo32w4mLua1Yr"
           },
@@ -21346,17 +21346,17 @@
           "isInitialized": true,
           "isPaused": true,
           "nonce": 253,
-          "futureAdminDeadline": 1730381715,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW",
-          "adminAccount": "iy51K4TnFDhz3Pf9GgKLt3XBkwLMZr5oEConYYu2fgw",
+          "adminAccount": "CsaYY6FYv5XsEktaa688MsPTHEXvP5K3mGZeEVMzzZGR",
           "tokenA": {
-            "adminFeeAccount": "2YnywCN3t6WSASNNMUTF4msB5v9kvmn2MrgxAB9fogvo",
+            "adminFeeAccount": "GW7yiTPPjBWBwmKyyxzjV2sfnmyy8PLTkN6GQKRubHd",
             "mint": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
             "reserve": "AzN6vs3nTunrapnJTZwD3EVALcLddfKC8hYexcWAtG9F"
           },
           "tokenB": {
-            "adminFeeAccount": "8v6S2WJQFxRkHh41uL5HW3aHff5Cz3pCwcHdaTE9ApZY",
+            "adminFeeAccount": "HE4GLJsbrXzP8uX6RAQwpyRZDgoKJ2BUXV9RJPf6ktCX",
             "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
             "reserve": "AKD1Xb4SMBMJYurhrx26mGagKeLBQAHKxdo22n33pUX5"
           },
@@ -21540,17 +21540,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381689,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx",
-          "adminAccount": "HKbhafCiAVaMwV5NzwDkQhp95t7qug7vB7DPehBcszcB",
+          "adminAccount": "2f3H2YLpBWofYq5FE4TNAAVE6SpF3GepqbkqtpWhmn3k",
           "tokenA": {
-            "adminFeeAccount": "8UkzM4qGgzXGtJhB23Y4Sec5m8mJeXTKqNGaP8EED4wU",
+            "adminFeeAccount": "6LPZHHhSFdL3hGfyvoczDrekmKhfgYAu8qEH58sZPTzB",
             "mint": "So11111111111111111111111111111111111111112",
             "reserve": "J9bYNuDpY1d1T86gLaw7DGk5D3CsUAf2tzUwxMvb6FTv"
           },
           "tokenB": {
-            "adminFeeAccount": "7UBPswYWUrLvGtYEGBHtayrTge7A9n41XF8K83puzqeB",
+            "adminFeeAccount": "55SefZ8PBxgFuwpgcteCMZKntfLeaNgtHVP61Q1NXdVh",
             "mint": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
             "reserve": "A2NGvvPrMGzsJ4jb52KEnSBVmsA7C34dV1GC7PerdgvG"
           },
@@ -21731,17 +21731,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 250,
-          "futureAdminDeadline": 1730381688,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "E3qo5YUXub3qFqoguhBPPzWxnvGagDa4vvua21xHCQYU",
-          "adminAccount": "3rZ2ZSGhHW6XaGo4MKCFs8rVUXxrv3o4Z5eBZmUwhrGf",
+          "adminAccount": "Eo42qxqCb5wfV58pCj5QNVMGo5jYQibeDLQoqQk15siw",
           "tokenA": {
-            "adminFeeAccount": "gRjLN9Gy5SntUuDob8dhSbHWg5BK5RMPByBPMPvYhzD",
+            "adminFeeAccount": "EdQBNW9YihvpWKA4NJNjHvQpReQdaBtxTtM62A4HgD6B",
             "mint": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
             "reserve": "7e2rCFQ6W4399moCnwpL5jZq8fVMFag4opEzv5gT26VC"
           },
           "tokenB": {
-            "adminFeeAccount": "DYrHfXp47ZfWCZHMqwZEpMZfCaJt7G76zygoAPN4gFDA",
+            "adminFeeAccount": "DnP9oQ4brKLSDQEnSisQPdAXQQxUuVvAUFPajRGxuzsK",
             "mint": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
             "reserve": "FoZGth8DqDxLwF4yZNVt5XRaW8HcxLbxG7K9bjYncJGm"
           },
@@ -22151,14 +22151,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS",
-          "adminAccount": "3faCHWF4frSkcMBwEsagFwrCcwSDdGk9R5ARXyipcEt5",
+          "adminAccount": "DJ6mLd7ePBSu3vqCgiEdabf9HfBYA3dUaZq1hdhBUoiQ",
           "tokenA": {
-            "adminFeeAccount": "7KCb5VCg9Amc24DiFBKaqYuVKZJVyFqstvYpKuASsAcB",
+            "adminFeeAccount": "46pPDrLS48GS7evjtuw2c5XTysyKedcmRqBfJL3Muv8V",
             "mint": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
             "reserve": "Bgzr8cWubt89JQFXndVjtdKmDbGzuPxNhvjH1EhWCwbo"
           },
           "tokenB": {
-            "adminFeeAccount": "6frEk6q3nmtRyConjCrTjZosMCRpM2bKsKEezRUTKS8v",
+            "adminFeeAccount": "5sDTnqPQnJm1fLqJG16XzeunEGYJoa172BNb7Av4Rinr",
             "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
             "reserve": "Dxaf8xPBBQsasRKW5Aa4Sw2YrbfGofY9xZueyyF23FBW"
           },
@@ -22371,17 +22371,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381698,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs",
-          "adminAccount": "8vd6qeoZDzb9BrPF6VGgaAjkugFsnfDnJDq8pJynvUu1",
+          "adminAccount": "5nxjReMAkAPmcHT3SiX4N7y8DXGnSa9CWEEon2nTQaZT",
           "tokenA": {
-            "adminFeeAccount": "5VynBnXugWcTq1ajHouD1iP5GTcaEU6AzsqsuXwwdMKa",
+            "adminFeeAccount": "553C6pZ1Jz6gi2QNRWAEJ9Z2oCCE9HmkBm79GTQHfPHv",
             "mint": "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
             "reserve": "CcFHbafgYDZ8yA8Me1PdtDiVb2eeaS61LbqyKKK5CsNZ"
           },
           "tokenB": {
-            "adminFeeAccount": "8Zw38irqChsJ99WZjLwdSFrRbAcbw47zs4xGYRM33RTM",
+            "adminFeeAccount": "22UMRePiPYLuNDKRU1cE6Tsy8hgft1cK45sm3EW2E5k5",
             "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
             "reserve": "26R9s4nmF3CFDTkiePDwRmtscn8i7r2eygbSijditJ58"
           },
@@ -22597,14 +22597,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv",
-          "adminAccount": "FDzCQy2dZLz1imSQWbnZfHG88ttQ9fF6JbJbTxk1kXT6",
+          "adminAccount": "CNVpoDd3gbC2eVLqdM5f1mWkpjkmr3AoVvG6THMTWV7a",
           "tokenA": {
-            "adminFeeAccount": "BEucHS8xRsZu1A9qwBaabfthp4NKa7UXfA954iXYdXms",
+            "adminFeeAccount": "7nZpRgjEEn5w4zKADFt84nzZi1bia3sLbbX5q1mBgBw8",
             "mint": "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
             "reserve": "DyBxrn7gSc1EwnpWhDyhzvMHPtxpmBqRqotapLcKcfTM"
           },
           "tokenB": {
-            "adminFeeAccount": "5iybTEkGJ7y9NPd4si3bUaTLwBLB14UrzJyxgKqQFVdW",
+            "adminFeeAccount": "9VLew19Q1aqZZoPJLwjQVWgkmDLKybrvw7cYwB3G2AvZ",
             "mint": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw",
             "reserve": "Cds99GeBgoCpqBsoRWu1C6fF9LiUMd4pXQQD24s9LPff"
           },
@@ -22814,17 +22814,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381713,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
-          "adminAccount": "DwwBvEzAoif5TrUsBMd8b3u63UfWSocRnfAPgDNoGn8H",
+          "adminAccount": "5C6bCKnf91jbqUgvbes7ZJDCBca29ANC6xcYcWLrnUcP",
           "tokenA": {
-            "adminFeeAccount": "Hpx851G6MKmNfAawui9f7cN4jbPTE7TNWS9E4wd346Xw",
+            "adminFeeAccount": "4p1XHexGxhqB6jE7jZHN3MPvBVkHgMwz5iHBoZ7so3TN",
             "mint": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
             "reserve": "725ZA3fhyBAKb5iopNRrcbSuQa3LXA1656Q3mBvYPxeg"
           },
           "tokenB": {
-            "adminFeeAccount": "FbBJQXecC63Ff1kQzYTxbZzrbABHTqsEaeFoxfEthM29",
+            "adminFeeAccount": "FHC91Dckp3E78mVfiiBBUrAhqLJ6LP5XkrCKVkNswGwU",
             "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
             "reserve": "GLA6i1dSZpUfk2f9Nj8uiG7xyDdAR2reff8oEiZH3617"
           },
@@ -23037,17 +23037,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 254,
-          "futureAdminDeadline": 1730381709,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
-          "adminAccount": "Cb4ATbvbDNRYbHv8ax4hY8cfobPjLby2HWq2wmN3TGCr",
+          "adminAccount": "7eTXJLrim4wB7jLRnQZrYtWFa4GJJtMLa2bex5VH4Ruy",
           "tokenA": {
-            "adminFeeAccount": "yPocykmSvJew7HAdfxDFj9QAMjansDu5GchZoLg9twk",
+            "adminFeeAccount": "ys1VsmThTPYpejC8rYmkoh4m33dzqAeDRQn4ScvMKk3",
             "mint": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
             "reserve": "4ZjU6MKvtqVQKCiowhvZ5yUsPxXX5SCzd5eFsPeXyey5"
           },
           "tokenB": {
-            "adminFeeAccount": "277k3jhGK79oT8HsXpzfPd7Td2TftpCB2Tdrn6MuK55S",
+            "adminFeeAccount": "7HgEjxuKW22y6e6AAQcghBW4LqQPrco3huFHTxSJR7uN",
             "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
             "reserve": "BsyWeshjDbCvjDojry3vKDCesmFRM37WtwcR4Kfgzqr"
           },
@@ -23250,14 +23250,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c",
-          "adminAccount": "7ENqiPFupFXbjwBwYT1YsgWSjc3sj7fNEZbpxcSr9A6N",
+          "adminAccount": "FvkbZnA5qDdx5LyJwyLuSCBSALuM98evg89z5KyQu3WW",
           "tokenA": {
-            "adminFeeAccount": "BBRibcSFF2AhXmtgGoZFksvpe1mpeLtCotMpNq5zNdf3",
+            "adminFeeAccount": "BdFxPa2uXKMckT4sz1WngmCFMvCHRvKsu7X18nwvKXbB",
             "mint": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
             "reserve": "3YB7hfpBdbQEuZqLGWVDpRPmeZWCUsrrWyqGXegnQ6Cg"
           },
           "tokenB": {
-            "adminFeeAccount": "A9oXiCQsNdaEe58STWvEEy9NQ1CyAW8WRT6ggwaYetA",
+            "adminFeeAccount": "BTGTAgoZbKpThVCG7S94SnU9SSeXVsf7q892VHC3m6U9",
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "4DPCj6Z1DsG6HUtwSogBGqXEUxdEV5a8YVrrFtcnz7UW"
           },
@@ -23457,17 +23457,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381698,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue",
-          "adminAccount": "A8Hi6brMs3GJkCqVVC7fK65UKBKFEeRPa9TvPSUdpSKY",
+          "adminAccount": "7Z95St5fQz9F8EW8geABmEeSWwwGgtYtTWDkv1VVkm2V",
           "tokenA": {
-            "adminFeeAccount": "GZ6hMANQzo725wXxymdeBNiSdh4p9iSz96mXrkjNZ3tC",
+            "adminFeeAccount": "HPwhD8NhcXimhfdhxVq5sjECCpYX8czdyuQEcjJq9dx8",
             "mint": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
             "reserve": "DtfyjjsZ5yCjWKLKHvwsfXs5QVsmm1QkK6Sh9JZHoq1g"
           },
           "tokenB": {
-            "adminFeeAccount": "3WWb6c76EjCNaKqye9RPh3eyNLzxNJh4FFzEAaEDmVAM",
+            "adminFeeAccount": "hXktrx93tZskmrAxd7tPN6Y2CVHpYNcm88PJWBxhzdm",
             "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "reserve": "e5wrKCRv4GhHvEf1VD5Pq2KGaZDXP77nTL612Jyrxwy"
           },
@@ -23680,17 +23680,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381703,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
-          "adminAccount": "89zGiK4DwAdesGac3PUje6Zz9muEZMsGvegGYzkr5kbp",
+          "adminAccount": "2DhyRtAR9Fj8rYatqtVDfox63fw7g8NodRazYdjty89Q",
           "tokenA": {
-            "adminFeeAccount": "D4ivwgj4zg3zZwBKrLaF8RdnEfh6ApY7ejzAuuj9dTjb",
+            "adminFeeAccount": "5Vco1hdNu6V1RkQinXUn9sGx4SQ7ui5UGBB6AoGeW21h",
             "mint": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
             "reserve": "DD4ACBWyVqdaKWh7v5btsgqQCCMwbKnuL2xd9pv7Gyuw"
           },
           "tokenB": {
-            "adminFeeAccount": "HhKjJWcCZPEFgVDZ9DhFjCW1UAadHUhVLQaQR1hcExnZ",
+            "adminFeeAccount": "2nUMG7r4DG6XQLsoVJvDL6WwfFbsx5hjPJxNck5QRD8v",
             "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
             "reserve": "GcYqiJ1MAuYbNTNYXm1F1gQYTfTgkErACAhNU5dpVj9T"
           },
@@ -24125,14 +24125,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm",
-          "adminAccount": "EPXqRkDFU3555uGg7UjEwCppEbAtP173M8hBVyCv8Ew8",
+          "adminAccount": "DwJ292FpLMWKuKTuGb338j4AbpcpJNoyF9imcRizNBex",
           "tokenA": {
-            "adminFeeAccount": "CV3HHVcfRqNdoodUBHyCaWzpFfwhAQsSsxSHKbScGtF5",
+            "adminFeeAccount": "BmuDN1TvKNYybPLZ2PHLuvzcSbJ5WmTtfM6axS5ksRg2",
             "mint": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
             "reserve": "59vRbFfiA5NoGvuPjDpNE399pm4yNWVH28yfSrWH6bL2"
           },
           "tokenB": {
-            "adminFeeAccount": "GbnwxeLhanyDwdU9PGWaVVLXTo7CXVATiwS4NE9ic7yL",
+            "adminFeeAccount": "ELbHBdXG1DAGhrDqMs4uLtXMNDa1ZMNuvvQ3ip5vtc8w",
             "mint": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "reserve": "9nzCtRofJcFG2GuNtfAxNddGRKhqyKXA5iX6iUZXRT1w"
           },
@@ -24368,14 +24368,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA",
-          "adminAccount": "GzCzKSPVYtzyH1jvYmx9eZJRMcBE4SEa4VtNC7YQxfQ4",
+          "adminAccount": "FY6EQ9y2ugLbhHEcLRFzqUJKLMHBn3G5brrseJBRQrPE",
           "tokenA": {
-            "adminFeeAccount": "4H6rgXCXBZQ1Zy7pjmc8D6ZAWNFMSY82ZK3p4JTDE73r",
+            "adminFeeAccount": "4Eb447U8QSoxa3pwAC33hkHaR3x2yavkAmT8u8kzBsZW",
             "mint": "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
             "reserve": "8p4mGnARWPBu6P2Gcw4adodLkNDorrXniZMhaY7eJXUn"
           },
           "tokenB": {
-            "adminFeeAccount": "6x4neovpdTXeg9uEWNmuaqThMAmAmavfT8K4teV68P3T",
+            "adminFeeAccount": "AR54A5VmdeCs5x3tx8krKQTX9C1YrBWBf7KieyfM2nck",
             "mint": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
             "reserve": "AyY89zccbsgp9LKFgH4CFZMJmpSgqmPSdTfukhP227rc"
           },
@@ -24591,14 +24591,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
-          "adminAccount": "EJejTQuhZFwpU2DwUqBrvA2xNQJaVA5zCHLfSdDebBGv",
+          "adminAccount": "4mQ1Dqg77nYkwFuAKFp3gS7MwaQL1FmqXHFMivjMSSvn",
           "tokenA": {
-            "adminFeeAccount": "6gj8TSCL7EB8kwGuHdVKce1jpJusvC4gfEf5Ctwo6CMv",
+            "adminFeeAccount": "HQyvqoN4hHGS8dfkHwyFQcQ42uZHGNfkpx7gY6NtYedy",
             "mint": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
             "reserve": "E7L8CZxreEeNwM1V8DLxa8AZQKu6oday6RvXxRo27CHi"
           },
           "tokenB": {
-            "adminFeeAccount": "AXdMwMKAu7kqNUmaUHCytiy3gfP9qEUjLtXn8LAkHENK",
+            "adminFeeAccount": "FXN5eoQXgDAefw5Wab6jNjcAnTNZPzzAA9FwgimWb8Dr",
             "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
             "reserve": "48UJw19Ra8y5Kv989DsXPrfUHeUWUbHvXZmdPBbGuHdz"
           },
@@ -24792,14 +24792,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx",
-          "adminAccount": "ZfSC29nsrx9mqzuPXWuiqp9enHcMDFPcMXuxwoQXQC4",
+          "adminAccount": "C3b3Z5nnc9f18D6kMLfKur8JANnanLVcPTv4gqniXgwC",
           "tokenA": {
-            "adminFeeAccount": "8F7ZWtL4yDmeyqbm6biaQdvMPt8vxtrBkxppUW1LM6w1",
+            "adminFeeAccount": "8LYGXhKoWV6pmsfmM6H9u9TYBZJUFoe5KT53kpMKGat1",
             "mint": "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
             "reserve": "mp5HMG9jYnZvpe3cV1qgPzfX5aPtLQtsMjVTazvkQ28"
           },
           "tokenB": {
-            "adminFeeAccount": "5ZW1S437vktV9uBpC5rjQroyuZ641HjaJzzBxNjj2ETo",
+            "adminFeeAccount": "7MHdJFFseu9Pe9tNCu664wM1pVfbnCHmJu7dJWQanYwc",
             "mint": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "reserve": "DwDfm1YMtHT5WQLxfQdnh3WYzUHjwEviHFwDs3RBEm1B"
           },
@@ -25005,17 +25005,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381698,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
-          "adminAccount": "6G5mVcrdGX7oK3vaUWE2Eaw7xSdnezLW2LU7wBeyUWK7",
+          "adminAccount": "9mczvJLBLNzarKk9xhQFDK2sfd7A56VRP5dSGGnkR6mu",
           "tokenA": {
-            "adminFeeAccount": "8QqZBriQpUVNcwrQbPnBUMkQxh3aJuYqpBegGUzGqH4Q",
+            "adminFeeAccount": "6uHmCB2m2Pyr4AJ2CjZm7MWeCW9xpznSb1azkue5dYag",
             "mint": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
             "reserve": "GgRnQyCm22UkHQME96CqJFpsqV93QJQsWMURdsQSSAdk"
           },
           "tokenB": {
-            "adminFeeAccount": "6JJEkJdkjrGuuFsF5MAiZHXZrBZYzdTUaNykQprn9YBf",
+            "adminFeeAccount": "484oNyMJystWzsvUeHTPy6qTL3SJq8t8HK7W3vkGHPsC",
             "mint": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
             "reserve": "GrWSq33By3uf7Vqqfrscy7oJMuqGgZojd2KSzsxioxQL"
           },
@@ -25218,14 +25218,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "WLPyXq7WRfdWLiP4fvRfSisrfDzLiPmCeVTE6okKQWE",
-          "adminAccount": "DteVE2iRGB5YMqmmwHTEQo8vx4feAhnKQCoQpLPpceww",
+          "adminAccount": "85wqmGE1PXZv1AbEvzRHn8fCM23tC8tfG5smCowsXwL3",
           "tokenA": {
-            "adminFeeAccount": "AtwPjP6NAzS74FzrnYY6vvDmrsQeEvXQ6dGR8gRL1b7w",
+            "adminFeeAccount": "G9YQx2qD7dBoVDbEmiwd1iMShQDjX8Gkd8FNNJ1Wo2go",
             "mint": "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
             "reserve": "y8dALFo1bJrSzPYjMX14HJX448pXqYmrfXHD1K8MXih"
           },
           "tokenB": {
-            "adminFeeAccount": "GMUhSqF5wSjH1YZpgF782ZW1rkjBKQTy8KwQ1ApxCe2V",
+            "adminFeeAccount": "6xGvoLWAGNVAWjUucXiY4PvZbvwcdnvWQJSg1HFL6J87",
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "GN7Yuet3UyiWS5YVkEHv6oQKi4HGBJc3XDPt9zQhAqZz"
           },
@@ -25425,17 +25425,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381703,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj",
-          "adminAccount": "E5zkqarRb558H8eBvYzHVY71qV9squp84KdVQFN8bZVr",
+          "adminAccount": "GyZgfYynVxFzDLJUJ4weTi3x9e7Z7L5mR2AnYhymvkFY",
           "tokenA": {
-            "adminFeeAccount": "GrFuffzk2QuPzAk57LMm3Ayn8dTuoqnQpiprx7rRDDVW",
+            "adminFeeAccount": "3nHLcUK1nKLSppjjicrVTAvCTENBzsrJBPpD967QxzxL",
             "mint": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
             "reserve": "631WX9JizSHJm4w6VanZeJAst9T8DeUUnPLesdGkCVtK"
           },
           "tokenB": {
-            "adminFeeAccount": "DromwU5YLyty6dzAnSrhrAe2xq7Pc1bkTWDTcrBV8agd",
+            "adminFeeAccount": "282wAFyoStPLi6axJmadjxA1WNURtRjJ8SXDZuofRJGQ",
             "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "reserve": "211maUSfpnXbPuW1iBu8b4dtJv5EbN1j7JJiEX5TZKEP"
           },
@@ -25644,14 +25644,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
-          "adminAccount": "EEy2D2J4582r3WBU1HB4kAPyDKpLEzkyCXJZKjJERCDP",
+          "adminAccount": "DLGQQRGoyyeRa7gAuL9GE9kUXwCay6ShLdaUx8MzUaBM",
           "tokenA": {
-            "adminFeeAccount": "FXfQxtk9BbpgjuqS8YRs6TDX7QzwhaPwg4GQcmwrS9aT",
+            "adminFeeAccount": "Ne6ThtGzugcSXJw7tYvgPtfTbj2UbmQSqJwiaNFKhrG",
             "mint": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
             "reserve": "72Hj2KWntXPfbie4UgKeTPnm1XVkomDfCnRPKbvfTtPi"
           },
           "tokenB": {
-            "adminFeeAccount": "FRv4oVoLA8hDfcwVvwtRY7bPPgGK4HcTdrmLmghmgMYG",
+            "adminFeeAccount": "AiEMmc7WdN7rrr8qmaugXKrsrGVzzzzJxecZ3Jp8vAP6",
             "mint": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
             "reserve": "6aqJQ5wedqpUt4fFEDUqUmXhrdxCu4bEJsQdVPCADLko"
           },
@@ -25864,17 +25864,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 252,
-          "futureAdminDeadline": 1730381698,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz",
-          "adminAccount": "CqU7orrGwuawCJVV2GgrddEcdoCLZrNseAdLvmocR71L",
+          "adminAccount": "Z9pa96sSUmNSJSq5sdhVGKrGdWMD6jAQ7WSfFZ7QnRo",
           "tokenA": {
-            "adminFeeAccount": "GJ2Qyeg35bzTQui9tvfbiv8Pi3BaY3KKvcWiNcHYMSBn",
+            "adminFeeAccount": "X4fAamVd4JPnBv9xRPZ2K8jVfCpLSrcyNjbZUiKr6Qe",
             "mint": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
             "reserve": "CMR2J7CwfW98RpvnJmFBgRFTLAd3x8CJ1SWs8Bt3uunG"
           },
           "tokenB": {
-            "adminFeeAccount": "7Tuih3tg3YqzFBLQ7UCma8uqEASARkk1YoG9CaZd6jZW",
+            "adminFeeAccount": "HdhQ126QRci4mJqahUquJsfBF4n8T7AqKJWzUUtaN8Vo",
             "mint": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
             "reserve": "FmRb5jHfSNj1YWP3b45d9vvYuhwjp4om8bALmtqZpr1v"
           },
@@ -26080,17 +26080,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 251,
-          "futureAdminDeadline": 1730381719,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi",
-          "adminAccount": "E6WWiXW3HzX17ecHFjXqFG32i5qwc7f1K7T4TF6kCMfc",
+          "adminAccount": "73kG2jwzir5hAFJYCncvWfnGPTgTRq8rDpk34qdQKFCe",
           "tokenA": {
-            "adminFeeAccount": "BYgyVxdrGa3XNj1cx1XHAVyRG8qYhBnv1DS59Bsvmg5h",
+            "adminFeeAccount": "52GpdAjC1uh6THK3ZLSyUUFgYZSih3Q5EEnqtjR4oTe6",
             "mint": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
             "reserve": "J63v6qEZmQpDqCD8bd4PXu2Pq5ZbyXrFcSa3Xt1HdAPQ"
           },
           "tokenB": {
-            "adminFeeAccount": "G9nt2GazsDj3Ey3KdA49Sfaq9K95Dc72Ejps4NKTP2SR",
+            "adminFeeAccount": "HQcvk3y5jiexk7LUqNJnCUXFZrDSMakT1Ut1BUf6Nh4H",
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "BnKQtTdLw9qPCDgZkWX3sURkBAoKCUYL1yahh6Mw7mRK"
           },
@@ -26297,14 +26297,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK",
-          "adminAccount": "DwqndCU7GEoKW7tXXp5XWP5eaiQrZ2Ft4SbxBuUPrv4J",
+          "adminAccount": "Aa5uV3L69h2YEQMBPsPktco8PWUnCZBHAwHXx3AouBrb",
           "tokenA": {
-            "adminFeeAccount": "AQFuz3pR9Lq3vyo7Aqvw8KrBcoSJHEf1Um53D7foDK3j",
+            "adminFeeAccount": "6pF7Cs6s1ATdXHK3bu4jocGSCPVjrqcVjhA8ef7LjMVC",
             "mint": "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
             "reserve": "C82XDu1d1UjtuUwnkSTwVuWyH3AqpJ3ftb9W7en8rEUu"
           },
           "tokenB": {
-            "adminFeeAccount": "FJ5nJw6ddQxh6GJu2Mvj6JbPeSDa6WsqDtn94vxGHp43",
+            "adminFeeAccount": "DAgbMK3wya9srz1XLhzhAAiw8TgHN948YZqGAiS9Mvcn",
             "mint": "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi",
             "reserve": "F7cZoYpWQSFuYJzW2UUFw6sVbTtaihyD5upeeHRUPABk"
           },
@@ -26526,17 +26526,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 255,
-          "futureAdminDeadline": 1730381688,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
-          "adminAccount": "HmEhVZUzffy915JhFxrAEpKeGBBYFzUnsm3x1n7yPE41",
+          "adminAccount": "GD6qXZvw7rDTfGh8gFt4tyK8Dt5ajVW7SvkYHvLqFFbh",
           "tokenA": {
-            "adminFeeAccount": "Ay2nCiePZgKkTTwMtg5QimNLZuX2EWzKLeZASpvSF5K3",
+            "adminFeeAccount": "GebKhCDdPkZaJrV7nA4MzrPLi42bciaByQYCQ7XDDqQz",
             "mint": "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
             "reserve": "3gkSjY95an9xNFSjCfsay6JZez7uv7yfW3Ad4ubc4fMK"
           },
           "tokenB": {
-            "adminFeeAccount": "GTFPLoDJd4c2EXwbF9owKbeh4FbpKYNkEFFCzdHuxq36",
+            "adminFeeAccount": "DGVW2DGpSTvcoHRGpXGmi7hqGB747VmAhco695dVwG4J",
             "mint": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
             "reserve": "9wXqANaSuEqkKL9yHzCPEDGHwbkStVAqV5rB3QDs3Jr6"
           },
@@ -26748,17 +26748,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 254,
-          "futureAdminDeadline": 1730381719,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
-          "adminAccount": "yeU5463vvSaR8dtH9ZMf25RvExa9eYjmUjFJyDkGFDS",
+          "adminAccount": "BazNzpACSeqU6EMSyQtsvAiBPWoaivLRegq7nTDcVN1c",
           "tokenA": {
-            "adminFeeAccount": "BNEGDjUoE7Jb3MHvNYdc2Swr4srnCwAGgXV5fhvd8kak",
+            "adminFeeAccount": "DcxpECPsz44nfFxmAAsMYrmgbEDvbak6PRNasHZ6kP8N",
             "mint": "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
             "reserve": "HHnpxMvDcXaeHXTSnWw9y8gMeUMnnCzxWfACgx839nCt"
           },
           "tokenB": {
-            "adminFeeAccount": "7TDojHU5LqRtDBybM6aiX1q3SvJhGg3oyYBngDf7QAXd",
+            "adminFeeAccount": "8CCewNBDAnUidv13D3jGdQtJbZ884AyCtC9sUyKLBysW",
             "mint": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
             "reserve": "Hk8UFqdvVdvJRZjKJV59PkrDrpLnbCCBMgDjVwx53cwi"
           },
@@ -26967,14 +26967,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP",
-          "adminAccount": "4tH2GV7A99U4vU6YLZUovEWJdXttEESiR2Etcfv4vbz3",
+          "adminAccount": "3gq37cQae41B47DDeh8vG2wHrLvhKPZhPRdKQMAGv2Q2",
           "tokenA": {
-            "adminFeeAccount": "BYNrp8BDW2tEXyGfjk8w11AK9JvFdmiZR1g73fmK4Sq5",
+            "adminFeeAccount": "46cKnfGWx4DKBQUGosKQ5AtAqPD6qrgMtjdtCifi1JMC",
             "mint": "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
             "reserve": "6QEFAL5yVfVX4fd8ty7xbgFPGhkKZ7bno6zWtfenf74M"
           },
           "tokenB": {
-            "adminFeeAccount": "8hxkXevK23DdYSNteDa2uQiNo4pQ6nB9PDcJymkN4QTQ",
+            "adminFeeAccount": "5NH7Bq6HsC2FU8iWEhwKkzcGkreEEL7C3wGf1cgLXrgb",
             "mint": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
             "reserve": "F5BusnAhe2K5wv7mZd6uE2Mwknvb6NhWHuxiF8TxCvpW"
           },
@@ -27168,14 +27168,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi",
-          "adminAccount": "6Wt9zummPyWcuD9r3zoNiiLcQgE1y8Lgixtko1QZitHG",
+          "adminAccount": "H6X69Rz8X67wxVBAjhBvGZa6XxfhGFsuBXtiRpCK6cxN",
           "tokenA": {
-            "adminFeeAccount": "5iPA8k3qTshZWz19wgPPNLvTrTXjMiv6K2feDy159VWv",
+            "adminFeeAccount": "EuKC4ABB5bh8WEkqpNTpQdWNeDodz2eBTMiRNDnSKENU",
             "mint": "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
             "reserve": "GSt31U8nF6WJBRG7j2EALfNTMd3J8jmotGX9szVTrzvN"
           },
           "tokenB": {
-            "adminFeeAccount": "FtwcLBGggnpoyJDRzX3oa9ErRFSe4opbQ1KhHg9fGEJs",
+            "adminFeeAccount": "E271s7aw4wMr8u7Gzk7FuEwdZztvYthmFzhnB3Kux4qn",
             "mint": "So11111111111111111111111111111111111111112",
             "reserve": "7WEqRDS5Dk6kVXFZHrsW5EtdPhy4v6jWK9P5jHhi9oz"
           },
@@ -27366,17 +27366,17 @@
           "isInitialized": true,
           "isPaused": false,
           "nonce": 254,
-          "futureAdminDeadline": 1730381698,
-          "futureAdminAccount": "6g57y5PLqJNYKxB4ZGMgVrrxu1jMSr3FYDeL1m8kiwza",
+          "futureAdminDeadline": 0,
+          "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n",
-          "adminAccount": "6hWfxJVt3uP3GXcrL3wZTqEC2kK64pVsJnpQcY1BFZ9Y",
+          "adminAccount": "A1xktWnRJGmhZKwuMUk7sbwYqaKs3u7dFWs5jM87DQsN",
           "tokenA": {
-            "adminFeeAccount": "G8cY9ED8rJYc78ZtkiMGeaydtx96BBPuaZsirpkzkifw",
+            "adminFeeAccount": "J1zz3bnpDA4VQhqGZ2tt7F66BWEMo2Q14FDJEtLkKQig",
             "mint": "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
             "reserve": "34M8pFVqgbV7aqHxvRT5tCv3vu2P1JJYT8J3VaxBK2oG"
           },
           "tokenB": {
-            "adminFeeAccount": "87UVu2YZFmANEN7znTYVQVbZVtdE4CJnPWcfcLrnHR7u",
+            "adminFeeAccount": "2xF6zaX1afbbnNHuNgsK7W9ALkAUZ8DKKeHRfpZ8VPno",
             "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "reserve": "3AZWBSze3ucsY3xSeuLne3b2pauVqiaJ1SZSV5T9WGWw"
           },
@@ -27563,14 +27563,14 @@
           "futureAdminDeadline": 0,
           "futureAdminAccount": "11111111111111111111111111111111",
           "poolTokenMint": "zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W",
-          "adminAccount": "A24DdFH22BCV5JQ7QzugD6VjR9fm6gior1P8tYGXrLk5",
+          "adminAccount": "3Lh5LVhFVqtre7wEQFnYJG3wtr76MacVHpD82X57Uz5D",
           "tokenA": {
-            "adminFeeAccount": "DViotfHDbbgLjNrKYN1JQdZKQCEvGYBdr2DMLN4RZnKj",
+            "adminFeeAccount": "74QdgRNZ3UtQM6wtZ3HouY6RSn31sY19hG5tWRnxUdWD",
             "mint": "So11111111111111111111111111111111111111112",
             "reserve": "CMRhskR2Eg6V42RTSdRTXGdozyPbWB8U9dVpijPWb9T4"
           },
           "tokenB": {
-            "adminFeeAccount": "6qe47SXgZF2iRAjnYzXxLMAqQpFBTYGkhwg7bfgpsUUC",
+            "adminFeeAccount": "HiBC1sYJ1Jt6psaLr7m2kof29gpigtxCqf2MS1puH8g8",
             "mint": "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
             "reserve": "7TKLLgrWswt6ZJ1pXhVR3FyufHGjJFqiEXxvWJfDcgRm"
           },
