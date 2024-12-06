@@ -79,7 +79,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2024-11-26T10:23:24.080Z",
+  "timestamp": "2024-12-06T09:42:33.432Z",
   "tokens": [
     {
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
@@ -811,6 +811,25 @@
         "wormhole",
         "saber-mkt-usd",
         "wormhole-v1"
+      ]
+    },
+    {
+      "address": "8UWsuGPNwmcSdBECWGUtEs29fCE8KAtUxf6nuvdTyymX",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+          "HcVd1cyhph9bdMFtxYiB3fGY1s4h77VVzkKMJXNf3YSS"
+        ],
+        "website": "https://app.saber.so/pools/pawsol_vsol"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "name": "Saber vSOL-pawSOL LP",
+      "symbol": "vSOL-pawSOL",
+      "tags": [
+        "saber-stableswap-lp"
       ]
     },
     {
@@ -3835,6 +3854,21 @@
       "symbol": "xBTC",
       "tags": [
         "saber-mkt-btc"
+      ]
+    },
+    {
+      "address": "HcVd1cyhph9bdMFtxYiB3fGY1s4h77VVzkKMJXNf3YSS",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL"
+      },
+      "logoURI": "https://gateway.irys.xyz/EQSAdGBK31ABTxm15hy9YmVfHbmqfKvk6tKpcRHitqxf",
+      "name": "Paw SOL",
+      "symbol": "pawSOL",
+      "tags": [
+        "saber-mkt-sol"
       ]
     },
     {
